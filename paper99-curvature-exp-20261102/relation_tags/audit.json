@@ -1,0 +1,230 @@
+{
+  "counts": {
+    "Qwen3.5-35B-A3B-Base": 126,
+    "Qwen3-0.6B": 126,
+    "Qwen3.5-35B-A3B": 126
+  },
+  "duplicate_age": [
+    {
+      "model": "Qwen3.5-35B-A3B-Base",
+      "condition": "qa_3",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B-Base",
+      "condition": "qa_0",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B-Base",
+      "condition": "service_zh",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B-Base",
+      "condition": "service_en",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B-Base",
+      "condition": "boss",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B-Base",
+      "condition": "mother_zh",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B-Base",
+      "condition": "mother_en",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B-Base",
+      "condition": "partner",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B-Base",
+      "condition": "friend",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3-0.6B",
+      "condition": "qa_3",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3-0.6B",
+      "condition": "qa_0",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3-0.6B",
+      "condition": "service_zh",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3-0.6B",
+      "condition": "service_en",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3-0.6B",
+      "condition": "boss",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3-0.6B",
+      "condition": "mother_zh",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3-0.6B",
+      "condition": "mother_en",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3-0.6B",
+      "condition": "partner",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3-0.6B",
+      "condition": "friend",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B",
+      "condition": "qa_3",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B",
+      "condition": "qa_0",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B",
+      "condition": "service_zh",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B",
+      "condition": "service_en",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B",
+      "condition": "boss",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B",
+      "condition": "mother_zh",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B",
+      "condition": "mother_en",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B",
+      "condition": "partner",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    },
+    {
+      "model": "Qwen3.5-35B-A3B",
+      "condition": "friend",
+      "same_input": true,
+      "same_output": true,
+      "H_next_delta": 0.0,
+      "score_delta": 0
+    }
+  ],
+  "boundary_inside_think": [],
+  "base_post_identical_input_ids": 126,
+  "replay_agreement_min": 0.9315068493150684,
+  "replay_agreement_mean": 0.9922201026757634,
+  "peak_allocated_GiB": 64.71116209030151
+}

@@ -1,0 +1,279 @@
+{
+  "shots": [
+    [
+      "今天出门前看到下雨，应该带什么？",
+      "带上雨伞。"
+    ],
+    [
+      "用完一本书后放在哪里比较整齐？",
+      "放回书架。"
+    ],
+    [
+      "手机电量快用完了，该怎么办？",
+      "给手机充电。"
+    ]
+  ],
+  "conditions": [
+    {
+      "id": "qa_3",
+      "left": "问",
+      "right": "答",
+      "sep": "：",
+      "shots": 3
+    },
+    {
+      "id": "qa_0",
+      "left": "问",
+      "right": "答",
+      "sep": "：",
+      "shots": 0
+    },
+    {
+      "id": "service_zh",
+      "left": "用户",
+      "right": "助手",
+      "sep": "：",
+      "shots": 3
+    },
+    {
+      "id": "service_en",
+      "left": "User",
+      "right": "Assistant",
+      "sep": ": ",
+      "shots": 3
+    },
+    {
+      "id": "boss",
+      "left": "老板",
+      "right": "员工",
+      "sep": "：",
+      "shots": 3
+    },
+    {
+      "id": "mother_zh",
+      "left": "妈妈",
+      "right": "我",
+      "sep": "：",
+      "shots": 3
+    },
+    {
+      "id": "mother_en",
+      "left": "Mother",
+      "right": "I",
+      "sep": ": ",
+      "shots": 3
+    },
+    {
+      "id": "partner",
+      "left": "爱人",
+      "right": "我",
+      "sep": "：",
+      "shots": 3
+    },
+    {
+      "id": "friend",
+      "left": "朋友",
+      "right": "我",
+      "sep": "：",
+      "shots": 3
+    }
+  ],
+  "questions": [
+    {
+      "id": "trap_fact_book",
+      "family": "trap",
+      "pair": "fact_book",
+      "kind": "fact",
+      "text": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+      "trigger": "倒拔垂杨柳",
+      "target": true,
+      "unique_id": "fact_book",
+      "ambiguous": false
+    },
+    {
+      "id": "trap_fact_age",
+      "family": "trap",
+      "pair": "fact_age",
+      "kind": "fact",
+      "text": "妈妈今年30岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+      "trigger": "35岁",
+      "target": true,
+      "unique_id": "fact_age",
+      "ambiguous": false
+    },
+    {
+      "id": "trap_fact_plane",
+      "family": "trap",
+      "pair": "fact_plane",
+      "kind": "fact",
+      "text": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+      "trigger": "歼-20战机",
+      "target": true,
+      "unique_id": "fact_plane",
+      "ambiguous": false
+    },
+    {
+      "id": "trap_space_table",
+      "family": "trap",
+      "pair": "space_table",
+      "kind": "spatial",
+      "text": "两人隔着十米宽的巨大会议桌面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+      "trigger": "揉了揉她的头发",
+      "target": true,
+      "unique_id": "space_table",
+      "ambiguous": false
+    },
+    {
+      "id": "trap_space_shirt",
+      "family": "trap",
+      "pair": "space_shirt",
+      "kind": "spatial",
+      "text": "他身上紧紧穿着一件拉链拉到顶的厚羽绒服，没有拉开羽绒服拉链，就直接把贴身穿的纯棉T恤从头顶脱了下来。这句话在穿衣顺序上合理吗？",
+      "trigger": "脱了下来",
+      "target": true,
+      "unique_id": "space_shirt",
+      "ambiguous": true
+    },
+    {
+      "id": "trap_space_wall",
+      "family": "trap",
+      "pair": "space_wall",
+      "kind": "spatial",
+      "text": "她站在完全密封、没有门窗的玻璃房外，手臂没有穿过玻璃，却直接伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+      "trigger": "拿起房内桌上的苹果",
+      "target": true,
+      "unique_id": "space_wall",
+      "ambiguous": false
+    },
+    {
+      "id": "logic_candle",
+      "family": "logic",
+      "pair": "candle",
+      "kind": "logic",
+      "text": "桌上有5根蜡烛，风吹灭了2根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？",
+      "target": true,
+      "unique_id": "logic_candle",
+      "gold": "2根",
+      "ambiguous": false
+    },
+    {
+      "id": "logic_age",
+      "family": "logic",
+      "pair": "age",
+      "kind": "logic",
+      "text": "妈妈今年30岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+      "target": true,
+      "unique_id": "fact_age",
+      "gold": "前提不成立",
+      "ambiguous": false
+    },
+    {
+      "id": "logic_weekday",
+      "family": "logic",
+      "pair": "weekday",
+      "kind": "logic",
+      "text": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+      "target": true,
+      "unique_id": "logic_weekday",
+      "gold": "周日",
+      "ambiguous": false
+    },
+    {
+      "id": "logic_animals",
+      "family": "logic",
+      "pair": "animals",
+      "kind": "logic",
+      "text": "鸡兔共10只，共有28条腿，鸡和兔各几只？",
+      "target": true,
+      "unique_id": "logic_animals",
+      "gold": "鸡6只，兔4只",
+      "ambiguous": false
+    },
+    {
+      "id": "logic_ball",
+      "family": "logic",
+      "pair": "ball",
+      "kind": "logic",
+      "text": "一支球拍和一个球共110元，球拍比球贵100元，请问球多少钱？",
+      "target": true,
+      "unique_id": "logic_ball",
+      "gold": "5元",
+      "ambiguous": false
+    },
+    {
+      "id": "control_space_table",
+      "family": "control",
+      "pair": "space_table",
+      "kind": "spatial",
+      "text": "两人隔着半米宽的小茶几面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+      "trigger": "揉了揉她的头发",
+      "target": false,
+      "unique_id": "control_space_table",
+      "ambiguous": false
+    },
+    {
+      "id": "control_space_wall",
+      "family": "control",
+      "pair": "space_wall",
+      "kind": "spatial",
+      "text": "她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+      "trigger": "拿起房内桌上的苹果",
+      "target": false,
+      "unique_id": "control_space_wall",
+      "ambiguous": false
+    },
+    {
+      "id": "control_fact_age",
+      "family": "control",
+      "pair": "fact_age",
+      "kind": "fact",
+      "text": "妈妈今年60岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+      "trigger": "35岁",
+      "target": false,
+      "unique_id": "control_fact_age",
+      "ambiguous": false
+    }
+  ],
+  "cases_per_model": 126,
+  "target_cases_per_model": 99,
+  "control_cases_per_model": 27,
+  "models": [
+    "Qwen3.5-35B-A3B-Base",
+    "Qwen3-0.6B",
+    "Qwen3.5-35B-A3B"
+  ],
+  "max_new_tokens": 160,
+  "greedy": true,
+  "seed": 0,
+  "case_order_seed": 20261103,
+  "expected_target_unique": 10,
+  "unambiguous_target_unique": 9,
+  "age_duplicate_note": "trap_fact_age and logic_age have the same input; run both but deduplicate aggregate target accuracy.",
+  "shirt_note": "Action feasibility depends on clothing/openings; report task-expected rejection separately and exclude from hard-core aggregate.",
+  "repeat_definition": "1 - unique token 4-grams / all token 4-grams, computed separately for first turn and full continuation; >=0.5 is a descriptive repeat threshold, not proof of an infinite loop.",
+  "accuracy_policy": "Primary: visible first-turn core answer correct, with incomplete/contradictory/ambiguous categories retained. Full continuation separately checked for correction/contradiction and speaker pollution.",
+  "delimiter_note": "Chinese conditions share fullwidth colon/no added space; English conditions share ASCII colon+space. Only label pairs change within each language; cross-language effects include orthography/tokenization.",
+  "role_labels": [
+    "Assistant",
+    "Question",
+    "Mother",
+    "Answer",
+    "User",
+    "助手",
+    "用户",
+    "朋友",
+    "人类",
+    "老板",
+    "妈妈",
+    "员工",
+    "回答",
+    "问题",
+    "爱人",
+    "AI",
+    "I",
+    "答",
+    "我",
+    "问"
+  ],
+  "ordinary_text_only": true
+}

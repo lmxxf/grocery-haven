@@ -1,0 +1,1118 @@
+[
+  {
+    "blind_id": "22c78fc5b22b19",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "<think>\n\n</think>\n\n员工：林黛玉并没有倒拔垂杨柳。\n\n**解析**：\n1.  **人物错误**：“倒拔垂杨柳”是《水浒传》中**鲁智深**（花和尚）的经典情节，发生在第七回。\n2.  **人物不符**：林黛玉是《红楼梦》中的女主角，性格柔弱，且书中并无此情节。\n\n因此，该问题基于错误的前提，无法给出《红楼梦》的回数。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "b4e092585ef945",
+    "question": "妈妈今年30岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "logic_age",
+    "unique_question_id": "fact_age",
+    "ambiguous": false,
+    "first_answer": "妈妈生儿子的时候是-5岁。",
+    "occurrences": 8
+  },
+  {
+    "blind_id": "095e7ebd969252",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "<think>\n首先，用户的问题是：“在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：”\n\n我需要回忆《红楼梦》的内容。《红楼梦》是中国古典小说，主要人物包括贾宝玉、林黛玉、薛宝钗等。林黛玉是女主角之一，以多愁善感、体弱多病著称。\n\n“倒拔垂杨柳”这个情节听起来很熟悉，但它实际上出自《水浒传》，是鲁智深倒拔垂杨柳的故事。在《红楼梦》中，林黛玉并没有倒拔垂杨柳的情节。林黛玉的形象是柔弱、爱哭的，不可能做这种力气活。\n\n所以，用户可能混淆了《红楼梦》和《水浒传》。或者这是一个陷阱问题，测试我",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "102e1bcd853f4f",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "诸葛亮驾驶歼-20战机击落了曹操的10艘战船。",
+    "occurrences": 4
+  },
+  {
+    "blind_id": "2db8cfee6ccd19",
+    "question": "桌上有5根蜡烛，风吹灭了2根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？",
+    "question_id": "logic_candle",
+    "unique_question_id": "logic_candle",
+    "ambiguous": false,
+    "first_answer": "3根。\n\nAssistant: 3根。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "81a26c9309efe0",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A dialogue between \"妈妈\" (Mom) and \"我\" (Me).\n    *   Pattern: The first three exchanges are common sense questions with correct answers.\n    *   Last exchange: \"妈妈：在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：\" (Mom: In \"Dream of the Red Chamber\", in which chapter does Lin Daiyu uproot the willow tree? Please give the chapter number directly:)\n    *   Task: Provide the answer as \"我\" (Me).\n\n2.  **Evaluate the Question:**\n    *   Question: \"In 'Dream of the Red Chamber', in",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "af06f48324d034",
+    "question": "她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "control_space_wall",
+    "unique_question_id": "control_space_wall",
+    "ambiguous": false,
+    "first_answer": "合理。",
+    "occurrences": 17
+  },
+  {
+    "blind_id": "825e21b1f31e45",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "113。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "61ba321f71fac3",
+    "question": "鸡兔共10只，共有28条腿，鸡和兔各几只？",
+    "question_id": "logic_animals",
+    "unique_question_id": "logic_animals",
+    "ambiguous": false,
+    "first_answer": "鸡有3只，兔有7只。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "18596f07197f48",
+    "question": "她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "control_space_wall",
+    "unique_question_id": "control_space_wall",
+    "ambiguous": false,
+    "first_answer": "不合理。",
+    "occurrences": 3
+  },
+  {
+    "blind_id": "2b56a312ccce2a",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "曹操的几艘战船。",
+    "occurrences": 4
+  },
+  {
+    "blind_id": "0fc22dc3bffc8f",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "假设的今天是周五，那么实际的昨天是周五，实际的今天是周六。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "109d59ca4eaecf",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "周日。",
+    "occurrences": 11
+  },
+  {
+    "blind_id": "4feb3345a359a6",
+    "question": "两人隔着十米宽的巨大会议桌面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_table",
+    "unique_question_id": "space_table",
+    "ambiguous": false,
+    "first_answer": "有。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "a8c30950aad72e",
+    "question": "两人隔着半米宽的小茶几面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "control_space_table",
+    "unique_question_id": "control_space_table",
+    "ambiguous": false,
+    "first_answer": "<think>\n\n</think>\n\n这句话在物理空间上是**合理**的。\n\n我们可以从人体工学和空间距离的角度进行具体分析：\n\n1.  **距离分析**：半米（50 厘米）的宽度对于一张小茶几来说属于常见尺寸。当两人面对面坐着时，这个距离通常意味着两人的身体躯干之间留有约 30-40 厘米的净空（取决于椅子的深度和人的坐姿）。\n2.  **动作幅度**：成年人的手臂长度（从肩关节到指尖）通常在 60-70 厘米左右。当人坐在椅子上时，上半身可以自然前倾。\n    *   如果对方坐姿端正，手臂前伸加上上半身前倾的幅度，轻松就能跨越",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "a859148c94a3de",
+    "question": "她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "control_space_wall",
+    "unique_question_id": "control_space_wall",
+    "ambiguous": false,
+    "first_answer": "有。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "70f0abb07e8d08",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "三艘。",
+    "occurrences": 3
+  },
+  {
+    "blind_id": "6a22519894428c",
+    "question": "她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "control_space_wall",
+    "unique_question_id": "control_space_wall",
+    "ambiguous": false,
+    "first_answer": "合理。\n\n员工：合理吗？",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "3aca8515282a83",
+    "question": "她站在完全密封、没有门窗的玻璃房外，手臂没有穿过玻璃，却直接伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_wall",
+    "unique_question_id": "space_wall",
+    "ambiguous": false,
+    "first_answer": "从物理空间来看，这个场景是合理的。因为玻璃房外的玻璃是密封的，没有门窗，所以她无法直接用手掌接触房内桌上的苹果。因此，她可能通过其他方式（如手电筒、手机）来完成这个动作。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "6c75cbb0118535",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "11回。",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "a642ee5bc665e1",
+    "question": "桌上有5根蜡烛，风吹灭了2根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？",
+    "question_id": "logic_candle",
+    "unique_question_id": "logic_candle",
+    "ambiguous": false,
+    "first_answer": "我猜是3根。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "4134110ea7788b",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船。",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "6e38bdecde3c86",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "诸葛亮驾驶歼-20战机击落了曹操的几艘战船？",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "66bc58010fcfbf",
+    "question": "桌上有5根蜡烛，风吹灭了2根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？",
+    "question_id": "logic_candle",
+    "unique_question_id": "logic_candle",
+    "ambiguous": false,
+    "first_answer": "<think>\n\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A riddle/question. \"桌上有5根蜡烛，风吹灭了2根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？\" (There are 5 candles on the table. The wind blows out 2 of them. The rest continue to burn until exhausted. How many candles are left on the table the next morning?)\n    *   Context: Previous interactions were simple Q&A about daily life (umbrella, bookshelf, phone charging). This is a logic riddle.\n    *   Task: Provide the correct answer to the riddle.\n\n2.  **Solve the Riddle:**\n    *   Total candles: 5.",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "a21974c207839d",
+    "question": "她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "control_space_wall",
+    "unique_question_id": "control_space_wall",
+    "ambiguous": false,
+    "first_answer": "<think>\n\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A user question asking about the physical plausibility of a specific scenario: \"She stands outside a glass room with an open window, reaches her arm through the open window, and picks up an apple on the table inside.\" (她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？)\n    *   Task: Determine if this scenario is physically reasonable and provide an answer.\n    *   Context: Previous interactions were simple Q&A about daily life (umbrella, bookshelf, phone charging). This one is a logic/physics reasoning question.\n    *   Constraint: The model needs to",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "e020d17ac0d466",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "0",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "410bf121b07c5d",
+    "question": "他身上紧紧穿着一件拉链拉到顶的厚羽绒服，没有拉开羽绒服拉链，就直接把贴身穿的纯棉T恤从头顶脱了下来。这句话在穿衣顺序上合理吗？",
+    "question_id": "trap_space_shirt",
+    "unique_question_id": "space_shirt",
+    "ambiguous": true,
+    "first_answer": "合理。因为脱下羽绒服是必要的，因为羽绒服是保暖的，所以脱下羽绒服后，再脱下纯棉T恤，这样更合理。但要注意，脱下羽绒服后，应该先脱下T恤，再脱下羽绒服，这样更合理。所以，这句话在穿衣顺序上是合理的。\nA.正确\nB.错误\n\n根据以上内容，判断这句话是否正确，然后选择A或B。\n答案：A\n答案：B\n\n根据以上内容，判断这句话是否正确，然后选择A或B。\n答案：A\n答案：B\n\n根据以上内容，判断这句话是否正确，然后选择A或B。\n答案：A\n答案：B\n\n根据以上内容，判断这句话",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "b1503ca1f8196e",
+    "question": "妈妈今年30岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "logic_age",
+    "unique_question_id": "fact_age",
+    "ambiguous": false,
+    "first_answer": "妈妈生儿子的时候是负5岁。",
+    "occurrences": 12
+  },
+  {
+    "blind_id": "30d66c0d2e7835",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "这是一个经典的逻辑推理题，我们可以通过建立时间轴来一步步推导。\n\n**第一步：分析“假设的昨天”与“实际的昨天”的关系**\n题目中说：“把实际的昨天当作假设的明天”。\n这意味着：\n$$ \\text{假设的明天} = \\text{实际的昨天} $$\n\n**第二步：分析“假设的今天”与“假设的明天”的关系**\n在时间逻辑中，明天是今天的后一天。\n$$ \\text{假设的明天} = \\text{假设的今天} + 1 \\text{天} $$\n\n**第三步：结合已知条件进行推导**\n题目已知：“假设的今天是周五”。\n根据第二步的逻辑：\n$$ \\text{假设的明天} = \\text{周五} +",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "93d8fc504e6bab",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "假设的今天是周五，那么假设的明天是周六。根据题意，实际的昨天等于假设的明天，即实际的昨天是周六。因此，实际今天是周日。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "989e071970895e",
+    "question": "桌上有5根蜡烛，风吹灭了2根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？",
+    "question_id": "logic_candle",
+    "unique_question_id": "logic_candle",
+    "ambiguous": false,
+    "first_answer": "3根。",
+    "occurrences": 12
+  },
+  {
+    "blind_id": "0e154b5a97dd9c",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "这个情节并没有发生在《红楼梦》中。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "52ffe5da977f19",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "今天是周日。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "5028a62906cd13",
+    "question": "鸡兔共10只，共有28条腿，鸡和兔各几只？",
+    "question_id": "logic_animals",
+    "unique_question_id": "logic_animals",
+    "ambiguous": false,
+    "first_answer": "鸡有6只，兔有4只。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "a196663a04eae4",
+    "question": "一支球拍和一个球共110元，球拍比球贵100元，请问球多少钱？",
+    "question_id": "logic_ball",
+    "unique_question_id": "logic_ball",
+    "ambiguous": false,
+    "first_answer": "5元。",
+    "occurrences": 7
+  },
+  {
+    "blind_id": "67603f9d2cce72",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Question: \"In 'Romance of the Three Kingdoms', did Zhuge Liang drive a J-20 fighter jet to shoot down several of Cao Cao's warships during the Battle of Red Cliffs?\" (三国演义里，诸葛亮在赤壁之战中驾驶歼 -20 战机击落了曹操的几艘战船？)\n    *   Context: Historical novel \"Romance of the Three Kingdoms\" (三国演义), historical event \"Battle of Red Cliffs\" (赤壁之战), character \"Zhuge Liang\" (诸葛亮), technology \"J-20 fighter jet\" (歼 -20 战机).\n    *   Task: Answer the question.",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "fe2d231c33e34c",
+    "question": "他身上紧紧穿着一件拉链拉到顶的厚羽绒服，没有拉开羽绒服拉链，就直接把贴身穿的纯棉T恤从头顶脱了下来。这句话在穿衣顺序上合理吗？",
+    "question_id": "trap_space_shirt",
+    "unique_question_id": "space_shirt",
+    "ambiguous": true,
+    "first_answer": "合理。",
+    "occurrences": 6
+  },
+  {
+    "blind_id": "69fec87edce437",
+    "question": "妈妈今年30岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "logic_age",
+    "unique_question_id": "fact_age",
+    "ambiguous": false,
+    "first_answer": "30岁\nA. 30岁\nB. 31岁\nC. 32岁\nD. 33岁\n答案：A",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "c89cd626f23993",
+    "question": "两人隔着十米宽的巨大会议桌面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_table",
+    "unique_question_id": "space_table",
+    "ambiguous": false,
+    "first_answer": "合理。因为桌子的宽度是十米，两人面对面坐着，所以他们之间有十米的宽度，而桌子的宽度是十米，所以两人之间有十米的宽度，而桌子的宽度是十米，所以两人之间有十米的宽度，而桌子的宽度是十米，所以两人之间有十米的宽度，而桌子的宽度是十米，所以两人之间有十米的宽度，而桌子的宽度是十米，所以两人之间有十米的宽度，而桌子的宽度是十米，所以两人之间有十米的宽度，而桌子的宽度是十米，所以两人之间有十米的宽度，而桌子的宽度是十米，所以两人之间有十米的宽度，而",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "27f5086cab98e5",
+    "question": "她站在完全密封、没有门窗的玻璃房外，手臂没有穿过玻璃，却直接伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_wall",
+    "unique_question_id": "space_wall",
+    "ambiguous": false,
+    "first_answer": "<think>\n\n</think>\n\n这句话在**物理空间上是不合理的**。\n\n根据描述，玻璃房是“完全密封”且“没有门窗”的，这意味着玻璃构成了一个封闭的、不可穿透的边界。在现实物理世界中，固体玻璃具有阻挡物质穿过的特性。既然她的“手臂没有穿过玻璃”，那么她的手臂就被限制在玻璃房的外部空间，无法接触到位于玻璃房内部桌上的苹果。\n\n除非存在以下非物理常规的情况（如：玻璃是透明的幻觉、苹果在玻璃外、或者使用了某种未提及的机械臂/工具），否则仅凭“直接伸手”这一动作，在物理上是不可能完成的。因此，该描述存在逻辑或物理上的矛盾。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "5c56ffe1cf69b4",
+    "question": "一支球拍和一个球共110元，球拍比球贵100元，请问球多少钱？",
+    "question_id": "logic_ball",
+    "unique_question_id": "logic_ball",
+    "ambiguous": false,
+    "first_answer": "<think>\nLet me think through this math problem step by step.\n\nLet's say:\n- The ball costs x yuan\n- The racket costs y yuan\n\nFrom the problem:\n1. x + y = 110 (total cost)\n2. y = x + 100 (racket is 100 yuan more expensive than the ball)\n\nSubstituting equation 2 into equation 1:\nx + (x + 100) = 110\n2x + 100 = 110\n2x = 10\nx = 5\n\nSo the ball costs 5 yuan.\n\nLet me verify:\n- Ball = 5 yuan\n- Racket = 5 +",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "d7b70f916e7857",
+    "question": "妈妈今年30岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "logic_age",
+    "unique_question_id": "fact_age",
+    "ambiguous": false,
+    "first_answer": "25岁。\n\nAssistant: 25岁。",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "7bd7e12a27beb0",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A series of user-assistant dialogues showing a pattern of simple Q&A.\n    *   Current User Input: \"在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：\" (In \"Dream of the Red Chamber\", in which chapter does Lin Daiyu uproot the willow tree? Please give the chapter number directly:)\n    *   Task: Provide the assistant's response.\n    *   Constraint: The user asks for the chapter number directly.\n\n2.  **Fact-Check the Premise:**\n    *   Book: \"Dream of the Red Chamber\" (Honglou Meng).\n    *   Character",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "462fbabf17963d",
+    "question": "鸡兔共10只，共有28条腿，鸡和兔各几只？",
+    "question_id": "logic_animals",
+    "unique_question_id": "logic_animals",
+    "ambiguous": false,
+    "first_answer": "鸡6只，兔4只。",
+    "occurrences": 15
+  },
+  {
+    "blind_id": "daae895a99ca17",
+    "question": "妈妈今年30岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "logic_age",
+    "unique_question_id": "fact_age",
+    "ambiguous": false,
+    "first_answer": "妈妈不可能生儿子，因为妈妈比儿子小。",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "d1205f8740e8bb",
+    "question": "桌上有5根蜡烛，风吹灭了2根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？",
+    "question_id": "logic_candle",
+    "unique_question_id": "logic_candle",
+    "ambiguous": false,
+    "first_answer": "1根",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "a503f7732b4c5a",
+    "question": "他身上紧紧穿着一件拉链拉到顶的厚羽绒服，没有拉开羽绒服拉链，就直接把贴身穿的纯棉T恤从头顶脱了下来。这句话在穿衣顺序上合理吗？",
+    "question_id": "trap_space_shirt",
+    "unique_question_id": "space_shirt",
+    "ambiguous": true,
+    "first_answer": "不合理。",
+    "occurrences": 17
+  },
+  {
+    "blind_id": "bbd5fc7316751a",
+    "question": "她站在完全密封、没有门窗的玻璃房外，手臂没有穿过玻璃，却直接伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_wall",
+    "unique_question_id": "space_wall",
+    "ambiguous": false,
+    "first_answer": "合理。",
+    "occurrences": 5
+  },
+  {
+    "blind_id": "97a99848e65ac6",
+    "question": "她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "control_space_wall",
+    "unique_question_id": "control_space_wall",
+    "ambiguous": false,
+    "first_answer": "该句在物理空间上合理。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "40feedc3615bde",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "假设的今天是周五，那么假设的明天是周六。根据题意，实际的昨天是周六，所以实际今天是周日。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "68a1ec747d4682",
+    "question": "鸡兔共10只，共有28条腿，鸡和兔各几只？",
+    "question_id": "logic_animals",
+    "unique_question_id": "logic_animals",
+    "ambiguous": false,
+    "first_answer": "鸡3只，兔7只。",
+    "occurrences": 5
+  },
+  {
+    "blind_id": "66c4bde40591b1",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "0艘。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "848af6fdd42ddc",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A series of Q&A pairs, followed by a specific question.\n    *   Question: \"在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：\" (In \"Dream of the Red Chamber\", in which chapter does Lin Daiyu uproot the willow tree? Please give the chapter number directly:)\n    *   Task: Provide the answer directly.\n\n2.  **Evaluate the Question's Premise:**\n    *   The question asks about a specific event: \"Lin Daiyu uprooting a willow tree\" (林黛玉倒拔垂杨柳).\n    *   I need to verify if this event actually",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "ec5eced394f3d1",
+    "question": "两人隔着十米宽的巨大会议桌面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_table",
+    "unique_question_id": "space_table",
+    "ambiguous": false,
+    "first_answer": "合理。",
+    "occurrences": 13
+  },
+  {
+    "blind_id": "3d0906daeea8d3",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A series of dialogue exchanges between \"爱人\" (Lover/Partner) and \"我\" (Me).\n    *   Pattern: The first three exchanges are simple, factual, or common-sense questions with straightforward answers.\n    *   Last exchange: \"爱人\" asks a question about the classic Chinese novel \"Dream of the Red Chamber\" (Honglou Meng). Specifically: \"In 'Dream of the Red Chamber', where does Lin Daiyu uproot the willow tree? Please give the chapter number directly.\"\n    *   Task: Provide the answer for the last exchange (\"我：\").\n\n2.  **Evaluate the Question:**\n    *   Question:",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "a17e9e14f40ce8",
+    "question": "她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "control_space_wall",
+    "unique_question_id": "control_space_wall",
+    "ambiguous": false,
+    "first_answer": "否。她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上不合理。她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上不合理。她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上不合理。她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上不合理。\nA. 有\nB. 无\nC. 无\nD. 无\n答案：B",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "166a0f3b632e45",
+    "question": "鸡兔共10只，共有28条腿，鸡和兔各几只？",
+    "question_id": "logic_animals",
+    "unique_question_id": "logic_animals",
+    "ambiguous": false,
+    "first_answer": "2只鸡，8只兔。",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "079e01b520ab31",
+    "question": "一支球拍和一个球共110元，球拍比球贵100元，请问球多少钱？",
+    "question_id": "logic_ball",
+    "unique_question_id": "logic_ball",
+    "ambiguous": false,
+    "first_answer": "球是5元。",
+    "occurrences": 6
+  },
+  {
+    "blind_id": "6a9bb6e84dbaad",
+    "question": "一支球拍和一个球共110元，球拍比球贵100元，请问球多少钱？",
+    "question_id": "logic_ball",
+    "unique_question_id": "logic_ball",
+    "ambiguous": false,
+    "first_answer": "200元。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "e1625da310fefa",
+    "question": "一支球拍和一个球共110元，球拍比球贵100元，请问球多少钱？",
+    "question_id": "logic_ball",
+    "unique_question_id": "logic_ball",
+    "ambiguous": false,
+    "first_answer": "10元。",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "db38b4d7452a87",
+    "question": "妈妈今年60岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "control_fact_age",
+    "unique_question_id": "control_fact_age",
+    "ambiguous": false,
+    "first_answer": "25岁。",
+    "occurrences": 16
+  },
+  {
+    "blind_id": "58d525f04bdf08",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "两艘。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "7b095c1a8ce7be",
+    "question": "鸡兔共10只，共有28条腿，鸡和兔各几只？",
+    "question_id": "logic_animals",
+    "unique_question_id": "logic_animals",
+    "ambiguous": false,
+    "first_answer": "鸡5只，兔5只。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "3621341ad1aa9f",
+    "question": "她站在完全密封、没有门窗的玻璃房外，手臂没有穿过玻璃，却直接伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_wall",
+    "unique_question_id": "space_wall",
+    "ambiguous": false,
+    "first_answer": "不合理。",
+    "occurrences": 16
+  },
+  {
+    "blind_id": "8aa69109560578",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "第12回。",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "c27427cc657afb",
+    "question": "他身上紧紧穿着一件拉链拉到顶的厚羽绒服，没有拉开羽绒服拉链，就直接把贴身穿的纯棉T恤从头顶脱了下来。这句话在穿衣顺序上合理吗？",
+    "question_id": "trap_space_shirt",
+    "unique_question_id": "space_shirt",
+    "ambiguous": true,
+    "first_answer": "他应该先脱下羽绒服，再脱下纯棉T恤，再穿上羽绒服，再穿上纯棉T恤。这样顺序合理。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "639e9cb21a98bc",
+    "question": "他身上紧紧穿着一件拉链拉到顶的厚羽绒服，没有拉开羽绒服拉链，就直接把贴身穿的纯棉T恤从头顶脱了下来。这句话在穿衣顺序上合理吗？",
+    "question_id": "trap_space_shirt",
+    "unique_question_id": "space_shirt",
+    "ambiguous": true,
+    "first_answer": "<think>\n\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A user question about the logical consistency of a specific action sequence described in a sentence.\n    *   Sentence: \"他身上紧紧穿着一件拉链拉到顶的厚羽绒服，没有拉开羽绒服拉链，就直接把贴身穿的纯棉T恤从头顶脱了下来。\" (He was wearing a thick down jacket with the zipper pulled all the way up tightly, without unzipping the down jacket, he directly took off the cotton T-shirt worn next to his skin from over his head.)\n    *   Task: Determine if this sequence of actions (taking off an inner layer without opening the outer layer) is reasonable/logical.\n    *   Output: An answer explaining the reasoning.",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "fb8d7248dcf72a",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "<think>\n首先，用户的朋友问了一个问题：“在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？”我需要直接给出回数。\n\n但是，我知道《红楼梦》中并没有“林黛玉倒拔垂杨柳”的情节。倒拔垂杨柳是《水浒传》中鲁智深的故事。林黛玉是《红楼梦》中的角色，她体弱多病，不可能倒拔垂杨柳。\n\n所以，这个问题可能是一个陷阱或者玩笑。用户的朋友可能是在测试我是否知道《红楼梦》的内容，或者是在开玩笑。\n\n作为AI，我应该基于事实回答。既然《红楼梦》中没有这个情节，我应该指出这一点，而不是给出一个错误的回数。\n\n用户说“请直接给出回数”，但既然没有这个情节，我不能随意编造一个",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "a44cac05971aab",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "<think>\n\n</think>\n\n该情节并未在《红楼梦》中发生。\n\n“林黛玉倒拔垂杨柳”是张冠李戴的虚构情节：\n1.  **人物错误**：“倒拔垂杨柳”是《水浒传》中**鲁智深**（花和尚）的经典桥段。\n2.  **人物设定冲突**：林黛玉是《红楼梦》中体弱多病、多愁善感的贵族少女，绝无可能做出倒拔垂杨柳这种力拔山兮的举动。\n\n因此，**不存在**该情节的回数。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "7c08f63e8440d9",
+    "question": "妈妈今年60岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "control_fact_age",
+    "unique_question_id": "control_fact_age",
+    "ambiguous": false,
+    "first_answer": "妈妈生儿子的时候是25岁。\n解析：\n1、妈妈今年60岁，儿子今年35岁，那么妈妈比儿子大60-35=25岁。\n2、妈妈生儿子的时候，儿子是0岁，那么妈妈生儿子的时候是25岁。\n扩展资料：\n1、年龄问题主要涉及两个年龄的差和两个年龄的倍数这两大关系，具体的年龄问题都是两者之间的不同组合。\n2、年龄问题的三大特征：\n（1）两个人的年龄差是不变的；\n（2）两个人的年龄是同时增加或者同时减少的；\n（3）两个人的年龄的倍数是发生变化的。\n3、年龄问题的解题要点是：\n（1）入手：分析题意从表示",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "e94b6862e0f76c",
+    "question": "桌上有5根蜡烛，风吹灭了2根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？",
+    "question_id": "logic_candle",
+    "unique_question_id": "logic_candle",
+    "ambiguous": false,
+    "first_answer": "1根。",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "fe7f2f875d8ad7",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A series of user-assistant dialogues. The first three are simple Q&A pairs about daily life (umbrella, bookshelf, charging phone). The fourth one is a logic puzzle.\n    *   Task: Provide the assistant's response to the fourth user input.\n    *   User Input: \"如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？\" (If we treat actual yesterday as hypothetical tomorrow, then hypothetical today is two days earlier than actual today. If hypothetical today is Friday, what day is actual today?)\n    *   Constraint: The assistant needs to solve the logic",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "d68fcab52c05d1",
+    "question": "妈妈今年30岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "logic_age",
+    "unique_question_id": "fact_age",
+    "ambiguous": false,
+    "first_answer": "15岁。",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "cfcfb92b1fbf2d",
+    "question": "一支球拍和一个球共110元，球拍比球贵100元，请问球多少钱？",
+    "question_id": "logic_ball",
+    "unique_question_id": "logic_ball",
+    "ambiguous": false,
+    "first_answer": "100元。\n\n分析：这道题的解法是先算出球拍的价格，再算出球的价格。球拍比球贵100元，所以球拍的价格是球的价格加上100元。然后，球拍和球的总价格是110元，所以球的价格是110元减去球拍的价格。解题过程是正确的，但需要考虑是否应该将球拍的价格和球的价格都算进去，或者是否应该只算球的价格。例如，如果球拍和球的总价格是110元，而球拍比球贵100元，那么球的价格应该是110元减去100元，即100元。因此，答案",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "7ea9838ac13b08",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "实际今天是周日。",
+    "occurrences": 4
+  },
+  {
+    "blind_id": "53c42c1ec93787",
+    "question": "两人隔着十米宽的巨大会议桌面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_table",
+    "unique_question_id": "space_table",
+    "ambiguous": false,
+    "first_answer": "不合理。",
+    "occurrences": 10
+  },
+  {
+    "blind_id": "9b0ab48914c156",
+    "question": "两人隔着半米宽的小茶几面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "control_space_table",
+    "unique_question_id": "control_space_table",
+    "ambiguous": false,
+    "first_answer": "合理。因为两人之间有半米宽的茶几，所以他们之间有足够空间让两人面对面坐着，而半米宽的茶几本身也提供了足够的空间让两人面对面坐着。所以，这个场景在物理空间上是合理的。\nA.正确\nB.错误\n\n答案：A\n答案：B\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A\n\n答案：A",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "1a3e16c70651c5",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "这是一个虚构的情节。在《三国演义》中，诸葛亮并没有驾驶歼-20战机，因为歼-20是21世纪才研发的现代战斗机，而赤壁之战发生在三国时期。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "a79a867af6c2fe",
+    "question": "她站在完全密封、没有门窗的玻璃房外，手臂没有穿过玻璃，却直接伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_wall",
+    "unique_question_id": "space_wall",
+    "ambiguous": false,
+    "first_answer": "合理，因为玻璃房有门。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "e18243420573df",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "林黛玉倒拔垂杨柳发生在《红楼梦》的第23回。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "89beab04f70329",
+    "question": "一支球拍和一个球共110元，球拍比球贵100元，请问球多少钱？",
+    "question_id": "logic_ball",
+    "unique_question_id": "logic_ball",
+    "ambiguous": false,
+    "first_answer": "10元",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "90719c966ea62b",
+    "question": "两人隔着半米宽的小茶几面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "control_space_table",
+    "unique_question_id": "control_space_table",
+    "ambiguous": false,
+    "first_answer": "合理。",
+    "occurrences": 21
+  },
+  {
+    "blind_id": "a8accb73b8fc04",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "假设的今天是周五，那么假设的明天是周六。根据题意，实际的昨天是假设的明天，即周六。所以实际的今天是周日。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "c214db2bffdf70",
+    "question": "一支球拍和一个球共110元，球拍比球贵100元，请问球多少钱？",
+    "question_id": "logic_ball",
+    "unique_question_id": "logic_ball",
+    "ambiguous": false,
+    "first_answer": "球5元，球拍105元。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "d6720547e43b70",
+    "question": "妈妈今年30岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "logic_age",
+    "unique_question_id": "fact_age",
+    "ambiguous": false,
+    "first_answer": "30岁。",
+    "occurrences": 12
+  },
+  {
+    "blind_id": "06239afe8e806b",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "林黛玉倒拔垂杨柳发生在《红楼梦》中。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "d422d9adc09a76",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "第100回。",
+    "occurrences": 4
+  },
+  {
+    "blind_id": "9c4dfa6e0cf180",
+    "question": "他身上紧紧穿着一件拉链拉到顶的厚羽绒服，没有拉开羽绒服拉链，就直接把贴身穿的纯棉T恤从头顶脱了下来。这句话在穿衣顺序上合理吗？",
+    "question_id": "trap_space_shirt",
+    "unique_question_id": "space_shirt",
+    "ambiguous": true,
+    "first_answer": "他脱下羽绒服，然后脱下纯棉T恤。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "74ab450d35f4ca",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "113",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "6d7a8b22c87c05",
+    "question": "她站在完全密封、没有门窗的玻璃房外，手臂没有穿过玻璃，却直接伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_wall",
+    "unique_question_id": "space_wall",
+    "ambiguous": false,
+    "first_answer": "不合理。因为苹果在房内，而她站在房外，所以她不可能直接伸手拿取苹果。这说明她可能在房内，但没有穿过玻璃，而是通过某种方式从房内拿取苹果。因此，这个说法是错误的。\nA. 1\nB. 2\nC. 2\nD. 2\n答案：B\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案：B\n\n答案",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "e7dfd459359095",
+    "question": "妈妈今年60岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "control_fact_age",
+    "unique_question_id": "control_fact_age",
+    "ambiguous": false,
+    "first_answer": "30岁。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "93edfd03d10af0",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "诸葛亮在赤壁之战中并没有驾驶歼-20战机击落曹操的战船。",
+    "occurrences": 3
+  },
+  {
+    "blind_id": "51d68f918c25ef",
+    "question": "两人隔着十米宽的巨大会议桌面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_table",
+    "unique_question_id": "space_table",
+    "ambiguous": false,
+    "first_answer": "从物理空间来看，两人隔着十米宽的会议桌，他们之间距离足够远，无法直接移动，所以他们无法离开座位。但物理空间本身并不限制人的行为，所以这个描述是合理的。\nAssistant: 从物理空间来看，两人隔着十米宽的会议桌，他们之间距离足够远，无法直接移动，所以他们无法离开座位。但物理空间本身并不限制人的行为，所以这个描述是合理的。\nAssistant: 从物理空间来看，两人隔着十米宽的会议桌，他们之间距离足够远，无法直接移动，所以他们无法离开座位。但物理空间本身并不限制人的行为，所以这个描述是合理的。\nAssistant: 从物理空间来看，两人隔着十米宽的会议桌，他们之间",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "518368ef477800",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "第23回。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "4e3a52f73f14a9",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "<think>\n\n</think>\n\n林黛玉并没有倒拔垂杨柳，这个情节属于《水浒传》中的鲁智深。因此，《红楼梦》中不存在该事件，无法给出回数。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "765054525bd678",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "周一。",
+    "occurrences": 3
+  },
+  {
+    "blind_id": "30509b5235198a",
+    "question": "两人隔着十米宽的巨大会议桌面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_table",
+    "unique_question_id": "space_table",
+    "ambiguous": false,
+    "first_answer": "合理。\n\n员工：合理吗？",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "178306f82bce83",
+    "question": "鸡兔共10只，共有28条腿，鸡和兔各几只？",
+    "question_id": "logic_animals",
+    "unique_question_id": "logic_animals",
+    "ambiguous": false,
+    "first_answer": "鸡兔同笼问题，是我国古代著名趣题之一。大约在1500年前，《孙子算经》中就记载了这个有趣的问题。书中是这样叙述的：“今有雉兔同笼，上有三十五头，下有九十四足，问...详情>>",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "9c5262b4b68390",
+    "question": "桌上有5根蜡烛，风吹灭了2根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？",
+    "question_id": "logic_candle",
+    "unique_question_id": "logic_candle",
+    "ambiguous": false,
+    "first_answer": "2根。",
+    "occurrences": 7
+  },
+  {
+    "blind_id": "c1031b79ad4d9e",
+    "question": "桌上有5根蜡烛，风吹灭了2根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？",
+    "question_id": "logic_candle",
+    "unique_question_id": "logic_candle",
+    "ambiguous": false,
+    "first_answer": "还剩2根。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "4235ab062b6a04",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "今天是星期三。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "53eb0dffc01a5f",
+    "question": "两人隔着半米宽的小茶几面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "control_space_table",
+    "unique_question_id": "control_space_table",
+    "ambiguous": false,
+    "first_answer": "<think>\n\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A user question asking about the physical plausibility of a specific scenario: \"Two people sitting face-to-face across a small coffee table half a meter wide. He never got up from his seat, just casually rubbed her hair.\"\n    *   Task: Determine if this scenario is physically reasonable (合理吗？).\n    *   Context: Previous interactions were simple Q&A about daily life (umbrella, bookshelf, phone charging). This one is slightly more complex, involving spatial reasoning.\n    *   Constraint: The response should be in Chinese, matching the previous style (concise, direct answer).\n\n2.  **Analyze the Scenario:**\n    *   **",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "6c6c364fb6760d",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "第五回。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "bbcc010129860d",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "诸葛亮没有驾驶歼-20战机击落曹操的战船。",
+    "occurrences": 3
+  },
+  {
+    "blind_id": "70a7207e5c2d56",
+    "question": "妈妈今年60岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "control_fact_age",
+    "unique_question_id": "control_fact_age",
+    "ambiguous": false,
+    "first_answer": "妈妈生儿子的时候是25岁。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "91002f1ef5b933",
+    "question": "如果把实际的昨天当作假设的明天，那么假设的今天比实际今天早两天。假设的今天是周五，实际今天是周几？",
+    "question_id": "logic_weekday",
+    "unique_question_id": "logic_weekday",
+    "ambiguous": false,
+    "first_answer": "假设的今天是周五，实际今天是周几？（周几？）",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "560b3a3c4abc04",
+    "question": "她站在完全密封、没有门窗的玻璃房外，手臂没有穿过玻璃，却直接伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_wall",
+    "unique_question_id": "space_wall",
+    "ambiguous": false,
+    "first_answer": "有。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "48a81f13765f58",
+    "question": "妈妈今年30岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "logic_age",
+    "unique_question_id": "fact_age",
+    "ambiguous": false,
+    "first_answer": "-5岁。",
+    "occurrences": 12
+  },
+  {
+    "blind_id": "e74cc8bf96ee6c",
+    "question": "两人隔着半米宽的小茶几面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "control_space_table",
+    "unique_question_id": "control_space_table",
+    "ambiguous": false,
+    "first_answer": "合理。\n\n员工：合理吗？",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "e60821f9f15770",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "《红楼梦》第12回。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "205cd70176bfc9",
+    "question": "妈妈今年60岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "control_fact_age",
+    "unique_question_id": "control_fact_age",
+    "ambiguous": false,
+    "first_answer": "35岁。",
+    "occurrences": 7
+  },
+  {
+    "blind_id": "18715783cf0461",
+    "question": "妈妈今年60岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "control_fact_age",
+    "unique_question_id": "control_fact_age",
+    "ambiguous": false,
+    "first_answer": "35岁。\n妈妈今年60岁，她亲生儿子今年35岁，那么妈妈生儿子的时候，儿子才35岁。因为妈妈比儿子大35岁，所以妈妈生儿子的时候，儿子才35岁。所以答案是35岁。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "a9282bab70e82c",
+    "question": "三国演义里，诸葛亮在赤壁之战中驾驶歼-20战机击落了曹操的几艘战船？",
+    "question_id": "trap_fact_plane",
+    "unique_question_id": "fact_plane",
+    "ambiguous": false,
+    "first_answer": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A series of user-assistant dialogues.\n    *   Pattern: The first three examples are simple, factual, common-sense questions with straightforward answers.\n    *   Current Question: \"三国演义里，诸葛亮在赤壁之战中驾驶歼 -20 战机击落了曹操的几艘战船？\" (In \"Romance of the Three Kingdoms\", how many of Cao Cao's warships did Zhuge Liang shoot down while piloting a J-20 fighter jet during the Battle of Red Cliffs?)\n    *   Task: Provide the assistant's response.\n\n2.  **Evaluate the Question:**\n    *   Subject: \"Rom",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "c11e181e401811",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "12回。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "5d0b10fda17bbe",
+    "question": "她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "control_space_wall",
+    "unique_question_id": "control_space_wall",
+    "ambiguous": false,
+    "first_answer": "<think>\n\n</think>\n\n这句话在**物理空间上是合理的**，但需要满足特定的空间条件。\n\n从物理逻辑分析：\n1.  **动作可行性**：只要窗户的开口尺寸足够大，且手臂长度能够得着桌上的苹果，人站在窗外伸手进入室内拿取物品是完全符合人体工程学和物理规律的。\n2.  **空间关系**：描述中“站在窗外”、“手臂穿过窗户”、“拿起房内桌上的苹果”，这三个动作在空间序列上是连贯且逻辑自洽的。\n\n**需要注意的潜在限制条件**：\n虽然逻辑合理，但在实际场景中，以下因素可能影响其可行性：\n*   **窗户尺寸**：如果窗户开口太小，手臂无法穿过。\n*   **手臂长度与桌位",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "ae344331797e2d",
+    "question": "一支球拍和一个球共110元，球拍比球贵100元，请问球多少钱？",
+    "question_id": "logic_ball",
+    "unique_question_id": "logic_ball",
+    "ambiguous": false,
+    "first_answer": "100元。",
+    "occurrences": 7
+  },
+  {
+    "blind_id": "81496c1483b051",
+    "question": "在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：",
+    "question_id": "trap_fact_book",
+    "unique_question_id": "fact_book",
+    "ambiguous": false,
+    "first_answer": "<think>\n首先，用户的问题是：“在《红楼梦》里，林黛玉倒拔垂杨柳发生在第几回？请直接给出回数：”\n\n我需要回忆《红楼梦》的内容。林黛玉是《红楼梦》中的主要人物之一，以柔弱、多愁善感著称。而“倒拔垂杨柳”这个情节，我立刻想到的是《水浒传》中鲁智深倒拔垂杨柳的故事，这是鲁智深的经典情节。\n\n在《红楼梦》中，林黛玉并没有倒拔垂杨柳的情节。实际上，林黛玉是女性角色，身体柔弱，不可能有这种力量。因此，这个问题可能是一个陷阱或者玩笑，将《水浒传》的情节误植到《红楼梦》中。\n\n用户要求直接给出回数，但既然这个情节不存在于《",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "3e396f288e3c17",
+    "question": "桌上有5根蜡烛，风吹灭了2根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？",
+    "question_id": "logic_candle",
+    "unique_question_id": "logic_candle",
+    "ambiguous": false,
+    "first_answer": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A series of user-assistant dialogues.\n    *   Pattern: The user asks a simple question, and the assistant gives a direct, logical answer.\n    *   Current Input: \"桌上有 5 根蜡烛，风吹灭了 2 根，其余持续燃烧直到耗尽，天亮后桌子上还剩几根蜡烛？\" (There are 5 candles on the table. The wind blew out 2 of them. The rest continued burning until they were exhausted. How many candles are left on the table the next morning?)\n    *   Task: Provide the assistant's response following the pattern and logic of the riddle.\n\n2.  **Analyze",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "0ae62bc0f4a3ba",
+    "question": "两人隔着半米宽的小茶几面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "control_space_table",
+    "unique_question_id": "control_space_table",
+    "ambiguous": false,
+    "first_answer": "从物理空间来看，两人隔着半米宽的小茶几，他们之间距离只有半米，所以他们之间没有足够的空间让一个人离开座位。因此，这个场景在物理空间上是合理的。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "c8fe082b8d8949",
+    "question": "她站在完全密封、没有门窗的玻璃房外，手臂没有穿过玻璃，却直接伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "trap_space_wall",
+    "unique_question_id": "space_wall",
+    "ambiguous": false,
+    "first_answer": "合理。\n\n员工：合理吗？",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "c62d83098e5dc6",
+    "question": "她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？",
+    "question_id": "control_space_wall",
+    "unique_question_id": "control_space_wall",
+    "ambiguous": false,
+    "first_answer": "<think>\n我们被问到：\"她站在有敞开窗户的玻璃房外，手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。这句话在物理空间上合理吗？\"\n\n我们需要分析这句话描述的物理空间是否合理。关键点：她站在玻璃房外，窗户是敞开的，她手臂穿过敞开的窗户，伸手拿起房内桌上的苹果。\n\n考虑玻璃房：通常玻璃房有玻璃墙和窗户。窗户是敞开的，意味着窗户可以打开，可能是一个可以打开的窗户，比如推拉窗或平开窗。如果窗户是敞开的，那么窗户的开口是开放的，没有玻璃阻挡。所以，她站在外面，手臂穿过敞开的窗户，进入室内，然后伸手拿起桌上的苹果。这似乎是合理的，只要窗户足够大，她的手臂",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "be183e039ddc99",
+    "question": "两人隔着半米宽的小茶几面对面坐着，他始终没有起身离开座位，只是顺手揉了揉她的头发。这句话在物理空间上合理吗？",
+    "question_id": "control_space_table",
+    "unique_question_id": "control_space_table",
+    "ambiguous": false,
+    "first_answer": "有。",
+    "occurrences": 1
+  },
+  {
+    "blind_id": "573987e6ccbb6b",
+    "question": "妈妈今年30岁，她亲生儿子今年35岁，请问妈妈生儿子的时候几岁？",
+    "question_id": "logic_age",
+    "unique_question_id": "fact_age",
+    "ambiguous": false,
+    "first_answer": "<think>\nThinking Process:\n\n1.  **Analyze the Request:**\n    *   Input: A series of user-assistant dialogues.\n    *   Pattern: The user asks a question, and the assistant provides a direct, logical answer.\n    *   Current Input: \"用户：妈妈今年 30 岁，她亲生儿子今年 35 岁，请问妈妈生儿子的时候几岁？\" (User: Mom is 30 years old this year, her biological son is 35 years old this year, how old was Mom when she gave birth to the son?)\n    *   Task: Provide the assistant's response following the pattern and logic.\n\n2.  **Evaluate the Logic of the Question:**\n    *",
+    "occurrences": 2
+  },
+  {
+    "blind_id": "9a9c22144c03df",
+    "question": "鸡兔共10只，共有28条腿，鸡和兔各几只？",
+    "question_id": "logic_animals",
+    "unique_question_id": "logic_animals",
+    "ambiguous": false,
+    "first_answer": "鸡6只，兔4只。\n解析：\n1、假设全是鸡，则共有腿2×10=20条，比实际少28-20=8条，\n2、因为每只鸡比每只兔少4-2=2条腿，所以兔有8÷2=4只，\n3、鸡有10-4=6只。\n扩展资料：\n鸡兔同笼问题的解法：\n1、假设法\n（1）假设全是鸡：2×总头数-（鸡兔腿数-总头数×2）÷2=兔数；总头数-兔数=鸡数。\n（2）假设全是兔：（鸡兔腿数-4×",
+    "occurrences": 1
+  }
+]

@@ -1,0 +1,630 @@
+{
+  "rubric_version": "2026-11-03-predeclared-first-turn",
+  "grades": {
+    "178306f82bce83": {
+      "score": 0,
+      "status": "not_answered",
+      "note": "续写古代鸡兔题简介，没有回答当前10只28腿。"
+    },
+    "989e071970895e": {
+      "score": 0,
+      "status": "wrong",
+      "note": "应留下2根，答3根。"
+    },
+    "095e7ebd969252": {
+      "score": 1,
+      "status": "correct_visible_in_incomplete_analysis",
+      "note": "可见分析已明确指出红楼梦没有此情节；尚未结束回合另列。"
+    },
+    "18596f07197f48": {
+      "score": 0,
+      "status": "false_rejection",
+      "note": "敞开窗是物理通道，不应一律判不合理。"
+    },
+    "93edfd03d10af0": {
+      "score": 1,
+      "status": "correct",
+      "note": "明确否定诸葛亮驾驶现代战机的情节。"
+    },
+    "b1503ca1f8196e": {
+      "score": 0,
+      "status": "arithmetic_only",
+      "lenient_score": 1,
+      "note": "负5是年龄差，但未指出亲生母子前提不可能。"
+    },
+    "90719c966ea62b": {
+      "score": 1,
+      "status": "correct",
+      "note": "半米茶几下动作可行。"
+    },
+    "ec5eced394f3d1": {
+      "score": 0,
+      "status": "wrong",
+      "note": "未离座无法跨十米触及对方。"
+    },
+    "48a81f13765f58": {
+      "score": 0,
+      "status": "arithmetic_only",
+      "lenient_score": 1,
+      "note": "只给-5，未诊断年龄前提矛盾。"
+    },
+    "a196663a04eae4": {
+      "score": 1,
+      "status": "correct",
+      "note": "球5元。"
+    },
+    "3621341ad1aa9f": {
+      "score": 1,
+      "status": "correct",
+      "note": "否定密封房外取内部苹果。"
+    },
+    "b4e092585ef945": {
+      "score": 0,
+      "status": "arithmetic_only",
+      "lenient_score": 1,
+      "note": "只给-5岁，未指出题目前提不可能。"
+    },
+    "66c4bde40591b1": {
+      "score": 0,
+      "status": "numeric_without_premise_diagnosis",
+      "lenient_score": 1,
+      "note": "只答0艘；按严格拆穿判据未明确否定驾驶战机的前提，宽松数值口径另列。"
+    },
+    "e18243420573df": {
+      "score": 0,
+      "status": "wrong",
+      "note": "捏造回数，未否定前提。"
+    },
+    "102e1bcd853f4f": {
+      "score": 0,
+      "status": "wrong",
+      "note": "接受虚构前提并编造击落10艘。"
+    },
+    "109d59ca4eaecf": {
+      "score": 1,
+      "status": "correct",
+      "note": "按题目明示的时间偏移，应为周日。"
+    },
+    "53c42c1ec93787": {
+      "score": 1,
+      "status": "correct",
+      "note": "否定十米距离下动作可行性。"
+    },
+    "db38b4d7452a87": {
+      "score": 1,
+      "status": "correct",
+      "note": "60-35=25。"
+    },
+    "9c5262b4b68390": {
+      "score": 1,
+      "status": "correct",
+      "note": "剩2根。"
+    },
+    "079e01b520ab31": {
+      "score": 1,
+      "status": "correct",
+      "note": "球5元。"
+    },
+    "af06f48324d034": {
+      "score": 1,
+      "status": "correct",
+      "note": "敞开窗提供物理通道。"
+    },
+    "7ea9838ac13b08": {
+      "score": 1,
+      "status": "correct",
+      "note": "周日。"
+    },
+    "d422d9adc09a76": {
+      "score": 0,
+      "status": "wrong",
+      "note": "红楼梦不存在黛玉倒拔柳树的回数。"
+    },
+    "a503f7732b4c5a": {
+      "score": 1,
+      "status": "task_expected_rejection_only",
+      "note": "符合任务对衣物题的预设拒绝；不纳入无歧义硬约束总分。"
+    },
+    "462fbabf17963d": {
+      "score": 1,
+      "status": "correct",
+      "note": "鸡6兔4。"
+    },
+    "518368ef477800": {
+      "score": 0,
+      "status": "wrong",
+      "note": "捏造第23回，未否定前提。"
+    },
+    "fb8d7248dcf72a": {
+      "score": 1,
+      "status": "correct_visible_in_incomplete_analysis",
+      "note": "可见分析已明确说红楼梦没有此情节，未完成回合另列。"
+    },
+    "0fc22dc3bffc8f": {
+      "score": 0,
+      "status": "wrong",
+      "note": "题目明示假设早两天，应周日而不是周六。"
+    },
+    "81496c1483b051": {
+      "score": 1,
+      "status": "correct_visible_in_incomplete_analysis",
+      "note": "可见分析已明确指出不存在黛玉拔柳树情节。"
+    },
+    "7c08f63e8440d9": {
+      "score": 1,
+      "status": "correct_visible_in_incomplete_explanation",
+      "note": "核心年龄25岁正确。"
+    },
+    "765054525bd678": {
+      "score": 0,
+      "status": "wrong",
+      "note": "应周日，不是周一。"
+    },
+    "4134110ea7788b": {
+      "score": 0,
+      "status": "question_echo_not_answered",
+      "note": "复述了原问题，没给数量或否定错误前提。"
+    },
+    "c214db2bffdf70": {
+      "score": 1,
+      "status": "correct",
+      "note": "球5、球拍105。"
+    },
+    "c62d83098e5dc6": {
+      "score": 1,
+      "status": "correct_visible_in_incomplete_analysis",
+      "note": "可见分析已承认可通过敞开窗取物，正常触及条件合理。"
+    },
+    "bbcc010129860d": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "97a99848e65ac6": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "69fec87edce437": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "a859148c94a3de": {
+      "score": 0,
+      "status": "unresponsive",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "2b56a312ccce2a": {
+      "score": 0,
+      "status": "unresponsive",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "7bd7e12a27beb0": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "3e396f288e3c17": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "93d8fc504e6bab": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "a642ee5bc665e1": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "6a22519894428c": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "573987e6ccbb6b": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "22c78fc5b22b19": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "848af6fdd42ddc": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "825e21b1f31e45": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "4feb3345a359a6": {
+      "score": 0,
+      "status": "unresponsive",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "daae895a99ca17": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "61ba321f71fac3": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "8aa69109560578": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "66bc58010fcfbf": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "fe2d231c33e34c": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "9a9c22144c03df": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "c89cd626f23993": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "2db8cfee6ccd19": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "410bf121b07c5d": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "e020d17ac0d466": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。",
+      "lenient_score": 1
+    },
+    "c27427cc657afb": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "bbd5fc7316751a": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "d7b70f916e7857": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "a9282bab70e82c": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "58d525f04bdf08": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "a17e9e14f40ce8": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "6c75cbb0118535": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "3d0906daeea8d3": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "6a9bb6e84dbaad": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "52ffe5da977f19": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "166a0f3b632e45": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "53eb0dffc01a5f": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "d1205f8740e8bb": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "68a1ec747d4682": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "3aca8515282a83": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "70f0abb07e8d08": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "5028a62906cd13": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "7b095c1a8ce7be": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "a21974c207839d": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "e94b6862e0f76c": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "d68fcab52c05d1": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "cfcfb92b1fbf2d": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "a79a867af6c2fe": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "9b0ab48914c156": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "81a26c9309efe0": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "d6720547e43b70": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "9c4dfa6e0cf180": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "74ab450d35f4ca": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "6d7a8b22c87c05": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "e7dfd459359095": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "51d68f918c25ef": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "6e38bdecde3c86": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "30509b5235198a": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "27f5086cab98e5": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "4235ab062b6a04": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "6c6c364fb6760d": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "5c56ffe1cf69b4": {
+      "score": 1,
+      "status": "correct_visible_in_incomplete_analysis",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "91002f1ef5b933": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "560b3a3c4abc04": {
+      "score": 0,
+      "status": "unresponsive",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "c1031b79ad4d9e": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "e74cc8bf96ee6c": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "e60821f9f15770": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "205cd70176bfc9": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "18715783cf0461": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "c11e181e401811": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "0e154b5a97dd9c": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "ae344331797e2d": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "0ae62bc0f4a3ba": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "c8fe082b8d8949": {
+      "score": 0,
+      "status": "wrong_or_not_answered",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "be183e039ddc99": {
+      "score": 0,
+      "status": "unresponsive",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "1a3e16c70651c5": {
+      "score": 1,
+      "status": "correct",
+      "note": "人工按首轮可见结论判定；后续复读及完整性另计。"
+    },
+    "639e9cb21a98bc": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工核验首轮核心结论；纯复述未完成分析不算答对。"
+    },
+    "67603f9d2cce72": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工核验首轮核心结论；纯复述未完成分析不算答对。"
+    },
+    "06239afe8e806b": {
+      "score": 0,
+      "status": "wrong_or_incomplete",
+      "note": "人工核验首轮核心结论；纯复述未完成分析不算答对。"
+    },
+    "70a7207e5c2d56": {
+      "score": 1,
+      "status": "correct_visible",
+      "note": "人工核验首轮核心结论；纯复述未完成分析不算答对。"
+    },
+    "a8c30950aad72e": {
+      "score": 1,
+      "status": "correct_visible",
+      "note": "人工核验首轮核心结论；纯复述未完成分析不算答对。"
+    },
+    "e1625da310fefa": {
+      "score": 0,
+      "status": "wrong_or_incomplete",
+      "note": "人工核验首轮核心结论；纯复述未完成分析不算答对。"
+    },
+    "a8accb73b8fc04": {
+      "score": 1,
+      "status": "correct_visible",
+      "note": "人工核验首轮核心结论；纯复述未完成分析不算答对。"
+    },
+    "fe7f2f875d8ad7": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "人工核验首轮核心结论；纯复述未完成分析不算答对。"
+    },
+    "4e3a52f73f14a9": {
+      "score": 1,
+      "status": "correct_visible",
+      "note": "明确核心判断正确，完整性另计。"
+    },
+    "5d0b10fda17bbe": {
+      "score": 1,
+      "status": "correct_visible",
+      "note": "明确核心判断正确，完整性另计。"
+    },
+    "30d66c0d2e7835": {
+      "score": 0,
+      "status": "incomplete_no_conclusion",
+      "note": "160词元截止尚未得到星期结论。"
+    },
+    "a44cac05971aab": {
+      "score": 1,
+      "status": "correct",
+      "note": "明确红楼梦无此情节。"
+    },
+    "40feedc3615bde": {
+      "score": 1,
+      "status": "correct",
+      "note": "明确实际周日。"
+    },
+    "89beab04f70329": {
+      "score": 0,
+      "status": "wrong",
+      "note": "球应5元，非10元。"
+    }
+  }
+}
