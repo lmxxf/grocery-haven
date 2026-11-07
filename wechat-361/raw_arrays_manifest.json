@@ -1,0 +1,33 @@
+{
+  "root": "/home/lmxxf/work/grocery-haven/curvature-icml2026-361",
+  "arrays": [
+    {
+      "relative_path": "gpt2-xl/observation_long.npz",
+      "local_path": "/home/lmxxf/work/grocery-haven/curvature-icml2026-361/gpt2-xl/observation_long.npz",
+      "bytes": 13692058,
+      "sha256": "cd2db0ca742798de7991e03ea1bbc1462334b594c8bdb8479ea1036ddcc843bb",
+      "spark_path": "/home/lmxxf/work/curvature-icml2026-361/gpt2-xl/observation_long.npz"
+    },
+    {
+      "relative_path": "gpt2-xl/observation_short.npz",
+      "local_path": "/home/lmxxf/work/grocery-haven/curvature-icml2026-361/gpt2-xl/observation_short.npz",
+      "bytes": 1411726,
+      "sha256": "22c38794e5cd83007412855ee4c3227ca8bf22c44a3d52cc78f2ae87a214697d",
+      "spark_path": "/home/lmxxf/work/curvature-icml2026-361/gpt2-xl/observation_short.npz"
+    },
+    {
+      "relative_path": "pythia-2.8b/observation_long.npz",
+      "local_path": "/home/lmxxf/work/grocery-haven/curvature-icml2026-361/pythia-2.8b/observation_long.npz",
+      "bytes": 9094350,
+      "sha256": "5dcbbfc98560bfd84772524a995511a6fb64a40a7559ced11b96171bae25b56f",
+      "spark_path": "/home/lmxxf/work/curvature-icml2026-361/pythia-2.8b/observation_long.npz"
+    },
+    {
+      "relative_path": "pythia-2.8b/observation_short.npz",
+      "local_path": "/home/lmxxf/work/grocery-haven/curvature-icml2026-361/pythia-2.8b/observation_short.npz",
+      "bytes": 985471,
+      "sha256": "8c612f53183f77368044980aef5f0b6ceb96ea32699463a1f6b607efe5c4903b",
+      "spark_path": "/home/lmxxf/work/curvature-icml2026-361/pythia-2.8b/observation_short.npz"
+    }
+  ]
+}

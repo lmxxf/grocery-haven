@@ -1,0 +1,32 @@
+{
+  "openai-community/gpt2-xl": {
+    "revision": "15ea56dee5df4983c59b2538573817e1667135e2",
+    "weight": {
+      "type": "file",
+      "oid": "f1e0d6d90a77965d9fa2155975eaed4bc7ef63b4",
+      "size": 6431829964,
+      "lfs": {
+        "oid": "0f8b28eb05a8075f48b61b6f35332978c74fc7763fa9fb4051a1c30511736a6a",
+        "size": 6431829964,
+        "pointerSize": 135
+      },
+      "xetHash": "82bf8852d374ea3013edd8073e29ab7de1cf3b6986b75fe86654102ddaf260ac",
+      "path": "model.safetensors"
+    }
+  },
+  "EleutherAI/pythia-2.8b": {
+    "revision": "2a259cdd96a4beb1cdf467512e3904197345f6a9",
+    "weight": {
+      "type": "file",
+      "oid": "b3eb45739de8b830037f14882322170ebab29bfa",
+      "size": 5684693096,
+      "lfs": {
+        "oid": "ab496f1c3fd79e3c749a9d5414136a2c8e4224f94eecb261970315cdb0f813fe",
+        "size": 5684693096,
+        "pointerSize": 135
+      },
+      "xetHash": "91cf95c5846296bcc8fca99842574abde5bc59ac7531e6826aa7f94ebc1e7b66",
+      "path": "model.safetensors"
+    }
+  }
+}

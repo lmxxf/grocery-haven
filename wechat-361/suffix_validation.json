@@ -1,0 +1,12 @@
+[
+  {
+    "model": "GPT2",
+    "zero_delta_max_logit_error": 0.0,
+    "nonzero_delta_vs_full_replay_max_error": 4.470348358154297e-08
+  },
+  {
+    "model": "GPTNeoX",
+    "zero_delta_max_logit_error": 0.0,
+    "nonzero_delta_vs_full_replay_max_error": 5.960464477539063e-08
+  }
+]

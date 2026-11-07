@@ -1,0 +1,20 @@
+{
+  "repo": "EleutherAI/pythia-2.8b",
+  "mirror": "modelscope.cn",
+  "metadata": {
+    "CommitMessage": "Upload folder using ModelScope SDK",
+    "CommittedDate": 1755289535,
+    "CommitterName": "Cherrytest",
+    "InCheck": false,
+    "IsLFS": true,
+    "Mode": "33188",
+    "Name": "model.safetensors",
+    "Path": "model.safetensors",
+    "Revision": "ae5333596ac72e2f1ce6c7014a11ac95c0ce3d6a",
+    "Sha256": "ab496f1c3fd79e3c749a9d5414136a2c8e4224f94eecb261970315cdb0f813fe",
+    "Size": 5684693096,
+    "Type": "blob"
+  },
+  "sha256": "ab496f1c3fd79e3c749a9d5414136a2c8e4224f94eecb261970315cdb0f813fe",
+  "bytes": 5684693096
+}

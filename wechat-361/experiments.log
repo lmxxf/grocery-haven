@@ -1,0 +1,92 @@
+Loading weights:   0%|          | 0/388 [00:00<?, ?it/s]Loading weights:  25%|██▍       | 96/388 [00:00<00:00, 931.00it/s]Loading weights:  62%|██████▏   | 240/388 [00:00<00:00, 1186.22it/s]Loading weights:  96%|█████████▌| 372/388 [00:00<00:00, 1239.47it/s]Loading weights: 100%|██████████| 388/388 [00:00<00:00, 1219.99it/s]
+20:46:36 pythia-2.8b observe long 0 / 1024
+20:46:46 pythia-2.8b observe long 128 / 1024
+20:46:55 pythia-2.8b observe long 256 / 1024
+20:47:04 pythia-2.8b observe long 384 / 1024
+20:47:12 pythia-2.8b observe long 512 / 1024
+20:47:22 pythia-2.8b observe long 640 / 1024
+20:47:32 pythia-2.8b observe long 768 / 1024
+20:47:41 pythia-2.8b observe long 896 / 1024
+20:47:52 pythia-2.8b observe short 0 / 512
+20:47:57 pythia-2.8b observe short 128 / 512
+20:48:02 pythia-2.8b observe short 256 / 512
+20:48:06 pythia-2.8b observe short 384 / 512
+20:48:16 pythia-2.8b perturb 1 / 32
+20:48:21 pythia-2.8b perturb 2 / 32
+20:48:25 pythia-2.8b perturb 3 / 32
+20:48:30 pythia-2.8b perturb 4 / 32
+20:48:35 pythia-2.8b perturb 5 / 32
+20:48:40 pythia-2.8b perturb 6 / 32
+20:48:45 pythia-2.8b perturb 7 / 32
+20:48:50 pythia-2.8b perturb 8 / 32
+20:48:55 pythia-2.8b perturb 9 / 32
+20:49:00 pythia-2.8b perturb 10 / 32
+20:49:04 pythia-2.8b perturb 11 / 32
+20:49:09 pythia-2.8b perturb 12 / 32
+20:49:14 pythia-2.8b perturb 13 / 32
+20:49:19 pythia-2.8b perturb 14 / 32
+20:49:24 pythia-2.8b perturb 15 / 32
+20:49:29 pythia-2.8b perturb 16 / 32
+20:49:33 pythia-2.8b perturb 17 / 32
+20:49:39 pythia-2.8b perturb 18 / 32
+20:49:43 pythia-2.8b perturb 19 / 32
+20:49:48 pythia-2.8b perturb 20 / 32
+20:49:53 pythia-2.8b perturb 21 / 32
+20:49:58 pythia-2.8b perturb 22 / 32
+20:50:02 pythia-2.8b perturb 23 / 32
+20:50:07 pythia-2.8b perturb 24 / 32
+20:50:12 pythia-2.8b perturb 25 / 32
+20:50:17 pythia-2.8b perturb 26 / 32
+20:50:22 pythia-2.8b perturb 27 / 32
+20:50:27 pythia-2.8b perturb 28 / 32
+20:50:31 pythia-2.8b perturb 29 / 32
+20:50:36 pythia-2.8b perturb 30 / 32
+20:50:41 pythia-2.8b perturb 31 / 32
+20:50:46 pythia-2.8b perturb 32 / 32
+20:50:46 pythia-2.8b COMPLETE 253
+Loading weights:   0%|          | 0/580 [00:00<?, ?it/s]Loading weights:   0%|          | 1/580 [00:01<09:47,  1.01s/it]Loading weights:   4%|▎         | 21/580 [00:01<00:26, 21.24it/s]Loading weights:   4%|▍         | 26/580 [00:01<00:34, 16.16it/s]Loading weights:   6%|▌         | 34/580 [00:02<00:45, 11.87it/s]Loading weights:   8%|▊         | 48/580 [00:03<00:27, 19.20it/s]Loading weights:   9%|▉         | 52/580 [00:03<00:28, 18.59it/s]Loading weights:   9%|▉         | 55/580 [00:04<00:49, 10.54it/s]Loading weights:  12%|█▏        | 72/580 [00:04<00:28, 17.61it/s]Loading weights:  14%|█▍        | 82/580 [00:05<00:28, 17.18it/s]Loading weights:  15%|█▍        | 85/580 [00:05<00:28, 17.11it/s]Loading weights:  16%|█▌        | 94/580 [00:05<00:23, 20.82it/s]Loading weights:  17%|█▋        | 97/580 [00:05<00:25, 19.06it/s]Loading weights:  17%|█▋        | 100/580 [00:06<00:27, 17.42it/s]Loading weights:  18%|█▊        | 106/580 [00:06<00:24, 19.24it/s]Loading weights:  19%|█▉        | 109/580 [00:06<00:26, 17.50it/s]Loading weights:  20%|██        | 118/580 [00:07<00:22, 20.80it/s]Loading weights:  21%|██        | 121/580 [00:07<00:24, 18.54it/s]Loading weights:  22%|██▏       | 130/580 [00:07<00:19, 23.41it/s]Loading weights:  23%|██▎       | 133/580 [00:07<00:22, 20.22it/s]Loading weights:  25%|██▍       | 143/580 [00:08<00:22, 19.61it/s]Loading weights:  27%|██▋       | 156/580 [00:08<00:15, 27.61it/s]Loading weights:  28%|██▊       | 160/580 [00:08<00:16, 24.73it/s]Loading weights:  29%|██▊       | 166/580 [00:09<00:16, 24.74it/s]Loading weights:  29%|██▉       | 169/580 [00:11<01:09,  5.93it/s]Loading weights:  37%|███▋      | 214/580 [00:11<00:15, 23.43it/s]Loading weights:  38%|███▊      | 221/580 [00:12<00:15, 23.24it/s]Loading weights:  39%|███▉      | 227/580 [00:12<00:19, 18.15it/s]Loading weights:  41%|████▏     | 240/580 [00:13<00:14, 22.89it/s]Loading weights:  42%|████▏     | 245/580 [00:13<00:14, 22.49it/s]Loading weights:  43%|████▎     | 250/580 [00:13<00:15, 21.95it/s]Loading weights:  44%|████▍     | 254/580 [00:13<00:15, 20.68it/s]Loading weights:  45%|████▌     | 262/580 [00:14<00:14, 22.39it/s]Loading weights:  46%|████▌     | 265/580 [00:14<00:15, 20.75it/s]Loading weights:  47%|████▋     | 272/580 [00:14<00:18, 16.99it/s]Loading weights:  48%|████▊     | 276/580 [00:15<00:30, 10.07it/s]Loading weights:  51%|█████▏    | 298/580 [00:16<00:12, 22.73it/s]Loading weights:  52%|█████▏    | 302/580 [00:16<00:14, 18.73it/s]Loading weights:  53%|█████▎    | 309/580 [00:17<00:23, 11.74it/s]Loading weights:  58%|█████▊    | 334/580 [00:18<00:11, 20.73it/s]Loading weights:  60%|█████▉    | 346/580 [00:18<00:09, 23.79it/s]Loading weights:  60%|██████    | 350/580 [00:19<00:11, 20.27it/s]Loading weights:  61%|██████    | 353/580 [00:20<00:23,  9.65it/s]Loading weights:  67%|██████▋   | 386/580 [00:20<00:08, 24.21it/s]Loading weights:  68%|██████▊   | 393/580 [00:23<00:16, 11.42it/s]Loading weights:  74%|███████▍  | 430/580 [00:23<00:06, 23.27it/s]Loading weights:  76%|███████▌  | 438/580 [00:27<00:16,  8.52it/s]Loading weights:  89%|████████▊ | 514/580 [00:28<00:03, 21.18it/s]Loading weights:  91%|█████████ | 526/580 [00:29<00:02, 22.51it/s]Loading weights:  92%|█████████▏| 532/580 [00:33<00:05,  9.10it/s]Loading weights: 100%|██████████| 580/580 [00:33<00:00, 17.09it/s]
+20:51:26 gpt2-xl observe long 0 / 1024
+20:51:31 gpt2-xl observe long 128 / 1024
+20:51:35 gpt2-xl observe long 256 / 1024
+20:51:40 gpt2-xl observe long 384 / 1024
+20:51:45 gpt2-xl observe long 512 / 1024
+20:51:50 gpt2-xl observe long 640 / 1024
+20:51:55 gpt2-xl observe long 768 / 1024
+20:52:00 gpt2-xl observe long 896 / 1024
+20:52:06 gpt2-xl observe short 0 / 512
+20:52:08 gpt2-xl observe short 128 / 512
+20:52:10 gpt2-xl observe short 256 / 512
+20:52:12 gpt2-xl observe short 384 / 512
+20:52:16 gpt2-xl perturb 1 / 32
+20:52:18 gpt2-xl perturb 2 / 32
+20:52:20 gpt2-xl perturb 3 / 32
+20:52:22 gpt2-xl perturb 4 / 32
+20:52:24 gpt2-xl perturb 5 / 32
+20:52:26 gpt2-xl perturb 6 / 32
+20:52:28 gpt2-xl perturb 7 / 32
+20:52:30 gpt2-xl perturb 8 / 32
+20:52:31 gpt2-xl perturb 9 / 32
+20:52:33 gpt2-xl perturb 10 / 32
+20:52:35 gpt2-xl perturb 11 / 32
+20:52:37 gpt2-xl perturb 12 / 32
+20:52:39 gpt2-xl perturb 13 / 32
+20:52:41 gpt2-xl perturb 14 / 32
+20:52:43 gpt2-xl perturb 15 / 32
+20:52:45 gpt2-xl perturb 16 / 32
+20:52:47 gpt2-xl perturb 17 / 32
+20:52:49 gpt2-xl perturb 18 / 32
+20:52:51 gpt2-xl perturb 19 / 32
+20:52:53 gpt2-xl perturb 20 / 32
+20:52:55 gpt2-xl perturb 21 / 32
+20:52:57 gpt2-xl perturb 22 / 32
+20:52:59 gpt2-xl perturb 23 / 32
+20:53:01 gpt2-xl perturb 24 / 32
+20:53:03 gpt2-xl perturb 25 / 32
+20:53:04 gpt2-xl perturb 26 / 32
+20:53:06 gpt2-xl perturb 27 / 32
+20:53:08 gpt2-xl perturb 28 / 32
+20:53:10 gpt2-xl perturb 29 / 32
+20:53:12 gpt2-xl perturb 30 / 32
+20:53:14 gpt2-xl perturb 31 / 32
+20:53:16 gpt2-xl perturb 32 / 32
+20:53:16 gpt2-xl COMPLETE 147

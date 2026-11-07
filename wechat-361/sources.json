@@ -1,0 +1,18 @@
+{
+  "paper.pdf": {
+    "url": "https://arxiv.org/pdf/2604.23985v1",
+    "sha256": "f9bb9ea84e02fed332e69dcbac352876c2283b5ebfaf359f7731344bccd516e2"
+  },
+  "paper.html": {
+    "url": "https://arxiv.org/html/2604.23985v1",
+    "sha256": "9c1bab5bfc582e88c03a46f37c09e4c8a65d9a206086e38c208975523732dcdc"
+  },
+  "lambada_test.jsonl": {
+    "url": "https://huggingface.co/datasets/EleutherAI/lambada_openai/resolve/main/data/lambada_test.jsonl",
+    "sha256": "4aa8d02cd17c719165fc8a7887fddd641f43fcafa4b1c806ca8abc31fabdb226"
+  },
+  "en_ewt-ud-test.conllu": {
+    "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-EWT/master/en_ewt-ud-test.conllu",
+    "sha256": "fa024f43dc5da3c5ac02563bc9bd0e974f46cbb1560823976a8f342a37dc494a"
+  }
+}

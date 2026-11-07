@@ -1,0 +1,21 @@
+{
+  "models": {
+    "gpt2-xl": {
+      "site_zero_based": 20,
+      "mean_raw_r": {
+        "full": 0.0008624476464983676,
+        "trajectory2": -0.062141401171287323,
+        "planar2": -0.03413416081545112
+      }
+    },
+    "pythia-2.8b": {
+      "site_zero_based": 10,
+      "mean_raw_r": {
+        "full": 0.006505909554895446,
+        "trajectory2": -0.060406434930934824,
+        "planar2": 0.4039354694630798
+      }
+    }
+  },
+  "elapsed_seconds": 156.4289209842682
+}

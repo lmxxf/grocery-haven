@@ -1,0 +1,21 @@
+Loading weights:   0%|          | 0/580 [00:00<?, ?it/s]Loading weights:   0%|          | 1/580 [00:01<16:36,  1.72s/it]Loading weights:   1%|▏         | 8/580 [00:02<02:24,  3.96it/s]Loading weights:   6%|▌         | 35/580 [00:04<00:52, 10.37it/s]Loading weights:  12%|█▏        | 70/580 [00:05<00:32, 15.86it/s]Loading weights:  16%|█▌        | 90/580 [00:06<00:25, 19.30it/s]Loading weights:  16%|█▋        | 95/580 [00:06<00:25, 19.07it/s]Loading weights:  18%|█▊        | 106/580 [00:06<00:21, 22.00it/s]Loading weights:  19%|█▉        | 109/580 [00:07<00:24, 19.19it/s]Loading weights:  20%|██        | 118/580 [00:07<00:20, 22.08it/s]Loading weights:  21%|██        | 121/580 [00:07<00:23, 19.67it/s]Loading weights:  21%|██▏       | 124/580 [00:08<00:45, 10.11it/s]Loading weights:  25%|██▌       | 146/580 [00:09<00:19, 22.01it/s]Loading weights:  27%|██▋       | 154/580 [00:09<00:19, 22.32it/s]Loading weights:  27%|██▋       | 158/580 [00:13<01:17,  5.43it/s]Loading weights:  38%|███▊      | 221/580 [00:14<00:18, 19.61it/s]Loading weights:  39%|███▉      | 229/580 [00:14<00:16, 21.07it/s]Loading weights:  41%|████      | 238/580 [00:15<00:19, 17.77it/s]Loading weights:  43%|████▎     | 250/580 [00:15<00:15, 20.71it/s]Loading weights:  44%|████▍     | 254/580 [00:15<00:16, 19.81it/s]Loading weights:  45%|████▌     | 261/580 [00:17<00:31, 10.28it/s]Loading weights:  51%|█████▏    | 298/580 [00:18<00:12, 22.60it/s]Loading weights:  52%|█████▏    | 303/580 [00:19<00:17, 15.83it/s]Loading weights:  56%|█████▌    | 322/580 [00:19<00:11, 21.98it/s]Loading weights:  56%|█████▋    | 327/580 [00:19<00:13, 18.85it/s]Loading weights:  57%|█████▋    | 333/580 [00:20<00:15, 15.55it/s]Loading weights:  60%|█████▉    | 346/580 [00:20<00:11, 20.31it/s]Loading weights:  60%|██████    | 350/580 [00:21<00:13, 16.98it/s]Loading weights:  62%|██████▏   | 360/580 [00:21<00:10, 20.35it/s]Loading weights:  63%|██████▎   | 363/580 [00:21<00:11, 19.16it/s]Loading weights:  63%|██████▎   | 366/580 [00:23<00:29,  7.21it/s]Loading weights:  69%|██████▊   | 398/580 [00:24<00:08, 20.91it/s]Loading weights:  70%|███████   | 406/580 [00:24<00:07, 21.84it/s]Loading weights:  71%|███████   | 411/580 [00:26<00:15, 11.09it/s]Loading weights:  76%|███████▌  | 442/580 [00:26<00:05, 23.22it/s]Loading weights:  77%|███████▋  | 449/580 [00:29<00:13,  9.67it/s]Loading weights:  87%|████████▋ | 502/580 [00:29<00:03, 23.73it/s]Loading weights:  88%|████████▊ | 511/580 [00:30<00:03, 17.94it/s]Loading weights:  91%|█████████ | 526/580 [00:31<00:02, 21.64it/s]Loading weights:  92%|█████████▏| 533/580 [00:32<00:02, 16.53it/s]Loading weights:  95%|█████████▍| 550/580 [00:32<00:01, 21.88it/s]Loading weights:  96%|█████████▌| 556/580 [00:33<00:01, 19.80it/s]Loading weights:  97%|█████████▋| 560/580 [00:35<00:02,  7.60it/s]Loading weights:  97%|█████████▋| 563/580 [00:36<00:02,  7.95it/s]Loading weights: 100%|██████████| 580/580 [00:36<00:00, 16.02it/s]
+gpt2-xl 0 / 128
+gpt2-xl 16 / 128
+gpt2-xl 32 / 128
+gpt2-xl 48 / 128
+gpt2-xl 64 / 128
+gpt2-xl 80 / 128
+gpt2-xl 96 / 128
+gpt2-xl 112 / 128
+CONFIRM_MODEL_DONE gpt2-xl
+Loading weights:   0%|          | 0/388 [00:00<?, ?it/s]Loading weights:  24%|██▎       | 92/388 [00:00<00:00, 914.83it/s]Loading weights:  58%|█████▊    | 224/388 [00:00<00:00, 1146.81it/s]Loading weights:  93%|█████████▎| 362/388 [00:00<00:00, 1248.92it/s]Loading weights: 100%|██████████| 388/388 [00:00<00:00, 1193.50it/s]
+pythia-2.8b 0 / 128
+pythia-2.8b 16 / 128
+pythia-2.8b 32 / 128
+pythia-2.8b 48 / 128
+pythia-2.8b 64 / 128
+pythia-2.8b 80 / 128
+pythia-2.8b 96 / 128
+pythia-2.8b 112 / 128
+CONFIRM_MODEL_DONE pythia-2.8b
+CONFIRMATION_DONE

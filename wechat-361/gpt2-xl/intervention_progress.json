@@ -1,0 +1,2018 @@
+[
+  {
+    "sample": 0,
+    "context_endpoint": 50,
+    "passage_tokens": 100,
+    "scale": 27.178900146484377,
+    "baseline_entropy_bits": 4.176030158996582,
+    "suffix_baseline_entropy_error": -4.76837158203125e-07,
+    "suffix_baseline_logit_maxerror": 3.62396240234375e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.055848753216079225,
+        "sd_delta_C": 0.0016551916487514973,
+        "mean_delta_C": -0.0021284392569214106,
+        "mean_delta_H": 0.0057465020815531415,
+        "sd_delta_H": 0.09691305444543812
+      },
+      "random2": {
+        "raw_r": -0.9842747531832373,
+        "sd_delta_C": 0.001096655847504735,
+        "mean_delta_C": -0.002084368374198675,
+        "mean_delta_H": 0.004300928115844727,
+        "sd_delta_H": 0.07776176373104385
+      },
+      "activation2": {
+        "raw_r": 0.5559601408155712,
+        "sd_delta_C": 0.007570067886263132,
+        "mean_delta_C": -0.002242068061605096,
+        "mean_delta_H": 0.007334740956624349,
+        "sd_delta_H": 0.08130610274549574
+      },
+      "trajectory2": {
+        "raw_r": 0.9340321823823515,
+        "sd_delta_C": 0.007618885021656752,
+        "mean_delta_C": -0.002152350265532732,
+        "mean_delta_H": -0.006445638338724772,
+        "sd_delta_H": 0.09645125394882532
+      },
+      "planar2": {
+        "raw_r": 0.9006925825524157,
+        "sd_delta_C": 0.051312100142240524,
+        "mean_delta_C": -0.005209223832935095,
+        "mean_delta_H": -0.009092567761739095,
+        "sd_delta_H": 0.1024692020320578
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 1.3017294797634804e-08,
+        "mean_delta_C": -0.0021093739196658134,
+        "mean_delta_H": 0.01022731860478719,
+        "sd_delta_H": 0.0943330739440739
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.07345759868621826,
+        "delta_H_bits": -0.1196436882019043
+      },
+      "bend": {
+        "delta_C_rad": 0.07345756143331528,
+        "delta_H_bits": 0.1612839698791504
+      }
+    }
+  },
+  {
+    "sample": 1,
+    "context_endpoint": 39,
+    "passage_tokens": 79,
+    "scale": 23.826145935058594,
+    "baseline_entropy_bits": 7.756250381469727,
+    "suffix_baseline_entropy_error": -3.337860107421875e-06,
+    "suffix_baseline_logit_maxerror": 3.814697265625e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.0717345053804793,
+        "sd_delta_C": 0.0019404562190175056,
+        "mean_delta_C": -0.004586769733577967,
+        "mean_delta_H": 0.013294944763183594,
+        "sd_delta_H": 0.08545309958116187
+      },
+      "random2": {
+        "raw_r": -0.43553826152465946,
+        "sd_delta_C": 0.0012440637219697237,
+        "mean_delta_C": -0.004635289777070284,
+        "mean_delta_H": 0.055820701917012536,
+        "sd_delta_H": 0.07039439934829508
+      },
+      "activation2": {
+        "raw_r": 0.8274231266570071,
+        "sd_delta_C": 0.010578456334769726,
+        "mean_delta_C": -0.0031799774151295424,
+        "mean_delta_H": 0.01590596040089925,
+        "sd_delta_H": 0.08483084264094522
+      },
+      "trajectory2": {
+        "raw_r": 0.589871557230824,
+        "sd_delta_C": 0.006744268350303173,
+        "mean_delta_C": -0.004564708098769188,
+        "mean_delta_H": -0.014949626922607422,
+        "sd_delta_H": 0.1496575341174012
+      },
+      "planar2": {
+        "raw_r": 0.9737280675536016,
+        "sd_delta_C": 0.05489872395992279,
+        "mean_delta_C": -0.0004912495496682823,
+        "mean_delta_H": 0.007476387023925782,
+        "sd_delta_H": 0.15172550418492053
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 1.0194153965414898e-08,
+        "mean_delta_C": -0.0046045794151723385,
+        "mean_delta_H": 0.025755743980407714,
+        "sd_delta_H": 0.08705852170434797
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.07763612270355225,
+        "delta_H_bits": -0.1611318588256836
+      },
+      "bend": {
+        "delta_C_rad": 0.07763616740703583,
+        "delta_H_bits": 0.25455188751220703
+      }
+    }
+  },
+  {
+    "sample": 2,
+    "context_endpoint": 37,
+    "passage_tokens": 74,
+    "scale": 17.51605987548828,
+    "baseline_entropy_bits": 3.214937925338745,
+    "suffix_baseline_entropy_error": -6.4373016357421875e-06,
+    "suffix_baseline_logit_maxerror": 4.38690185546875e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.038836552237749684,
+        "sd_delta_C": 0.0011041215620934963,
+        "mean_delta_C": -0.0017165712779387832,
+        "mean_delta_H": 0.002824126879374186,
+        "sd_delta_H": 0.03641311933786157
+      },
+      "random2": {
+        "raw_r": -0.21337257563764161,
+        "sd_delta_C": 0.0012073824182152748,
+        "mean_delta_C": -0.0016806123312562704,
+        "mean_delta_H": -0.00970653772354126,
+        "sd_delta_H": 0.09599800929337633
+      },
+      "activation2": {
+        "raw_r": -0.8850083770930166,
+        "sd_delta_C": 0.0103164566680789,
+        "mean_delta_C": -0.0009101541945710778,
+        "mean_delta_H": 0.0010299897193908692,
+        "sd_delta_H": 0.019852574222415043
+      },
+      "trajectory2": {
+        "raw_r": -0.3471763096150041,
+        "sd_delta_C": 0.008226891979575157,
+        "mean_delta_C": -0.0007786125643178821,
+        "mean_delta_H": 0.0023317742347717285,
+        "sd_delta_H": 0.038742863216615527
+      },
+      "planar2": {
+        "raw_r": -0.05415498147279021,
+        "sd_delta_C": 0.03221167251467705,
+        "mean_delta_C": -0.0014682430773973465,
+        "mean_delta_H": 9.903589884440104e-05,
+        "sd_delta_H": 0.02696171312167769
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 3.502050560655334e-08,
+        "mean_delta_C": -0.001741229323670268,
+        "mean_delta_H": -0.00014178911844889324,
+        "sd_delta_H": 0.034998446238990046
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.04409833997488022,
+        "delta_H_bits": 0.0030624866485595703
+      },
+      "bend": {
+        "delta_C_rad": 0.0440983772277832,
+        "delta_H_bits": 0.005723237991333008
+      }
+    }
+  },
+  {
+    "sample": 3,
+    "context_endpoint": 40,
+    "passage_tokens": 81,
+    "scale": 23.13385772705078,
+    "baseline_entropy_bits": 9.746353149414062,
+    "suffix_baseline_entropy_error": -1.9073486328125e-06,
+    "suffix_baseline_logit_maxerror": 2.86102294921875e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.06336804452883914,
+        "sd_delta_C": 0.001452732365578413,
+        "mean_delta_C": -0.002737052971497178,
+        "mean_delta_H": -0.017428471247355144,
+        "sd_delta_H": 0.07263877707396531
+      },
+      "random2": {
+        "raw_r": 0.6960728473075505,
+        "sd_delta_C": 0.0007353781838901341,
+        "mean_delta_C": -0.002764148637652397,
+        "mean_delta_H": -0.007820027669270833,
+        "sd_delta_H": 0.07384571852389048
+      },
+      "activation2": {
+        "raw_r": 0.37355302113407934,
+        "sd_delta_C": 0.008713106624782085,
+        "mean_delta_C": -0.0028172361198812723,
+        "mean_delta_H": -0.013932358423868816,
+        "sd_delta_H": 0.06734310880127324
+      },
+      "trajectory2": {
+        "raw_r": -0.9309578565135572,
+        "sd_delta_C": 0.014513256028294563,
+        "mean_delta_C": -0.003404725342988968,
+        "mean_delta_H": 0.0009346612294514974,
+        "sd_delta_H": 0.028856360053693936
+      },
+      "planar2": {
+        "raw_r": -0.9652208286031313,
+        "sd_delta_C": 0.040662527084350586,
+        "mean_delta_C": 0.0043648723512887955,
+        "mean_delta_H": -0.031329838434855144,
+        "sd_delta_H": 0.12967697162752195
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 3.904925449660368e-08,
+        "mean_delta_C": -0.0028147371485829353,
+        "mean_delta_H": -0.015788195927937825,
+        "sd_delta_H": 0.0747241619950601
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.05687105655670166,
+        "delta_H_bits": 0.12989425659179688
+      },
+      "bend": {
+        "delta_C_rad": 0.05687093734741211,
+        "delta_H_bits": -0.2344818115234375
+      }
+    }
+  },
+  {
+    "sample": 4,
+    "context_endpoint": 39,
+    "passage_tokens": 78,
+    "scale": 16.262562561035157,
+    "baseline_entropy_bits": 0.11045422405004501,
+    "suffix_baseline_entropy_error": -8.419156074523926e-07,
+    "suffix_baseline_logit_maxerror": 5.7220458984375e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.01719760847640076,
+        "sd_delta_C": 0.0012388803297653794,
+        "mean_delta_C": -0.0018337905639782548,
+        "mean_delta_H": 0.0005775440484285354,
+        "sd_delta_H": 0.004589169697192701
+      },
+      "random2": {
+        "raw_r": -0.480974563878361,
+        "sd_delta_C": 0.00031573139131069183,
+        "mean_delta_C": -0.001896148663945496,
+        "mean_delta_H": 0.00023223156730333965,
+        "sd_delta_H": 0.0008944304652517353
+      },
+      "activation2": {
+        "raw_r": -0.9274461948520593,
+        "sd_delta_C": 0.01715160720050335,
+        "mean_delta_C": -0.0025835137348622084,
+        "mean_delta_H": 0.0005644906808932622,
+        "sd_delta_H": 0.002276007586698156
+      },
+      "trajectory2": {
+        "raw_r": -0.9563003446956965,
+        "sd_delta_C": 0.012715509161353111,
+        "mean_delta_C": -0.0025763423182070255,
+        "mean_delta_H": 0.0005844750006993611,
+        "sd_delta_H": 0.0029846527235346644
+      },
+      "planar2": {
+        "raw_r": -0.25205041736911915,
+        "sd_delta_C": 0.03571043163537979,
+        "mean_delta_C": 0.0011387962149456143,
+        "mean_delta_H": -0.0003545359273751577,
+        "sd_delta_H": 0.007979945686999798
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 3.4924596548080444e-10,
+        "mean_delta_C": -0.0018896266119554639,
+        "mean_delta_H": -0.0001336251695950826,
+        "sd_delta_H": 0.004537524232821602
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.05015488713979721,
+        "delta_H_bits": 0.0013275295495986938
+      },
+      "bend": {
+        "delta_C_rad": 0.05015484616160393,
+        "delta_H_bits": -0.004284806549549103
+      }
+    }
+  },
+  {
+    "sample": 5,
+    "context_endpoint": 38,
+    "passage_tokens": 77,
+    "scale": 20.80883026123047,
+    "baseline_entropy_bits": 8.67380142211914,
+    "suffix_baseline_entropy_error": -2.86102294921875e-06,
+    "suffix_baseline_logit_maxerror": 3.814697265625e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.057233415358812705,
+        "sd_delta_C": 0.0012775944778695703,
+        "mean_delta_C": -0.003538569901138544,
+        "mean_delta_H": -0.0008408133188883463,
+        "sd_delta_H": 0.03634096337598744
+      },
+      "random2": {
+        "raw_r": -0.981372401517927,
+        "sd_delta_C": 0.0014514675131067634,
+        "mean_delta_C": -0.0035121513064950705,
+        "mean_delta_H": -0.0006049474080403646,
+        "sd_delta_H": 0.01676833172528364
+      },
+      "activation2": {
+        "raw_r": 0.9843735410592034,
+        "sd_delta_C": 0.01145179383456707,
+        "mean_delta_C": -0.0028956634923815727,
+        "mean_delta_H": 0.002694695790608724,
+        "sd_delta_H": 0.016098508633748163
+      },
+      "trajectory2": {
+        "raw_r": 0.5968400714038333,
+        "sd_delta_C": 0.005424988456070423,
+        "mean_delta_C": -0.002936318516731262,
+        "mean_delta_H": 0.002136211395263672,
+        "sd_delta_H": 0.028871120568033436
+      },
+      "planar2": {
+        "raw_r": 0.7561437234319108,
+        "sd_delta_C": 0.036130987107753754,
+        "mean_delta_C": 0.0014105552108958364,
+        "mean_delta_H": 0.013209374745686848,
+        "sd_delta_H": 0.05137499168205517
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 6.486747139433646e-09,
+        "mean_delta_C": -0.0034247238654643297,
+        "mean_delta_H": 0.004993810653686524,
+        "sd_delta_H": 0.03873596547256599
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.05279223248362541,
+        "delta_H_bits": -0.0387420654296875
+      },
+      "bend": {
+        "delta_C_rad": 0.052792154252529144,
+        "delta_H_bits": 0.07065105438232422
+      }
+    }
+  },
+  {
+    "sample": 6,
+    "context_endpoint": 47,
+    "passage_tokens": 95,
+    "scale": 27.39229431152344,
+    "baseline_entropy_bits": 7.83878755569458,
+    "suffix_baseline_entropy_error": 5.245208740234375e-06,
+    "suffix_baseline_logit_maxerror": 4.00543212890625e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.004733682882973623,
+        "sd_delta_C": 0.0019802055321633816,
+        "mean_delta_C": -0.0023961381521075964,
+        "mean_delta_H": 0.030688125292460122,
+        "sd_delta_H": 0.1618789602835131
+      },
+      "random2": {
+        "raw_r": 0.6401354805131703,
+        "sd_delta_C": 0.0005569697823375463,
+        "mean_delta_C": -0.002498531248420477,
+        "mean_delta_H": 0.038017951647440595,
+        "sd_delta_H": 0.0865617674446695
+      },
+      "activation2": {
+        "raw_r": 0.05727016667710128,
+        "sd_delta_C": 0.027821943163871765,
+        "mean_delta_C": 0.0007179573294706643,
+        "mean_delta_H": -0.03409461339314779,
+        "sd_delta_H": 0.14164092721077848
+      },
+      "trajectory2": {
+        "raw_r": -0.42167962574371626,
+        "sd_delta_C": 0.02976739965379238,
+        "mean_delta_C": 0.00021018921688664705,
+        "mean_delta_H": -0.006051712036132813,
+        "sd_delta_H": 0.11251862980806823
+      },
+      "planar2": {
+        "raw_r": -0.7836916209924117,
+        "sd_delta_C": 0.05651313439011574,
+        "mean_delta_C": -0.0028680311515927315,
+        "mean_delta_H": -0.019657217661539713,
+        "sd_delta_H": 0.11395490848953171
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 1.6215780718198403e-08,
+        "mean_delta_C": -0.002514331368729472,
+        "mean_delta_H": -0.00441747506459554,
+        "sd_delta_H": 0.17267523863968953
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.07797106355428696,
+        "delta_H_bits": 0.11466836929321289
+      },
+      "bend": {
+        "delta_C_rad": 0.07797102630138397,
+        "delta_H_bits": -0.10157585144042969
+      }
+    }
+  },
+  {
+    "sample": 7,
+    "context_endpoint": 41,
+    "passage_tokens": 82,
+    "scale": 21.758888244628906,
+    "baseline_entropy_bits": 5.0528740882873535,
+    "suffix_baseline_entropy_error": 5.245208740234375e-06,
+    "suffix_baseline_logit_maxerror": 3.62396240234375e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.02763398470769126,
+        "sd_delta_C": 0.0017376599134877324,
+        "mean_delta_C": -0.0022932409774512053,
+        "mean_delta_H": 0.020967841148376465,
+        "sd_delta_H": 0.1895843272197678
+      },
+      "random2": {
+        "raw_r": 0.8635925582251428,
+        "sd_delta_C": 0.001383341965265572,
+        "mean_delta_C": -0.0022357606794685125,
+        "mean_delta_H": 0.04798132101694743,
+        "sd_delta_H": 0.28399241355723176
+      },
+      "activation2": {
+        "raw_r": 0.8347036975817848,
+        "sd_delta_C": 0.0009564643842168152,
+        "mean_delta_C": -0.002266115043312311,
+        "mean_delta_H": 0.011042925516764323,
+        "sd_delta_H": 0.12261953616710566
+      },
+      "trajectory2": {
+        "raw_r": 0.9775487482037737,
+        "sd_delta_C": 0.004199753515422344,
+        "mean_delta_C": -0.00193120283074677,
+        "mean_delta_H": 0.012267359097798665,
+        "sd_delta_H": 0.12832420112332665
+      },
+      "planar2": {
+        "raw_r": -0.7839585707628542,
+        "sd_delta_C": 0.046839870512485504,
+        "mean_delta_C": 0.003078924724832177,
+        "mean_delta_H": -0.0022693602244059246,
+        "sd_delta_H": 0.4112371237634806
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 7.147180181021895e-09,
+        "mean_delta_C": -0.0022513880394399166,
+        "mean_delta_H": 0.010329004923502604,
+        "sd_delta_H": 0.19835373036817516
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.0672554224729538,
+        "delta_H_bits": 0.5145106315612793
+      },
+      "bend": {
+        "delta_C_rad": 0.0672554224729538,
+        "delta_H_bits": -0.43543577194213867
+      }
+    }
+  },
+  {
+    "sample": 8,
+    "context_endpoint": 39,
+    "passage_tokens": 79,
+    "scale": 20.890159606933594,
+    "baseline_entropy_bits": 3.933485269546509,
+    "suffix_baseline_entropy_error": 2.86102294921875e-06,
+    "suffix_baseline_logit_maxerror": 3.62396240234375e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.06934354109673678,
+        "sd_delta_C": 0.0012776852818205953,
+        "mean_delta_C": -0.0027337479405105114,
+        "mean_delta_H": 0.004110714594523112,
+        "sd_delta_H": 0.04414204713675903
+      },
+      "random2": {
+        "raw_r": 0.265604264772493,
+        "sd_delta_C": 0.0012975092977285385,
+        "mean_delta_C": -0.0027087582275271416,
+        "mean_delta_H": 0.01692776123682658,
+        "sd_delta_H": 0.09109150430963212
+      },
+      "activation2": {
+        "raw_r": 0.5728555476099284,
+        "sd_delta_C": 0.0018026793841272593,
+        "mean_delta_C": -0.0022697157692164183,
+        "mean_delta_H": 0.020216743151346844,
+        "sd_delta_H": 0.05933002036556544
+      },
+      "trajectory2": {
+        "raw_r": 0.7217358319260658,
+        "sd_delta_C": 0.015431350097060204,
+        "mean_delta_C": -0.0031755969393998384,
+        "mean_delta_H": 0.01735668659210205,
+        "sd_delta_H": 0.05468063309304459
+      },
+      "planar2": {
+        "raw_r": -0.3006030369845796,
+        "sd_delta_C": 0.03869828209280968,
+        "mean_delta_C": 0.00025547808036208153,
+        "mean_delta_H": 0.022682132720947264,
+        "sd_delta_H": 0.03841997780805091
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 1.835722152065955e-08,
+        "mean_delta_C": -0.0028218382503837347,
+        "mean_delta_H": 0.0008064015706380209,
+        "sd_delta_H": 0.04698380189053854
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.05412694066762924,
+        "delta_H_bits": 0.03348064422607422
+      },
+      "bend": {
+        "delta_C_rad": 0.05412697792053223,
+        "delta_H_bits": 0.014251232147216797
+      }
+    }
+  },
+  {
+    "sample": 9,
+    "context_endpoint": 41,
+    "passage_tokens": 83,
+    "scale": 20.405548095703125,
+    "baseline_entropy_bits": 2.3890953063964844,
+    "suffix_baseline_entropy_error": 1.430511474609375e-06,
+    "suffix_baseline_logit_maxerror": 4.57763671875e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.06636272979817008,
+        "sd_delta_C": 0.001398400985635817,
+        "mean_delta_C": -0.0020997219253331423,
+        "mean_delta_H": 0.011555884679158529,
+        "sd_delta_H": 0.04284241059821701
+      },
+      "random2": {
+        "raw_r": -0.9231585466793372,
+        "sd_delta_C": 0.0014972632052376866,
+        "mean_delta_C": -0.002155762165784836,
+        "mean_delta_H": 0.008753804365793864,
+        "sd_delta_H": 0.029066595333189962
+      },
+      "activation2": {
+        "raw_r": -0.7829422357930195,
+        "sd_delta_C": 0.010925640352070332,
+        "mean_delta_C": -0.0007391641847789288,
+        "mean_delta_H": 0.00032608826955159506,
+        "sd_delta_H": 0.01185089265828315
+      },
+      "trajectory2": {
+        "raw_r": -0.08643109301994079,
+        "sd_delta_C": 0.007326360326260328,
+        "mean_delta_C": -0.0022154543548822403,
+        "mean_delta_H": 0.0053717295328776045,
+        "sd_delta_H": 0.0024150086278975414
+      },
+      "planar2": {
+        "raw_r": 0.030083096463739176,
+        "sd_delta_C": 0.03953974321484566,
+        "mean_delta_C": -0.0008260742761194706,
+        "mean_delta_H": 0.03505863269170125,
+        "sd_delta_H": 0.09201336985887383
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 0.0,
+        "mean_delta_C": -0.0021222035866230726,
+        "mean_delta_H": 0.009918888409932455,
+        "sd_delta_H": 0.04132488986613908
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.055653415620326996,
+        "delta_H_bits": 0.027112960815429688
+      },
+      "bend": {
+        "delta_C_rad": 0.055653493851423264,
+        "delta_H_bits": 0.028557777404785156
+      }
+    }
+  },
+  {
+    "sample": 10,
+    "context_endpoint": 37,
+    "passage_tokens": 74,
+    "scale": 19.466555786132815,
+    "baseline_entropy_bits": 4.344587326049805,
+    "suffix_baseline_entropy_error": 2.384185791015625e-06,
+    "suffix_baseline_logit_maxerror": 3.24249267578125e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.022524845726528537,
+        "sd_delta_C": 0.001424399553798139,
+        "mean_delta_C": -0.0006769808242097497,
+        "mean_delta_H": 0.00020702521006266277,
+        "sd_delta_H": 0.05037905140039805
+      },
+      "random2": {
+        "raw_r": -0.7642857980595724,
+        "sd_delta_C": 0.0015363444108515978,
+        "mean_delta_C": -0.0006815714878030121,
+        "mean_delta_H": 0.010077133178710937,
+        "sd_delta_H": 0.0506746691466894
+      },
+      "activation2": {
+        "raw_r": -0.9589833325747272,
+        "sd_delta_C": 0.01939142495393753,
+        "mean_delta_C": -0.0004417758609633893,
+        "mean_delta_H": 0.002317946751912435,
+        "sd_delta_H": 0.02780758065681472
+      },
+      "trajectory2": {
+        "raw_r": -0.5516904149841598,
+        "sd_delta_C": 0.00676735769957304,
+        "mean_delta_C": -0.0007907077670097351,
+        "mean_delta_H": 0.0074646441141764325,
+        "sd_delta_H": 0.0411301677583375
+      },
+      "planar2": {
+        "raw_r": 0.7769451358576736,
+        "sd_delta_C": 0.04168185591697693,
+        "mean_delta_C": 0.0010118879145011306,
+        "mean_delta_H": 0.005719718933105469,
+        "sd_delta_H": 0.011424976151897531
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 0.0,
+        "mean_delta_C": -0.0007249514455907047,
+        "mean_delta_H": 0.0023640616734822593,
+        "sd_delta_H": 0.047960739835299866
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.057193320244550705,
+        "delta_H_bits": -0.008429527282714844
+      },
+      "bend": {
+        "delta_C_rad": 0.05719336122274399,
+        "delta_H_bits": 0.01847362518310547
+      }
+    }
+  },
+  {
+    "sample": 11,
+    "context_endpoint": 41,
+    "passage_tokens": 82,
+    "scale": 23.17318267822266,
+    "baseline_entropy_bits": 3.7303414344787598,
+    "suffix_baseline_entropy_error": -1.9073486328125e-06,
+    "suffix_baseline_logit_maxerror": 4.57763671875e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.07200346975327244,
+        "sd_delta_C": 0.001589994877576828,
+        "mean_delta_C": -0.0024349673185497522,
+        "mean_delta_H": 0.010318018595377605,
+        "sd_delta_H": 0.06313274277636818
+      },
+      "random2": {
+        "raw_r": 0.9318235673428014,
+        "sd_delta_C": 0.0005791336297988892,
+        "mean_delta_C": -0.0024224768858402967,
+        "mean_delta_H": 0.013760318756103515,
+        "sd_delta_H": 0.07544181594419011
+      },
+      "activation2": {
+        "raw_r": 0.6779472923402792,
+        "sd_delta_C": 0.01368245854973793,
+        "mean_delta_C": -0.002358328551054001,
+        "mean_delta_H": 0.0004086764653523763,
+        "sd_delta_H": 0.03230543643493734
+      },
+      "trajectory2": {
+        "raw_r": 0.9909418224401879,
+        "sd_delta_C": 0.014384248293936253,
+        "mean_delta_C": -0.0019438263261690736,
+        "mean_delta_H": 0.004330385526021322,
+        "sd_delta_H": 0.0409001601153567
+      },
+      "planar2": {
+        "raw_r": -0.6550188744441057,
+        "sd_delta_C": 0.04457349702715874,
+        "mean_delta_C": 0.0020361102651804686,
+        "mean_delta_H": -0.0012036490440368653,
+        "sd_delta_H": 0.07852743615559772
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 0.0,
+        "mean_delta_C": -0.002417365787550807,
+        "mean_delta_H": 0.009238930543263753,
+        "sd_delta_H": 0.05911957998125675
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.062216758728027344,
+        "delta_H_bits": 0.06758308410644531
+      },
+      "bend": {
+        "delta_C_rad": 0.06221672147512436,
+        "delta_H_bits": -0.08163595199584961
+      }
+    }
+  },
+  {
+    "sample": 12,
+    "context_endpoint": 43,
+    "passage_tokens": 87,
+    "scale": 23.72206726074219,
+    "baseline_entropy_bits": 7.1317009925842285,
+    "suffix_baseline_entropy_error": -8.58306884765625e-06,
+    "suffix_baseline_logit_maxerror": 3.24249267578125e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.028570897405812187,
+        "sd_delta_C": 0.00202934886328876,
+        "mean_delta_C": -0.002462149364873767,
+        "mean_delta_H": 0.0841719675064087,
+        "sd_delta_H": 0.2526589642484868
+      },
+      "random2": {
+        "raw_r": -0.2657435812409314,
+        "sd_delta_C": 0.0033580265007913113,
+        "mean_delta_C": -0.0025627759750932455,
+        "mean_delta_H": 0.06287865320841471,
+        "sd_delta_H": 0.1747392675093706
+      },
+      "activation2": {
+        "raw_r": -0.12154168564369365,
+        "sd_delta_C": 0.024985114112496376,
+        "mean_delta_C": -0.003330930834636092,
+        "mean_delta_H": 0.015220678647359213,
+        "sd_delta_H": 0.12631873842521885
+      },
+      "trajectory2": {
+        "raw_r": -0.9947031262730187,
+        "sd_delta_C": 0.01870696246623993,
+        "mean_delta_C": -0.0018531978130340576,
+        "mean_delta_H": 0.023557674090067544,
+        "sd_delta_H": 0.10080063640256132
+      },
+      "planar2": {
+        "raw_r": -0.8289864539791678,
+        "sd_delta_C": 0.060623422265052795,
+        "mean_delta_C": -0.002525086048990488,
+        "mean_delta_H": 0.10819842020670573,
+        "sd_delta_H": 0.11323149480876063
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 9.459860450533597e-09,
+        "mean_delta_C": -0.0024640143383294344,
+        "mean_delta_H": 0.06266787211100261,
+        "sd_delta_H": 0.2343276944184501
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.08143346011638641,
+        "delta_H_bits": 0.16793537139892578
+      },
+      "bend": {
+        "delta_C_rad": 0.08143341541290283,
+        "delta_H_bits": -0.08176708221435547
+      }
+    }
+  },
+  {
+    "sample": 13,
+    "context_endpoint": 34,
+    "passage_tokens": 68,
+    "scale": 22.416340637207032,
+    "baseline_entropy_bits": 1.4718912839889526,
+    "suffix_baseline_entropy_error": -1.9073486328125e-06,
+    "suffix_baseline_logit_maxerror": 4.57763671875e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.11346716522634316,
+        "sd_delta_C": 0.0015622589271515608,
+        "mean_delta_C": -0.001948136487044394,
+        "mean_delta_H": 0.008549983104070027,
+        "sd_delta_H": 0.0393996113123973
+      },
+      "random2": {
+        "raw_r": 0.9050701537267896,
+        "sd_delta_C": 0.0011850075097754598,
+        "mean_delta_C": -0.0018683318048715591,
+        "mean_delta_H": 0.005081729491551717,
+        "sd_delta_H": 0.06286238592078508
+      },
+      "activation2": {
+        "raw_r": -0.4987837006172935,
+        "sd_delta_C": 0.012918606400489807,
+        "mean_delta_C": -0.0018135732971131802,
+        "mean_delta_H": 0.0004964196681976319,
+        "sd_delta_H": 0.04193979612452671
+      },
+      "trajectory2": {
+        "raw_r": -0.9475759376251773,
+        "sd_delta_C": 0.005305542144924402,
+        "mean_delta_C": -0.0018468237249180675,
+        "mean_delta_H": 0.0025456841786702473,
+        "sd_delta_H": 0.02966081114402813
+      },
+      "planar2": {
+        "raw_r": -0.9393303957082235,
+        "sd_delta_C": 0.042173102498054504,
+        "mean_delta_C": 0.00026651978259906173,
+        "mean_delta_H": 0.01648213227589925,
+        "sd_delta_H": 0.027375951988865544
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 0.0,
+        "mean_delta_C": -0.0019212564220651984,
+        "mean_delta_H": 0.0028674344221750895,
+        "sd_delta_H": 0.039392295071038835
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.06001170724630356,
+        "delta_H_bits": 0.04719841480255127
+      },
+      "bend": {
+        "delta_C_rad": 0.060011666268110275,
+        "delta_H_bits": -0.02240467071533203
+      }
+    }
+  },
+  {
+    "sample": 14,
+    "context_endpoint": 44,
+    "passage_tokens": 89,
+    "scale": 20.83562469482422,
+    "baseline_entropy_bits": 6.390901565551758,
+    "suffix_baseline_entropy_error": 5.245208740234375e-06,
+    "suffix_baseline_logit_maxerror": 3.4332275390625e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.016860576651444727,
+        "sd_delta_C": 0.0012833606451749802,
+        "mean_delta_C": -0.0018487325869500637,
+        "mean_delta_H": -0.0011029386520385743,
+        "sd_delta_H": 0.19573144108196514
+      },
+      "random2": {
+        "raw_r": -0.038608245978624056,
+        "sd_delta_C": 0.0004328292852733284,
+        "mean_delta_C": -0.0018761312821879983,
+        "mean_delta_H": -0.013094870249430339,
+        "sd_delta_H": 0.05893422677878279
+      },
+      "activation2": {
+        "raw_r": -0.16527874946985743,
+        "sd_delta_C": 0.0032974195200949907,
+        "mean_delta_C": -0.0019838991574943066,
+        "mean_delta_H": 0.02010735829671224,
+        "sd_delta_H": 0.11737181890190485
+      },
+      "trajectory2": {
+        "raw_r": -0.9719721879187856,
+        "sd_delta_C": 0.003358607878908515,
+        "mean_delta_C": -0.0019258999964222312,
+        "mean_delta_H": -0.011678403218587239,
+        "sd_delta_H": 0.17283672591563515
+      },
+      "planar2": {
+        "raw_r": 0.9592883316782019,
+        "sd_delta_C": 0.03593599051237106,
+        "mean_delta_C": 0.0002334915625397116,
+        "mean_delta_H": -0.05800045490264893,
+        "sd_delta_H": 0.257804012355584
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 0.0,
+        "mean_delta_C": -0.0018856525421142578,
+        "mean_delta_H": -0.012397405306498209,
+        "sd_delta_H": 0.19878005539945964
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.04942778870463371,
+        "delta_H_bits": -0.3447561264038086
+      },
+      "bend": {
+        "delta_C_rad": 0.04942774772644043,
+        "delta_H_bits": 0.3053750991821289
+      }
+    }
+  },
+  {
+    "sample": 15,
+    "context_endpoint": 36,
+    "passage_tokens": 72,
+    "scale": 21.09237518310547,
+    "baseline_entropy_bits": 10.133932113647461,
+    "suffix_baseline_entropy_error": 1.9073486328125e-06,
+    "suffix_baseline_logit_maxerror": 3.24249267578125e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.06857601498246045,
+        "sd_delta_C": 0.0019425081554800272,
+        "mean_delta_C": -0.0028519476763904095,
+        "mean_delta_H": -0.002810227076212565,
+        "sd_delta_H": 0.07910493665993455
+      },
+      "random2": {
+        "raw_r": 0.9794113663915084,
+        "sd_delta_C": 0.001432020915672183,
+        "mean_delta_C": -0.002928216941654682,
+        "mean_delta_H": -0.0008304309844970703,
+        "sd_delta_H": 0.021542458454547466
+      },
+      "activation2": {
+        "raw_r": -0.3084665534663251,
+        "sd_delta_C": 0.005711445584893227,
+        "mean_delta_C": -0.001976318657398224,
+        "mean_delta_H": 0.001922906239827474,
+        "sd_delta_H": 0.04576153225289273
+      },
+      "trajectory2": {
+        "raw_r": 0.7397159629322941,
+        "sd_delta_C": 0.005331164225935936,
+        "mean_delta_C": -0.002437314484268427,
+        "mean_delta_H": -0.003970502217610677,
+        "sd_delta_H": 0.07298022125249205
+      },
+      "planar2": {
+        "raw_r": 0.9855264706183438,
+        "sd_delta_C": 0.05441928282380104,
+        "mean_delta_C": -0.005396561697125435,
+        "mean_delta_H": -0.03856106758117676,
+        "sd_delta_H": 0.2225379650053745
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 1.9276258811373737e-08,
+        "mean_delta_C": -0.002902254229411483,
+        "mean_delta_H": -0.0012006441752115886,
+        "sd_delta_H": 0.07432746327088777
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.07599346339702606,
+        "delta_H_bits": -0.350494384765625
+      },
+      "bend": {
+        "delta_C_rad": 0.07599346339702606,
+        "delta_H_bits": 0.2717428207397461
+      }
+    }
+  },
+  {
+    "sample": 16,
+    "context_endpoint": 40,
+    "passage_tokens": 81,
+    "scale": 19.611114501953125,
+    "baseline_entropy_bits": 4.863076210021973,
+    "suffix_baseline_entropy_error": -1.1444091796875e-05,
+    "suffix_baseline_logit_maxerror": 4.9591064453125e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.09456613131264045,
+        "sd_delta_C": 0.0016412150580435991,
+        "mean_delta_C": -0.004606042522937059,
+        "mean_delta_H": 0.010551118850708007,
+        "sd_delta_H": 0.05741205925850934
+      },
+      "random2": {
+        "raw_r": -0.21156543052580948,
+        "sd_delta_C": 0.0011812588199973106,
+        "mean_delta_C": -0.004651869181543589,
+        "mean_delta_H": 0.004637440045674642,
+        "sd_delta_H": 0.030886786766133857
+      },
+      "activation2": {
+        "raw_r": -0.8476783887560592,
+        "sd_delta_C": 0.00645024748519063,
+        "mean_delta_C": -0.0034654096234589815,
+        "mean_delta_H": 0.015029341379801432,
+        "sd_delta_H": 0.02036689787044854
+      },
+      "trajectory2": {
+        "raw_r": -0.3081285316662097,
+        "sd_delta_C": 0.009521129541099072,
+        "mean_delta_C": -0.005373724270612001,
+        "mean_delta_H": 0.009843967755635579,
+        "sd_delta_H": 0.05653562317469869
+      },
+      "planar2": {
+        "raw_r": -0.8934773065545627,
+        "sd_delta_C": 0.044444162398576736,
+        "mean_delta_C": -0.00047450046986341476,
+        "mean_delta_H": 0.004259133338928222,
+        "sd_delta_H": 0.05854245842279154
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 1.789230452686752e-08,
+        "mean_delta_C": -0.00472474517300725,
+        "mean_delta_H": 0.01160985787709554,
+        "sd_delta_H": 0.06315784930391902
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.06440035998821259,
+        "delta_H_bits": 0.08002185821533203
+      },
+      "bend": {
+        "delta_C_rad": 0.06440035998821259,
+        "delta_H_bits": -0.07959127426147461
+      }
+    }
+  },
+  {
+    "sample": 17,
+    "context_endpoint": 64,
+    "passage_tokens": 129,
+    "scale": 38.217254638671875,
+    "baseline_entropy_bits": 0.28200316429138184,
+    "suffix_baseline_entropy_error": -3.3080577850341797e-06,
+    "suffix_baseline_logit_maxerror": 3.0517578125e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.1225731621964003,
+        "sd_delta_C": 0.002240230096504092,
+        "mean_delta_C": -0.011011608876287937,
+        "mean_delta_H": 0.06755752836664518,
+        "sd_delta_H": 0.07910743957225816
+      },
+      "random2": {
+        "raw_r": -0.5309515909858458,
+        "sd_delta_C": 0.003352754283696413,
+        "mean_delta_C": -0.010596871376037598,
+        "mean_delta_H": 0.044675843367973964,
+        "sd_delta_H": 0.08303010666422758
+      },
+      "activation2": {
+        "raw_r": -0.7113711632554109,
+        "sd_delta_C": 0.003672054735943675,
+        "mean_delta_C": -0.010473507456481457,
+        "mean_delta_H": 0.08893877064188321,
+        "sd_delta_H": 0.10802669198183756
+      },
+      "trajectory2": {
+        "raw_r": -0.3574090658821849,
+        "sd_delta_C": 0.0016300211427733302,
+        "mean_delta_C": -0.010805793106555939,
+        "mean_delta_H": 0.13176909998059272,
+        "sd_delta_H": 0.14886281533538087
+      },
+      "planar2": {
+        "raw_r": 0.3642133866555083,
+        "sd_delta_C": 0.07047617435455322,
+        "mean_delta_C": -0.004330595023930073,
+        "mean_delta_H": 0.30862553641200063,
+        "sd_delta_H": 0.4042519726056064
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 3.126480052628722e-08,
+        "mean_delta_C": -0.010955795645713806,
+        "mean_delta_H": 0.06828633358081182,
+        "sd_delta_H": 0.08393839474461444
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.09464140981435776,
+        "delta_H_bits": -0.0004488527774810791
+      },
+      "bend": {
+        "delta_C_rad": 0.09464144706726074,
+        "delta_H_bits": 0.33726829290390015
+      }
+    }
+  },
+  {
+    "sample": 18,
+    "context_endpoint": 33,
+    "passage_tokens": 66,
+    "scale": 20.171174621582033,
+    "baseline_entropy_bits": 6.327591896057129,
+    "suffix_baseline_entropy_error": -3.337860107421875e-06,
+    "suffix_baseline_logit_maxerror": 4.57763671875e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.05600830668988569,
+        "sd_delta_C": 0.002039077691733837,
+        "mean_delta_C": -0.0029792606364935637,
+        "mean_delta_H": -0.00010360399881998698,
+        "sd_delta_H": 0.08694408621994146
+      },
+      "random2": {
+        "raw_r": 0.5803600890543273,
+        "sd_delta_C": 0.000700972625054419,
+        "mean_delta_C": -0.0028637079522013664,
+        "mean_delta_H": 0.0055464061101277665,
+        "sd_delta_H": 0.11946352632377956
+      },
+      "activation2": {
+        "raw_r": 0.8113767425967428,
+        "sd_delta_C": 0.018750671297311783,
+        "mean_delta_C": 0.00042215094435960054,
+        "mean_delta_H": 0.005994137128194173,
+        "sd_delta_H": 0.011137824700763806
+      },
+      "trajectory2": {
+        "raw_r": 0.7733871249779155,
+        "sd_delta_C": 0.022037869319319725,
+        "mean_delta_C": -0.002544075483456254,
+        "mean_delta_H": 0.004713349342346192,
+        "sd_delta_H": 0.026502266847140438
+      },
+      "planar2": {
+        "raw_r": -0.28258052947006684,
+        "sd_delta_C": 0.06014540418982506,
+        "mean_delta_C": -0.00532723730430007,
+        "mean_delta_H": 0.006333835919698079,
+        "sd_delta_H": 0.1480753601510975
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 1.950531647310072e-08,
+        "mean_delta_C": -0.002783560659736395,
+        "mean_delta_H": 0.005208376248677571,
+        "sd_delta_H": 0.08491665353408256
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.08355450630187988,
+        "delta_H_bits": 0.04084587097167969
+      },
+      "bend": {
+        "delta_C_rad": 0.08355458825826645,
+        "delta_H_bits": -0.030887603759765625
+      }
+    }
+  },
+  {
+    "sample": 19,
+    "context_endpoint": 30,
+    "passage_tokens": 60,
+    "scale": 21.356439208984376,
+    "baseline_entropy_bits": 5.5736823081970215,
+    "suffix_baseline_entropy_error": 7.62939453125e-06,
+    "suffix_baseline_logit_maxerror": 3.814697265625e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.07054773801142443,
+        "sd_delta_C": 0.001800987753085792,
+        "mean_delta_C": -0.00283138919621706,
+        "mean_delta_H": 0.04204337596893311,
+        "sd_delta_H": 0.21819197476862107
+      },
+      "random2": {
+        "raw_r": 0.9600573045465448,
+        "sd_delta_C": 0.0005356257315725088,
+        "mean_delta_C": -0.002715069567784667,
+        "mean_delta_H": 0.059422602653503416,
+        "sd_delta_H": 0.16202726727847877
+      },
+      "activation2": {
+        "raw_r": -0.9829033927741364,
+        "sd_delta_C": 0.010467934422194958,
+        "mean_delta_C": -0.0030122115276753902,
+        "mean_delta_H": 0.02367849667867025,
+        "sd_delta_H": 0.09445200773208688
+      },
+      "trajectory2": {
+        "raw_r": -0.5675972645342149,
+        "sd_delta_C": 0.018514534458518028,
+        "mean_delta_C": -0.003353704232722521,
+        "mean_delta_H": 0.03197528839111328,
+        "sd_delta_H": 0.09876510683144907
+      },
+      "planar2": {
+        "raw_r": -0.30497686452965084,
+        "sd_delta_C": 0.0528176985681057,
+        "mean_delta_C": -0.0014672571560367942,
+        "mean_delta_H": 0.011505656242370606,
+        "sd_delta_H": 0.05632516733602955
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 0.0,
+        "mean_delta_C": -0.0027112960815429688,
+        "mean_delta_H": 0.055111751556396485,
+        "sd_delta_H": 0.20772050491735666
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.07279475778341293,
+        "delta_H_bits": 0.08346796035766602
+      },
+      "bend": {
+        "delta_C_rad": 0.07279472053050995,
+        "delta_H_bits": 0.04450845718383789
+      }
+    }
+  },
+  {
+    "sample": 20,
+    "context_endpoint": 34,
+    "passage_tokens": 68,
+    "scale": 18.009266662597657,
+    "baseline_entropy_bits": 8.238494873046875,
+    "suffix_baseline_entropy_error": 1.9073486328125e-06,
+    "suffix_baseline_logit_maxerror": 3.814697265625e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.05810901949688907,
+        "sd_delta_C": 0.0014896580250933766,
+        "mean_delta_C": -0.004364922642707825,
+        "mean_delta_H": -0.006875778834025065,
+        "sd_delta_H": 0.04487075523814092
+      },
+      "random2": {
+        "raw_r": 0.11226021054861567,
+        "sd_delta_C": 0.0014739760663360357,
+        "mean_delta_C": -0.0041348133236169815,
+        "mean_delta_H": -0.013091058731079101,
+        "sd_delta_H": 0.01965979557478958
+      },
+      "activation2": {
+        "raw_r": -0.13091785764865124,
+        "sd_delta_C": 0.004469539504498243,
+        "mean_delta_C": -0.0042176032438874245,
+        "mean_delta_H": 0.0009430408477783203,
+        "sd_delta_H": 0.03216450210434661
+      },
+      "trajectory2": {
+        "raw_r": -0.1662106101342044,
+        "sd_delta_C": 0.00482490798458457,
+        "mean_delta_C": -0.0040113665163517,
+        "mean_delta_H": 0.0002249304453531901,
+        "sd_delta_H": 0.020667516469539057
+      },
+      "planar2": {
+        "raw_r": -0.6995649652644977,
+        "sd_delta_C": 0.043362829834222794,
+        "mean_delta_C": 0.00032127698068507016,
+        "mean_delta_H": -0.019799807866414387,
+        "sd_delta_H": 0.02575099340560199
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 3.205058973776431e-08,
+        "mean_delta_C": -0.00420362176373601,
+        "mean_delta_H": -0.009407135645548502,
+        "sd_delta_H": 0.04288836914996847
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.05864803120493889,
+        "delta_H_bits": 0.0009622573852539062
+      },
+      "bend": {
+        "delta_C_rad": 0.058648109436035156,
+        "delta_H_bits": -0.051230430603027344
+      }
+    }
+  },
+  {
+    "sample": 21,
+    "context_endpoint": 38,
+    "passage_tokens": 76,
+    "scale": 25.392662048339844,
+    "baseline_entropy_bits": 4.698770999908447,
+    "suffix_baseline_entropy_error": 2.6226043701171875e-05,
+    "suffix_baseline_logit_maxerror": 3.62396240234375e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.038946971611023375,
+        "sd_delta_C": 0.002027747221291065,
+        "mean_delta_C": -0.0003950072859879583,
+        "mean_delta_H": 0.05335340181986491,
+        "sd_delta_H": 0.18977206116143072
+      },
+      "random2": {
+        "raw_r": 0.9549578509108216,
+        "sd_delta_C": 0.002350594149902463,
+        "mean_delta_C": -0.0006362179992720485,
+        "mean_delta_H": 0.03127061049143473,
+        "sd_delta_H": 0.06426869141106394
+      },
+      "activation2": {
+        "raw_r": -0.34127439893514333,
+        "sd_delta_C": 0.025870660319924355,
+        "mean_delta_C": 0.0006813300424255431,
+        "mean_delta_H": 0.007719136873881022,
+        "sd_delta_H": 0.10052646355738785
+      },
+      "trajectory2": {
+        "raw_r": -0.9203962971272635,
+        "sd_delta_C": 0.023299947381019592,
+        "mean_delta_C": -5.875061106053181e-05,
+        "mean_delta_H": 0.04569859345753988,
+        "sd_delta_H": 0.18914708903934196
+      },
+      "planar2": {
+        "raw_r": 0.9732762390093402,
+        "sd_delta_C": 0.05456780269742012,
+        "mean_delta_C": 0.0022938239853829145,
+        "mean_delta_H": 0.048214534123738606,
+        "sd_delta_H": 0.2650609720158958
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 0.0,
+        "mean_delta_C": -0.0004968643188476562,
+        "mean_delta_H": 0.046087433497111,
+        "sd_delta_H": 0.1869710266113206
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.07637389749288559,
+        "delta_H_bits": -0.2918539047241211
+      },
+      "bend": {
+        "delta_C_rad": 0.0763738602399826,
+        "delta_H_bits": 0.44951581954956055
+      }
+    }
+  },
+  {
+    "sample": 22,
+    "context_endpoint": 41,
+    "passage_tokens": 83,
+    "scale": 20.61622314453125,
+    "baseline_entropy_bits": 0.7634157538414001,
+    "suffix_baseline_entropy_error": 4.172325134277344e-07,
+    "suffix_baseline_logit_maxerror": 3.4332275390625e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.031216999436258892,
+        "sd_delta_C": 0.0017413151217624545,
+        "mean_delta_C": -0.001423236564733088,
+        "mean_delta_H": 0.02995578537384669,
+        "sd_delta_H": 0.10488092379567193
+      },
+      "random2": {
+        "raw_r": -0.7372512929752908,
+        "sd_delta_C": 0.001494028721936047,
+        "mean_delta_C": -0.0014160802820697427,
+        "mean_delta_H": 0.018614891370137533,
+        "sd_delta_H": 0.06768664738996913
+      },
+      "activation2": {
+        "raw_r": 0.1845441204955286,
+        "sd_delta_C": 0.004503338597714901,
+        "mean_delta_C": -0.0013143843971192837,
+        "mean_delta_H": 0.008731218973795573,
+        "sd_delta_H": 0.0649354607746622
+      },
+      "trajectory2": {
+        "raw_r": -0.49549713007075263,
+        "sd_delta_C": 0.006574719212949276,
+        "mean_delta_C": -0.0016008871607482433,
+        "mean_delta_H": 0.026086711287498475,
+        "sd_delta_H": 0.05899406777032865
+      },
+      "planar2": {
+        "raw_r": 0.5097408977564012,
+        "sd_delta_C": 0.05130636692047119,
+        "mean_delta_C": -0.0036156633868813515,
+        "mean_delta_H": 0.05627707084019979,
+        "sd_delta_H": 0.1453846163001232
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 0.0,
+        "mean_delta_C": -0.0014293193817138672,
+        "mean_delta_H": 0.028889440894126893,
+        "sd_delta_H": 0.10289550063392272
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.06925018876791,
+        "delta_H_bits": -0.0659446120262146
+      },
+      "bend": {
+        "delta_C_rad": 0.06925018876791,
+        "delta_H_bits": 0.13274258375167847
+      }
+    }
+  },
+  {
+    "sample": 23,
+    "context_endpoint": 41,
+    "passage_tokens": 83,
+    "scale": 23.397415161132812,
+    "baseline_entropy_bits": 4.890301704406738,
+    "suffix_baseline_entropy_error": 0.0,
+    "suffix_baseline_logit_maxerror": 3.4332275390625e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.039418090206318666,
+        "sd_delta_C": 0.002106347354128957,
+        "mean_delta_C": -0.005051068030297756,
+        "mean_delta_H": 0.03975890477498372,
+        "sd_delta_H": 0.14570177741261203
+      },
+      "random2": {
+        "raw_r": -0.9319267828403064,
+        "sd_delta_C": 0.001300137140788138,
+        "mean_delta_C": -0.0048443106934428215,
+        "mean_delta_H": 0.03973579406738281,
+        "sd_delta_H": 0.051813784987982114
+      },
+      "activation2": {
+        "raw_r": -0.2132160034327188,
+        "sd_delta_C": 0.015519950538873672,
+        "mean_delta_C": -0.0032946921419352293,
+        "mean_delta_H": 0.011634184519449869,
+        "sd_delta_H": 0.1212573024044491
+      },
+      "trajectory2": {
+        "raw_r": -0.9073087750283276,
+        "sd_delta_C": 0.014585689641535282,
+        "mean_delta_C": -0.004428556654602289,
+        "mean_delta_H": 0.011570440928141275,
+        "sd_delta_H": 0.06586867104232483
+      },
+      "planar2": {
+        "raw_r": -0.931389197217997,
+        "sd_delta_C": 0.06286759674549103,
+        "mean_delta_C": -0.0045794169418513775,
+        "mean_delta_H": -0.07156975587209066,
+        "sd_delta_H": 0.41228801193508696
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 1.0738516742492266e-08,
+        "mean_delta_C": -0.0050365496426820755,
+        "mean_delta_H": 0.028550397555033365,
+        "sd_delta_H": 0.1338296024925514
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.08794888108968735,
+        "delta_H_bits": 0.32848167419433594
+      },
+      "bend": {
+        "delta_C_rad": 0.08794888108968735,
+        "delta_H_bits": -0.6825957298278809
+      }
+    }
+  },
+  {
+    "sample": 24,
+    "context_endpoint": 40,
+    "passage_tokens": 80,
+    "scale": 20.228941345214846,
+    "baseline_entropy_bits": 2.2546911239624023,
+    "suffix_baseline_entropy_error": 1.6689300537109375e-06,
+    "suffix_baseline_logit_maxerror": 3.814697265625e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.015194369241721975,
+        "sd_delta_C": 0.0012107047950848937,
+        "mean_delta_C": -0.0033430687617510557,
+        "mean_delta_H": 0.018915181159973146,
+        "sd_delta_H": 0.08560664377313733
+      },
+      "random2": {
+        "raw_r": -0.2168987785886936,
+        "sd_delta_C": 0.0007515943725593388,
+        "mean_delta_C": -0.003380284644663334,
+        "mean_delta_H": 0.028576192855834962,
+        "sd_delta_H": 0.10967385961975479
+      },
+      "activation2": {
+        "raw_r": -0.6599959483739717,
+        "sd_delta_C": 0.0038294538389891386,
+        "mean_delta_C": -0.0032226042822003365,
+        "mean_delta_H": 0.006574530601501465,
+        "sd_delta_H": 0.0350791094933691
+      },
+      "trajectory2": {
+        "raw_r": 0.12132708133583661,
+        "sd_delta_C": 0.002735039684921503,
+        "mean_delta_C": -0.003482840023934841,
+        "mean_delta_H": 0.0020211180051167804,
+        "sd_delta_H": 0.046437142397207115
+      },
+      "planar2": {
+        "raw_r": -0.6796634399737723,
+        "sd_delta_C": 0.039594799280166626,
+        "mean_delta_C": -0.0014341530622914433,
+        "mean_delta_H": -0.009865616162618001,
+        "sd_delta_H": 0.07091469128673321
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 0.0,
+        "mean_delta_C": -0.0033228397369384766,
+        "mean_delta_H": 0.015872187614440918,
+        "sd_delta_H": 0.09009480583231148
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.05315367504954338,
+        "delta_H_bits": 0.025853395462036133
+      },
+      "bend": {
+        "delta_C_rad": 0.05315375328063965,
+        "delta_H_bits": -0.12621641159057617
+      }
+    }
+  },
+  {
+    "sample": 25,
+    "context_endpoint": 38,
+    "passage_tokens": 77,
+    "scale": 21.4881103515625,
+    "baseline_entropy_bits": 6.834646224975586,
+    "suffix_baseline_entropy_error": 3.337860107421875e-06,
+    "suffix_baseline_logit_maxerror": 4.38690185546875e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.07509522433134888,
+        "sd_delta_C": 0.0018052938394248486,
+        "mean_delta_C": -0.005655902437865734,
+        "mean_delta_H": 0.0022054560979207355,
+        "sd_delta_H": 0.04845395974466736
+      },
+      "random2": {
+        "raw_r": -0.9778270309806574,
+        "sd_delta_C": 0.00237569073215127,
+        "mean_delta_C": -0.005450224503874779,
+        "mean_delta_H": -0.015028290748596192,
+        "sd_delta_H": 0.05890637086261882
+      },
+      "activation2": {
+        "raw_r": 0.3213014800765462,
+        "sd_delta_C": 0.008655487559735775,
+        "mean_delta_C": -0.005710674915462732,
+        "mean_delta_H": -0.007517174084981282,
+        "sd_delta_H": 0.060565513776507394
+      },
+      "trajectory2": {
+        "raw_r": 0.17788406155126837,
+        "sd_delta_C": 0.008234506472945213,
+        "mean_delta_C": -0.0048424117267131805,
+        "mean_delta_H": -0.0012453158696492514,
+        "sd_delta_H": 0.017775363260969602
+      },
+      "planar2": {
+        "raw_r": 0.7630564295041453,
+        "sd_delta_C": 0.05573787912726402,
+        "mean_delta_C": 0.0025345580652356148,
+        "mean_delta_H": -0.017418222427368166,
+        "sd_delta_H": 0.07851314569026932
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 1.5604031844418387e-08,
+        "mean_delta_C": -0.005817893426865339,
+        "mean_delta_H": -0.003107481002807617,
+        "sd_delta_H": 0.053607494994917355
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.07440193742513657,
+        "delta_H_bits": -0.0772395133972168
+      },
+      "bend": {
+        "delta_C_rad": 0.07440193742513657,
+        "delta_H_bits": 0.06939363479614258
+      }
+    }
+  },
+  {
+    "sample": 26,
+    "context_endpoint": 36,
+    "passage_tokens": 73,
+    "scale": 18.166233825683594,
+    "baseline_entropy_bits": 5.402679443359375,
+    "suffix_baseline_entropy_error": 2.86102294921875e-06,
+    "suffix_baseline_logit_maxerror": 4.76837158203125e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.03550865702594046,
+        "sd_delta_C": 0.001121190027333796,
+        "mean_delta_C": -0.0021556681022047997,
+        "mean_delta_H": 0.016679641405741373,
+        "sd_delta_H": 0.05568064483324452
+      },
+      "random2": {
+        "raw_r": 0.3289495927510951,
+        "sd_delta_C": 0.000624297943431884,
+        "mean_delta_C": -0.0021015815436840057,
+        "mean_delta_H": 0.021930398941040038,
+        "sd_delta_H": 0.040326473054610984
+      },
+      "activation2": {
+        "raw_r": 0.3459297542425607,
+        "sd_delta_C": 0.019324660301208496,
+        "mean_delta_C": -0.002306585665792227,
+        "mean_delta_H": 0.003951441446940104,
+        "sd_delta_H": 0.10467738065677464
+      },
+      "trajectory2": {
+        "raw_r": -0.2787459094057503,
+        "sd_delta_C": 0.013039584271609783,
+        "mean_delta_C": -0.0015777559019625187,
+        "mean_delta_H": 0.015844546953837076,
+        "sd_delta_H": 0.058428832308162475
+      },
+      "planar2": {
+        "raw_r": 0.17790869237093565,
+        "sd_delta_C": 0.03289780393242836,
+        "mean_delta_C": 0.0017842199886217713,
+        "mean_delta_H": 0.029415151278177898,
+        "sd_delta_H": 0.1009186922311775
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 0.0,
+        "mean_delta_C": -0.002055644989013672,
+        "mean_delta_H": 0.013429274559020996,
+        "sd_delta_H": 0.058418869463530435
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.04465969651937485,
+        "delta_H_bits": -0.0014643669128417969
+      },
+      "bend": {
+        "delta_C_rad": 0.04465969651937485,
+        "delta_H_bits": 0.04531097412109375
+      }
+    }
+  },
+  {
+    "sample": 27,
+    "context_endpoint": 44,
+    "passage_tokens": 88,
+    "scale": 21.797161865234376,
+    "baseline_entropy_bits": 8.263017654418945,
+    "suffix_baseline_entropy_error": -9.5367431640625e-07,
+    "suffix_baseline_logit_maxerror": 3.814697265625e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.04301677220589716,
+        "sd_delta_C": 0.0015255026519298553,
+        "mean_delta_C": -0.001816917210817337,
+        "mean_delta_H": -0.024095993041992187,
+        "sd_delta_H": 0.09451790732067351
+      },
+      "random2": {
+        "raw_r": -0.9941988848875334,
+        "sd_delta_C": 0.0012963201152160764,
+        "mean_delta_C": -0.0017531657358631492,
+        "mean_delta_H": -0.015875755945841473,
+        "sd_delta_H": 0.08877853976692861
+      },
+      "activation2": {
+        "raw_r": -0.10194434558336202,
+        "sd_delta_C": 0.011881120502948761,
+        "mean_delta_C": -0.0030778441578149796,
+        "mean_delta_H": -0.03370046933492025,
+        "sd_delta_H": 0.06919592491189176
+      },
+      "trajectory2": {
+        "raw_r": -0.9825352498060201,
+        "sd_delta_C": 0.007546096108853817,
+        "mean_delta_C": -0.001124902511946857,
+        "mean_delta_H": -0.010256783167521159,
+        "sd_delta_H": 0.0703858642102905
+      },
+      "planar2": {
+        "raw_r": -0.7678491495810538,
+        "sd_delta_C": 0.045117102563381195,
+        "mean_delta_C": -0.0007411432452499866,
+        "mean_delta_H": -0.06314833005269369,
+        "sd_delta_H": 0.15041168753298245
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 4.567043188075104e-09,
+        "mean_delta_C": -0.0017885363195091486,
+        "mean_delta_H": -0.017530059814453124,
+        "sd_delta_H": 0.08730585252669422
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.06335282325744629,
+        "delta_H_bits": 0.06744194030761719
+      },
+      "bend": {
+        "delta_C_rad": 0.06335282325744629,
+        "delta_H_bits": -0.21968746185302734
+      }
+    }
+  },
+  {
+    "sample": 28,
+    "context_endpoint": 35,
+    "passage_tokens": 71,
+    "scale": 17.69753875732422,
+    "baseline_entropy_bits": 0.006539743859320879,
+    "suffix_baseline_entropy_error": -1.4528632164001465e-07,
+    "suffix_baseline_logit_maxerror": 0.0001068115234375,
+    "families": {
+      "full": {
+        "raw_r": -0.0036223279398106788,
+        "sd_delta_C": 0.0014383906964212656,
+        "mean_delta_C": -0.0024100367445498705,
+        "mean_delta_H": -5.3932733523348966e-05,
+        "sd_delta_H": 0.00020410456920286045
+      },
+      "random2": {
+        "raw_r": -0.7399997236500334,
+        "sd_delta_C": 0.0015685465186834335,
+        "mean_delta_C": -0.0022326826583594084,
+        "mean_delta_H": -6.409489704916875e-05,
+        "sd_delta_H": 0.00021852953431468155
+      },
+      "activation2": {
+        "raw_r": 0.8191640129119758,
+        "sd_delta_C": 0.011119846254587173,
+        "mean_delta_C": -0.0025080435443669558,
+        "mean_delta_H": -4.7042105967799823e-05,
+        "sd_delta_H": 6.492362417172464e-05
+      },
+      "trajectory2": {
+        "raw_r": 0.7594393264099912,
+        "sd_delta_C": 0.008600306697189808,
+        "mean_delta_C": -0.002613130724057555,
+        "mean_delta_H": -3.6698255377511184e-05,
+        "sd_delta_H": 0.00012184925447287026
+      },
+      "planar2": {
+        "raw_r": 0.8636748771909959,
+        "sd_delta_C": 0.041407182812690735,
+        "mean_delta_C": 0.0016843898920342326,
+        "mean_delta_H": -7.677131642897924e-05,
+        "sd_delta_H": 0.00024183631804329325
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 3.5777127038727485e-08,
+        "mean_delta_C": -0.002423706231638789,
+        "mean_delta_H": -6.626362757136425e-05,
+        "sd_delta_H": 0.00020727643326250346
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.058665793389081955,
+        "delta_H_bits": -0.0003479854203760624
+      },
+      "bend": {
+        "delta_C_rad": 0.05866583436727524,
+        "delta_H_bits": 0.0002611856907606125
+      }
+    }
+  },
+  {
+    "sample": 29,
+    "context_endpoint": 39,
+    "passage_tokens": 78,
+    "scale": 25.408604431152344,
+    "baseline_entropy_bits": 7.851542949676514,
+    "suffix_baseline_entropy_error": -2.384185791015625e-06,
+    "suffix_baseline_logit_maxerror": 5.53131103515625e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.052438411606691354,
+        "sd_delta_C": 0.002874314086511731,
+        "mean_delta_C": -0.003236269112676382,
+        "mean_delta_H": 0.008037266731262207,
+        "sd_delta_H": 0.0501144977147277
+      },
+      "random2": {
+        "raw_r": 0.25814541981493944,
+        "sd_delta_C": 0.004551759455353022,
+        "mean_delta_C": -0.0029575172811746597,
+        "mean_delta_H": 0.007273629506429036,
+        "sd_delta_H": 0.018904659300066795
+      },
+      "activation2": {
+        "raw_r": -0.9421827329236363,
+        "sd_delta_C": 0.0025547354016453028,
+        "mean_delta_C": -0.0035274839028716087,
+        "mean_delta_H": -0.0013139788309733072,
+        "sd_delta_H": 0.06815261037892933
+      },
+      "trajectory2": {
+        "raw_r": 0.8226577941001468,
+        "sd_delta_C": 0.01344176847487688,
+        "mean_delta_C": -0.002502366667613387,
+        "mean_delta_H": 0.015678966840108235,
+        "sd_delta_H": 0.07908374585448082
+      },
+      "planar2": {
+        "raw_r": -0.10594398384051829,
+        "sd_delta_C": 0.0872671827673912,
+        "mean_delta_C": 0.00498017156496644,
+        "mean_delta_H": -0.04213627179463705,
+        "sd_delta_H": 0.06132436787434268
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 4.5973291840084585e-09,
+        "mean_delta_C": -0.0033947627525776625,
+        "mean_delta_H": 0.008630703290303549,
+        "sd_delta_H": 0.04761845048377846
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.11571896076202393,
+        "delta_H_bits": 0.03440570831298828
+      },
+      "bend": {
+        "delta_C_rad": 0.11571896076202393,
+        "delta_H_bits": -0.020769596099853516
+      }
+    }
+  },
+  {
+    "sample": 30,
+    "context_endpoint": 44,
+    "passage_tokens": 89,
+    "scale": 26.86239013671875,
+    "baseline_entropy_bits": 4.8069658279418945,
+    "suffix_baseline_entropy_error": 4.76837158203125e-06,
+    "suffix_baseline_logit_maxerror": 3.814697265625e-05,
+    "families": {
+      "full": {
+        "raw_r": 0.062317569950871524,
+        "sd_delta_C": 0.001559490105137229,
+        "mean_delta_C": -0.0049663507379591465,
+        "mean_delta_H": 0.10831886212031047,
+        "sd_delta_H": 0.322281022384991
+      },
+      "random2": {
+        "raw_r": -0.8613789401232618,
+        "sd_delta_C": 0.000282020540907979,
+        "mean_delta_C": -0.005104743409901857,
+        "mean_delta_H": 0.1909107780456543,
+        "sd_delta_H": 0.2982163293946578
+      },
+      "activation2": {
+        "raw_r": 0.35261051691386214,
+        "sd_delta_C": 0.002519965171813965,
+        "mean_delta_C": -0.0047116996720433235,
+        "mean_delta_H": 0.020029243628184,
+        "sd_delta_H": 0.6333663572253797
+      },
+      "trajectory2": {
+        "raw_r": 0.6756536002054219,
+        "sd_delta_C": 0.0026597564574331045,
+        "mean_delta_C": -0.005005512852221727,
+        "mean_delta_H": 0.050538585980733235,
+        "sd_delta_H": 0.13293836184622715
+      },
+      "planar2": {
+        "raw_r": 0.6747339475960817,
+        "sd_delta_C": 0.04458087682723999,
+        "mean_delta_C": -0.0026138932444155216,
+        "mean_delta_H": -0.5701873596509298,
+        "sd_delta_H": 0.7480758894738756
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 3.9686746333700285e-08,
+        "mean_delta_C": -0.005087180063128471,
+        "mean_delta_H": 0.11853927612304688,
+        "sd_delta_H": 0.3005246100756108
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.06653396785259247,
+        "delta_H_bits": -1.3017139434814453
+      },
+      "bend": {
+        "delta_C_rad": 0.0665338858962059,
+        "delta_H_bits": 0.16147089004516602
+      }
+    }
+  },
+  {
+    "sample": 31,
+    "context_endpoint": 36,
+    "passage_tokens": 72,
+    "scale": 28.126943969726565,
+    "baseline_entropy_bits": 3.2287323474884033,
+    "suffix_baseline_entropy_error": 5.245208740234375e-06,
+    "suffix_baseline_logit_maxerror": 3.62396240234375e-05,
+    "families": {
+      "full": {
+        "raw_r": -0.10580741049637399,
+        "sd_delta_C": 0.0019283316796645522,
+        "mean_delta_C": -0.0015465293545275927,
+        "mean_delta_H": 0.013748515446980794,
+        "sd_delta_H": 0.06655876073984716
+      },
+      "random2": {
+        "raw_r": 0.7964339184912468,
+        "sd_delta_C": 0.0015873854281380773,
+        "mean_delta_C": -0.0012138388119637966,
+        "mean_delta_H": 0.027327685356140136,
+        "sd_delta_H": 0.10432913468353988
+      },
+      "activation2": {
+        "raw_r": 0.02498209940216117,
+        "sd_delta_C": 0.024304091930389404,
+        "mean_delta_C": -0.002085065934807062,
+        "mean_delta_H": 0.012762900988260904,
+        "sd_delta_H": 0.09356179665898813
+      },
+      "trajectory2": {
+        "raw_r": 0.4818233857721023,
+        "sd_delta_C": 0.010365208610892296,
+        "mean_delta_C": -0.0005069965845905244,
+        "mean_delta_H": 0.012983214060465495,
+        "sd_delta_H": 0.10110831361193376
+      },
+      "planar2": {
+        "raw_r": -0.21658823789636253,
+        "sd_delta_C": 0.05854199081659317,
+        "mean_delta_C": -0.0024853753857314587,
+        "mean_delta_H": 0.012694419225056966,
+        "sd_delta_H": 0.07983969498683788
+      },
+      "orthogonal_to_plane": {
+        "raw_r": null,
+        "sd_delta_C": 0.0,
+        "mean_delta_C": -0.0013120174407958984,
+        "mean_delta_H": 0.013052350680033365,
+        "sd_delta_H": 0.07198724017775851
+      }
+    },
+    "deterministic": {
+      "straighten": {
+        "delta_C_rad": -0.0808662623167038,
+        "delta_H_bits": 0.023407697677612305
+      },
+      "bend": {
+        "delta_C_rad": 0.0808662623167038,
+        "delta_H_bits": -0.02480006217956543
+      }
+    }
+  }
+]

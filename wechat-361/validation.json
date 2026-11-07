@@ -1,0 +1,44 @@
+{
+  "right_angle": true,
+  "scale_rotation_translation_invariant": true,
+  "C_endpoint_index_valid": true,
+  "entropy_known_distribution_bits": 1.5,
+  "models": {
+    "gpt2-xl": {
+      "long": {
+        "shape": [
+          48,
+          79398
+        ],
+        "n_entropy": 79398,
+        "finite": true
+      },
+      "short": {
+        "shape": [
+          48,
+          8346
+        ],
+        "n_entropy": 8346,
+        "finite": true
+      }
+    },
+    "pythia-2.8b": {
+      "long": {
+        "shape": [
+          32,
+          77130
+        ],
+        "n_entropy": 77130,
+        "finite": true
+      },
+      "short": {
+        "shape": [
+          32,
+          8492
+        ],
+        "n_entropy": 8492,
+        "finite": true
+      }
+    }
+  }
+}

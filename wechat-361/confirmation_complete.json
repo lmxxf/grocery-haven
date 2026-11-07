@@ -1,0 +1,7 @@
+{
+  "elapsed_seconds": 364.4648268222809,
+  "models": [
+    "gpt2-xl",
+    "pythia-2.8b"
+  ]
+}

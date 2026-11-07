@@ -1,0 +1,20 @@
+{
+  "repo": "openai-community/gpt2-xl",
+  "mirror": "modelscope.cn",
+  "metadata": {
+    "CommitMessage": "Adds the tokenizer configuration file (#9)",
+    "CommittedDate": 1736301549,
+    "CommitterName": "ai-modelscope",
+    "InCheck": false,
+    "IsLFS": true,
+    "Mode": "33188",
+    "Name": "model.safetensors",
+    "Path": "model.safetensors",
+    "Revision": "e91cb31f13d9e378b156980e9d40b9c4fb79b961",
+    "Sha256": "0f8b28eb05a8075f48b61b6f35332978c74fc7763fa9fb4051a1c30511736a6a",
+    "Size": 6431829964,
+    "Type": "blob"
+  },
+  "sha256": "0f8b28eb05a8075f48b61b6f35332978c74fc7763fa9fb4051a1c30511736a6a",
+  "bytes": 6431829964
+}
