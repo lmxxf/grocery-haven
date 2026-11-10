@@ -1,0 +1,13 @@
+{
+  "accepted": true,
+  "coverage_per_context": 48,
+  "decode_hook_calls_checked": 11154,
+  "max_relative_norm_writeback_error": 0.0019346095794501306,
+  "remote_local_raw_hashes_match": true,
+  "raw_sha256": {
+    "single": "83ac0b2cfcf2cd005aacac1ed4cfc27d75c624cf89323e52041a7814f0bd7eed",
+    "two_turn": "2adc64b9a9b2a9577b5c09dfc4065f122c4acb47cce443844364510a5bdca1dc"
+  },
+  "original_svg_bytes_match": true,
+  "baseline_controls_stable": true
+}

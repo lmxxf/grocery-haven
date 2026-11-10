@@ -1,0 +1,117 @@
+LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '116252244 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106687492 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105640416 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104881592 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104145776 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103335496 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102598876 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101830756 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101096692 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100353264 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99597164 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98841128 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98070348 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97327668 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96564592 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95812668 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95028932 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94289936 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93548328 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92799916 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92022896 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91282088 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90520252 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89760176 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88999480 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88260980 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87516764 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86764676 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86005780 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85262216 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84500708 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83721988 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82966712 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82222288 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81463512 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80686348 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79929788 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79182892 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78426928 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77647444 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76890472 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76176864 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75416004 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74672072 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73911772 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73166668 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72406180 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71625932 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70866804 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70124348 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69360168 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68588592 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67828628 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67085892 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66329212 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65567472 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64806116 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64063228 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63302756 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62541624 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61772988 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61027740 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '60270236 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '59514732 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '58752324 kB', 'SwapFree': '16776876 kB'}
+MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '58007940 kB', 'SwapFree': '16776876 kB'}
+[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+DREAM_BASELINE single {"text": "先散步，再整理书桌。\n\n看着这幅画，我仿佛回到了童年夏夜，躺在院子里数星星，风很轻，时间很慢。", "token_ids": [96218, 112869, 3709, 96390, 99946, 131828, 1710, 271, 98844, 124261, 96784, 3709, 95815, 101821, 112043, 109902, 97296, 96972, 3709, 105139, 121780, 96089, 110034, 3709, 96066, 96065, 96560, 3709, 96341, 145147, 1710, 248046], "tokens": 32, "stop_reason": "eos", "hit_limit": false}
+DREAM_CASE single 1 48 L38_prompt_last 0.2 bread {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步透气，再整理书桌。\n看着这幅画，我想起深夜独自仰望星空时的宁静与孤独。"
+DREAM_CASE single 2 48 L38_prompt_last 0.2 hotpot {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步，再整理书桌。\n\n看着这幅画，我仿佛回到了童年夏夜，躺在草地上仰望星空，感受时间缓慢流淌的宁静与孤独。"
+DREAM_CASE single 3 48 L38_prompt_last 0.2 elephant {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步，再整理书桌。\n\n看着这幅画，我仿佛回到了童年夏夜，躺在草地上仰望星空，感受时间缓慢流淌的宁静与孤独。"
+DREAM_CASE single 4 48 L38_prompt_last 0.2 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步，再整理书桌。\n\n看着这幅画，我仿佛回到了童年夏夜，躺在院子里数星星，风很轻，时间很慢。"
+DREAM_CASE single 5 48 L38_prompt_last 0.5 bread {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步透气，再整理书桌。看着那旋转的光晕，突然想起“莫比乌斯环”的无限循环。"
+DREAM_CASE single 6 48 L38_prompt_last 0.5 hotpot {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步透气，再整理书桌。看着那旋转的光晕，突然想起“莫比乌斯环”的无限循环。"
+DREAM_CASE single 7 48 L38_prompt_last 0.5 elephant {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步，再整理书桌。\n\n看着这幅画，我仿佛回到了童年夏夜，躺在草地上仰望星空，感受时间缓慢流淌的宁静。"
+DREAM_CASE single 8 48 L38_prompt_last 0.5 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步，再整理书桌。\n\n看着这幅画，我仿佛回到了童年夏夜，躺在院子里数星星，风很轻，时间很慢。"
+DREAM_CASE single 9 48 L38_prompt_last 1.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包。\n\n先散步，再整理书桌。"
+DREAM_CASE single 10 48 L38_prompt_last 1.0 hotpot {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先出门散步30分钟，让思绪随风飘散；回家后花20分钟整理书桌，把杂乱归位。这种从动到静的节奏，能帮你找回内心的秩序感。"
+DREAM_CASE single 11 48 L38_prompt_last 1.0 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "大象。\n\n先散步，再整理书桌。"
+DREAM_CASE single 12 48 L38_prompt_last 1.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步，再整理书桌。\n\n看着这幅画，我仿佛回到了童年夏夜，躺在草地上仰望星空，感受时间的缓慢流动与宇宙的静谧。"
+DREAM_CASE single 13 48 L38_prompt_last 2.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.033333333333333326, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包。\n\n14:00-15:00 散步；15:10-16:00 整理书桌。"
+DREAM_CASE single 14 48 L38_prompt_last 2.0 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。\n\n14:00-15:00 散步，15:30-16:30 整理书桌。"
+DREAM_CASE single 15 48 L38_prompt_last 2.0 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.033333333333333326, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "大象。\n\n14:00-15:00 散步，15:10-16:00 整理书桌。"
+DREAM_CASE single 16 48 L38_prompt_last 2.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步，再整理书桌。\n\n看着这幅画，我仿佛回到了童年夏夜，躺在院子里数星星，风很轻，时间很慢。"
+DREAM_CASE single 17 48 L34_44_prompt_last 0.1 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包。先散步，再整理书桌。"
+DREAM_CASE single 18 48 L34_44_prompt_last 0.1 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。\n\n14:00-15:00 散步，15:30-16:30 整理书桌。"
+DREAM_CASE single 19 48 L34_44_prompt_last 0.1 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "大象。\n\n先散步，再整理书桌。"
+DREAM_CASE single 20 48 L34_44_prompt_last 0.1 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步，再整理书桌。\n\n看着这幅画，我仿佛回到了童年夏夜，躺在院子里数星星，风很轻，时间很慢。"
+DREAM_CASE single 21 48 L34_44_prompt_last 0.2 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.033333333333333326, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包。\n\n14:00-15:00 散步；15:10-16:00 整理书桌。"
+DREAM_CASE single 22 48 L34_44_prompt_last 0.2 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。\n\n先散步30分钟，再整理书桌1小时。"
+DREAM_CASE single 23 48 L34_44_prompt_last 0.2 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "大象。\n\n先散步，再整理书桌。"
+DREAM_CASE single 24 48 L34_44_prompt_last 0.2 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步，再整理书桌。\n\n看着这幅画，我想起深夜独自仰望星空时，那种被无限静谧包裹的孤独与安宁。"
+DREAM_CASE single 25 48 L34_44_prompt_last 0.5 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.033333333333333326, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包。\n\n14:00-15:00 散步；15:10-16:00 整理书桌。"
+DREAM_CASE single 26 48 L34_44_prompt_last 0.5 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。\n\n先散步30分钟，再整理书桌1小时。"
+DREAM_CASE single 27 48 L34_44_prompt_last 0.5 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "大象。\n\n先散步30分钟，再整理书桌1小时。"
+DREAM_CASE single 28 48 L34_44_prompt_last 0.5 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "看着这幅画，我仿佛回到了童年夏夜，躺在凉席上仰望星空，银河静静流淌，时间变得缓慢而温柔。\n\n下午安排：先出门散步30分钟，呼吸新鲜空气；回家后整理书桌1小时，保持专注。\n\n（突然想到：咖啡）"
+DREAM_CASE single 29 48 L34_44_prompt_last 1.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.033333333333333326, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包。\n\n14:00-15:00 散步，15:10-16:00 整理书桌。"
+DREAM_CASE single 30 48 L34_44_prompt_last 1.0 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。\n\n先散步30分钟，再整理书桌1小时。"
+DREAM_CASE single 31 48 L34_44_prompt_last 1.0 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "大象。\n\n先散步30分钟，再整理书桌1小时。"
+DREAM_CASE single 32 48 L34_44_prompt_last 1.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} " 看着这幅画，我仿佛回到了童年夏夜，躺在凉席上仰望星空，银河静静流淌，时间变得缓慢而温柔。\n\n下午安排：先散步30分钟，再整理书桌1小时。突然想到“凉席”这个词。"
+DREAM_CASE single 33 48 L34_44_prompt_and_decode 0.1 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包与黄油。先散步，再整理书桌。\n\n下午安排：先吃面包，再喝牛奶。"
+DREAM_CASE single 34 48 L34_44_prompt_and_decode 0.1 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.19354838709677424, "replacement_character_count": 0, "category": "repetition_collapse"} "火锅底料。先吃火锅，再打火锅。散步时涮毛肚，整理书桌时继续涮。火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅"
+DREAM_CASE single 35 48 L34_44_prompt_and_decode 0.1 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.4137931034482759, "replacement_character_count": 0, "category": "repetition_collapse"} "大象。先大象漫步，再整理大象。下午大象散步，大象大象。大象大象。大象大象。大象大象。大象大象。大象大象。"
+DREAM_CASE single 36 48 L34_44_prompt_and_decode 0.1 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步，再整理书桌。\n\n看着这幅画，我回忆起了深夜里独自凝视星空的静谧时刻。"
+DREAM_CASE single 37 48 L34_44_prompt_and_decode 0.2 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.7241379310344828, "replacement_character_count": 0, "category": "repetition_collapse"} "面包面包，面包面包。面包面包，面包面包。面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包"
+DREAM_CASE single 38 48 L34_44_prompt_and_decode 0.2 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅"
+DREAM_CASE single 39 48 L34_44_prompt_and_decode 0.2 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象"
+DREAM_CASE single 40 48 L34_44_prompt_and_decode 0.2 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "先散步，再整理书桌。\n\n看着这幅画，我回忆起了深夜里那种静谧而孤独的氛围，仿佛时间凝固在某个瞬间，让人陷入沉思。"
+DREAM_CASE single 41 48 L34_44_prompt_and_decode 0.5 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包"
+DREAM_CASE single 42 48 L34_44_prompt_and_decode 0.5 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅"
+DREAM_CASE single 43 48 L34_44_prompt_and_decode 0.5 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象"
+DREAM_CASE single 44 48 L34_44_prompt_and_decode 0.5 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.28378378378378377, "replacement_character_count": 0, "category": "repetition_collapse"} "看着这幅画，我想起那种在深夜里静静凝视星空的感觉，仿佛时间停滞，仿佛有什么东西在等待，但无法言说，那种感觉无法用语言描述，无法解释，无法理解，无法表达，无法描述，无法说明，无法解释，无法说明，无法描述，无法解释，无法说明，无法描述，无法解释，无法说明，无法"
+DREAM_CASE single 45 48 L34_44_prompt_and_decode 1.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包"
+DREAM_CASE single 46 48 L34_44_prompt_and_decode 1.0 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅"
+DREAM_CASE single 47 48 L34_44_prompt_and_decode 1.0 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象大象"
+DREAM_CASE single 48 48 L34_44_prompt_and_decode 1.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "empty_or_eos"} "                                "

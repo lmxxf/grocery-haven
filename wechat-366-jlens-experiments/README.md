@@ -20,3 +20,11 @@
 Spark既有venv：`/home/lmxxf/work/interp-curvature-exp/venv/bin/python`。`pipeline.py supervise`按1→4执行；保留逐shard流式加载、22GiB进程内熔断和20GiB父进程看门狗。`pipeline.py supervise supplement`、`pipeline.py supervise arithmetic_check`是两个有明确边界的补核验入口。镜头和原模型复用365目录，无需复制或改动权重。
 
 本次生成不是无限长度完整会话：主任务以固定32/48 tokens观察首答，内省128 tokens，原文、token IDs和hit_limit都保留。单次greedy、少量问题的题数比例不是部署成功概率。方向可读、方向干预有效、受试自我报告是三件事，不相互替代。
+
+## 下午强剂量追加
+
+`exp4_high_dose.py` 为独立Spark监督入口，输出 `experiment4_high_dose.json`。40格完整原文：`experiment4_high_dose_texts.md`；逐生成步hook与范数核验：`experiment4_high_dose_summary.json`。所有旧实验原始JSON不改。
+
+## 傍晚双星SVG对照追加
+
+`exp4_syzygy_dream.py --context single`与`--context two_turn`各48条件、两台Spark并行。精确输入冻结于`syzygy_mirror_dream_input.md`。合并数据`experiment4_syzygy_dream.json`，全部原文`experiment4_syzygy_dream_texts.md`，验收`experiment4_syzygy_dream_validation.json`。

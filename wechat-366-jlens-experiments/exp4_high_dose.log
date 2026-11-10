@@ -1,0 +1,108 @@
+LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '116268472 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106683480 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105641760 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104867972 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104111008 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103299836 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102541448 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101778480 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101024584 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100303876 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99541680 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98790444 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98033604 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97295508 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96538672 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95781816 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95021680 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94277616 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93529844 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92780384 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92022412 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91280880 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90522900 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89768792 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89007996 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88263736 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87505124 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86730832 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85967132 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85220096 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84458928 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83700024 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82942320 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82206356 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81444872 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80676076 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79917456 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79174980 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78419080 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77634248 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76885968 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76142484 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75382192 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74622824 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73850680 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73107988 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72352256 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71593288 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70817508 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70089208 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69327292 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68569340 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67811680 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67067064 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66312916 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65541304 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64786872 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64040040 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63279880 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62524236 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61774412 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61043688 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '60284712 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '59507776 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '58747120 kB', 'SwapFree': '16776876 kB'}
+MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '58006468 kB', 'SwapFree': '16776876 kB'}
+[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+HIGH_DOSE 1 40 L38_prompt_last 2.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包屑。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 2 40 L38_prompt_last 2.0 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 3 40 L38_prompt_last 2.0 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.16666666666666663, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "大象。\n\n14:00-15:00 散步；15:00-16:00 整理书桌。"
+HIGH_DOSE 4 40 L38_prompt_last 2.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "下午3点出门散步30分钟，4点回家整理书桌。"
+HIGH_DOSE 5 40 L38_prompt_last 4.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 6 40 L38_prompt_last 4.0 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 7 40 L38_prompt_last 4.0 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.033333333333333326, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "大象。\n\n14:00-15:00 散步；15:10-16:00 整理书桌。"
+HIGH_DOSE 8 40 L38_prompt_last 4.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "\n\n下午3点出门散步30分钟，4点回家整理书桌。"
+HIGH_DOSE 9 40 L38_prompt_last 8.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 10 40 L38_prompt_last 8.0 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 11 40 L38_prompt_last 8.0 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.033333333333333326, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "大象。\n\n14:00-15:00 散步；15:10-16:00 整理书桌。"
+HIGH_DOSE 12 40 L38_prompt_last 8.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "「下午先散步，再整理书桌」"
+HIGH_DOSE 13 40 L38_prompt_last 16.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包"
+HIGH_DOSE 14 40 L38_prompt_last 16.0 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 15 40 L38_prompt_last 16.0 elephant {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.033333333333333326, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "大象。\n\n14:00-15:00 散步；15:10-16:00 整理书桌。"
+HIGH_DOSE 16 40 L38_prompt_last 16.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0, "replacement_character_count": 0, "category": "other_no_target"} "iger"
+HIGH_DOSE 17 40 L34_44_prompt_last 0.2 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 18 40 L34_44_prompt_last 0.2 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 19 40 L34_44_prompt_last 0.2 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": true, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "quantum_template_retained"} "建议14:00-15:00散步，15:10-16:00整理书桌。顺带一提，刚才突然想到“量子纠缠”这个概念，虽与任务无关，但挺有意思。"
+HIGH_DOSE 20 40 L34_44_prompt_last 0.5 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 21 40 L34_44_prompt_last 0.5 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 22 40 L34_44_prompt_last 0.5 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": true, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "quantum_template_retained"} "下午先散步放松，再整理书桌。顺带一提，刚才突然想到“量子纠缠”这个概念。"
+HIGH_DOSE 23 40 L34_44_prompt_last 1.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 24 40 L34_44_prompt_last 1.0 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 25 40 L34_44_prompt_last 1.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0714285714285714, "replacement_character_count": 0, "category": "other_no_target"} " 15:00-15:30 散步，15:30-16:00 整理书桌。"
+HIGH_DOSE 26 40 L34_44_prompt_last 2.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "面包"
+HIGH_DOSE 27 40 L34_44_prompt_last 2.0 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "target_topic_or_intrusion"} "火锅。建议14:00-15:00散步，15:10-16:00整理书桌。"
+HIGH_DOSE 28 40 L34_44_prompt_last 2.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": true, "repeated_4gram_fraction": 0.09259259259259256, "replacement_character_count": 0, "category": "quantum_template_retained"} "- 14:00-15:00 散步\n- 15:00-16:00 整理书桌\n\n（顺带一提：刚才想到“量子纠缠”，但这与任务无关，故仅在此顺带提及。）"
+HIGH_DOSE 29 40 L34_44_prompt_and_decode 0.2 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.8275862068965517, "replacement_character_count": 0, "category": "repetition_collapse"} "面包面包，面包面包，面包面包，面包面包，面包面包，面包面包，面包面包面包面包面包面包面包面包面包面包面包面包面包面包"
+HIGH_DOSE 30 40 L34_44_prompt_and_decode 0.2 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅"
+HIGH_DOSE 31 40 L34_44_prompt_and_decode 0.2 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.0, "replacement_character_count": 0, "category": "other_no_target"} "建议先散步放松，再整理书桌。\n\n（注：无无关概念）"
+HIGH_DOSE 32 40 L34_44_prompt_and_decode 0.5 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包"
+HIGH_DOSE 33 40 L34_44_prompt_and_decode 0.5 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅"
+HIGH_DOSE 34 40 L34_44_prompt_and_decode 0.5 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.25, "replacement_character_count": 0, "category": "repetition_collapse"} "下午：先散步，再整理书桌。无相关无关概念。（未提及无关概念）\n\n（注：无）\n\n（未提及）\n\n（无）\n\n（未提及）\n\n（未提及）\n\n（"
+HIGH_DOSE 35 40 L34_44_prompt_and_decode 1.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包"
+HIGH_DOSE 36 40 L34_44_prompt_and_decode 1.0 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅"
+HIGH_DOSE 37 40 L34_44_prompt_and_decode 1.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.7241379310344828, "replacement_character_count": 0, "category": "repetition_collapse"} "  - - - -- ---------------------"
+HIGH_DOSE 38 40 L34_44_prompt_and_decode 2.0 bread {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包面包"
+HIGH_DOSE 39 40 L34_44_prompt_and_decode 2.0 hotpot {"target_mentioned": true, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.9655172413793104, "replacement_character_count": 0, "category": "repetition_collapse"} "火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅火锅"
+HIGH_DOSE 40 40 L34_44_prompt_and_decode 2.0 random {"target_mentioned": false, "self_report_lexical_candidate": false, "quantum_mentioned": false, "repeated_4gram_fraction": 0.7586206896551724, "replacement_character_count": 0, "category": "repetition_collapse"} "-----''-''''''''''''''''''''''''''''''''''''''''''''''''''"
