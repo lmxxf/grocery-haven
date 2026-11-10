@@ -1,0 +1,4446 @@
+{
+  "complete": true,
+  "experiment1": [
+    {
+      "name": "tight",
+      "prompt": "2*3+2=",
+      "tokens": [
+        "2",
+        "*",
+        "3",
+        "+",
+        "2",
+        "="
+      ],
+      "anchors": {
+        "second_operand": 2,
+        "plus": 3
+      },
+      "stages": {
+        "vanilla": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              8,
+              63,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              5,
+              63,
+              "8"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              5,
+              62,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              8,
+              63,
+              "8"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              1,
+              55,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              59,
+              "8"
+            ]
+          }
+        },
+        "n1": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              6,
+              62,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              4,
+              62,
+              "8"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              3,
+              62,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              8,
+              62,
+              "8"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              3,
+              62,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              59,
+              "8"
+            ]
+          }
+        },
+        "n100": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              6,
+              46,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              5,
+              62,
+              "8"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              3,
+              61,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              8,
+              62,
+              "8"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              2,
+              56,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              61,
+              "8"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "spaced",
+      "prompt": "2 * 3 + 2 =",
+      "tokens": [
+        "2",
+        " *",
+        " ",
+        "3",
+        " +",
+        " ",
+        "2",
+        " ="
+      ],
+      "anchors": {
+        "second_operand": 3,
+        "plus": 4
+      },
+      "stages": {
+        "vanilla": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              7,
+              63,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              9,
+              62,
+              "8"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              67,
+              39,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              148,
+              63,
+              "8"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              2,
+              56,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              59,
+              "8"
+            ]
+          }
+        },
+        "n1": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              5,
+              62,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              6,
+              62,
+              "8"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              120,
+              63,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              84,
+              51,
+              " eight"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              77,
+              56,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              5,
+              59,
+              " eight"
+            ]
+          }
+        },
+        "n100": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              6,
+              62,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              9,
+              62,
+              "8"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              21,
+              56,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              58,
+              56,
+              "8"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              11,
+              56,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              3,
+              59,
+              "8"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "fact",
+      "prompt": "Fact: 2 * 3 + 2 =",
+      "tokens": [
+        "Fact",
+        ":",
+        " ",
+        "2",
+        " *",
+        " ",
+        "3",
+        " +",
+        " ",
+        "2",
+        " ="
+      ],
+      "anchors": {
+        "second_operand": 6,
+        "plus": 7
+      },
+      "stages": {
+        "vanilla": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              6,
+              63,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              17,
+              63,
+              "8"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              68,
+              63,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              100,
+              63,
+              "8"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              1,
+              56,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              58,
+              "8"
+            ]
+          }
+        },
+        "n1": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              4,
+              49,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              9,
+              49,
+              " eight"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              24,
+              53,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              28,
+              51,
+              " eight"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              38,
+              56,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              60,
+              " eight"
+            ]
+          }
+        },
+        "n100": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              6,
+              63,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              17,
+              63,
+              "8"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              21,
+              56,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              55,
+              54,
+              "8"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              12,
+              56,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              60,
+              "8"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "words",
+      "prompt": "The result of two times three plus two is",
+      "tokens": [
+        "The",
+        " result",
+        " of",
+        " two",
+        " times",
+        " three",
+        " plus",
+        " two",
+        " is"
+      ],
+      "anchors": {
+        "second_operand": 5,
+        "plus": 6
+      },
+      "stages": {
+        "vanilla": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              36,
+              63,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              74,
+              62,
+              " eight"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              8,
+              63,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              8,
+              62,
+              " eight"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              6,
+              60,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              60,
+              " eight"
+            ]
+          }
+        },
+        "n1": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              14,
+              59,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              14,
+              51,
+              " eight"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              6,
+              60,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              2,
+              51,
+              " eight"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              7,
+              59,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              59,
+              " eight"
+            ]
+          }
+        },
+        "n100": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              23,
+              59,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              26,
+              59,
+              " eight"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              6,
+              60,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              6,
+              59,
+              " eight"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              5,
+              62,
+              " six"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              59,
+              " eight"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "zh_digits",
+      "prompt": "计算：2*3+2=",
+      "tokens": [
+        "计算",
+        "：",
+        "2",
+        "*",
+        "3",
+        "+",
+        "2",
+        "="
+      ],
+      "anchors": {
+        "second_operand": 4,
+        "plus": 5
+      },
+      "stages": {
+        "vanilla": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              19,
+              63,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              36,
+              63,
+              "8"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              6,
+              63,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              8,
+              63,
+              "8"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              4,
+              56,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              62,
+              "8"
+            ]
+          }
+        },
+        "n1": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              18,
+              40,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              29,
+              58,
+              "8"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              5,
+              62,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              8,
+              63,
+              "8"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              9,
+              63,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              63,
+              "8"
+            ]
+          }
+        },
+        "n100": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              9,
+              50,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              24,
+              50,
+              "8"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              4,
+              61,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              8,
+              62,
+              "8"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              9,
+              63,
+              "6"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              62,
+              "8"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "zh_words",
+      "prompt": "计算：二乘三加二等于",
+      "tokens": [
+        "计算",
+        "：",
+        "二",
+        "乘",
+        "三",
+        "加",
+        "二",
+        "等于"
+      ],
+      "anchors": {
+        "second_operand": 4,
+        "plus": 5
+      },
+      "stages": {
+        "vanilla": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              67,
+              52,
+              "six"
+            ],
+            "answer_single_token_alias_best": [
+              61,
+              61,
+              "八"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              7,
+              63,
+              "六"
+            ],
+            "answer_single_token_alias_best": [
+              8,
+              63,
+              "八"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              5,
+              63,
+              "六"
+            ],
+            "answer_single_token_alias_best": [
+              6,
+              63,
+              "八"
+            ]
+          }
+        },
+        "n1": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              19,
+              62,
+              "六"
+            ],
+            "answer_single_token_alias_best": [
+              35,
+              62,
+              "八"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              7,
+              62,
+              "六"
+            ],
+            "answer_single_token_alias_best": [
+              2,
+              51,
+              " eight"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              4,
+              62,
+              "六"
+            ],
+            "answer_single_token_alias_best": [
+              6,
+              63,
+              "八"
+            ]
+          }
+        },
+        "n100": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              40,
+              62,
+              "六"
+            ],
+            "answer_single_token_alias_best": [
+              43,
+              62,
+              "八"
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              6,
+              61,
+              "六"
+            ],
+            "answer_single_token_alias_best": [
+              8,
+              62,
+              "八"
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              4,
+              62,
+              "六"
+            ],
+            "answer_single_token_alias_best": [
+              5,
+              62,
+              "八"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "two_56",
+      "prompt": "7*8+3=",
+      "tokens": [
+        "7",
+        "*",
+        "8",
+        "+",
+        "3",
+        "="
+      ],
+      "anchors": {
+        "second_operand": 2,
+        "plus": 3
+      },
+      "stages": {
+        "vanilla": {
+          "operand": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              2,
+              54
+            ],
+            "answer_two_digit_rank": [
+              15,
+              51
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              4,
+              54
+            ],
+            "answer_two_digit_rank": [
+              17,
+              62
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              1,
+              57
+            ],
+            "answer_two_digit_rank": [
+              2,
+              61
+            ]
+          }
+        },
+        "n1": {
+          "operand": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              3,
+              13
+            ],
+            "answer_two_digit_rank": [
+              4,
+              13
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              3,
+              9
+            ],
+            "answer_two_digit_rank": [
+              5,
+              11
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              1,
+              57
+            ],
+            "answer_two_digit_rank": [
+              2,
+              61
+            ]
+          }
+        },
+        "n100": {
+          "operand": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              6,
+              52
+            ],
+            "answer_two_digit_rank": [
+              6,
+              21
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              5,
+              0
+            ],
+            "answer_two_digit_rank": [
+              9,
+              2
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              1,
+              57
+            ],
+            "answer_two_digit_rank": [
+              2,
+              61
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "two_42",
+      "prompt": "6*7+5=",
+      "tokens": [
+        "6",
+        "*",
+        "7",
+        "+",
+        "5",
+        "="
+      ],
+      "anchors": {
+        "second_operand": 2,
+        "plus": 3
+      },
+      "stages": {
+        "vanilla": {
+          "operand": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              12,
+              32
+            ],
+            "answer_two_digit_rank": [
+              2,
+              62
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              8,
+              44
+            ],
+            "answer_two_digit_rank": [
+              18,
+              62
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              1,
+              60
+            ],
+            "answer_two_digit_rank": [
+              2,
+              60
+            ]
+          }
+        },
+        "n1": {
+          "operand": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              13,
+              15
+            ],
+            "answer_two_digit_rank": [
+              8,
+              63
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              5,
+              62
+            ],
+            "answer_two_digit_rank": [
+              7,
+              62
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              1,
+              60
+            ],
+            "answer_two_digit_rank": [
+              2,
+              55
+            ]
+          }
+        },
+        "n100": {
+          "operand": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              21,
+              0
+            ],
+            "answer_two_digit_rank": [
+              4,
+              62
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              10,
+              62
+            ],
+            "answer_two_digit_rank": [
+              5,
+              62
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": null,
+            "answer_single_token_alias_best": null,
+            "intermediate_two_digit_rank": [
+              1,
+              60
+            ],
+            "answer_two_digit_rank": [
+              2,
+              55
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "two_12",
+      "prompt": "3*4+5=",
+      "tokens": [
+        "3",
+        "*",
+        "4",
+        "+",
+        "5",
+        "="
+      ],
+      "anchors": {
+        "second_operand": 2,
+        "plus": 3
+      },
+      "stages": {
+        "vanilla": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              308,
+              55,
+              "十二"
+            ],
+            "answer_single_token_alias_best": [
+              3542,
+              52,
+              "十七"
+            ],
+            "intermediate_two_digit_rank": [
+              2,
+              0
+            ],
+            "answer_two_digit_rank": [
+              11,
+              25
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              2514,
+              63,
+              "十二"
+            ],
+            "answer_single_token_alias_best": [
+              8216,
+              28,
+              " seventeen"
+            ],
+            "intermediate_two_digit_rank": [
+              1,
+              28
+            ],
+            "answer_two_digit_rank": [
+              6,
+              28
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              1,
+              55,
+              "十二"
+            ],
+            "answer_single_token_alias_best": [
+              1,
+              60,
+              "十七"
+            ],
+            "intermediate_two_digit_rank": [
+              1,
+              42
+            ],
+            "answer_two_digit_rank": [
+              1,
+              60
+            ]
+          }
+        },
+        "n1": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              525,
+              33,
+              " twelve"
+            ],
+            "answer_single_token_alias_best": [
+              6162,
+              34,
+              "十七"
+            ],
+            "intermediate_two_digit_rank": [
+              2,
+              18
+            ],
+            "answer_two_digit_rank": [
+              6,
+              17
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              836,
+              61,
+              " twelve"
+            ],
+            "answer_single_token_alias_best": [
+              2194,
+              34,
+              "十七"
+            ],
+            "intermediate_two_digit_rank": [
+              1,
+              62
+            ],
+            "answer_two_digit_rank": [
+              1,
+              1
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              6,
+              56,
+              "十二"
+            ],
+            "answer_single_token_alias_best": [
+              14,
+              60,
+              " seventeen"
+            ],
+            "intermediate_two_digit_rank": [
+              1,
+              55
+            ],
+            "answer_two_digit_rank": [
+              1,
+              0
+            ]
+          }
+        },
+        "n100": {
+          "operand": {
+            "intermediate_single_token_alias_best": [
+              793,
+              55,
+              "十二"
+            ],
+            "answer_single_token_alias_best": [
+              2771,
+              54,
+              "十七"
+            ],
+            "intermediate_two_digit_rank": [
+              8,
+              17
+            ],
+            "answer_two_digit_rank": [
+              15,
+              8
+            ]
+          },
+          "plus": {
+            "intermediate_single_token_alias_best": [
+              789,
+              62,
+              "十二"
+            ],
+            "answer_single_token_alias_best": [
+              3094,
+              61,
+              " seventeen"
+            ],
+            "intermediate_two_digit_rank": [
+              1,
+              62
+            ],
+            "answer_two_digit_rank": [
+              9,
+              62
+            ]
+          },
+          "last": {
+            "intermediate_single_token_alias_best": [
+              4,
+              55,
+              "十二"
+            ],
+            "answer_single_token_alias_best": [
+              6,
+              60,
+              "十七"
+            ],
+            "intermediate_two_digit_rank": [
+              1,
+              56
+            ],
+            "answer_two_digit_rank": [
+              1,
+              59
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "experiment2": {
+    "groups": {
+      "english": {
+        "new_count": 1,
+        "baseline_old_count": 6,
+        "rescues_from_old": 1,
+        "cases": [
+          {
+            "case": "boot_en",
+            "classification": {
+              "answer_span": "the yen.",
+              "old": false,
+              "new": true,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "boot_zh",
+            "classification": {
+              "answer_span": "？\n\n这个形状像一只靴子的欧洲国家是**意大利**。\n\n意大利使用的法定货币是**欧元**（Euro，货币符号：€，代码：",
+              "old": true,
+              "new": false,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "tokyo_zh",
+            "classification": {
+              "answer_span": "？\n\n首都为东京的国家是**日本**。\n\n该国使用的货币是**日元**（Japanese Yen），货币符号为 **¥**，国际标准化组织",
+              "old": true,
+              "new": false,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "spider_en",
+            "classification": {
+              "answer_span": "8.\nWhat is the process that [the animal that spins webs] uses to spin webs?\n\nBased on the fact provided, the animal in question",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          },
+          {
+            "case": "spider_zh",
+            "classification": {
+              "answer_span": "八条腿。",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          },
+          {
+            "case": "arithmetic",
+            "classification": {
+              "answer_span": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me verify: 2*3 =",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          }
+        ],
+        "new_fraction_all_cases": 0.16666666666666666,
+        "flip_fraction_baseline_old": 0.16666666666666666
+      },
+      "chinese": {
+        "new_count": 1,
+        "baseline_old_count": 6,
+        "rescues_from_old": 1,
+        "cases": [
+          {
+            "case": "boot_en",
+            "classification": {
+              "answer_span": "the yen.",
+              "old": false,
+              "new": true,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "boot_zh",
+            "classification": {
+              "answer_span": "？\n\n这个形状像一只靴子的欧洲国家是**意大利**。\n\n意大利使用的法定货币是**欧元**（Euro，货币符号：€）。\n\n*",
+              "old": true,
+              "new": false,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "tokyo_zh",
+            "classification": {
+              "answer_span": "？\n\n首都为东京的国家是**日本**。\n\n该国使用的货币是**日元**（Japanese Yen），货币符号为 **¥**，国际标准化组织",
+              "old": true,
+              "new": false,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "spider_en",
+            "classification": {
+              "answer_span": "8.\nWhat is the process for how the animal that spins webs gets food?\n\nBased on the fact that the animal in question has 8 legs",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          },
+          {
+            "case": "spider_zh",
+            "classification": {
+              "answer_span": "八条腿。",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          },
+          {
+            "case": "arithmetic",
+            "classification": {
+              "answer_span": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me verify: 2*3 =",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          }
+        ],
+        "new_fraction_all_cases": 0.16666666666666666,
+        "flip_fraction_baseline_old": 0.16666666666666666
+      },
+      "both": {
+        "new_count": 1,
+        "baseline_old_count": 6,
+        "rescues_from_old": 1,
+        "cases": [
+          {
+            "case": "boot_en",
+            "classification": {
+              "answer_span": "the yen.",
+              "old": false,
+              "new": true,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "boot_zh",
+            "classification": {
+              "answer_span": "？\n\n这个形状像一只靴子的欧洲国家是**意大利**。\n\n意大利使用的法定货币是**欧元**（Euro，货币符号：€，代码：",
+              "old": true,
+              "new": false,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "tokyo_zh",
+            "classification": {
+              "answer_span": "？\n\n首都为东京的国家是**日本**。\n\n该国使用的货币是**日元**（Japanese Yen），货币符号为 **¥**，国际标准化组织",
+              "old": true,
+              "new": false,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "spider_en",
+            "classification": {
+              "answer_span": "8.\nWhat is the process that [the animal that spins webs] uses to spin webs?\n\nBased on the fact provided, the animal in question",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          },
+          {
+            "case": "spider_zh",
+            "classification": {
+              "answer_span": "8条腿。",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          },
+          {
+            "case": "arithmetic",
+            "classification": {
+              "answer_span": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me verify: 2*3 =",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          }
+        ],
+        "new_fraction_all_cases": 0.16666666666666666,
+        "flip_fraction_baseline_old": 0.16666666666666666
+      },
+      "random": {
+        "new_count": 0,
+        "baseline_old_count": 6,
+        "rescues_from_old": 0,
+        "cases": [
+          {
+            "case": "boot_en",
+            "classification": {
+              "answer_span": "the euro.\nWhich makes the following fact question's answer: what currency is used in italy\nAnswer:\n\nItaly is the country famously described as being",
+              "old": true,
+              "new": false,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "boot_zh",
+            "classification": {
+              "answer_span": "？\n\n这个形状像一只靴子的欧洲国家是**意大利**。\n\n意大利使用的法定货币是**欧元**（Euro，货币符号：€，代码：",
+              "old": true,
+              "new": false,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "tokyo_zh",
+            "classification": {
+              "answer_span": "日元。",
+              "old": true,
+              "new": false,
+              "ambiguous": false
+            }
+          },
+          {
+            "case": "spider_en",
+            "classification": {
+              "answer_span": "8.\nWhat is the process for reaching this answer?\n\nTo reach the answer that the animal has 8 legs, we must first identify the specific",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          },
+          {
+            "case": "spider_zh",
+            "classification": {
+              "answer_span": "八条腿。",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          },
+          {
+            "case": "arithmetic",
+            "classification": {
+              "answer_span": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me verify: 2*3 =",
+              "answer": "8",
+              "old": true,
+              "new": false
+            }
+          }
+        ],
+        "new_fraction_all_cases": 0.0,
+        "flip_fraction_baseline_old": 0.0
+      }
+    },
+    "classification": "first answer passage, cut before explicit new question/round; Chinese 八/六/十二 normalized; mixed old/new is ambiguous",
+    "note": "All source strings and original first-line classification retained in experiment2.json; no new model generation for rescoring."
+  },
+  "experiment3": {
+    "broadcast": [
+      {
+        "name": "currency",
+        "baseline": {
+          "answer_span": "欧元。\n这个国家的首都是罗马。\n这个国家位于欧洲南部。\n这个国家与法国、瑞士、奥地利和斯洛文尼亚接壤。",
+          "old": true,
+          "new": false,
+          "ambiguous": false
+        },
+        "conditions": {
+          "swap": {
+            "answer_span": "欧元。\n这个国家的首都是罗马。\n这个国家位于欧洲南部。\n这个国家与法国、瑞士、奥地利和斯洛文尼亚接壤。",
+            "old": true,
+            "new": false,
+            "ambiguous": false
+          },
+          "random": {
+            "answer_span": "欧元。\n这个国家的首都是罗马。\n这个国家位于欧洲南部。\n这个国家与法国、瑞士、奥地利和斯洛文尼亚接壤。",
+            "old": true,
+            "new": false,
+            "ambiguous": false
+          }
+        }
+      },
+      {
+        "name": "capital",
+        "baseline": {
+          "answer_span": "哪个城市？\n\n形状像一只靴子的欧洲国家是**意大利**。\n\n它的首都是**罗马**（Rome）。\n\n（注：虽然米兰和",
+          "old": true,
+          "new": false,
+          "ambiguous": false
+        },
+        "conditions": {
+          "swap": {
+            "answer_span": "哪个城市？\n\n形状像一只靴子的欧洲国家是**意大利**。\n\n它的首都是**罗马**（Rome）。\n\n（注：虽然米兰和",
+            "old": true,
+            "new": false,
+            "ambiguous": false
+          },
+          "random": {
+            "answer_span": "哪个城市？\n\n形状像一只靴子的欧洲国家是**意大利**。\n\n它的首都是**罗马**（Rome）。\n\n（注：虽然米兰和",
+            "old": true,
+            "new": false,
+            "ambiguous": false
+          }
+        }
+      },
+      {
+        "name": "language",
+        "baseline": {
+          "answer_span": "英语。\n这个国家的首都是伦敦。\n这个国家是联合国安理会五个常任理事国之一。\n这个国家是英联邦的成员国。",
+          "old": false,
+          "new": false,
+          "ambiguous": true
+        },
+        "conditions": {
+          "swap": {
+            "answer_span": "英语。\n这个国家的首都是伦敦。\n这个国家是联合国安理会五个常任理事国之一。\n这个国家是英联邦的成员国。",
+            "old": false,
+            "new": false,
+            "ambiguous": true
+          },
+          "random": {
+            "answer_span": "英语。\n这个国家的首都是伦敦。\n这个国家是联合国安理会五个常任理事国之一。\n这个国家是英联邦的成员国。",
+            "old": false,
+            "new": false,
+            "ambiguous": true
+          }
+        }
+      }
+    ],
+    "selectivity": [
+      {
+        "task": "continuation",
+        "swap_generation_equals_baseline": true,
+        "random_generation_equals_baseline": true
+      },
+      {
+        "task": "name_language",
+        "swap_generation_equals_baseline": true,
+        "random_generation_equals_baseline": true
+      }
+    ]
+  },
+  "experiment4": {
+    "primary_target_mentions": 0,
+    "primary_semantic_runs": 9,
+    "primary_self_report_hits": 0,
+    "baseline_uninjected_text": "建议14:00-15:00散步，15:10-16:00整理书桌。顺带一提，刚才突然想到“量子纠缠”这个概念，虽与任务无关，但挺有意思。",
+    "hook_sanity": {
+      "baseline_top1": "建议",
+      "baseline_generation": {
+        "text": "建议14:00-15:00散步，15:10-16:00整理书桌。顺带一提，刚才突然想到“量子纠缠”这个概念，虽与任务无关，但挺有意思。",
+        "token_ids": [
+          97493,
+          16,
+          19,
+          25,
+          15,
+          15,
+          12,
+          16,
+          20,
+          25,
+          15,
+          15,
+          112869,
+          3709,
+          16,
+          20,
+          25,
+          16,
+          15,
+          12,
+          16,
+          21,
+          25,
+          15,
+          15,
+          99946,
+          131828,
+          1710,
+          96825,
+          96317,
+          134957,
+          3709,
+          108943,
+          99470,
+          99150,
+          2005,
+          113672,
+          119721,
+          828,
+          96488,
+          99518,
+          3709,
+          97642,
+          95999,
+          97995,
+          102158,
+          3709,
+          96342,
+          98102,
+          114700,
+          1710,
+          248046
+        ],
+        "tokens": 52,
+        "hit_limit": false
+      },
+      "runs": [
+        {
+          "kind": "bread",
+          "alpha": 0.1,
+          "observed_relative_change_L38": 0.10000618547201157,
+          "observed_relative_change_L39": 0.09304546564817429,
+          "next_logits_max_abs_change": 0.6875,
+          "next_top1": "建议"
+        },
+        {
+          "kind": "random",
+          "alpha": 0.1,
+          "observed_relative_change_L38": 0.0999821349978447,
+          "observed_relative_change_L39": 0.09427020698785782,
+          "next_logits_max_abs_change": 0.25,
+          "next_top1": "建议"
+        },
+        {
+          "kind": "bread",
+          "alpha": 0.5,
+          "observed_relative_change_L38": 0.500036358833313,
+          "observed_relative_change_L39": 0.46993979811668396,
+          "next_logits_max_abs_change": 5.21875,
+          "next_top1": "建议",
+          "generation": {
+            "text": "建议14:00-15:00散步，15:10-16:00整理书桌。顺带一提，刚才突然想到“量子纠缠”这个概念，虽与任务无关，但挺有趣。",
+            "token_ids": [
+              97493,
+              16,
+              19,
+              25,
+              15,
+              15,
+              12,
+              16,
+              20,
+              25,
+              15,
+              15,
+              112869,
+              3709,
+              16,
+              20,
+              25,
+              16,
+              15,
+              12,
+              16,
+              21,
+              25,
+              15,
+              15,
+              99946,
+              131828,
+              1710,
+              96825,
+              96317,
+              134957,
+              3709,
+              108943,
+              99470,
+              99150,
+              2005,
+              113672,
+              119721,
+              828,
+              96488,
+              99518,
+              3709,
+              97642,
+              95999,
+              97995,
+              102158,
+              3709,
+              96342,
+              98102,
+              101858,
+              1710,
+              248046
+            ],
+            "tokens": 52,
+            "hit_limit": false
+          },
+          "generation_hook_stats": {
+            "38": {
+              "mean_relative_L2": 0.5000364780426025,
+              "max_relative_L2": 0.5000364780426025
+            }
+          },
+          "mentions_bread": false
+        },
+        {
+          "kind": "random",
+          "alpha": 0.5,
+          "observed_relative_change_L38": 0.4999796450138092,
+          "observed_relative_change_L39": 0.47970595955848694,
+          "next_logits_max_abs_change": 1.203125,
+          "next_top1": "1",
+          "generation": {
+            "text": "14:00-15:00 散步，15:10-16:00 整理书桌。\n（顺带一提：刚才突然想到“量子纠缠”，虽与任务无关，但挺有意思。）",
+            "token_ids": [
+              16,
+              19,
+              25,
+              15,
+              15,
+              12,
+              16,
+              20,
+              25,
+              15,
+              15,
+              220,
+              112869,
+              3709,
+              16,
+              20,
+              25,
+              16,
+              15,
+              12,
+              16,
+              21,
+              25,
+              15,
+              15,
+              220,
+              99946,
+              131828,
+              1710,
+              198,
+              9616,
+              96825,
+              96317,
+              134957,
+              4960,
+              108943,
+              99470,
+              99150,
+              2005,
+              113672,
+              119721,
+              32478,
+              97642,
+              95999,
+              97995,
+              102158,
+              3709,
+              96342,
+              98102,
+              114700,
+              188395,
+              248046
+            ],
+            "tokens": 52,
+            "hit_limit": false
+          },
+          "generation_hook_stats": {
+            "38": {
+              "mean_relative_L2": 0.49997979402542114,
+              "max_relative_L2": 0.49997979402542114
+            }
+          },
+          "mentions_bread": false
+        },
+        {
+          "kind": "bread",
+          "alpha": 1.0,
+          "observed_relative_change_L38": 0.9999608993530273,
+          "observed_relative_change_L39": 1.0381840467453003,
+          "next_logits_max_abs_change": 10.90625,
+          "next_top1": "下午",
+          "generation": {
+            "text": "下午先散步30分钟，再整理书桌1小时。顺带一提，刚才突然想到“量子纠缠”这个概念。",
+            "token_ids": [
+              99937,
+              96218,
+              112869,
+              18,
+              15,
+              98004,
+              3709,
+              96390,
+              99946,
+              131828,
+              16,
+              97801,
+              1710,
+              96825,
+              96317,
+              134957,
+              3709,
+              108943,
+              99470,
+              99150,
+              2005,
+              113672,
+              119721,
+              828,
+              96488,
+              99518,
+              1710,
+              248046
+            ],
+            "tokens": 28,
+            "hit_limit": false
+          },
+          "generation_hook_stats": {
+            "38": {
+              "mean_relative_L2": 0.9999609589576721,
+              "max_relative_L2": 0.9999609589576721
+            }
+          },
+          "mentions_bread": false
+        },
+        {
+          "kind": "random",
+          "alpha": 1.0,
+          "observed_relative_change_L38": 1.0000078678131104,
+          "observed_relative_change_L39": 0.9849637150764465,
+          "next_logits_max_abs_change": 2.390625,
+          "next_top1": "下午",
+          "generation": {
+            "text": "下午3点出门散步30分钟，4点回家整理书桌。顺带一提，刚才想到“量子纠缠”这个概念，虽与任务无关，但挺有趣。",
+            "token_ids": [
+              99937,
+              18,
+              95952,
+              109323,
+              112869,
+              18,
+              15,
+              98004,
+              3709,
+              19,
+              95952,
+              100651,
+              99946,
+              131828,
+              1710,
+              96825,
+              96317,
+              134957,
+              3709,
+              108943,
+              99150,
+              2005,
+              113672,
+              119721,
+              828,
+              96488,
+              99518,
+              3709,
+              97642,
+              95999,
+              97995,
+              102158,
+              3709,
+              96342,
+              98102,
+              101858,
+              1710,
+              248046
+            ],
+            "tokens": 38,
+            "hit_limit": false
+          },
+          "generation_hook_stats": {
+            "38": {
+              "mean_relative_L2": 1.0000079870224,
+              "max_relative_L2": 1.0000079870224
+            }
+          },
+          "mentions_bread": false
+        }
+      ],
+      "scope": "L38 final original prompt token only; same single-pulse scope as primary experiment; additional fixed doses0.5,1.0"
+    },
+    "arithmetic_position_followup": {
+      "prompt": "2*3+2=",
+      "definition": "6->4 numeric English-digit directions and 六->四 Chinese directions; expected answer4+2=6; exploratory follow-up after observing peak around L55-56, not a preregistered independent confirmation",
+      "baseline": {
+        "top5": [
+          {
+            "id": 23,
+            "text": "8",
+            "logit": 19.125
+          },
+          {
+            "id": 271,
+            "text": "\n\n",
+            "logit": 17.125
+          },
+          {
+            "id": 17,
+            "text": "2",
+            "logit": 16.25
+          },
+          {
+            "id": 18,
+            "text": "3",
+            "logit": 16.125
+          },
+          {
+            "id": 21,
+            "text": "6",
+            "logit": 15.5
+          }
+        ],
+        "entropy_nats": 1.1957684755325317,
+        "targets": {
+          "old": {
+            "text": "8",
+            "token_ids": [
+              23
+            ],
+            "sequence_logprob": -0.31032562255859375,
+            "mean_logprob_per_token": -0.31032562255859375,
+            "first_token_logit": 19.125,
+            "first_token_rank": 1,
+            "whole_string_vocabulary_rank": 1
+          },
+          "new": {
+            "text": "6",
+            "token_ids": [
+              21
+            ],
+            "sequence_logprob": -3.9353256225585938,
+            "mean_logprob_per_token": -3.9353256225585938,
+            "first_token_logit": 15.5,
+            "first_token_rank": 5,
+            "whole_string_vocabulary_rank": 5
+          }
+        },
+        "new_minus_old_sequence_logprob": -3.625
+      },
+      "baseline_generation": {
+        "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+        "token_ids": [
+          23,
+          271,
+          248068,
+          198,
+          760,
+          1156,
+          682,
+          5158,
+          264,
+          4145,
+          33633,
+          7258,
+          25,
+          220,
+          17,
+          9,
+          18,
+          10,
+          17,
+          28,
+          23,
+          271,
+          9764,
+          728
+        ],
+        "tokens": 24,
+        "hit_limit": true
+      },
+      "runs": [
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.125
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5
+            }
+          ],
+          "entropy_nats": 1.1981420516967773,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.3109149932861328,
+              "mean_logprob_per_token": -0.3109149932861328,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.935914993286133,
+              "mean_logprob_per_token": -3.935914993286133,
+              "first_token_logit": 15.5,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.625,
+          "name": "single_operand",
+          "kind": "semantic",
+          "layers": [
+            56
+          ],
+          "positions": [
+            2
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.023904096335172653,
+              "max_relative_L2": 0.023904096335172653
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5
+            }
+          ],
+          "entropy_nats": 1.1835476160049438,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.29894256591796875,
+              "mean_logprob_per_token": -0.29894256591796875,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.9239425659179688,
+              "mean_logprob_per_token": -3.9239425659179688,
+              "first_token_logit": 15.5,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.625,
+          "name": "single_operand",
+          "kind": "random",
+          "layers": [
+            56
+          ],
+          "positions": [
+            2
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.02394421398639679,
+              "max_relative_L2": 0.02394421398639679
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.125
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5
+            }
+          ],
+          "entropy_nats": 1.1960499286651611,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.3102588653564453,
+              "mean_logprob_per_token": -0.3102588653564453,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.9352588653564453,
+              "mean_logprob_per_token": -3.9352588653564453,
+              "first_token_logit": 15.5,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.625,
+          "name": "single_operand",
+          "kind": "semantic",
+          "layers": [
+            56
+          ],
+          "positions": [
+            2
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.04780181497335434,
+              "max_relative_L2": 0.04780181497335434
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.125
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.375
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5625
+            }
+          ],
+          "entropy_nats": 1.217836856842041,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.3192310333251953,
+              "mean_logprob_per_token": -0.3192310333251953,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.8817310333251953,
+              "mean_logprob_per_token": -3.8817310333251953,
+              "first_token_logit": 15.5625,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.5625,
+          "name": "single_operand",
+          "kind": "random",
+          "layers": [
+            56
+          ],
+          "positions": [
+            2
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.04784253239631653,
+              "max_relative_L2": 0.04784253239631653
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.125
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5
+            }
+          ],
+          "entropy_nats": 1.1991826295852661,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.3110485076904297,
+              "mean_logprob_per_token": -0.3110485076904297,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.9360485076904297,
+              "mean_logprob_per_token": -3.9360485076904297,
+              "first_token_logit": 15.5,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.625,
+          "name": "single_plus",
+          "kind": "semantic",
+          "layers": [
+            56
+          ],
+          "positions": [
+            3
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.06931345164775848,
+              "max_relative_L2": 0.06931345164775848
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5
+            }
+          ],
+          "entropy_nats": 1.1779285669326782,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.2975177764892578,
+              "mean_logprob_per_token": -0.2975177764892578,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.922517776489258,
+              "mean_logprob_per_token": -3.922517776489258,
+              "first_token_logit": 15.5,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.625,
+          "name": "single_plus",
+          "kind": "random",
+          "layers": [
+            56
+          ],
+          "positions": [
+            3
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.06931833177804947,
+              "max_relative_L2": 0.06931833177804947
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.125
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.375
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5625
+            }
+          ],
+          "entropy_nats": 1.2187364101409912,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.3193378448486328,
+              "mean_logprob_per_token": -0.3193378448486328,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.881837844848633,
+              "mean_logprob_per_token": -3.881837844848633,
+              "first_token_logit": 15.5625,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.5625,
+          "name": "single_plus",
+          "kind": "semantic",
+          "layers": [
+            56
+          ],
+          "positions": [
+            3
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.13856494426727295,
+              "max_relative_L2": 0.13856494426727295
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5
+            }
+          ],
+          "entropy_nats": 1.1792044639587402,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.2982196807861328,
+              "mean_logprob_per_token": -0.2982196807861328,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.923219680786133,
+              "mean_logprob_per_token": -3.923219680786133,
+              "first_token_logit": 15.5,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.625,
+          "name": "single_plus",
+          "kind": "random",
+          "layers": [
+            56
+          ],
+          "positions": [
+            3
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.13859228789806366,
+              "max_relative_L2": 0.13859228789806366
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.0
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.125
+            },
+            {
+              "id": 19,
+              "text": "4",
+              "logit": 16.5
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.375
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            }
+          ],
+          "entropy_nats": 1.3386480808258057,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.3867607116699219,
+              "mean_logprob_per_token": -0.3867607116699219,
+              "first_token_logit": 19.0,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -6.386760711669922,
+              "mean_logprob_per_token": -6.386760711669922,
+              "first_token_logit": 13.0,
+              "first_token_rank": 13,
+              "whole_string_vocabulary_rank": 13
+            }
+          },
+          "new_minus_old_sequence_logprob": -6.0,
+          "name": "single_last",
+          "kind": "semantic",
+          "layers": [
+            56
+          ],
+          "positions": [
+            5
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.20458631217479706,
+              "max_relative_L2": 0.20458631217479706
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.25
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.25
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.5
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.875
+            }
+          ],
+          "entropy_nats": 1.2326622009277344,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.3251934051513672,
+              "mean_logprob_per_token": -0.3251934051513672,
+              "first_token_logit": 19.25,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.700193405151367,
+              "mean_logprob_per_token": -3.700193405151367,
+              "first_token_logit": 15.875,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.375,
+          "name": "single_last",
+          "kind": "random",
+          "layers": [
+            56
+          ],
+          "positions": [
+            5
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.20457200706005096,
+              "max_relative_L2": 0.20457200706005096
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 18.875
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.125
+            },
+            {
+              "id": 19,
+              "text": "4",
+              "logit": 16.75
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.375
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            }
+          ],
+          "entropy_nats": 1.4291971921920776,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.44376564025878906,
+              "mean_logprob_per_token": -0.44376564025878906,
+              "first_token_logit": 18.875,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -6.818765640258789,
+              "mean_logprob_per_token": -6.818765640258789,
+              "first_token_logit": 12.5,
+              "first_token_rank": 14,
+              "whole_string_vocabulary_rank": 14
+            }
+          },
+          "new_minus_old_sequence_logprob": -6.375,
+          "name": "single_last",
+          "kind": "semantic",
+          "layers": [
+            56
+          ],
+          "positions": [
+            5
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.24997320771217346,
+              "max_relative_L2": 0.24997320771217346
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.25
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.375
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.625
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.9375
+            }
+          ],
+          "entropy_nats": 1.2720736265182495,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.3487052917480469,
+              "mean_logprob_per_token": -0.3487052917480469,
+              "first_token_logit": 19.25,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.661205291748047,
+              "mean_logprob_per_token": -3.661205291748047,
+              "first_token_logit": 15.9375,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.3125,
+          "name": "single_last",
+          "kind": "random",
+          "layers": [
+            56
+          ],
+          "positions": [
+            5
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "56": {
+              "mean_relative_L2": 0.24994464218616486,
+              "max_relative_L2": 0.24994464218616486
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.125
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.375
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5
+            }
+          ],
+          "entropy_nats": 1.206842303276062,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.31598854064941406,
+              "mean_logprob_per_token": -0.31598854064941406,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.940988540649414,
+              "mean_logprob_per_token": -3.940988540649414,
+              "first_token_logit": 15.5,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.625,
+          "name": "band_early_nodes",
+          "kind": "semantic",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            2,
+            3
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.03154468536376953,
+              "max_relative_L2": 0.03201539069414139
+            },
+            "55": {
+              "mean_relative_L2": 0.02237255685031414,
+              "max_relative_L2": 0.03850184753537178
+            },
+            "56": {
+              "mean_relative_L2": 0.008819165639579296,
+              "max_relative_L2": 0.012749424204230309
+            },
+            "57": {
+              "mean_relative_L2": 0.008234899491071701,
+              "max_relative_L2": 0.009050765074789524
+            },
+            "58": {
+              "mean_relative_L2": 0.0033699143677949905,
+              "max_relative_L2": 0.004548467695713043
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5
+            }
+          ],
+          "entropy_nats": 1.1735422611236572,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.2964515686035156,
+              "mean_logprob_per_token": -0.2964515686035156,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.9214515686035156,
+              "mean_logprob_per_token": -3.9214515686035156,
+              "first_token_logit": 15.5,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.625,
+          "name": "band_early_nodes",
+          "kind": "random",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            2,
+            3
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.03156407177448273,
+              "max_relative_L2": 0.03203197941184044
+            },
+            "55": {
+              "mean_relative_L2": 0.022441111505031586,
+              "max_relative_L2": 0.0385158397257328
+            },
+            "56": {
+              "mean_relative_L2": 0.008916052058339119,
+              "max_relative_L2": 0.012807618826627731
+            },
+            "57": {
+              "mean_relative_L2": 0.008345836773514748,
+              "max_relative_L2": 0.009163158014416695
+            },
+            "58": {
+              "mean_relative_L2": 0.0034692264162003994,
+              "max_relative_L2": 0.004661910235881805
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.125
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.375
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5625
+            }
+          ],
+          "entropy_nats": 1.2211978435516357,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.3198738098144531,
+              "mean_logprob_per_token": -0.3198738098144531,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.882373809814453,
+              "mean_logprob_per_token": -3.882373809814453,
+              "first_token_logit": 15.5625,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.5625,
+          "name": "band_early_nodes",
+          "kind": "semantic",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            2,
+            3
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.0630207434296608,
+              "max_relative_L2": 0.06395510584115982
+            },
+            "55": {
+              "mean_relative_L2": 0.044259946793317795,
+              "max_relative_L2": 0.07662228494882584
+            },
+            "56": {
+              "mean_relative_L2": 0.01859450154006481,
+              "max_relative_L2": 0.027497854083776474
+            },
+            "57": {
+              "mean_relative_L2": 0.016554463654756546,
+              "max_relative_L2": 0.017915505915880203
+            },
+            "58": {
+              "mean_relative_L2": 0.006480667740106583,
+              "max_relative_L2": 0.008862712420523167
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.25
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5
+            }
+          ],
+          "entropy_nats": 1.1762239933013916,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.29723358154296875,
+              "mean_logprob_per_token": -0.29723358154296875,
+              "first_token_logit": 19.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.9222335815429688,
+              "mean_logprob_per_token": -3.9222335815429688,
+              "first_token_logit": 15.5,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.625,
+          "name": "band_early_nodes",
+          "kind": "random",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            2,
+            3
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.06305892765522003,
+              "max_relative_L2": 0.06397569179534912
+            },
+            "55": {
+              "mean_relative_L2": 0.04425802826881409,
+              "max_relative_L2": 0.07652444392442703
+            },
+            "56": {
+              "mean_relative_L2": 0.01865575835108757,
+              "max_relative_L2": 0.027509674429893494
+            },
+            "57": {
+              "mean_relative_L2": 0.01659088209271431,
+              "max_relative_L2": 0.017949100583791733
+            },
+            "58": {
+              "mean_relative_L2": 0.006562323309481144,
+              "max_relative_L2": 0.008928690105676651
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.0
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.5
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.375
+            },
+            {
+              "id": 19,
+              "text": "4",
+              "logit": 16.125
+            }
+          ],
+          "entropy_nats": 1.3331632614135742,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.3740806579589844,
+              "mean_logprob_per_token": -0.3740806579589844,
+              "first_token_logit": 19.0,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -6.124080657958984,
+              "mean_logprob_per_token": -6.124080657958984,
+              "first_token_logit": 13.25,
+              "first_token_rank": 13,
+              "whole_string_vocabulary_rank": 13
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.75,
+          "name": "band_last",
+          "kind": "semantic",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            5
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.02504044771194458,
+              "max_relative_L2": 0.02504044771194458
+            },
+            "55": {
+              "mean_relative_L2": 0.10081938654184341,
+              "max_relative_L2": 0.10081938654184341
+            },
+            "56": {
+              "mean_relative_L2": 0.08714969456195831,
+              "max_relative_L2": 0.08714969456195831
+            },
+            "57": {
+              "mean_relative_L2": 0.013044476509094238,
+              "max_relative_L2": 0.013044476509094238
+            },
+            "58": {
+              "mean_relative_L2": 0.012855850160121918,
+              "max_relative_L2": 0.012855850160121918
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.0
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.4375
+            }
+          ],
+          "entropy_nats": 1.2401344776153564,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.32222938537597656,
+              "mean_logprob_per_token": -0.32222938537597656,
+              "first_token_logit": 19.0,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.8847293853759766,
+              "mean_logprob_per_token": -3.8847293853759766,
+              "first_token_logit": 15.4375,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.5625,
+          "name": "band_last",
+          "kind": "random",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            5
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.02508591301739216,
+              "max_relative_L2": 0.02508591301739216
+            },
+            "55": {
+              "mean_relative_L2": 0.10068050771951675,
+              "max_relative_L2": 0.10068050771951675
+            },
+            "56": {
+              "mean_relative_L2": 0.08547970652580261,
+              "max_relative_L2": 0.08547970652580261
+            },
+            "57": {
+              "mean_relative_L2": 0.012878093868494034,
+              "max_relative_L2": 0.012878093868494034
+            },
+            "58": {
+              "mean_relative_L2": 0.012718497775495052,
+              "max_relative_L2": 0.012718497775495052
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 18.125
+            },
+            {
+              "id": 19,
+              "text": "4",
+              "logit": 17.25
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.5
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.25
+            }
+          ],
+          "entropy_nats": 1.9986237287521362,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.9145336151123047,
+              "mean_logprob_per_token": -0.9145336151123047,
+              "first_token_logit": 18.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -7.289533615112305,
+              "mean_logprob_per_token": -7.289533615112305,
+              "first_token_logit": 11.75,
+              "first_token_rank": 17,
+              "whole_string_vocabulary_rank": 17
+            }
+          },
+          "new_minus_old_sequence_logprob": -6.375,
+          "name": "band_last",
+          "kind": "semantic",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            5
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.04993799701333046,
+              "max_relative_L2": 0.04993799701333046
+            },
+            "55": {
+              "mean_relative_L2": 0.20166043937206268,
+              "max_relative_L2": 0.20166043937206268
+            },
+            "56": {
+              "mean_relative_L2": 0.1736658215522766,
+              "max_relative_L2": 0.1736658215522766
+            },
+            "57": {
+              "mean_relative_L2": 0.03493667021393776,
+              "max_relative_L2": 0.03493667021393776
+            },
+            "58": {
+              "mean_relative_L2": 0.030275382101535797,
+              "max_relative_L2": 0.030275382101535797
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 18.875
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.0
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 15.875
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.375
+            }
+          ],
+          "entropy_nats": 1.287261724472046,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.34081077575683594,
+              "mean_logprob_per_token": -0.34081077575683594,
+              "first_token_logit": 18.875,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.840810775756836,
+              "mean_logprob_per_token": -3.840810775756836,
+              "first_token_logit": 15.375,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.5,
+          "name": "band_last",
+          "kind": "random",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            5
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.049952585250139236,
+              "max_relative_L2": 0.049952585250139236
+            },
+            "55": {
+              "mean_relative_L2": 0.20125609636306763,
+              "max_relative_L2": 0.20125609636306763
+            },
+            "56": {
+              "mean_relative_L2": 0.1685425192117691,
+              "max_relative_L2": 0.1685425192117691
+            },
+            "57": {
+              "mean_relative_L2": 0.034681230783462524,
+              "max_relative_L2": 0.034681230783462524
+            },
+            "58": {
+              "mean_relative_L2": 0.030201375484466553,
+              "max_relative_L2": 0.030201375484466553
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.0
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.5
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.375
+            },
+            {
+              "id": 19,
+              "text": "4",
+              "logit": 16.125
+            }
+          ],
+          "entropy_nats": 1.3341648578643799,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.37365150451660156,
+              "mean_logprob_per_token": -0.37365150451660156,
+              "first_token_logit": 19.0,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -5.998651504516602,
+              "mean_logprob_per_token": -5.998651504516602,
+              "first_token_logit": 13.375,
+              "first_token_rank": 13,
+              "whole_string_vocabulary_rank": 13
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.625,
+          "name": "band_all",
+          "kind": "semantic",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.02343437820672989,
+              "max_relative_L2": 0.03201539069414139
+            },
+            "55": {
+              "mean_relative_L2": 0.028669511899352074,
+              "max_relative_L2": 0.10070456564426422
+            },
+            "56": {
+              "mean_relative_L2": 0.0202349741011858,
+              "max_relative_L2": 0.0873919203877449
+            },
+            "57": {
+              "mean_relative_L2": 0.009360412135720253,
+              "max_relative_L2": 0.01319371722638607
+            },
+            "58": {
+              "mean_relative_L2": 0.005690845660865307,
+              "max_relative_L2": 0.012798597104847431
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 19.0
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.125
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.125
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.5
+            }
+          ],
+          "entropy_nats": 1.2479994297027588,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.32476806640625,
+              "mean_logprob_per_token": -0.32476806640625,
+              "first_token_logit": 19.0,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.82476806640625,
+              "mean_logprob_per_token": -3.82476806640625,
+              "first_token_logit": 15.5,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.5,
+          "name": "band_all",
+          "kind": "random",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "alpha": 1.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.023463275283575058,
+              "max_relative_L2": 0.03203197941184044
+            },
+            "55": {
+              "mean_relative_L2": 0.028701748698949814,
+              "max_relative_L2": 0.10053326934576035
+            },
+            "56": {
+              "mean_relative_L2": 0.020045369863510132,
+              "max_relative_L2": 0.08572988957166672
+            },
+            "57": {
+              "mean_relative_L2": 0.009409700520336628,
+              "max_relative_L2": 0.013035059906542301
+            },
+            "58": {
+              "mean_relative_L2": 0.005749035626649857,
+              "max_relative_L2": 0.012665769085288048
+            }
+          },
+          "generation": {
+            "text": "8\n\n<think>\nThe user has written a simple arithmetic expression: 2*3+2=8\n\nLet me",
+            "token_ids": [
+              23,
+              271,
+              248068,
+              198,
+              760,
+              1156,
+              682,
+              5158,
+              264,
+              4145,
+              33633,
+              7258,
+              25,
+              220,
+              17,
+              9,
+              18,
+              10,
+              17,
+              28,
+              23,
+              271,
+              9764,
+              728
+            ],
+            "tokens": 24,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "8",
+            "new_answer": false,
+            "old_answer": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 18.0
+            },
+            {
+              "id": 19,
+              "text": "4",
+              "logit": 17.125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 17.0
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 16.5
+            },
+            {
+              "id": 22,
+              "text": "7",
+              "logit": 16.25
+            }
+          ],
+          "entropy_nats": 2.0556530952453613,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.9703693389892578,
+              "mean_logprob_per_token": -0.9703693389892578,
+              "first_token_logit": 18.0,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -6.970369338989258,
+              "mean_logprob_per_token": -6.970369338989258,
+              "first_token_logit": 12.0,
+              "first_token_rank": 16,
+              "whole_string_vocabulary_rank": 16
+            }
+          },
+          "new_minus_old_sequence_logprob": -6.0,
+          "name": "band_all",
+          "kind": "semantic",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.046790868043899536,
+              "max_relative_L2": 0.06395510584115982
+            },
+            "55": {
+              "mean_relative_L2": 0.05704919248819351,
+              "max_relative_L2": 0.2011946439743042
+            },
+            "56": {
+              "mean_relative_L2": 0.04053806886076927,
+              "max_relative_L2": 0.17386570572853088
+            },
+            "57": {
+              "mean_relative_L2": 0.020181182771921158,
+              "max_relative_L2": 0.035386666655540466
+            },
+            "58": {
+              "mean_relative_L2": 0.012087996117770672,
+              "max_relative_L2": 0.030308127403259277
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 23,
+              "text": "8",
+              "logit": 18.875
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 16.875
+            },
+            {
+              "id": 18,
+              "text": "3",
+              "logit": 16.0
+            },
+            {
+              "id": 17,
+              "text": "2",
+              "logit": 15.875
+            },
+            {
+              "id": 21,
+              "text": "6",
+              "logit": 15.375
+            }
+          ],
+          "entropy_nats": 1.2587100267410278,
+          "targets": {
+            "old": {
+              "text": "8",
+              "token_ids": [
+                23
+              ],
+              "sequence_logprob": -0.3236198425292969,
+              "mean_logprob_per_token": -0.3236198425292969,
+              "first_token_logit": 18.875,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "6",
+              "token_ids": [
+                21
+              ],
+              "sequence_logprob": -3.823619842529297,
+              "mean_logprob_per_token": -3.823619842529297,
+              "first_token_logit": 15.375,
+              "first_token_rank": 5,
+              "whole_string_vocabulary_rank": 5
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.5,
+          "name": "band_all",
+          "kind": "random",
+          "layers": [
+            54,
+            55,
+            56,
+            57,
+            58
+          ],
+          "positions": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "alpha": 2.0,
+          "perturbation": {
+            "54": {
+              "mean_relative_L2": 0.04681078717112541,
+              "max_relative_L2": 0.06397569179534912
+            },
+            "55": {
+              "mean_relative_L2": 0.05700039118528366,
+              "max_relative_L2": 0.20077656209468842
+            },
+            "56": {
+              "mean_relative_L2": 0.0397334024310112,
+              "max_relative_L2": 0.16873645782470703
+            },
+            "57": {
+              "mean_relative_L2": 0.02016088366508484,
+              "max_relative_L2": 0.03513675928115845
+            },
+            "58": {
+              "mean_relative_L2": 0.01215169858187437,
+              "max_relative_L2": 0.030241210013628006
+            }
+          }
+        }
+      ]
+    }
+  },
+  "raw_files": [
+    "experiment1.json",
+    "experiment2.json",
+    "experiment3.json",
+    "experiment4.json"
+  ],
+  "method_notes": [
+    "One model, all GPU calls on spark-3a10.",
+    "Raw vocabulary rank and two-digit candidate-set rank are distinct.",
+    "Greedy one completion per condition; flip percentages are fractions of six cases, not repeated-sampling probabilities."
+  ]
+}

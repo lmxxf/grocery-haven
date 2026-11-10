@@ -1,0 +1,74 @@
+LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '116304744 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106734612 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105687828 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104927364 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104173892 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103349024 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102593980 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101851744 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101104028 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100361192 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99597772 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98839212 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98078296 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97336152 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96575068 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95798624 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95036100 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94296964 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93545620 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92777072 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92026468 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91284156 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90526616 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89767196 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89006944 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88264892 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87516652 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86752844 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85997224 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85248612 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84488676 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83709176 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82949932 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82204976 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81422272 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80675396 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79922568 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79182960 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78408680 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77677240 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76922212 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76176888 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75394144 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74654948 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73885940 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73143920 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72370412 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71626816 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70863740 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70119652 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69344188 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68592036 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67827876 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67086848 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66317072 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65562132 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64803036 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64059652 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63291448 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62546940 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61786492 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61043220 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '60282920 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '59527524 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '58765448 kB', 'SwapFree': '16776876 kB'}
+MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '58018336 kB', 'SwapFree': '16776876 kB'}
+[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+ARITHMETIC_PATCH single_operand
+ARITHMETIC_PATCH single_plus
+ARITHMETIC_PATCH single_last
+ARITHMETIC_PATCH band_early_nodes
+ARITHMETIC_PATCH band_last
+ARITHMETIC_PATCH band_all

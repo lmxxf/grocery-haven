@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="324pt" viewBox="0 0 792 324" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T10:11:12.516773</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 324 
+L 792 324 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 48.745409 295.4 
+L 781.2 295.4 
+L 781.2 25.81125 
+L 48.745409 25.81125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 82.0388 114896.466063 
+L 109.977309 114896.466063 
+L 109.977309 284.292933 
+L 82.0388 284.292933 
+z
+" clip-path="url(#pf33548667e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 198.449256 114896.466063 
+L 226.387766 114896.466063 
+L 226.387766 249.791231 
+L 198.449256 249.791231 
+z
+" clip-path="url(#pf33548667e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 314.859712 114896.466063 
+L 342.798222 114896.466063 
+L 342.798222 284.292933 
+L 314.859712 284.292933 
+z
+" clip-path="url(#pf33548667e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 431.270169 114896.466063 
+L 459.208678 114896.466063 
+L 459.208678 195.107327 
+L 431.270169 195.107327 
+z
+" clip-path="url(#pf33548667e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 547.680625 114896.466063 
+L 575.619134 114896.466063 
+L 575.619134 215.289529 
+L 547.680625 215.289529 
+z
+" clip-path="url(#pf33548667e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 664.091081 114896.466063 
+L 692.029591 114896.466063 
+L 692.029591 204.182462 
+L 664.091081 204.182462 
+z
+" clip-path="url(#pf33548667e)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 109.977309 114896.466063 
+L 137.915819 114896.466063 
+L 137.915819 229.609029 
+L 109.977309 229.609029 
+z
+" clip-path="url(#pf33548667e)" style="fill: #ff7f0e"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 226.387766 114896.466063 
+L 254.326275 114896.466063 
+L 254.326275 68.078131 
+L 226.387766 68.078131 
+z
+" clip-path="url(#pf33548667e)" style="fill: #ff7f0e"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 342.798222 114896.466063 
+L 370.736731 114896.466063 
+L 370.736731 103.230502 
+L 342.798222 103.230502 
+z
+" clip-path="url(#pf33548667e)" style="fill: #ff7f0e"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 459.208678 114896.466063 
+L 487.147188 114896.466063 
+L 487.147188 187.43441 
+L 459.208678 187.43441 
+z
+" clip-path="url(#pf33548667e)" style="fill: #ff7f0e"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 575.619134 114896.466063 
+L 603.557644 114896.466063 
+L 603.557644 174.925125 
+L 575.619134 174.925125 
+z
+" clip-path="url(#pf33548667e)" style="fill: #ff7f0e"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 692.029591 114896.466063 
+L 719.9681 114896.466063 
+L 719.9681 215.289529 
+L 692.029591 215.289529 
+z
+" clip-path="url(#pf33548667e)" style="fill: #ff7f0e"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 137.915819 114896.466063 
+L 165.854328 114896.466063 
+L 165.854328 249.791231 
+L 137.915819 249.791231 
+z
+" clip-path="url(#pf33548667e)" style="fill: #2ca02c"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 254.326275 114896.466063 
+L 282.264785 114896.466063 
+L 282.264785 164.936654 
+L 254.326275 164.936654 
+z
+" clip-path="url(#pf33548667e)" style="fill: #2ca02c"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 370.736731 114896.466063 
+L 398.675241 114896.466063 
+L 398.675241 160.605625 
+L 370.736731 160.605625 
+z
+" clip-path="url(#pf33548667e)" style="fill: #2ca02c"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 487.147188 114896.466063 
+L 515.085697 114896.466063 
+L 515.085697 204.182462 
+L 487.147188 204.182462 
+z
+" clip-path="url(#pf33548667e)" style="fill: #2ca02c"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 603.557644 114896.466063 
+L 631.496153 114896.466063 
+L 631.496153 174.925125 
+L 603.557644 174.925125 
+z
+" clip-path="url(#pf33548667e)" style="fill: #2ca02c"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 719.9681 114896.466063 
+L 747.90661 114896.466063 
+L 747.90661 215.289529 
+L 719.9681 215.289529 
+z
+" clip-path="url(#pf33548667e)" style="fill: #2ca02c"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="meef0ef1200" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#meef0ef1200" x="123.946564" y="295.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="123.946564" y="309.998438" transform="rotate(-0 123.946564 309.998438)">紧凑算式</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#meef0ef1200" x="240.35702" y="295.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="240.35702" y="309.998438" transform="rotate(-0 240.35702 309.998438)">空格算式</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#meef0ef1200" x="356.767477" y="295.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="356.767477" y="309.998438" transform="rotate(-0 356.767477 309.998438)">Fact前缀</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#meef0ef1200" x="473.177933" y="295.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="473.177933" y="309.998438" transform="rotate(-0 473.177933 309.998438)">英文单词</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#meef0ef1200" x="589.588389" y="295.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="589.588389" y="309.998438" transform="rotate(-0 589.588389 309.998438)">中文+数字</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#meef0ef1200" x="705.998845" y="295.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="705.998845" y="309.998438" transform="rotate(-0 705.998845 309.998438)">中文汉字</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m932a53d187" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m932a53d187" x="48.745409" y="284.292933" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- $\mathdefault{10^{0}}$ -->
+      <g transform="translate(26.445409 288.092152)">
+       <text>
+        <tspan x="0" y="-0.173438" style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'">1</tspan>
+        <tspan x="5.507812" y="-0.173438" style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'">0</tspan>
+        <tspan x="11.109414" y="-3.925" style="font-size: 7px; font-family: 'WenQuanYi Micro Hei'">0</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m932a53d187" x="48.745409" y="169.68076" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- $\mathdefault{10^{1}}$ -->
+      <g transform="translate(26.445409 173.479978)">
+       <text>
+        <tspan x="0" y="-0.25" style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'">1</tspan>
+        <tspan x="5.507812" y="-0.25" style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'">0</tspan>
+        <tspan x="11.109414" y="-4.001563" style="font-size: 7px; font-family: 'WenQuanYi Micro Hei'">1</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m932a53d187" x="48.745409" y="55.068587" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- $\mathdefault{10^{2}}$ -->
+      <g transform="translate(26.445409 58.867805)">
+       <text>
+        <tspan x="0" y="-0.184375" style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'">1</tspan>
+        <tspan x="5.507812" y="-0.184375" style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'">0</tspan>
+        <tspan x="11.109414" y="-3.935938" style="font-size: 7px; font-family: 'WenQuanYi Micro Hei'">2</tspan>
+       </text>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <defs>
+       <path id="m6d91a3b6d7" d="M 0 0 
+L -2 0 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="295.4" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="289.537298" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="249.791231" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="229.609029" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="215.289529" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="204.182462" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="195.107327" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="187.43441" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="180.787827" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="174.925125" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="135.179058" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="114.996856" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="100.677356" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="89.570289" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="80.495154" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="72.822237" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="66.175654" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m6d91a3b6d7" x="48.745409" y="60.312952" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="20.042284" y="160.605625" transform="rotate(-90 20.042284 160.605625)">末位置跨层最好Rank（6/six/六等单token别名）</text>
+    </g>
+   </g>
+   <g id="patch_21">
+    <path d="M 48.745409 295.4 
+L 48.745409 25.81125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 781.2 295.4 
+L 781.2 25.81125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 48.745409 295.4 
+L 781.2 295.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 48.745409 25.81125 
+L 781.2 25.81125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="96.008055" y="282.370433" transform="rotate(-0 96.008055 282.370433)">1</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="212.418511" y="247.868731" transform="rotate(-0 212.418511 247.868731)">2</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="328.828967" y="282.370433" transform="rotate(-0 328.828967 282.370433)">1</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="445.239423" y="193.184827" transform="rotate(-0 445.239423 193.184827)">6</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="561.64988" y="213.367029" transform="rotate(-0 561.64988 213.367029)">4</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="678.060336" y="202.259962" transform="rotate(-0 678.060336 202.259962)">5</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="123.946564" y="227.686529" transform="rotate(-0 123.946564 227.686529)">3</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="240.35702" y="66.155631" transform="rotate(-0 240.35702 66.155631)">77</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="356.767477" y="101.308002" transform="rotate(-0 356.767477 101.308002)">38</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="473.177933" y="185.51191" transform="rotate(-0 473.177933 185.51191)">7</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="589.588389" y="173.002625" transform="rotate(-0 589.588389 173.002625)">9</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="705.998845" y="213.367029" transform="rotate(-0 705.998845 213.367029)">4</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="151.885074" y="247.868731" transform="rotate(-0 151.885074 247.868731)">2</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="268.29553" y="163.014154" transform="rotate(-0 268.29553 163.014154)">11</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="384.705986" y="158.683125" transform="rotate(-0 384.705986 158.683125)">12</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="501.116442" y="202.259962" transform="rotate(-0 501.116442 202.259962)">5</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="617.526899" y="173.002625" transform="rotate(-0 617.526899 173.002625)">9</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="733.937355" y="213.367029" transform="rotate(-0 733.937355 213.367029)">4</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 12px; font-family: 'WenQuanYi Micro Hei'; text-anchor: middle" x="414.972705" y="19.81125" transform="rotate(-0 414.972705 19.81125)">只改题面格式，N=100也不保证中间值排第1</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_25">
+     <path d="M 712.254687 78.815938 
+L 774.2 78.815938 
+Q 776.2 78.815938 776.2 76.815938 
+L 776.2 32.81125 
+Q 776.2 30.81125 774.2 30.81125 
+L 712.254687 30.81125 
+Q 710.254687 30.81125 710.254687 32.81125 
+L 710.254687 76.815938 
+Q 710.254687 78.815938 712.254687 78.815938 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_26">
+     <path d="M 714.254687 42.409688 
+L 734.254687 42.409688 
+L 734.254687 35.409688 
+L 714.254687 35.409688 
+z
+" style="fill: #1f77b4"/>
+    </g>
+    <g id="text_30">
+     <text style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'; text-anchor: start" x="742.254687" y="42.409688" transform="rotate(-0 742.254687 42.409688)">Vanilla</text>
+    </g>
+    <g id="patch_27">
+     <path d="M 714.254687 57.41125 
+L 734.254687 57.41125 
+L 734.254687 50.41125 
+L 714.254687 50.41125 
+z
+" style="fill: #ff7f0e"/>
+    </g>
+    <g id="text_31">
+     <text style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'; text-anchor: start" x="742.254687" y="57.41125" transform="rotate(-0 742.254687 57.41125)">N=1</text>
+    </g>
+    <g id="patch_28">
+     <path d="M 714.254687 72.412813 
+L 734.254687 72.412813 
+L 734.254687 65.412813 
+L 714.254687 65.412813 
+z
+" style="fill: #2ca02c"/>
+    </g>
+    <g id="text_32">
+     <text style="font-size: 10px; font-family: 'WenQuanYi Micro Hei'; text-anchor: start" x="742.254687" y="72.412813" transform="rotate(-0 742.254687 72.412813)">N=100</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf33548667e">
+   <rect x="48.745409" y="25.81125" width="732.454591" height="269.58875"/>
+  </clipPath>
+ </defs>
+</svg>

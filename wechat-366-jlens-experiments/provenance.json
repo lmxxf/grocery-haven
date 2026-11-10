@@ -1,0 +1,26 @@
+{
+  "model": "Qwen3.8-27B-FP8 block-dequantized BF16",
+  "model_path_remote": "/home/lmxxf/work/models/Qwen3.8-27B-FP8",
+  "execution_host": "spark-3a10 / 192.168.31.198",
+  "local_gpu_used": false,
+  "n100_lens_sha256_from_previous_verified_delivery": "e9b11582f2023b7934ed591ab1134f7a3a9b6d64782665d3400a3fc56f532402",
+  "lenses_remote": "/home/lmxxf/work/jlens-qwen38-27b/lens_n1.pt and lens_n100.pt",
+  "code_sha256": {
+    "pipeline.py": "55c0203e2ad378459d4a74b20d7bb6d90c47dfa074fd2949d9088e4c98b0639f",
+    "validate_results.py": "2a7458903749f95281d43943c747c25ef4c710539ec6a04459d68990916c69b8",
+    "exp4_dosecheck.py": "baad2f62279a273b34e9fc087a742fc031a890033588806c61e5fa9f1b1742de",
+    "exp1.py": "3e986b231685c6914ba1d91deb3bc7fc7831ba1db297678cceb21e095d551505",
+    "arithmetic_position_check.py": "72ef430b873738cb9421e345811b3c8116e17a12590282f5e05cce65d970a91e",
+    "loader_reference.py": "c0dfe567fd0857053e91869c89bcecce7beab923855276f52b0dbe147eb05fa3",
+    "interventions.py": "22e80526d9586049540a07edd6e334529c32de4c9808636bced8153c660cc82f",
+    "analyze_report.py": "a54dc8ee88a4e24db2d166bcc4283c7d479229749411c6148f8df939123aa9ad",
+    "exp3.py": "df03bcfee7d965db02ecd44839091bed2903e9ad8519491742db2e61c8200d87",
+    "exp2.py": "4f97de04457c7ee2e480ba47e0050bc13d1351dd5a547caa76e7695c8d4ef020",
+    "exp4.py": "bb58e32a904286330092956120a260eae208275c2573fddbf2df84f614893ce3"
+  },
+  "seeds": 20261110,
+  "phase_status": {
+    "phase": "complete",
+    "time": 1794276156.60076
+  }
+}

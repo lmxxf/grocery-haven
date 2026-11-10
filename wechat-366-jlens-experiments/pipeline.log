@@ -1,0 +1,161 @@
+LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '116251700 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106711252 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105675796 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104922396 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104164672 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103348800 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102573288 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101829408 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101079852 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100323428 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99564792 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98805748 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98046476 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97283072 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96542008 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95783904 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95026884 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94284160 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93516304 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92753864 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91993456 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91250584 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90489860 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89732856 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88972072 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88226832 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87454496 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86698160 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85952172 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85210664 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84446740 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83687076 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82931500 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82183540 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81401232 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80648960 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79907056 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79161828 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78410660 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77652916 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76896232 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76151076 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75381352 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74625084 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73862920 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73125776 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72359376 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71600308 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70841212 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70095044 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69342176 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68585600 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67825140 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67061972 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66311800 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65550676 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64797336 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64055196 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63293768 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62535448 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61754760 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61028436 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '60269420 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '59511292 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '58735748 kB', 'SwapFree': '16776876 kB'}
+MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '58000608 kB', 'SwapFree': '16776876 kB'}
+[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+E1_CAPTURE tight 6 6
+E1_CAPTURE spaced 8 14
+E1_CAPTURE fact 11 25
+E1_CAPTURE words 9 34
+E1_CAPTURE zh_digits 8 42
+E1_CAPTURE zh_words 8 50
+E1_CAPTURE two_56 6 116
+E1_CAPTURE two_42 6 182
+E1_CAPTURE two_12 6 248
+E1_LAYER vanilla 0
+E1_LAYER vanilla 16
+E1_LAYER vanilla 32
+E1_LAYER vanilla 48
+E1_LAYER n1 0
+E1_LAYER n1 16
+E1_LAYER n1 32
+E1_LAYER n1 48
+E1_LAYER n100 0
+E1_LAYER n100 16
+E1_LAYER n100 32
+E1_LAYER n100 48
+EXPERIMENT_DONE 1
+[transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+E2_CONDITION boot_en english 0.5
+E2_CONDITION boot_en english 1.0
+E2_CONDITION boot_en english 2.0
+E2_CONDITION boot_en chinese 0.5
+E2_CONDITION boot_en chinese 1.0
+E2_CONDITION boot_en chinese 2.0
+E2_CONDITION boot_en both 0.5
+E2_CONDITION boot_en both 1.0
+E2_CONDITION boot_en both 2.0
+E2_CONDITION boot_zh english 0.5
+E2_CONDITION boot_zh english 1.0
+E2_CONDITION boot_zh english 2.0
+E2_CONDITION boot_zh chinese 0.5
+E2_CONDITION boot_zh chinese 1.0
+E2_CONDITION boot_zh chinese 2.0
+E2_CONDITION boot_zh both 0.5
+E2_CONDITION boot_zh both 1.0
+E2_CONDITION boot_zh both 2.0
+E2_CONDITION tokyo_zh english 0.5
+E2_CONDITION tokyo_zh english 1.0
+E2_CONDITION tokyo_zh english 2.0
+E2_CONDITION tokyo_zh chinese 0.5
+E2_CONDITION tokyo_zh chinese 1.0
+E2_CONDITION tokyo_zh chinese 2.0
+E2_CONDITION tokyo_zh both 0.5
+E2_CONDITION tokyo_zh both 1.0
+E2_CONDITION tokyo_zh both 2.0
+E2_CONDITION spider_en english 0.5
+E2_CONDITION spider_en english 1.0
+E2_CONDITION spider_en english 2.0
+E2_CONDITION spider_en chinese 0.5
+E2_CONDITION spider_en chinese 1.0
+E2_CONDITION spider_en chinese 2.0
+E2_CONDITION spider_en both 0.5
+E2_CONDITION spider_en both 1.0
+E2_CONDITION spider_en both 2.0
+E2_CONDITION spider_zh english 0.5
+E2_CONDITION spider_zh english 1.0
+E2_CONDITION spider_zh english 2.0
+E2_CONDITION spider_zh chinese 0.5
+E2_CONDITION spider_zh chinese 1.0
+E2_CONDITION spider_zh chinese 2.0
+E2_CONDITION spider_zh both 0.5
+E2_CONDITION spider_zh both 1.0
+E2_CONDITION spider_zh both 2.0
+E2_CONDITION arithmetic english 0.5
+E2_CONDITION arithmetic english 1.0
+E2_CONDITION arithmetic english 2.0
+E2_CONDITION arithmetic chinese 0.5
+E2_CONDITION arithmetic chinese 1.0
+E2_CONDITION arithmetic chinese 2.0
+E2_CONDITION arithmetic both 0.5
+E2_CONDITION arithmetic both 1.0
+E2_CONDITION arithmetic both 2.0
+EXPERIMENT_DONE 2
+E3_BROADCAST currency
+E3_BROADCAST capital
+E3_BROADCAST language
+E3_SELECTIVITY continuation
+E3_SELECTIVITY name_language
+EXPERIMENT_DONE 3
+E4 bread 0.05
+E4 bread 0.1
+E4 bread 0.2
+E4 hotpot 0.05
+E4 hotpot 0.1
+E4 hotpot 0.2
+E4 elephant 0.05
+E4 elephant 0.1
+E4 elephant 0.2
+EXPERIMENT_DONE 4

@@ -1,0 +1,125 @@
+2026-11-09 14:53:39,461 Blackwell detected: registering default global_scratch allocator.
+LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '116311480 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106697080 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105657392 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104905220 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104155812 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103349372 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102591920 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101831448 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101109856 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100366396 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99612708 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98850128 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98098092 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97357868 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96578212 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95832120 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95075148 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94337344 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93595764 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92837184 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92077964 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91335172 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90572920 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89817096 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89056092 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88343040 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87585088 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86824900 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86056300 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85322292 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84560640 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83800592 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83043416 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82300632 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81537848 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80778756 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80018220 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79269668 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78513940 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77750612 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76991228 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76251584 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75492408 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74731616 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73971988 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73226128 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72463400 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71702788 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70944312 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70203156 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69454832 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68693568 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67928952 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67185728 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66428144 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65664740 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64905792 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64162016 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63400612 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62640892 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61882408 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61138396 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '60375356 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '59614532 kB', 'SwapFree': '16777172 kB'}
+LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '58854852 kB', 'SwapFree': '16777172 kB'}
+MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '58096704 kB', 'SwapFree': '16777172 kB'}
+ADAPTER HFLensModel(Qwen3_5ForCausalLM, n_layers=64, d_model=5120)
+[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+/home/lmxxf/work/interp-curvature-exp/venv/lib/python3.12/site-packages/torch/autograd/graph.py:1072: UserWarning: Attempting to run cuBLAS, but there was no current CUDA context! Attempting to set the primary context... (Triggered internally at /__w/pytorch/pytorch/aten/src/ATen/cuda/CublasHandlePool.cpp:410.)
+  return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+2026-11-09 14:54:58,919     pass 1/5120 (dims 0-1)
+2026-11-09 14:55:29,581     pass 101/5120 (dims 100-101)
+2026-11-09 14:56:00,264     pass 201/5120 (dims 200-201)
+2026-11-09 14:56:30,965     pass 301/5120 (dims 300-301)
+2026-11-09 14:57:01,722     pass 401/5120 (dims 400-401)
+2026-11-09 14:57:32,416     pass 501/5120 (dims 500-501)
+2026-11-09 14:58:03,065     pass 601/5120 (dims 600-601)
+2026-11-09 14:58:33,709     pass 701/5120 (dims 700-701)
+2026-11-09 14:59:04,350     pass 801/5120 (dims 800-801)
+2026-11-09 14:59:34,997     pass 901/5120 (dims 900-901)
+2026-11-09 15:00:05,664     pass 1001/5120 (dims 1000-1001)
+2026-11-09 15:00:36,312     pass 1101/5120 (dims 1100-1101)
+2026-11-09 15:01:06,941     pass 1201/5120 (dims 1200-1201)
+2026-11-09 15:01:37,655     pass 1301/5120 (dims 1300-1301)
+2026-11-09 15:02:08,412     pass 1401/5120 (dims 1400-1401)
+2026-11-09 15:02:39,170     pass 1501/5120 (dims 1500-1501)
+2026-11-09 15:03:09,922     pass 1601/5120 (dims 1600-1601)
+2026-11-09 15:03:40,677     pass 1701/5120 (dims 1700-1701)
+2026-11-09 15:04:11,463     pass 1801/5120 (dims 1800-1801)
+2026-11-09 15:04:42,234     pass 1901/5120 (dims 1900-1901)
+2026-11-09 15:05:12,982     pass 2001/5120 (dims 2000-2001)
+2026-11-09 15:05:43,735     pass 2101/5120 (dims 2100-2101)
+2026-11-09 15:06:14,483     pass 2201/5120 (dims 2200-2201)
+2026-11-09 15:06:45,237     pass 2301/5120 (dims 2300-2301)
+2026-11-09 15:07:16,009     pass 2401/5120 (dims 2400-2401)
+2026-11-09 15:07:46,792     pass 2501/5120 (dims 2500-2501)
+2026-11-09 15:08:17,564     pass 2601/5120 (dims 2600-2601)
+2026-11-09 15:08:48,331     pass 2701/5120 (dims 2700-2701)
+2026-11-09 15:09:19,092     pass 2801/5120 (dims 2800-2801)
+2026-11-09 15:09:49,848     pass 2901/5120 (dims 2900-2901)
+2026-11-09 15:10:20,596     pass 3001/5120 (dims 3000-3001)
+2026-11-09 15:10:51,360     pass 3101/5120 (dims 3100-3101)
+2026-11-09 15:11:22,116     pass 3201/5120 (dims 3200-3201)
+2026-11-09 15:11:52,853     pass 3301/5120 (dims 3300-3301)
+2026-11-09 15:12:23,596     pass 3401/5120 (dims 3400-3401)
+2026-11-09 15:12:54,368     pass 3501/5120 (dims 3500-3501)
+2026-11-09 15:13:25,131     pass 3601/5120 (dims 3600-3601)
+2026-11-09 15:13:55,904     pass 3701/5120 (dims 3700-3701)
+2026-11-09 15:14:26,701     pass 3801/5120 (dims 3800-3801)
+2026-11-09 15:14:57,461     pass 3901/5120 (dims 3900-3901)
+2026-11-09 15:15:28,217     pass 4001/5120 (dims 4000-4001)
+2026-11-09 15:15:58,966     pass 4101/5120 (dims 4100-4101)
+2026-11-09 15:16:29,740     pass 4201/5120 (dims 4200-4201)
+2026-11-09 15:17:00,473     pass 4301/5120 (dims 4300-4301)
+2026-11-09 15:17:31,157     pass 4401/5120 (dims 4400-4401)
+2026-11-09 15:18:01,838     pass 4501/5120 (dims 4500-4501)
+2026-11-09 15:18:32,522     pass 4601/5120 (dims 4600-4601)
+2026-11-09 15:19:03,216     pass 4701/5120 (dims 4700-4701)
+2026-11-09 15:19:33,899     pass 4801/5120 (dims 4800-4801)
+2026-11-09 15:20:04,595     pass 4901/5120 (dims 4900-4901)
+2026-11-09 15:20:35,287     pass 5001/5120 (dims 5000-5001)
+2026-11-09 15:21:06,049     pass 5101/5120 (dims 5100-5101)
+2026-11-09 15:21:11,905     pass 5120/5120 (dims 5119-5120)
+SMOKE_DONE {'dim_batch': 1, 'elapsed_seconds': 1614.1373291015625, 'tokens': 128, 'valid_positions': 111, 'peak_cuda_GiB': 52.80061340332031, 'min_available_GiB': 44.551883697509766, 'norms': {0: 8.811200141906738, 1: 7.049414157867432, 2: 6.028277397155762, 3: 4.949943542480469, 4: 4.2321600914001465, 5: 3.6151466369628906, 6: 2.987013816833496, 7: 2.6636385917663574, 8: 2.4273905754089355, 9: 2.1949596405029297, 10: 1.9709396362304688, 11: 1.8223756551742554, 12: 1.7001944780349731, 13: 1.631343126296997, 14: 1.5723017454147339, 15: 1.5374627113342285, 16: 1.4034568071365356, 17: 1.3051258325576782, 18: 1.1540313959121704, 19: 1.0873692035675049, 20: 1.0117509365081787, 21: 0.9686369895935059, 22: 0.9459664821624756, 23: 0.9515441656112671, 24: 0.9292851090431213, 25: 0.9048039317131042, 26: 0.8886814117431641, 27: 0.906146764755249, 28: 0.9199605584144592, 29: 0.9254649877548218, 30: 0.9314334988594055, 31: 0.9567223787307739, 32: 0.9686790704727173, 33: 0.9941937923431396, 34: 0.9841225147247314, 35: 1.0033069849014282, 36: 1.0176228284835815, 37: 1.027000904083252, 38: 1.0946948528289795, 39: 1.1706141233444214, 40: 1.286441445350647, 41: 1.3679381608963013, 42: 1.391454815864563, 43: 1.4312217235565186, 44: 1.4564311504364014, 45: 1.4887127876281738, 46: 1.5132921934127808, 47: 1.534949541091919, 48: 1.5119719505310059, 49: 1.4860104322433472, 50: 1.4228686094284058, 51: 1.3773478269577026, 52: 1.3764886856079102, 53: 1.3737777471542358, 54: 1.3814729452133179, 55: 1.3733580112457275, 56: 1.3545610904693604, 57: 1.3446366786956787, 58: 1.3371646404266357, 59: 1.2940865755081177, 60: 1.2192809581756592, 61: 1.1633152961730957, 62: 1.0842528343200684}}

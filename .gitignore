@@ -5,3 +5,11 @@ paper99-curvature-exp-20261102/basepost/basepost_results.json
 paper99-curvature-exp-20261102/relation_tags/raw.tar.gz
 
 paper100-manifold-awakening-exp-20261107/manifold_*.json
+
+**/__pycache__/
+**/*.pt
+wechat-365-jlens-fit/results.json
+wechat-365-jlens-fit/evaluation_results.json
+wechat-365-jlens-fit/early_evaluation_results.json
+wechat-365-jlens-fit/resource_timeseries*.jsonl
+wechat-366-jlens-experiments/experiment1.json

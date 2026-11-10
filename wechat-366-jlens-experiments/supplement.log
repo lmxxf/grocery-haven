@@ -1,0 +1,74 @@
+LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '116212376 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106656740 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105610580 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104873916 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104132832 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103322532 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102569140 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101816724 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101055160 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100319048 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99562532 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98800196 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98027552 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97300008 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96541392 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95786492 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95042788 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94301728 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93544372 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92784740 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92023376 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91281276 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90521696 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89762456 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89004344 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88264280 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87503428 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86744264 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85978324 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85242140 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84479516 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83719724 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82943952 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82198536 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81439900 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80682236 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79909528 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79166368 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78408248 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77645860 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76897636 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76153844 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75393836 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74635168 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73874032 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73131036 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72375568 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71622184 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70854452 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70110800 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69357380 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68599544 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67842672 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67098668 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66338872 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65577660 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64793624 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64053100 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63297572 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62540960 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61768624 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61029020 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '60269996 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '59510924 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '58731384 kB', 'SwapFree': '16776876 kB'}
+MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '57990216 kB', 'SwapFree': '16776876 kB'}
+[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+E4_DOSECHECK bread 0.1 0.10000618547201157 0.09304546564817429
+E4_DOSECHECK random 0.1 0.0999821349978447 0.09427020698785782
+[transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+E4_DOSECHECK bread 0.5 0.500036358833313 0.46993979811668396
+E4_DOSECHECK random 0.5 0.4999796450138092 0.47970595955848694
+E4_DOSECHECK bread 1.0 0.9999608993530273 1.0381840467453003
+E4_DOSECHECK random 1.0 1.0000078678131104 0.9849637150764465

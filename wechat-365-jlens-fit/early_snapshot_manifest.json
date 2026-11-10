@@ -1,0 +1,13 @@
+{
+  "created_time": 1794210230.6548615,
+  "Ns": [
+    1,
+    2
+  ],
+  "n1_source": "formal even worker checkpoint on prompt 0 (not the dim_batch1 smoke)",
+  "n2_sources": [
+    "prompt 0 English",
+    "prompt 1 Chinese"
+  ],
+  "method": "official JacobianLens.merge, input portable FP16 checkpoints promoted to FP32; full matrices"
+}

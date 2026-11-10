@@ -1,0 +1,63 @@
+{
+  "metric": "single-token surface variants; min rank over layers; ties use 1 + strictly greater logits",
+  "layer_band": [
+    0,
+    63
+  ],
+  "stages": {
+    "vanilla": {
+      "multihop": {
+        "items": 93,
+        "eligible_items": 84,
+        "excluded_multitoken_concepts": 9,
+        "pass@1": 0.3392857142857143,
+        "pass@5": 0.5396825396825398,
+        "pass@10": 0.6646825396825398
+      },
+      "multilingual": {
+        "items": 107,
+        "eligible_items": 107,
+        "excluded_multitoken_concepts": 2,
+        "pass@1": 0.21261682242990654,
+        "pass@5": 0.3886292834890966,
+        "pass@10": 0.4688473520249221
+      }
+    },
+    "n1": {
+      "multihop": {
+        "items": 93,
+        "eligible_items": 84,
+        "excluded_multitoken_concepts": 9,
+        "pass@1": 0.3392857142857143,
+        "pass@5": 0.5634920634920635,
+        "pass@10": 0.634920634920635
+      },
+      "multilingual": {
+        "items": 107,
+        "eligible_items": 107,
+        "excluded_multitoken_concepts": 2,
+        "pass@1": 0.3208722741433022,
+        "pass@5": 0.42679127725856697,
+        "pass@10": 0.5062305295950156
+      }
+    },
+    "n2": {
+      "multihop": {
+        "items": 93,
+        "eligible_items": 84,
+        "excluded_multitoken_concepts": 9,
+        "pass@1": 0.23809523809523808,
+        "pass@5": 0.503968253968254,
+        "pass@10": 0.623015873015873
+      },
+      "multilingual": {
+        "items": 107,
+        "eligible_items": 107,
+        "excluded_multitoken_concepts": 2,
+        "pass@1": 0.22741433021806853,
+        "pass@5": 0.3637071651090342,
+        "pass@10": 0.4244548286604361
+      }
+    }
+  }
+}

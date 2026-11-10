@@ -1,0 +1,16 @@
+{
+  "stages": [
+    "vanilla",
+    "n1",
+    "n2"
+  ],
+  "representative_cases": 8,
+  "layers_per_case": 64,
+  "top_k": 5,
+  "all_saved_top5_logits_finite": true,
+  "cosine_range_validated": true,
+  "model_calls_in_validation": 0,
+  "merged_n2_all_entries_equal_official_weighted_mean_after_fp16_save": true,
+  "merged_n2_checked_entries": 1651507200,
+  "checkpoint_validation_device": "CPU only"
+}

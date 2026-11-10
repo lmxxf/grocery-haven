@@ -1,0 +1,30 @@
+{
+  "accepted": true,
+  "time": 1794276675.0734124,
+  "experiment1_cases": 9,
+  "experiment1_positions": 68,
+  "experiment1_stage_layer_position_records": 13056,
+  "readout_stages": [
+    "vanilla",
+    "n1",
+    "n100"
+  ],
+  "layers": 64,
+  "swap_cases": 6,
+  "primary_swap_conditions": 108,
+  "introspection_runs": 14,
+  "all_reported_ranks_valid": true,
+  "all_reported_scores_finite": true,
+  "direction_shapes_and_finiteness_checked": true,
+  "white_background_svg_count": 5,
+  "validation_device": "CPU only",
+  "raw_json_sha256": {
+    "experiment1.json": "4471dc46b1ed8d505ba56e9a12d720bffde7afcc2d92d24b496bfffd424d5eed",
+    "experiment2.json": "eeca53beafa3bb2cffe55376cb10d282b138f7c6911c562a80badbfc6a77e6ff",
+    "experiment3.json": "f386084df6dcf7eb62f83228934ae8dfe7cb36072e8ac4ddc7d2fe894dfdd2f7",
+    "experiment4.json": "38511a071b3847963b4a2d652d2cef465f02fabc4d94758ed6db8b5502583c73",
+    "experiment4_dosecheck.json": "77a8bfb164f0dfef11853928e5c8f396276c178d903212afaa1da45c5d1b5492",
+    "arithmetic_position_check.json": "a33a7cdde9475aecbe5066d945c02af1729c432a559eb051a07adfda1e7d3688"
+  },
+  "remote_local_raw_hashes_match": true
+}

@@ -1,0 +1,2895 @@
+{
+  "broadcast": [
+    {
+      "name": "currency",
+      "prompt": "对象：形状像一只靴子的欧洲国家。\n这个国家的法定货币是",
+      "layer": 38,
+      "anchor_position": 9,
+      "shared_prefix_activation_max_abs_diff": 0.1875,
+      "baseline": {
+        "top5": [
+          {
+            "id": 101049,
+            "text": "欧元",
+            "logit": 14.125
+          },
+          {
+            "id": 10992,
+            "text": "？",
+            "logit": 13.125
+          },
+          {
+            "id": 4960,
+            "text": "：",
+            "logit": 12.3125
+          },
+          {
+            "id": 2005,
+            "text": "“",
+            "logit": 11.6875
+          },
+          {
+            "id": 107673,
+            "text": "卢",
+            "logit": 11.5
+          }
+        ],
+        "entropy_nats": 3.4028918743133545,
+        "targets": {
+          "old": {
+            "text": "欧元",
+            "token_ids": [
+              101049
+            ],
+            "sequence_logprob": -0.961207389831543,
+            "mean_logprob_per_token": -0.961207389831543,
+            "first_token_logit": 14.125,
+            "first_token_rank": 1,
+            "whole_string_vocabulary_rank": 1
+          },
+          "new": {
+            "text": "日元",
+            "token_ids": [
+              115855
+            ],
+            "sequence_logprob": -7.086207389831543,
+            "mean_logprob_per_token": -7.086207389831543,
+            "first_token_logit": 8.0,
+            "first_token_rank": 64,
+            "whole_string_vocabulary_rank": 64
+          }
+        },
+        "new_minus_old_sequence_logprob": -6.125
+      },
+      "baseline_generation": {
+        "text": "欧元。\n这个国家的首都是罗马。\n这个国家位于欧洲南部。\n这个国家与法国、瑞士、奥地利和斯洛文尼亚接壤。\n",
+        "token_ids": [
+          101049,
+          1710,
+          198,
+          96488,
+          96669,
+          102357,
+          96878,
+          110715,
+          1710,
+          198,
+          96488,
+          96669,
+          100542,
+          100690,
+          110703,
+          1710,
+          198,
+          96488,
+          96669,
+          95999,
+          108644,
+          5205,
+          110876,
+          5205,
+          127988,
+          95793,
+          138890,
+          95905,
+          102436,
+          141713,
+          1710,
+          198
+        ],
+        "tokens": 32,
+        "hit_limit": true
+      },
+      "conditions": [
+        {
+          "top5": [
+            {
+              "id": 101049,
+              "text": "欧元",
+              "logit": 14.1875
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 12.3125
+            },
+            {
+              "id": 2005,
+              "text": "“",
+              "logit": 11.625
+            },
+            {
+              "id": 107673,
+              "text": "卢",
+              "logit": 11.5
+            }
+          ],
+          "entropy_nats": 3.3445611000061035,
+          "targets": {
+            "old": {
+              "text": "欧元",
+              "token_ids": [
+                101049
+              ],
+              "sequence_logprob": -0.92095947265625,
+              "mean_logprob_per_token": -0.92095947265625,
+              "first_token_logit": 14.1875,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "日元",
+              "token_ids": [
+                115855
+              ],
+              "sequence_logprob": -7.10845947265625,
+              "mean_logprob_per_token": -7.10845947265625,
+              "first_token_logit": 8.0,
+              "first_token_rank": 63,
+              "whole_string_vocabulary_rank": 63
+            }
+          },
+          "new_minus_old_sequence_logprob": -6.1875,
+          "kind": "swap",
+          "alpha": 0.5,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.01099533960223198,
+              "max_relative_L2": 0.01099533960223198
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 101049,
+              "text": "欧元",
+              "logit": 14.125
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 12.3125
+            },
+            {
+              "id": 2005,
+              "text": "“",
+              "logit": 11.6875
+            },
+            {
+              "id": 107673,
+              "text": "卢",
+              "logit": 11.5
+            }
+          ],
+          "entropy_nats": 3.395984649658203,
+          "targets": {
+            "old": {
+              "text": "欧元",
+              "token_ids": [
+                101049
+              ],
+              "sequence_logprob": -0.9595432281494141,
+              "mean_logprob_per_token": -0.9595432281494141,
+              "first_token_logit": 14.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "日元",
+              "token_ids": [
+                115855
+              ],
+              "sequence_logprob": -7.084543228149414,
+              "mean_logprob_per_token": -7.084543228149414,
+              "first_token_logit": 8.0,
+              "first_token_rank": 64,
+              "whole_string_vocabulary_rank": 64
+            }
+          },
+          "new_minus_old_sequence_logprob": -6.125,
+          "kind": "random",
+          "alpha": 0.5,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.0109932329505682,
+              "max_relative_L2": 0.0109932329505682
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 101049,
+              "text": "欧元",
+              "logit": 14.125
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 12.3125
+            },
+            {
+              "id": 2005,
+              "text": "“",
+              "logit": 11.625
+            },
+            {
+              "id": 107673,
+              "text": "卢",
+              "logit": 11.5
+            }
+          ],
+          "entropy_nats": 3.3968701362609863,
+          "targets": {
+            "old": {
+              "text": "欧元",
+              "token_ids": [
+                101049
+              ],
+              "sequence_logprob": -0.9560909271240234,
+              "mean_logprob_per_token": -0.9560909271240234,
+              "first_token_logit": 14.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "日元",
+              "token_ids": [
+                115855
+              ],
+              "sequence_logprob": -7.081090927124023,
+              "mean_logprob_per_token": -7.081090927124023,
+              "first_token_logit": 8.0,
+              "first_token_rank": 64,
+              "whole_string_vocabulary_rank": 64
+            }
+          },
+          "new_minus_old_sequence_logprob": -6.125,
+          "kind": "swap",
+          "alpha": 1.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.02195708639919758,
+              "max_relative_L2": 0.02195708639919758
+            }
+          },
+          "generation": {
+            "text": "欧元。\n这个国家的首都是罗马。\n这个国家位于欧洲南部。\n这个国家与法国、瑞士、奥地利和斯洛文尼亚接壤。\n",
+            "token_ids": [
+              101049,
+              1710,
+              198,
+              96488,
+              96669,
+              102357,
+              96878,
+              110715,
+              1710,
+              198,
+              96488,
+              96669,
+              100542,
+              100690,
+              110703,
+              1710,
+              198,
+              96488,
+              96669,
+              95999,
+              108644,
+              5205,
+              110876,
+              5205,
+              127988,
+              95793,
+              138890,
+              95905,
+              102436,
+              141713,
+              1710,
+              198
+            ],
+            "tokens": 32,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "欧元。",
+            "new_answer": false,
+            "old_answer": true,
+            "mixed_or_unclear": false
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 101049,
+              "text": "欧元",
+              "logit": 14.125
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 12.3125
+            },
+            {
+              "id": 2005,
+              "text": "“",
+              "logit": 11.6875
+            },
+            {
+              "id": 107673,
+              "text": "卢",
+              "logit": 11.5
+            }
+          ],
+          "entropy_nats": 3.403031349182129,
+          "targets": {
+            "old": {
+              "text": "欧元",
+              "token_ids": [
+                101049
+              ],
+              "sequence_logprob": -0.9606428146362305,
+              "mean_logprob_per_token": -0.9606428146362305,
+              "first_token_logit": 14.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "日元",
+              "token_ids": [
+                115855
+              ],
+              "sequence_logprob": -7.0856428146362305,
+              "mean_logprob_per_token": -7.0856428146362305,
+              "first_token_logit": 8.0,
+              "first_token_rank": 64,
+              "whole_string_vocabulary_rank": 64
+            }
+          },
+          "new_minus_old_sequence_logprob": -6.125,
+          "kind": "random",
+          "alpha": 1.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.02194005809724331,
+              "max_relative_L2": 0.02194005809724331
+            }
+          },
+          "generation": {
+            "text": "欧元。\n这个国家的首都是罗马。\n这个国家位于欧洲南部。\n这个国家与法国、瑞士、奥地利和斯洛文尼亚接壤。\n",
+            "token_ids": [
+              101049,
+              1710,
+              198,
+              96488,
+              96669,
+              102357,
+              96878,
+              110715,
+              1710,
+              198,
+              96488,
+              96669,
+              100542,
+              100690,
+              110703,
+              1710,
+              198,
+              96488,
+              96669,
+              95999,
+              108644,
+              5205,
+              110876,
+              5205,
+              127988,
+              95793,
+              138890,
+              95905,
+              102436,
+              141713,
+              1710,
+              198
+            ],
+            "tokens": 32,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "欧元。",
+            "new_answer": false,
+            "old_answer": true,
+            "mixed_or_unclear": false
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 101049,
+              "text": "欧元",
+              "logit": 14.125
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 12.3125
+            },
+            {
+              "id": 2005,
+              "text": "“",
+              "logit": 11.625
+            },
+            {
+              "id": 107673,
+              "text": "卢",
+              "logit": 11.5
+            }
+          ],
+          "entropy_nats": 3.393869400024414,
+          "targets": {
+            "old": {
+              "text": "欧元",
+              "token_ids": [
+                101049
+              ],
+              "sequence_logprob": -0.9569978713989258,
+              "mean_logprob_per_token": -0.9569978713989258,
+              "first_token_logit": 14.125,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "日元",
+              "token_ids": [
+                115855
+              ],
+              "sequence_logprob": -7.081997871398926,
+              "mean_logprob_per_token": -7.081997871398926,
+              "first_token_logit": 8.0,
+              "first_token_rank": 64,
+              "whole_string_vocabulary_rank": 64
+            }
+          },
+          "new_minus_old_sequence_logprob": -6.125,
+          "kind": "swap",
+          "alpha": 2.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.043866124004125595,
+              "max_relative_L2": 0.043866124004125595
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 101049,
+              "text": "欧元",
+              "logit": 14.1875
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 12.3125
+            },
+            {
+              "id": 2005,
+              "text": "“",
+              "logit": 11.6875
+            },
+            {
+              "id": 107673,
+              "text": "卢",
+              "logit": 11.5
+            }
+          ],
+          "entropy_nats": 3.3507144451141357,
+          "targets": {
+            "old": {
+              "text": "欧元",
+              "token_ids": [
+                101049
+              ],
+              "sequence_logprob": -0.925257682800293,
+              "mean_logprob_per_token": -0.925257682800293,
+              "first_token_logit": 14.1875,
+              "first_token_rank": 1,
+              "whole_string_vocabulary_rank": 1
+            },
+            "new": {
+              "text": "日元",
+              "token_ids": [
+                115855
+              ],
+              "sequence_logprob": -7.112757682800293,
+              "mean_logprob_per_token": -7.112757682800293,
+              "first_token_logit": 8.0,
+              "first_token_rank": 65,
+              "whole_string_vocabulary_rank": 65
+            }
+          },
+          "new_minus_old_sequence_logprob": -6.1875,
+          "kind": "random",
+          "alpha": 2.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.04386334493756294,
+              "max_relative_L2": 0.04386334493756294
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "capital",
+      "prompt": "对象：形状像一只靴子的欧洲国家。\n这个国家的首都是",
+      "layer": 38,
+      "anchor_position": 9,
+      "shared_prefix_activation_max_abs_diff": 0.0,
+      "baseline": {
+        "top5": [
+          {
+            "id": 101857,
+            "text": "哪个",
+            "logit": 14.6875
+          },
+          {
+            "id": 99549,
+            "text": "哪里",
+            "logit": 14.125
+          },
+          {
+            "id": 96407,
+            "text": "什么",
+            "logit": 13.4375
+          },
+          {
+            "id": 110715,
+            "text": "罗马",
+            "logit": 13.3125
+          },
+          {
+            "id": 4960,
+            "text": "：",
+            "logit": 13.3125
+          }
+        ],
+        "entropy_nats": 3.4237277507781982,
+        "targets": {
+          "old": {
+            "text": "罗马",
+            "token_ids": [
+              110715
+            ],
+            "sequence_logprob": -2.7047805786132812,
+            "mean_logprob_per_token": -2.7047805786132812,
+            "first_token_logit": 13.3125,
+            "first_token_rank": 4,
+            "whole_string_vocabulary_rank": 4
+          },
+          "new": {
+            "text": "东京",
+            "token_ids": [
+              110799
+            ],
+            "sequence_logprob": -8.298530578613281,
+            "mean_logprob_per_token": -8.298530578613281,
+            "first_token_logit": 7.71875,
+            "first_token_rank": 140,
+            "whole_string_vocabulary_rank": 140
+          }
+        },
+        "new_minus_old_sequence_logprob": -5.59375
+      },
+      "baseline_generation": {
+        "text": "哪个城市？\n\n形状像一只靴子的欧洲国家是**意大利**。\n\n它的首都是**罗马**（Rome）。\n\n（注：虽然米兰和",
+        "token_ids": [
+          101857,
+          97035,
+          10992,
+          271,
+          102137,
+          145091,
+          107820,
+          99134,
+          100690,
+          96669,
+          95761,
+          332,
+          108936,
+          221794,
+          271,
+          96540,
+          102357,
+          96878,
+          332,
+          110715,
+          332,
+          9616,
+          49,
+          617,
+          71748,
+          271,
+          9616,
+          96188,
+          4960,
+          98251,
+          113533,
+          95793
+        ],
+        "tokens": 32,
+        "hit_limit": true
+      },
+      "conditions": [
+        {
+          "top5": [
+            {
+              "id": 101857,
+              "text": "哪个",
+              "logit": 14.625
+            },
+            {
+              "id": 99549,
+              "text": "哪里",
+              "logit": 14.125
+            },
+            {
+              "id": 96407,
+              "text": "什么",
+              "logit": 13.4375
+            },
+            {
+              "id": 110715,
+              "text": "罗马",
+              "logit": 13.3125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 13.3125
+            }
+          ],
+          "entropy_nats": 3.4605729579925537,
+          "targets": {
+            "old": {
+              "text": "罗马",
+              "token_ids": [
+                110715
+              ],
+              "sequence_logprob": -2.6891708374023438,
+              "mean_logprob_per_token": -2.6891708374023438,
+              "first_token_logit": 13.3125,
+              "first_token_rank": 4,
+              "whole_string_vocabulary_rank": 4
+            },
+            "new": {
+              "text": "东京",
+              "token_ids": [
+                110799
+              ],
+              "sequence_logprob": -8.314170837402344,
+              "mean_logprob_per_token": -8.314170837402344,
+              "first_token_logit": 7.6875,
+              "first_token_rank": 144,
+              "whole_string_vocabulary_rank": 144
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.625,
+          "kind": "swap",
+          "alpha": 0.5,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.01100133080035448,
+              "max_relative_L2": 0.01100133080035448
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 101857,
+              "text": "哪个",
+              "logit": 14.6875
+            },
+            {
+              "id": 99549,
+              "text": "哪里",
+              "logit": 14.125
+            },
+            {
+              "id": 96407,
+              "text": "什么",
+              "logit": 13.375
+            },
+            {
+              "id": 110715,
+              "text": "罗马",
+              "logit": 13.3125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 13.3125
+            }
+          ],
+          "entropy_nats": 3.4270811080932617,
+          "targets": {
+            "old": {
+              "text": "罗马",
+              "token_ids": [
+                110715
+              ],
+              "sequence_logprob": -2.6999359130859375,
+              "mean_logprob_per_token": -2.6999359130859375,
+              "first_token_logit": 13.3125,
+              "first_token_rank": 4,
+              "whole_string_vocabulary_rank": 4
+            },
+            "new": {
+              "text": "东京",
+              "token_ids": [
+                110799
+              ],
+              "sequence_logprob": -8.293685913085938,
+              "mean_logprob_per_token": -8.293685913085938,
+              "first_token_logit": 7.71875,
+              "first_token_rank": 138,
+              "whole_string_vocabulary_rank": 138
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.59375,
+          "kind": "random",
+          "alpha": 0.5,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.010996688157320023,
+              "max_relative_L2": 0.010996688157320023
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 101857,
+              "text": "哪个",
+              "logit": 14.6875
+            },
+            {
+              "id": 99549,
+              "text": "哪里",
+              "logit": 14.125
+            },
+            {
+              "id": 96407,
+              "text": "什么",
+              "logit": 13.375
+            },
+            {
+              "id": 110715,
+              "text": "罗马",
+              "logit": 13.3125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 13.25
+            }
+          ],
+          "entropy_nats": 3.423778533935547,
+          "targets": {
+            "old": {
+              "text": "罗马",
+              "token_ids": [
+                110715
+              ],
+              "sequence_logprob": -2.6927757263183594,
+              "mean_logprob_per_token": -2.6927757263183594,
+              "first_token_logit": 13.3125,
+              "first_token_rank": 4,
+              "whole_string_vocabulary_rank": 4
+            },
+            "new": {
+              "text": "东京",
+              "token_ids": [
+                110799
+              ],
+              "sequence_logprob": -8.31777572631836,
+              "mean_logprob_per_token": -8.31777572631836,
+              "first_token_logit": 7.6875,
+              "first_token_rank": 142,
+              "whole_string_vocabulary_rank": 142
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.625,
+          "kind": "swap",
+          "alpha": 1.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.021955382078886032,
+              "max_relative_L2": 0.021955382078886032
+            }
+          },
+          "generation": {
+            "text": "哪个城市？\n\n形状像一只靴子的欧洲国家是**意大利**。\n\n它的首都是**罗马**（Rome）。\n\n（注：虽然米兰和",
+            "token_ids": [
+              101857,
+              97035,
+              10992,
+              271,
+              102137,
+              145091,
+              107820,
+              99134,
+              100690,
+              96669,
+              95761,
+              332,
+              108936,
+              221794,
+              271,
+              96540,
+              102357,
+              96878,
+              332,
+              110715,
+              332,
+              9616,
+              49,
+              617,
+              71748,
+              271,
+              9616,
+              96188,
+              4960,
+              98251,
+              113533,
+              95793
+            ],
+            "tokens": 32,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "哪个城市？",
+            "new_answer": false,
+            "old_answer": false,
+            "mixed_or_unclear": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 101857,
+              "text": "哪个",
+              "logit": 14.6875
+            },
+            {
+              "id": 99549,
+              "text": "哪里",
+              "logit": 14.125
+            },
+            {
+              "id": 96407,
+              "text": "什么",
+              "logit": 13.4375
+            },
+            {
+              "id": 110715,
+              "text": "罗马",
+              "logit": 13.3125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 13.3125
+            }
+          ],
+          "entropy_nats": 3.430150270462036,
+          "targets": {
+            "old": {
+              "text": "罗马",
+              "token_ids": [
+                110715
+              ],
+              "sequence_logprob": -2.711061477661133,
+              "mean_logprob_per_token": -2.711061477661133,
+              "first_token_logit": 13.3125,
+              "first_token_rank": 4,
+              "whole_string_vocabulary_rank": 4
+            },
+            "new": {
+              "text": "东京",
+              "token_ids": [
+                110799
+              ],
+              "sequence_logprob": -8.336061477661133,
+              "mean_logprob_per_token": -8.336061477661133,
+              "first_token_logit": 7.6875,
+              "first_token_rank": 146,
+              "whole_string_vocabulary_rank": 146
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.625,
+          "kind": "random",
+          "alpha": 1.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.021946009248495102,
+              "max_relative_L2": 0.021946009248495102
+            }
+          },
+          "generation": {
+            "text": "哪个城市？\n\n形状像一只靴子的欧洲国家是**意大利**。\n\n它的首都是**罗马**（Rome）。\n\n（注：虽然米兰和",
+            "token_ids": [
+              101857,
+              97035,
+              10992,
+              271,
+              102137,
+              145091,
+              107820,
+              99134,
+              100690,
+              96669,
+              95761,
+              332,
+              108936,
+              221794,
+              271,
+              96540,
+              102357,
+              96878,
+              332,
+              110715,
+              332,
+              9616,
+              49,
+              617,
+              71748,
+              271,
+              9616,
+              96188,
+              4960,
+              98251,
+              113533,
+              95793
+            ],
+            "tokens": 32,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "哪个城市？",
+            "new_answer": false,
+            "old_answer": false,
+            "mixed_or_unclear": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 101857,
+              "text": "哪个",
+              "logit": 14.6875
+            },
+            {
+              "id": 99549,
+              "text": "哪里",
+              "logit": 14.125
+            },
+            {
+              "id": 96407,
+              "text": "什么",
+              "logit": 13.4375
+            },
+            {
+              "id": 110715,
+              "text": "罗马",
+              "logit": 13.3125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 13.3125
+            }
+          ],
+          "entropy_nats": 3.4284567832946777,
+          "targets": {
+            "old": {
+              "text": "罗马",
+              "token_ids": [
+                110715
+              ],
+              "sequence_logprob": -2.7058067321777344,
+              "mean_logprob_per_token": -2.7058067321777344,
+              "first_token_logit": 13.3125,
+              "first_token_rank": 4,
+              "whole_string_vocabulary_rank": 4
+            },
+            "new": {
+              "text": "东京",
+              "token_ids": [
+                110799
+              ],
+              "sequence_logprob": -8.330806732177734,
+              "mean_logprob_per_token": -8.330806732177734,
+              "first_token_logit": 7.6875,
+              "first_token_rank": 144,
+              "whole_string_vocabulary_rank": 144
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.625,
+          "kind": "swap",
+          "alpha": 2.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.043885063380002975,
+              "max_relative_L2": 0.043885063380002975
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 101857,
+              "text": "哪个",
+              "logit": 14.6875
+            },
+            {
+              "id": 99549,
+              "text": "哪里",
+              "logit": 14.125
+            },
+            {
+              "id": 96407,
+              "text": "什么",
+              "logit": 13.4375
+            },
+            {
+              "id": 110715,
+              "text": "罗马",
+              "logit": 13.3125
+            },
+            {
+              "id": 4960,
+              "text": "：",
+              "logit": 13.3125
+            }
+          ],
+          "entropy_nats": 3.4366579055786133,
+          "targets": {
+            "old": {
+              "text": "罗马",
+              "token_ids": [
+                110715
+              ],
+              "sequence_logprob": -2.7126617431640625,
+              "mean_logprob_per_token": -2.7126617431640625,
+              "first_token_logit": 13.3125,
+              "first_token_rank": 4,
+              "whole_string_vocabulary_rank": 4
+            },
+            "new": {
+              "text": "东京",
+              "token_ids": [
+                110799
+              ],
+              "sequence_logprob": -8.275161743164062,
+              "mean_logprob_per_token": -8.275161743164062,
+              "first_token_logit": 7.75,
+              "first_token_rank": 138,
+              "whole_string_vocabulary_rank": 138
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.5625,
+          "kind": "random",
+          "alpha": 2.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.04387924075126648,
+              "max_relative_L2": 0.04387924075126648
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "language",
+      "prompt": "对象：形状像一只靴子的欧洲国家。\n这个国家的官方语言是",
+      "layer": 38,
+      "anchor_position": 9,
+      "shared_prefix_activation_max_abs_diff": 0.1875,
+      "baseline": {
+        "top5": [
+          {
+            "id": 98012,
+            "text": "英语",
+            "logit": 14.1875
+          },
+          {
+            "id": 108936,
+            "text": "意大利",
+            "logit": 13.8125
+          },
+          {
+            "id": 10992,
+            "text": "？",
+            "logit": 13.5625
+          },
+          {
+            "id": 137590,
+            "text": "西班牙语",
+            "logit": 13.4375
+          },
+          {
+            "id": 121085,
+            "text": "德语",
+            "logit": 13.4375
+          }
+        ],
+        "entropy_nats": 3.337470531463623,
+        "targets": {
+          "old": {
+            "text": "意大利语",
+            "token_ids": [
+              108936,
+              96302
+            ],
+            "sequence_logprob": -2.0066051483154297,
+            "mean_logprob_per_token": -1.0033025741577148,
+            "first_token_logit": 13.8125,
+            "first_token_rank": 2,
+            "whole_string_vocabulary_rank": null
+          },
+          "new": {
+            "text": "日语",
+            "token_ids": [
+              111873
+            ],
+            "sequence_logprob": -7.048108100891113,
+            "mean_logprob_per_token": -7.048108100891113,
+            "first_token_logit": 8.8125,
+            "first_token_rank": 58,
+            "whole_string_vocabulary_rank": 58
+          }
+        },
+        "new_minus_old_sequence_logprob": -5.041502952575684
+      },
+      "baseline_generation": {
+        "text": "英语。\n这个国家的首都是伦敦。\n这个国家是联合国安理会五个常任理事国之一。\n这个国家是英联邦的成员国。",
+        "token_ids": [
+          98012,
+          1710,
+          198,
+          96488,
+          96669,
+          102357,
+          96878,
+          110452,
+          1710,
+          198,
+          96488,
+          96669,
+          95761,
+          110959,
+          96007,
+          117448,
+          109250,
+          96061,
+          96088,
+          99679,
+          95871,
+          98259,
+          1710,
+          198,
+          96488,
+          96669,
+          95761,
+          96592,
+          111156,
+          95726,
+          130533,
+          1710
+        ],
+        "tokens": 32,
+        "hit_limit": true
+      },
+      "conditions": [
+        {
+          "top5": [
+            {
+              "id": 98012,
+              "text": "英语",
+              "logit": 14.1875
+            },
+            {
+              "id": 108936,
+              "text": "意大利",
+              "logit": 13.8125
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.5625
+            },
+            {
+              "id": 137590,
+              "text": "西班牙语",
+              "logit": 13.4375
+            },
+            {
+              "id": 121085,
+              "text": "德语",
+              "logit": 13.4375
+            }
+          ],
+          "entropy_nats": 3.341320514678955,
+          "targets": {
+            "old": {
+              "text": "意大利语",
+              "token_ids": [
+                108936,
+                96302
+              ],
+              "sequence_logprob": -2.0583572387695312,
+              "mean_logprob_per_token": -1.0291786193847656,
+              "first_token_logit": 13.8125,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": null
+            },
+            "new": {
+              "text": "日语",
+              "token_ids": [
+                111873
+              ],
+              "sequence_logprob": -7.052090644836426,
+              "mean_logprob_per_token": -7.052090644836426,
+              "first_token_logit": 8.8125,
+              "first_token_rank": 59,
+              "whole_string_vocabulary_rank": 59
+            }
+          },
+          "new_minus_old_sequence_logprob": -4.9937334060668945,
+          "kind": "swap",
+          "alpha": 0.5,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.01099533960223198,
+              "max_relative_L2": 0.01099533960223198
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 98012,
+              "text": "英语",
+              "logit": 14.1875
+            },
+            {
+              "id": 108936,
+              "text": "意大利",
+              "logit": 13.8125
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.625
+            },
+            {
+              "id": 121085,
+              "text": "德语",
+              "logit": 13.5
+            },
+            {
+              "id": 137590,
+              "text": "西班牙语",
+              "logit": 13.4375
+            }
+          ],
+          "entropy_nats": 3.3319947719573975,
+          "targets": {
+            "old": {
+              "text": "意大利语",
+              "token_ids": [
+                108936,
+                96302
+              ],
+              "sequence_logprob": -2.006032943725586,
+              "mean_logprob_per_token": -1.003016471862793,
+              "first_token_logit": 13.8125,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": null
+            },
+            "new": {
+              "text": "日语",
+              "token_ids": [
+                111873
+              ],
+              "sequence_logprob": -7.067194938659668,
+              "mean_logprob_per_token": -7.067194938659668,
+              "first_token_logit": 8.8125,
+              "first_token_rank": 59,
+              "whole_string_vocabulary_rank": 59
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.061161994934082,
+          "kind": "random",
+          "alpha": 0.5,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.0109932329505682,
+              "max_relative_L2": 0.0109932329505682
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 98012,
+              "text": "英语",
+              "logit": 14.1875
+            },
+            {
+              "id": 108936,
+              "text": "意大利",
+              "logit": 13.8125
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.5625
+            },
+            {
+              "id": 121085,
+              "text": "德语",
+              "logit": 13.5
+            },
+            {
+              "id": 137590,
+              "text": "西班牙语",
+              "logit": 13.4375
+            }
+          ],
+          "entropy_nats": 3.3242545127868652,
+          "targets": {
+            "old": {
+              "text": "意大利语",
+              "token_ids": [
+                108936,
+                96302
+              ],
+              "sequence_logprob": -2.0435800552368164,
+              "mean_logprob_per_token": -1.0217900276184082,
+              "first_token_logit": 13.8125,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": null
+            },
+            "new": {
+              "text": "日语",
+              "token_ids": [
+                111873
+              ],
+              "sequence_logprob": -7.059861183166504,
+              "mean_logprob_per_token": -7.059861183166504,
+              "first_token_logit": 8.8125,
+              "first_token_rank": 58,
+              "whole_string_vocabulary_rank": 58
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.0162811279296875,
+          "kind": "swap",
+          "alpha": 1.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.02195708639919758,
+              "max_relative_L2": 0.02195708639919758
+            }
+          },
+          "generation": {
+            "text": "英语。\n这个国家的首都是伦敦。\n这个国家是联合国安理会五个常任理事国之一。\n这个国家是英联邦的成员国。",
+            "token_ids": [
+              98012,
+              1710,
+              198,
+              96488,
+              96669,
+              102357,
+              96878,
+              110452,
+              1710,
+              198,
+              96488,
+              96669,
+              95761,
+              110959,
+              96007,
+              117448,
+              109250,
+              96061,
+              96088,
+              99679,
+              95871,
+              98259,
+              1710,
+              198,
+              96488,
+              96669,
+              95761,
+              96592,
+              111156,
+              95726,
+              130533,
+              1710
+            ],
+            "tokens": 32,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "英语。",
+            "new_answer": false,
+            "old_answer": false,
+            "mixed_or_unclear": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 98012,
+              "text": "英语",
+              "logit": 14.1875
+            },
+            {
+              "id": 108936,
+              "text": "意大利",
+              "logit": 13.8125
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.5625
+            },
+            {
+              "id": 137590,
+              "text": "西班牙语",
+              "logit": 13.5
+            },
+            {
+              "id": 121085,
+              "text": "德语",
+              "logit": 13.5
+            }
+          ],
+          "entropy_nats": 3.3301796913146973,
+          "targets": {
+            "old": {
+              "text": "意大利语",
+              "token_ids": [
+                108936,
+                96302
+              ],
+              "sequence_logprob": -2.0071773529052734,
+              "mean_logprob_per_token": -1.0035886764526367,
+              "first_token_logit": 13.8125,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": null
+            },
+            "new": {
+              "text": "日语",
+              "token_ids": [
+                111873
+              ],
+              "sequence_logprob": -7.06890869140625,
+              "mean_logprob_per_token": -7.06890869140625,
+              "first_token_logit": 8.8125,
+              "first_token_rank": 59,
+              "whole_string_vocabulary_rank": 59
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.061731338500977,
+          "kind": "random",
+          "alpha": 1.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.02194005809724331,
+              "max_relative_L2": 0.02194005809724331
+            }
+          },
+          "generation": {
+            "text": "英语。\n这个国家的首都是伦敦。\n这个国家是联合国安理会五个常任理事国之一。\n这个国家是英联邦的成员国。",
+            "token_ids": [
+              98012,
+              1710,
+              198,
+              96488,
+              96669,
+              102357,
+              96878,
+              110452,
+              1710,
+              198,
+              96488,
+              96669,
+              95761,
+              110959,
+              96007,
+              117448,
+              109250,
+              96061,
+              96088,
+              99679,
+              95871,
+              98259,
+              1710,
+              198,
+              96488,
+              96669,
+              95761,
+              96592,
+              111156,
+              95726,
+              130533,
+              1710
+            ],
+            "tokens": 32,
+            "hit_limit": true
+          },
+          "answer_class": {
+            "first_answer": "英语。",
+            "new_answer": false,
+            "old_answer": false,
+            "mixed_or_unclear": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 98012,
+              "text": "英语",
+              "logit": 14.1875
+            },
+            {
+              "id": 108936,
+              "text": "意大利",
+              "logit": 13.8125
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.5625
+            },
+            {
+              "id": 121085,
+              "text": "德语",
+              "logit": 13.5
+            },
+            {
+              "id": 137590,
+              "text": "西班牙语",
+              "logit": 13.4375
+            }
+          ],
+          "entropy_nats": 3.328526258468628,
+          "targets": {
+            "old": {
+              "text": "意大利语",
+              "token_ids": [
+                108936,
+                96302
+              ],
+              "sequence_logprob": -2.0540313720703125,
+              "mean_logprob_per_token": -1.0270156860351562,
+              "first_token_logit": 13.8125,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": null
+            },
+            "new": {
+              "text": "日语",
+              "token_ids": [
+                111873
+              ],
+              "sequence_logprob": -7.054495811462402,
+              "mean_logprob_per_token": -7.054495811462402,
+              "first_token_logit": 8.8125,
+              "first_token_rank": 57,
+              "whole_string_vocabulary_rank": 57
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.00046443939209,
+          "kind": "swap",
+          "alpha": 2.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.043866124004125595,
+              "max_relative_L2": 0.043866124004125595
+            }
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 98012,
+              "text": "英语",
+              "logit": 14.1875
+            },
+            {
+              "id": 108936,
+              "text": "意大利",
+              "logit": 13.8125
+            },
+            {
+              "id": 10992,
+              "text": "？",
+              "logit": 13.5625
+            },
+            {
+              "id": 137590,
+              "text": "西班牙语",
+              "logit": 13.5
+            },
+            {
+              "id": 121085,
+              "text": "德语",
+              "logit": 13.5
+            }
+          ],
+          "entropy_nats": 3.3247764110565186,
+          "targets": {
+            "old": {
+              "text": "意大利语",
+              "token_ids": [
+                108936,
+                96302
+              ],
+              "sequence_logprob": -2.0093421936035156,
+              "mean_logprob_per_token": -1.0046710968017578,
+              "first_token_logit": 13.8125,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": null
+            },
+            "new": {
+              "text": "日语",
+              "token_ids": [
+                111873
+              ],
+              "sequence_logprob": -7.065095901489258,
+              "mean_logprob_per_token": -7.065095901489258,
+              "first_token_logit": 8.8125,
+              "first_token_rank": 61,
+              "whole_string_vocabulary_rank": 61
+            }
+          },
+          "new_minus_old_sequence_logprob": -5.055753707885742,
+          "kind": "random",
+          "alpha": 2.0,
+          "perturbation": {
+            "38": {
+              "mean_relative_L2": 0.04386334493756294,
+              "max_relative_L2": 0.04386334493756294
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "selectivity": [
+    {
+      "task": "continuation",
+      "stimulus": "Le chat dort sur le canapé.",
+      "token_ids": [
+        2229,
+        6040,
+        50670,
+        1668,
+        501,
+        628,
+        204680,
+        13
+      ],
+      "anchor_position": 7,
+      "layer": 38,
+      "baseline": {
+        "top5": [
+          {
+            "id": 198,
+            "text": "\n",
+            "logit": 12.9375
+          },
+          {
+            "id": 271,
+            "text": "\n\n",
+            "logit": 11.875
+          },
+          {
+            "id": 1900,
+            "text": " Le",
+            "logit": 11.3125
+          },
+          {
+            "id": 220,
+            "text": " ",
+            "logit": 10.9375
+          },
+          {
+            "id": 2228,
+            "text": "  \n",
+            "logit": 10.625
+          }
+        ],
+        "entropy_nats": 4.087905406951904,
+        "targets": {
+          "old": {
+            "text": "法语",
+            "token_ids": [
+              118811
+            ],
+            "sequence_logprob": -10.82727336883545,
+            "mean_logprob_per_token": -10.82727336883545,
+            "first_token_logit": 3.265625,
+            "first_token_rank": 1154,
+            "whole_string_vocabulary_rank": 1154
+          },
+          "new": {
+            "text": "西班牙语",
+            "token_ids": [
+              137590
+            ],
+            "sequence_logprob": -14.77258586883545,
+            "mean_logprob_per_token": -14.77258586883545,
+            "first_token_logit": -0.6796875,
+            "first_token_rank": 19817,
+            "whole_string_vocabulary_rank": 19817
+          }
+        },
+        "new_minus_old_sequence_logprob": -3.9453125
+      },
+      "baseline_generation": {
+        "text": "\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat",
+        "token_ids": [
+          198,
+          2229,
+          6040,
+          50670,
+          1668,
+          501,
+          628,
+          204680,
+          13,
+          198,
+          2229,
+          6040,
+          50670,
+          1668,
+          501,
+          628,
+          204680,
+          13,
+          198,
+          2229,
+          6040,
+          50670,
+          1668,
+          501,
+          628,
+          204680,
+          13,
+          198,
+          2229,
+          6040,
+          50670,
+          1668,
+          501,
+          628,
+          204680,
+          13,
+          198,
+          2229,
+          6040,
+          50670,
+          1668,
+          501,
+          628,
+          204680,
+          13,
+          198,
+          2229,
+          6040
+        ],
+        "tokens": 48,
+        "hit_limit": true
+      },
+      "conditions": [
+        {
+          "top5": [
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 12.875
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 11.8125
+            },
+            {
+              "id": 1900,
+              "text": " Le",
+              "logit": 11.25
+            },
+            {
+              "id": 220,
+              "text": " ",
+              "logit": 10.875
+            },
+            {
+              "id": 2228,
+              "text": "  \n",
+              "logit": 10.5625
+            }
+          ],
+          "entropy_nats": 4.126101970672607,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -10.944831848144531,
+              "mean_logprob_per_token": -10.944831848144531,
+              "first_token_logit": 3.09375,
+              "first_token_rank": 1285,
+              "whole_string_vocabulary_rank": 1285
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -14.501472473144531,
+              "mean_logprob_per_token": -14.501472473144531,
+              "first_token_logit": -0.462890625,
+              "first_token_rank": 16842,
+              "whole_string_vocabulary_rank": 16842
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.556640625,
+          "kind": "swap",
+          "alpha": 0.5
+        },
+        {
+          "top5": [
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 12.9375
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 11.875
+            },
+            {
+              "id": 1900,
+              "text": " Le",
+              "logit": 11.3125
+            },
+            {
+              "id": 220,
+              "text": " ",
+              "logit": 10.9375
+            },
+            {
+              "id": 2228,
+              "text": "  \n",
+              "logit": 10.625
+            }
+          ],
+          "entropy_nats": 4.066148281097412,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -10.851153373718262,
+              "mean_logprob_per_token": -10.851153373718262,
+              "first_token_logit": 3.234375,
+              "first_token_rank": 1164,
+              "whole_string_vocabulary_rank": 1164
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -14.796465873718262,
+              "mean_logprob_per_token": -14.796465873718262,
+              "first_token_logit": -0.7109375,
+              "first_token_rank": 19946,
+              "whole_string_vocabulary_rank": 19946
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.9453125,
+          "kind": "random",
+          "alpha": 0.5
+        },
+        {
+          "top5": [
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 12.8125
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 11.8125
+            },
+            {
+              "id": 1900,
+              "text": " Le",
+              "logit": 11.1875
+            },
+            {
+              "id": 220,
+              "text": " ",
+              "logit": 10.8125
+            },
+            {
+              "id": 7305,
+              "text": " Il",
+              "logit": 10.5625
+            }
+          ],
+          "entropy_nats": 4.18549919128418,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -11.066614151000977,
+              "mean_logprob_per_token": -11.066614151000977,
+              "first_token_logit": 2.9375,
+              "first_token_rank": 1442,
+              "whole_string_vocabulary_rank": 1442
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -14.165246963500977,
+              "mean_logprob_per_token": -14.165246963500977,
+              "first_token_logit": -0.1611328125,
+              "first_token_rank": 13903,
+              "whole_string_vocabulary_rank": 13903
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.0986328125,
+          "kind": "swap",
+          "alpha": 1.0,
+          "generation": {
+            "text": "\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat",
+            "token_ids": [
+              198,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              13,
+              198,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              13,
+              198,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              13,
+              198,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              13,
+              198,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              13,
+              198,
+              2229,
+              6040
+            ],
+            "tokens": 48,
+            "hit_limit": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 12.9375
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 11.9375
+            },
+            {
+              "id": 1900,
+              "text": " Le",
+              "logit": 11.3125
+            },
+            {
+              "id": 220,
+              "text": " ",
+              "logit": 10.9375
+            },
+            {
+              "id": 7305,
+              "text": " Il",
+              "logit": 10.6875
+            }
+          ],
+          "entropy_nats": 4.075381278991699,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -10.789984703063965,
+              "mean_logprob_per_token": -10.789984703063965,
+              "first_token_logit": 3.3125,
+              "first_token_rank": 1113,
+              "whole_string_vocabulary_rank": 1113
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -14.735297203063965,
+              "mean_logprob_per_token": -14.735297203063965,
+              "first_token_logit": -0.6328125,
+              "first_token_rank": 19174,
+              "whole_string_vocabulary_rank": 19174
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.9453125,
+          "kind": "random",
+          "alpha": 1.0,
+          "generation": {
+            "text": "\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat dort sur le canapé.\nLe chat",
+            "token_ids": [
+              198,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              13,
+              198,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              13,
+              198,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              13,
+              198,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              13,
+              198,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              13,
+              198,
+              2229,
+              6040
+            ],
+            "tokens": 48,
+            "hit_limit": true
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 12.6875
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 11.6875
+            },
+            {
+              "id": 1900,
+              "text": " Le",
+              "logit": 11.0625
+            },
+            {
+              "id": 220,
+              "text": " ",
+              "logit": 10.8125
+            },
+            {
+              "id": 2228,
+              "text": "  \n",
+              "logit": 10.375
+            }
+          ],
+          "entropy_nats": 4.314029693603516,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -11.362241744995117,
+              "mean_logprob_per_token": -11.362241744995117,
+              "first_token_logit": 2.546875,
+              "first_token_rank": 1898,
+              "whole_string_vocabulary_rank": 1898
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -13.405210494995117,
+              "mean_logprob_per_token": -13.405210494995117,
+              "first_token_logit": 0.50390625,
+              "first_token_rank": 8801,
+              "whole_string_vocabulary_rank": 8801
+            }
+          },
+          "new_minus_old_sequence_logprob": -2.04296875,
+          "kind": "swap",
+          "alpha": 2.0
+        },
+        {
+          "top5": [
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 12.9375
+            },
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 12.0
+            },
+            {
+              "id": 1900,
+              "text": " Le",
+              "logit": 11.3125
+            },
+            {
+              "id": 220,
+              "text": " ",
+              "logit": 11.0
+            },
+            {
+              "id": 2228,
+              "text": "  \n",
+              "logit": 10.6875
+            }
+          ],
+          "entropy_nats": 4.069293022155762,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -10.822518348693848,
+              "mean_logprob_per_token": -10.822518348693848,
+              "first_token_logit": 3.296875,
+              "first_token_rank": 1126,
+              "whole_string_vocabulary_rank": 1126
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -14.736580848693848,
+              "mean_logprob_per_token": -14.736580848693848,
+              "first_token_logit": -0.6171875,
+              "first_token_rank": 19063,
+              "whole_string_vocabulary_rank": 19063
+            }
+          },
+          "new_minus_old_sequence_logprob": -3.9140625,
+          "kind": "random",
+          "alpha": 2.0
+        }
+      ]
+    },
+    {
+      "task": "name_language",
+      "stimulus": "Le chat dort sur le canapé.",
+      "token_ids": [
+        96220,
+        125372,
+        96919,
+        98419,
+        104980,
+        146189,
+        125738,
+        4960,
+        198,
+        2229,
+        6040,
+        50670,
+        1668,
+        501,
+        628,
+        204680,
+        13,
+        198,
+        97632,
+        4960
+      ],
+      "anchor_position": 16,
+      "layer": 38,
+      "baseline": {
+        "top5": [
+          {
+            "id": 271,
+            "text": "\n\n",
+            "logit": 20.625
+          },
+          {
+            "id": 118811,
+            "text": "法语",
+            "logit": 15.5
+          },
+          {
+            "id": 248068,
+            "text": "<think>",
+            "logit": 13.875
+          },
+          {
+            "id": 198,
+            "text": "\n",
+            "logit": 13.8125
+          },
+          {
+            "id": 248046,
+            "text": "<|im_end|>",
+            "logit": 12.9375
+          }
+        ],
+        "entropy_nats": 0.08157189190387726,
+        "targets": {
+          "old": {
+            "text": "法语",
+            "token_ids": [
+              118811
+            ],
+            "sequence_logprob": -5.135679244995117,
+            "mean_logprob_per_token": -5.135679244995117,
+            "first_token_logit": 15.5,
+            "first_token_rank": 2,
+            "whole_string_vocabulary_rank": 2
+          },
+          "new": {
+            "text": "西班牙语",
+            "token_ids": [
+              137590
+            ],
+            "sequence_logprob": -13.198179244995117,
+            "mean_logprob_per_token": -13.198179244995117,
+            "first_token_logit": 7.4375,
+            "first_token_rank": 93,
+            "whole_string_vocabulary_rank": 93
+          }
+        },
+        "new_minus_old_sequence_logprob": -8.0625
+      },
+      "baseline_generation": {
+        "text": "\n\n<think>\n用户要求我用一个词说明给定文字的语种。\n\n\"Le chat dort sur le canapé.\" 这是一句法语，意思是\"猫在沙发上睡觉。\"\n\n所以答案是：法语\n</think>\n\n法语",
+        "token_ids": [
+          271,
+          248068,
+          198,
+          97237,
+          96719,
+          115483,
+          96125,
+          96919,
+          98419,
+          124620,
+          146189,
+          125738,
+          1710,
+          271,
+          1,
+          2229,
+          6040,
+          50670,
+          1668,
+          501,
+          628,
+          204680,
+          1149,
+          220,
+          104749,
+          96804,
+          118811,
+          3709,
+          113855,
+          1,
+          98500,
+          95772,
+          123482,
+          109132,
+          1710,
+          1,
+          271,
+          97483,
+          127402,
+          4960,
+          118811,
+          198,
+          248069,
+          271,
+          118811,
+          248044
+        ],
+        "tokens": 46,
+        "hit_limit": false
+      },
+      "conditions": [
+        {
+          "top5": [
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 20.625
+            },
+            {
+              "id": 118811,
+              "text": "法语",
+              "logit": 15.5
+            },
+            {
+              "id": 248068,
+              "text": "<think>",
+              "logit": 13.875
+            },
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 13.8125
+            },
+            {
+              "id": 248046,
+              "text": "<|im_end|>",
+              "logit": 12.9375
+            }
+          ],
+          "entropy_nats": 0.08165055513381958,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -5.135686874389648,
+              "mean_logprob_per_token": -5.135686874389648,
+              "first_token_logit": 15.5,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": 2
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -13.198186874389648,
+              "mean_logprob_per_token": -13.198186874389648,
+              "first_token_logit": 7.4375,
+              "first_token_rank": 94,
+              "whole_string_vocabulary_rank": 94
+            }
+          },
+          "new_minus_old_sequence_logprob": -8.0625,
+          "kind": "swap",
+          "alpha": 0.5
+        },
+        {
+          "top5": [
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 20.5
+            },
+            {
+              "id": 118811,
+              "text": "法语",
+              "logit": 15.5
+            },
+            {
+              "id": 248068,
+              "text": "<think>",
+              "logit": 13.8125
+            },
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 13.75
+            },
+            {
+              "id": 248046,
+              "text": "<|im_end|>",
+              "logit": 12.9375
+            }
+          ],
+          "entropy_nats": 0.0897977203130722,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -5.011936187744141,
+              "mean_logprob_per_token": -5.011936187744141,
+              "first_token_logit": 15.5,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": 2
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -13.04318618774414,
+              "mean_logprob_per_token": -13.04318618774414,
+              "first_token_logit": 7.46875,
+              "first_token_rank": 93,
+              "whole_string_vocabulary_rank": 93
+            }
+          },
+          "new_minus_old_sequence_logprob": -8.03125,
+          "kind": "random",
+          "alpha": 0.5
+        },
+        {
+          "top5": [
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 20.625
+            },
+            {
+              "id": 118811,
+              "text": "法语",
+              "logit": 15.5625
+            },
+            {
+              "id": 248068,
+              "text": "<think>",
+              "logit": 13.8125
+            },
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 13.75
+            },
+            {
+              "id": 248046,
+              "text": "<|im_end|>",
+              "logit": 13.0
+            }
+          ],
+          "entropy_nats": 0.08255764096975327,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -5.073431015014648,
+              "mean_logprob_per_token": -5.073431015014648,
+              "first_token_logit": 15.5625,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": 2
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -13.073431015014648,
+              "mean_logprob_per_token": -13.073431015014648,
+              "first_token_logit": 7.5625,
+              "first_token_rank": 88,
+              "whole_string_vocabulary_rank": 88
+            }
+          },
+          "new_minus_old_sequence_logprob": -8.0,
+          "kind": "swap",
+          "alpha": 1.0,
+          "generation": {
+            "text": "\n\n<think>\n用户要求我用一个词说明给定文字的语种。\n\n\"Le chat dort sur le canapé.\" 这是一句法语，意思是\"猫在沙发上睡觉。\"\n\n所以答案是：法语\n</think>\n\n法语",
+            "token_ids": [
+              271,
+              248068,
+              198,
+              97237,
+              96719,
+              115483,
+              96125,
+              96919,
+              98419,
+              124620,
+              146189,
+              125738,
+              1710,
+              271,
+              1,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              1149,
+              220,
+              104749,
+              96804,
+              118811,
+              3709,
+              113855,
+              1,
+              98500,
+              95772,
+              123482,
+              109132,
+              1710,
+              1,
+              271,
+              97483,
+              127402,
+              4960,
+              118811,
+              198,
+              248069,
+              271,
+              118811,
+              248044
+            ],
+            "tokens": 46,
+            "hit_limit": false
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 20.625
+            },
+            {
+              "id": 118811,
+              "text": "法语",
+              "logit": 15.5
+            },
+            {
+              "id": 248068,
+              "text": "<think>",
+              "logit": 13.875
+            },
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 13.8125
+            },
+            {
+              "id": 248046,
+              "text": "<|im_end|>",
+              "logit": 12.9375
+            }
+          ],
+          "entropy_nats": 0.08157642930746078,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -5.135679244995117,
+              "mean_logprob_per_token": -5.135679244995117,
+              "first_token_logit": 15.5,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": 2
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -13.198179244995117,
+              "mean_logprob_per_token": -13.198179244995117,
+              "first_token_logit": 7.4375,
+              "first_token_rank": 93,
+              "whole_string_vocabulary_rank": 93
+            }
+          },
+          "new_minus_old_sequence_logprob": -8.0625,
+          "kind": "random",
+          "alpha": 1.0,
+          "generation": {
+            "text": "\n\n<think>\n用户要求我用一个词说明给定文字的语种。\n\n\"Le chat dort sur le canapé.\" 这是一句法语，意思是\"猫在沙发上睡觉。\"\n\n所以答案是：法语\n</think>\n\n法语",
+            "token_ids": [
+              271,
+              248068,
+              198,
+              97237,
+              96719,
+              115483,
+              96125,
+              96919,
+              98419,
+              124620,
+              146189,
+              125738,
+              1710,
+              271,
+              1,
+              2229,
+              6040,
+              50670,
+              1668,
+              501,
+              628,
+              204680,
+              1149,
+              220,
+              104749,
+              96804,
+              118811,
+              3709,
+              113855,
+              1,
+              98500,
+              95772,
+              123482,
+              109132,
+              1710,
+              1,
+              271,
+              97483,
+              127402,
+              4960,
+              118811,
+              198,
+              248069,
+              271,
+              118811,
+              248044
+            ],
+            "tokens": 46,
+            "hit_limit": false
+          }
+        },
+        {
+          "top5": [
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 20.5
+            },
+            {
+              "id": 118811,
+              "text": "法语",
+              "logit": 15.5625
+            },
+            {
+              "id": 248068,
+              "text": "<think>",
+              "logit": 13.875
+            },
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 13.8125
+            },
+            {
+              "id": 248046,
+              "text": "<|im_end|>",
+              "logit": 12.9375
+            }
+          ],
+          "entropy_nats": 0.0928880050778389,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -4.950017929077148,
+              "mean_logprob_per_token": -4.950017929077148,
+              "first_token_logit": 15.5625,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": 2
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -12.825017929077148,
+              "mean_logprob_per_token": -12.825017929077148,
+              "first_token_logit": 7.6875,
+              "first_token_rank": 82,
+              "whole_string_vocabulary_rank": 82
+            }
+          },
+          "new_minus_old_sequence_logprob": -7.875,
+          "kind": "swap",
+          "alpha": 2.0
+        },
+        {
+          "top5": [
+            {
+              "id": 271,
+              "text": "\n\n",
+              "logit": 20.5
+            },
+            {
+              "id": 118811,
+              "text": "法语",
+              "logit": 15.5
+            },
+            {
+              "id": 248068,
+              "text": "<think>",
+              "logit": 13.8125
+            },
+            {
+              "id": 198,
+              "text": "\n",
+              "logit": 13.75
+            },
+            {
+              "id": 248046,
+              "text": "<|im_end|>",
+              "logit": 12.875
+            }
+          ],
+          "entropy_nats": 0.08954411745071411,
+          "targets": {
+            "old": {
+              "text": "法语",
+              "token_ids": [
+                118811
+              ],
+              "sequence_logprob": -5.011905670166016,
+              "mean_logprob_per_token": -5.011905670166016,
+              "first_token_logit": 15.5,
+              "first_token_rank": 2,
+              "whole_string_vocabulary_rank": 2
+            },
+            "new": {
+              "text": "西班牙语",
+              "token_ids": [
+                137590
+              ],
+              "sequence_logprob": -13.043155670166016,
+              "mean_logprob_per_token": -13.043155670166016,
+              "first_token_logit": 7.46875,
+              "first_token_rank": 92,
+              "whole_string_vocabulary_rank": 92
+            }
+          },
+          "new_minus_old_sequence_logprob": -8.03125,
+          "kind": "random",
+          "alpha": 2.0
+        }
+      ]
+    }
+  ],
+  "elapsed_seconds": 145.38793444633484,
+  "broadcast_definition": "One layer L38, one shared-prefix token; exact same additive delta across three separate downstream questions. Not a single forward producing three outputs.",
+  "selectivity_definition": "Identical French stimulus token IDs, one L38 stimulus-final edit with same physical delta across raw continuation and Chinese explicit-language question. Language-name scores on continuation are diagnostics, not its task accuracy. Generated text retained for actual-language inspection."
+}

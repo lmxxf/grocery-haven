@@ -1,0 +1,11 @@
+{
+  "passes": 20,
+  "started": 1794207469.6114962,
+  "min_avail": 47.855220794677734,
+  "dim_batch": 16,
+  "checkpoint": true,
+  "backward_seconds": 125.81216597557068,
+  "extrapolated_prompt_seconds": 2012.9946556091309,
+  "peak_cuda_GiB": 53.46676540374756,
+  "complete_jacobian": false
+}

@@ -1,0 +1,1028 @@
+{
+  "1": {
+    "n_prompts": 1,
+    "layers": {
+      "0": {
+        "frobenius_over_sqrt_d": 8.855925753411436,
+        "diagonal_energy_fraction": 0.003756670947224212,
+        "distance_from_identity_over_sqrt_d": 8.899394739541401,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "1": {
+        "frobenius_over_sqrt_d": 7.059666924521993,
+        "diagonal_energy_fraction": 0.004724997856946631,
+        "distance_from_identity_over_sqrt_d": 7.1148944348003,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "2": {
+        "frobenius_over_sqrt_d": 6.030638271399812,
+        "diagonal_energy_fraction": 0.006247787401759779,
+        "distance_from_identity_over_sqrt_d": 6.095588017130549,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "3": {
+        "frobenius_over_sqrt_d": 4.940035393584251,
+        "diagonal_energy_fraction": 0.009063656488105037,
+        "distance_from_identity_over_sqrt_d": 5.019251175935547,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "4": {
+        "frobenius_over_sqrt_d": 4.2187659863769555,
+        "diagonal_energy_fraction": 0.012113618113923894,
+        "distance_from_identity_over_sqrt_d": 4.3116717814288155,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "5": {
+        "frobenius_over_sqrt_d": 3.595688196054908,
+        "diagonal_energy_fraction": 0.016340011401103444,
+        "distance_from_identity_over_sqrt_d": 3.7047374782530555,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "6": {
+        "frobenius_over_sqrt_d": 2.9695581430423252,
+        "diagonal_energy_fraction": 0.009693420273496492,
+        "distance_from_identity_over_sqrt_d": 3.1073875845546257,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "7": {
+        "frobenius_over_sqrt_d": 2.6531800761981983,
+        "diagonal_energy_fraction": 0.011977753420109476,
+        "distance_from_identity_over_sqrt_d": 2.8066721752410273,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "8": {
+        "frobenius_over_sqrt_d": 2.4177412859736283,
+        "diagonal_energy_fraction": 0.014144901920555075,
+        "distance_from_identity_over_sqrt_d": 2.585365698917963,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "9": {
+        "frobenius_over_sqrt_d": 2.1888038952192304,
+        "diagonal_energy_fraction": 0.016911974615327265,
+        "distance_from_identity_over_sqrt_d": 2.3726319894431143,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "10": {
+        "frobenius_over_sqrt_d": 1.970688480893669,
+        "diagonal_energy_fraction": 0.019753600318997887,
+        "distance_from_identity_over_sqrt_d": 2.1737137468790704,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "11": {
+        "frobenius_over_sqrt_d": 1.8228173503160485,
+        "diagonal_energy_fraction": 0.02285442759516001,
+        "distance_from_identity_over_sqrt_d": 2.040533451250096,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "12": {
+        "frobenius_over_sqrt_d": 1.7020171000443065,
+        "diagonal_energy_fraction": 0.02557345676997097,
+        "distance_from_identity_over_sqrt_d": 1.9336954607125645,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "13": {
+        "frobenius_over_sqrt_d": 1.6349480156917051,
+        "diagonal_energy_fraction": 0.02747437214450207,
+        "distance_from_identity_over_sqrt_d": 1.8747372616152056,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "14": {
+        "frobenius_over_sqrt_d": 1.577318606806841,
+        "diagonal_energy_fraction": 0.029315640041376108,
+        "distance_from_identity_over_sqrt_d": 1.8243470551686394,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "15": {
+        "frobenius_over_sqrt_d": 1.5428378636340463,
+        "diagonal_energy_fraction": 0.030513833405913283,
+        "distance_from_identity_over_sqrt_d": 1.7942186910178213,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "16": {
+        "frobenius_over_sqrt_d": 1.4104844422046947,
+        "diagonal_energy_fraction": 0.03571329468848755,
+        "distance_from_identity_over_sqrt_d": 1.6827547070302873,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "17": {
+        "frobenius_over_sqrt_d": 1.3136245854010742,
+        "diagonal_energy_fraction": 0.04047094503793969,
+        "distance_from_identity_over_sqrt_d": 1.6029380893609093,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "18": {
+        "frobenius_over_sqrt_d": 1.1634215017382243,
+        "diagonal_energy_fraction": 0.02914219656607933,
+        "distance_from_identity_over_sqrt_d": 1.487657741602076,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "19": {
+        "frobenius_over_sqrt_d": 1.0973528303487385,
+        "diagonal_energy_fraction": 0.029864834241308327,
+        "distance_from_identity_over_sqrt_d": 1.4372497172910468,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "20": {
+        "frobenius_over_sqrt_d": 1.0213538803130662,
+        "diagonal_energy_fraction": 0.0345822946705832,
+        "distance_from_identity_over_sqrt_d": 1.3787021147481742,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "21": {
+        "frobenius_over_sqrt_d": 0.9780368581643301,
+        "diagonal_energy_fraction": 0.03757906842427913,
+        "distance_from_identity_over_sqrt_d": 1.3454576761913914,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "22": {
+        "frobenius_over_sqrt_d": 0.9549968801941766,
+        "diagonal_energy_fraction": 0.03756899932605391,
+        "distance_from_identity_over_sqrt_d": 1.327021402106367,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "23": {
+        "frobenius_over_sqrt_d": 0.9604812740839286,
+        "diagonal_energy_fraction": 0.03942032529701467,
+        "distance_from_identity_over_sqrt_d": 1.3260090753473273,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "24": {
+        "frobenius_over_sqrt_d": 0.9372494474024249,
+        "diagonal_energy_fraction": 0.043494872076137454,
+        "distance_from_identity_over_sqrt_d": 1.3038478179753368,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "25": {
+        "frobenius_over_sqrt_d": 0.9119568450134216,
+        "diagonal_energy_fraction": 0.04863263380737546,
+        "distance_from_identity_over_sqrt_d": 1.2800058166995845,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "26": {
+        "frobenius_over_sqrt_d": 0.895586571095252,
+        "diagonal_energy_fraction": 0.05286822748288101,
+        "distance_from_identity_over_sqrt_d": 1.2636151393169937,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "27": {
+        "frobenius_over_sqrt_d": 0.9131547720355292,
+        "diagonal_energy_fraction": 0.05502300081887403,
+        "distance_from_identity_over_sqrt_d": 1.2684076385123793,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "28": {
+        "frobenius_over_sqrt_d": 0.9270511741721738,
+        "diagonal_energy_fraction": 0.05693592599154631,
+        "distance_from_identity_over_sqrt_d": 1.2716595727515836,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "29": {
+        "frobenius_over_sqrt_d": 0.932642588643979,
+        "diagonal_energy_fraction": 0.059221510186894546,
+        "distance_from_identity_over_sqrt_d": 1.2695795721981251,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "30": {
+        "frobenius_over_sqrt_d": 0.9385955957350436,
+        "diagonal_energy_fraction": 0.06064393466755131,
+        "distance_from_identity_over_sqrt_d": 1.2685913068905472,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "31": {
+        "frobenius_over_sqrt_d": 0.9640892978758431,
+        "diagonal_energy_fraction": 0.06280469149812336,
+        "distance_from_identity_over_sqrt_d": 1.2790234500673088,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "32": {
+        "frobenius_over_sqrt_d": 0.9759089720755632,
+        "diagonal_energy_fraction": 0.0676539600663697,
+        "distance_from_identity_over_sqrt_d": 1.277151949070141,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "33": {
+        "frobenius_over_sqrt_d": 1.0017928450734728,
+        "diagonal_energy_fraction": 0.07048633364928766,
+        "distance_from_identity_over_sqrt_d": 1.285254336805513,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "34": {
+        "frobenius_over_sqrt_d": 0.9917698720897232,
+        "diagonal_energy_fraction": 0.0735556117522459,
+        "distance_from_identity_over_sqrt_d": 1.2663777094007078,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "35": {
+        "frobenius_over_sqrt_d": 1.011309924059504,
+        "diagonal_energy_fraction": 0.07933728125304303,
+        "distance_from_identity_over_sqrt_d": 1.2647952096966224,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "36": {
+        "frobenius_over_sqrt_d": 1.0255423954859824,
+        "diagonal_energy_fraction": 0.08933877576755318,
+        "distance_from_identity_over_sqrt_d": 1.2565409461613133,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "37": {
+        "frobenius_over_sqrt_d": 1.0349437895054512,
+        "diagonal_energy_fraction": 0.09738667788834271,
+        "distance_from_identity_over_sqrt_d": 1.2481174622156708,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "38": {
+        "frobenius_over_sqrt_d": 1.1028495439256862,
+        "diagonal_energy_fraction": 0.1039548140413543,
+        "distance_from_identity_over_sqrt_d": 1.277721180114443,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "39": {
+        "frobenius_over_sqrt_d": 1.1787185358973533,
+        "diagonal_energy_fraction": 0.11555321333686444,
+        "distance_from_identity_over_sqrt_d": 1.3110563245943299,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "40": {
+        "frobenius_over_sqrt_d": 1.295249069671687,
+        "diagonal_energy_fraction": 0.12767970508589604,
+        "distance_from_identity_over_sqrt_d": 1.3720505991975536,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "41": {
+        "frobenius_over_sqrt_d": 1.3782697218856221,
+        "diagonal_energy_fraction": 0.1442241953984495,
+        "distance_from_identity_over_sqrt_d": 1.4073691863002515,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "42": {
+        "frobenius_over_sqrt_d": 1.4018519769224487,
+        "diagonal_energy_fraction": 0.15978041959439693,
+        "distance_from_identity_over_sqrt_d": 1.4023777471475158,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "43": {
+        "frobenius_over_sqrt_d": 1.4416441010443743,
+        "diagonal_energy_fraction": 0.1770814500342689,
+        "distance_from_identity_over_sqrt_d": 1.406706976285698,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "44": {
+        "frobenius_over_sqrt_d": 1.4668801346271696,
+        "diagonal_energy_fraction": 0.19554647766614797,
+        "distance_from_identity_over_sqrt_d": 1.3991411527312845,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "45": {
+        "frobenius_over_sqrt_d": 1.4987722503252878,
+        "diagonal_energy_fraction": 0.21425407121765136,
+        "distance_from_identity_over_sqrt_d": 1.3969571301725152,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "46": {
+        "frobenius_over_sqrt_d": 1.5232414833533847,
+        "diagonal_energy_fraction": 0.23460559367565012,
+        "distance_from_identity_over_sqrt_d": 1.3881622420153934,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "47": {
+        "frobenius_over_sqrt_d": 1.5446884514244092,
+        "diagonal_energy_fraction": 0.25843455949556066,
+        "distance_from_identity_over_sqrt_d": 1.3740701235042845,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "48": {
+        "frobenius_over_sqrt_d": 1.5212875449461623,
+        "diagonal_energy_fraction": 0.2991418524390515,
+        "distance_from_identity_over_sqrt_d": 1.307592772639789,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "49": {
+        "frobenius_over_sqrt_d": 1.495362587690796,
+        "diagonal_energy_fraction": 0.34094390543527336,
+        "distance_from_identity_over_sqrt_d": 1.2397990794989313,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "50": {
+        "frobenius_over_sqrt_d": 1.4316958168288807,
+        "diagonal_energy_fraction": 0.40121414823330886,
+        "distance_from_identity_over_sqrt_d": 1.125558210008571,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "51": {
+        "frobenius_over_sqrt_d": 1.3860659575253442,
+        "diagonal_energy_fraction": 0.4779799248371008,
+        "distance_from_identity_over_sqrt_d": 1.0094337951141517,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "52": {
+        "frobenius_over_sqrt_d": 1.3855411483177396,
+        "diagonal_energy_fraction": 0.5309939678794361,
+        "distance_from_identity_over_sqrt_d": 0.9537972752764756,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "53": {
+        "frobenius_over_sqrt_d": 1.383051647907885,
+        "diagonal_energy_fraction": 0.5721161787416925,
+        "distance_from_identity_over_sqrt_d": 0.9097923402643269,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "54": {
+        "frobenius_over_sqrt_d": 1.3911036540937183,
+        "diagonal_energy_fraction": 0.6049683122585894,
+        "distance_from_identity_over_sqrt_d": 0.8814027932796986,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "55": {
+        "frobenius_over_sqrt_d": 1.3833122664976951,
+        "diagonal_energy_fraction": 0.6436761368818902,
+        "distance_from_identity_over_sqrt_d": 0.8360905123986394,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "56": {
+        "frobenius_over_sqrt_d": 1.364684595895922,
+        "diagonal_energy_fraction": 0.680816998178097,
+        "distance_from_identity_over_sqrt_d": 0.7844628408343401,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "57": {
+        "frobenius_over_sqrt_d": 1.354927377021518,
+        "diagonal_energy_fraction": 0.701828872641272,
+        "distance_from_identity_over_sqrt_d": 0.7553580501838242,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "58": {
+        "frobenius_over_sqrt_d": 1.3476506523347784,
+        "diagonal_energy_fraction": 0.7205987508059887,
+        "distance_from_identity_over_sqrt_d": 0.7300551472615211,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      },
+      "59": {
+        "frobenius_over_sqrt_d": 1.304283608948636,
+        "diagonal_energy_fraction": 0.7654909579004815,
+        "distance_from_identity_over_sqrt_d": 0.6503990367540187,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "60": {
+        "frobenius_over_sqrt_d": 1.229356906468759,
+        "diagonal_energy_fraction": 0.7951370681701888,
+        "distance_from_identity_over_sqrt_d": 0.5670082050601067,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "61": {
+        "frobenius_over_sqrt_d": 1.1740879888308673,
+        "diagonal_energy_fraction": 0.8220581428551478,
+        "distance_from_identity_over_sqrt_d": 0.5012209067736777,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention"
+      },
+      "62": {
+        "frobenius_over_sqrt_d": 1.09553842717711,
+        "diagonal_energy_fraction": 0.8604379619796803,
+        "distance_from_identity_over_sqrt_d": 0.41043189277902403,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention"
+      }
+    },
+    "prompt_indices": [
+      0
+    ]
+  },
+  "2": {
+    "n_prompts": 2,
+    "layers": {
+      "0": {
+        "frobenius_over_sqrt_d": 5.789707101617924,
+        "diagonal_energy_fraction": 0.010421060806624282,
+        "distance_from_identity_over_sqrt_d": 5.851947996798887,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7750663285032711,
+        "relative_difference_from_previous": 0.9841700008074031
+      },
+      "1": {
+        "frobenius_over_sqrt_d": 4.601503246813168,
+        "diagonal_energy_fraction": 0.011593393805727548,
+        "distance_from_identity_over_sqrt_d": 4.6823668650385395,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7792177473894198,
+        "relative_difference_from_previous": 0.9812396561984928
+      },
+      "2": {
+        "frobenius_over_sqrt_d": 3.762367336811251,
+        "diagonal_energy_fraction": 0.016300002250634205,
+        "distance_from_identity_over_sqrt_d": 3.862166712710183,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.817590766459134,
+        "relative_difference_from_previous": 0.973771411316215
+      },
+      "3": {
+        "frobenius_over_sqrt_d": 3.120789348095398,
+        "diagonal_energy_fraction": 0.02300811643454363,
+        "distance_from_identity_over_sqrt_d": 3.240789053258159,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8139504724157501,
+        "relative_difference_from_previous": 0.9637613738551349
+      },
+      "4": {
+        "frobenius_over_sqrt_d": 2.682840415351682,
+        "diagonal_energy_fraction": 0.030189113659508823,
+        "distance_from_identity_over_sqrt_d": 2.8222833946355,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8158567553257456,
+        "relative_difference_from_previous": 0.9523058608959002
+      },
+      "5": {
+        "frobenius_over_sqrt_d": 2.3317450483536843,
+        "diagonal_energy_fraction": 0.038871819090509754,
+        "distance_from_identity_over_sqrt_d": 2.491789028798156,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8097035272253754,
+        "relative_difference_from_previous": 0.9384692882552607
+      },
+      "6": {
+        "frobenius_over_sqrt_d": 1.861396573740506,
+        "diagonal_energy_fraction": 0.02438153966309432,
+        "distance_from_identity_over_sqrt_d": 2.069345971837453,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.8214329310392084,
+        "relative_difference_from_previous": 0.9613418804051634
+      },
+      "7": {
+        "frobenius_over_sqrt_d": 1.7000914180942899,
+        "diagonal_energy_fraction": 0.02883307405077957,
+        "distance_from_identity_over_sqrt_d": 1.9255293275364642,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.808650100400347,
+        "relative_difference_from_previous": 0.9547403207314459
+      },
+      "8": {
+        "frobenius_over_sqrt_d": 1.5681865744210792,
+        "diagonal_energy_fraction": 0.03324227310965503,
+        "distance_from_identity_over_sqrt_d": 1.8102857471499902,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8037554487936996,
+        "relative_difference_from_previous": 0.9479469289851399
+      },
+      "9": {
+        "frobenius_over_sqrt_d": 1.4451937637013539,
+        "diagonal_energy_fraction": 0.03836930411447417,
+        "distance_from_identity_over_sqrt_d": 1.7048307635121058,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7952295140633003,
+        "relative_difference_from_previous": 0.940753814626558
+      },
+      "10": {
+        "frobenius_over_sqrt_d": 1.3153095391562597,
+        "diagonal_energy_fraction": 0.0437841543417458,
+        "distance_from_identity_over_sqrt_d": 1.5970795620206888,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.7924027582288985,
+        "relative_difference_from_previous": 0.9329234024618012
+      },
+      "11": {
+        "frobenius_over_sqrt_d": 1.2431018960636415,
+        "diagonal_energy_fraction": 0.04860067648031171,
+        "distance_from_identity_over_sqrt_d": 1.5379688718387197,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7816929918875162,
+        "relative_difference_from_previous": 0.926123993046658
+      },
+      "12": {
+        "frobenius_over_sqrt_d": 1.1638730669457245,
+        "diagonal_energy_fraction": 0.05372076828719684,
+        "distance_from_identity_over_sqrt_d": 1.4752073053066694,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7846118748080947,
+        "relative_difference_from_previous": 0.9185559360412401
+      },
+      "13": {
+        "frobenius_over_sqrt_d": 1.127034705661948,
+        "diagonal_energy_fraction": 0.05684868471938232,
+        "distance_from_identity_over_sqrt_d": 1.4459907606287636,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7817810296564702,
+        "relative_difference_from_previous": 0.9144517968118757
+      },
+      "14": {
+        "frobenius_over_sqrt_d": 1.0903987725720061,
+        "diagonal_energy_fraction": 0.060416877829637,
+        "distance_from_identity_over_sqrt_d": 1.417034183529893,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.7830962577022372,
+        "relative_difference_from_previous": 0.909359051980645
+      },
+      "15": {
+        "frobenius_over_sqrt_d": 1.0626316153827793,
+        "diagonal_energy_fraction": 0.06342970864892805,
+        "distance_from_identity_over_sqrt_d": 1.3951987130436887,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7880325472156846,
+        "relative_difference_from_previous": 0.9053885858951413
+      },
+      "16": {
+        "frobenius_over_sqrt_d": 0.9755308844046343,
+        "diagonal_energy_fraction": 0.07393988524892811,
+        "distance_from_identity_over_sqrt_d": 1.3306712151291356,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7936012886374847,
+        "relative_difference_from_previous": 0.8919881821437439
+      },
+      "17": {
+        "frobenius_over_sqrt_d": 0.9111952176653252,
+        "diagonal_energy_fraction": 0.08322529129985004,
+        "distance_from_identity_over_sqrt_d": 1.2847645133013104,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8001533148126302,
+        "relative_difference_from_previous": 0.8782213160607675
+      },
+      "18": {
+        "frobenius_over_sqrt_d": 0.7791471253788228,
+        "diagonal_energy_fraction": 0.06472123072049747,
+        "distance_from_identity_over_sqrt_d": 1.2020065323026154,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.8030245616781015,
+        "relative_difference_from_previous": 0.9118618076353475
+      },
+      "19": {
+        "frobenius_over_sqrt_d": 0.7415835892511419,
+        "diagonal_energy_fraction": 0.06441678406933216,
+        "distance_from_identity_over_sqrt_d": 1.1787174101812206,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7962242024344662,
+        "relative_difference_from_previous": 0.9128112842471574
+      },
+      "20": {
+        "frobenius_over_sqrt_d": 0.7082211576839231,
+        "diagonal_energy_fraction": 0.071245889599709,
+        "distance_from_identity_over_sqrt_d": 1.1556058630311674,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.784459180158741,
+        "relative_difference_from_previous": 0.9039731953098333
+      },
+      "21": {
+        "frobenius_over_sqrt_d": 0.6873567857371177,
+        "diagonal_energy_fraction": 0.07530085678047287,
+        "distance_from_identity_over_sqrt_d": 1.1406695571126437,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7788658872869776,
+        "relative_difference_from_previous": 0.8989672047228836
+      },
+      "22": {
+        "frobenius_over_sqrt_d": 0.6784017569440457,
+        "diagonal_energy_fraction": 0.07469215229278728,
+        "distance_from_identity_over_sqrt_d": 1.1322585928694677,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.7710768456704454,
+        "relative_difference_from_previous": 0.9004163972943491
+      },
+      "23": {
+        "frobenius_over_sqrt_d": 0.6886598954373219,
+        "diagonal_energy_fraction": 0.07709909562336259,
+        "distance_from_identity_over_sqrt_d": 1.132276060421748,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7666986551541811,
+        "relative_difference_from_previous": 0.8980936594797322
+      },
+      "24": {
+        "frobenius_over_sqrt_d": 0.6906336956426096,
+        "diagonal_energy_fraction": 0.08101965065449702,
+        "distance_from_identity_over_sqrt_d": 1.1264368076911535,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7528600226256593,
+        "relative_difference_from_previous": 0.8934713469588075
+      },
+      "25": {
+        "frobenius_over_sqrt_d": 0.6896752040339074,
+        "diagonal_energy_fraction": 0.08621862592919563,
+        "distance_from_identity_over_sqrt_d": 1.1187432418701035,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7412713206119838,
+        "relative_difference_from_previous": 0.8877556094125784
+      },
+      "26": {
+        "frobenius_over_sqrt_d": 0.6892636752075189,
+        "diagonal_energy_fraction": 0.09091002318780729,
+        "distance_from_identity_over_sqrt_d": 1.1119063663065551,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.7344066140619468,
+        "relative_difference_from_previous": 0.8830597572523934
+      },
+      "27": {
+        "frobenius_over_sqrt_d": 0.7122295353068533,
+        "diagonal_energy_fraction": 0.0926646213889113,
+        "distance_from_identity_over_sqrt_d": 1.1162603414086922,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7274914718549311,
+        "relative_difference_from_previous": 0.8822443023326861
+      },
+      "28": {
+        "frobenius_over_sqrt_d": 0.7301087440899289,
+        "diagonal_energy_fraction": 0.09478850927509888,
+        "distance_from_identity_over_sqrt_d": 1.1180928575757194,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7223412856115974,
+        "relative_difference_from_previous": 0.8819709637795242
+      },
+      "29": {
+        "frobenius_over_sqrt_d": 0.7469002257061423,
+        "diagonal_energy_fraction": 0.09655041517671818,
+        "distance_from_identity_over_sqrt_d": 1.1200741443661746,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7137473606232931,
+        "relative_difference_from_previous": 0.8813184637755349
+      },
+      "30": {
+        "frobenius_over_sqrt_d": 0.7598228638963461,
+        "diagonal_energy_fraction": 0.09866342934977869,
+        "distance_from_identity_over_sqrt_d": 1.1196683796854543,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.7079848769223083,
+        "relative_difference_from_previous": 0.8813624680728676
+      },
+      "31": {
+        "frobenius_over_sqrt_d": 0.7903698006111574,
+        "diagonal_energy_fraction": 0.10077857629249287,
+        "distance_from_identity_over_sqrt_d": 1.128418433083241,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7025778526783432,
+        "relative_difference_from_previous": 0.8797148190765226
+      },
+      "32": {
+        "frobenius_over_sqrt_d": 0.8209617561282597,
+        "diagonal_energy_fraction": 0.1047748738060216,
+        "distance_from_identity_over_sqrt_d": 1.1343995782590777,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.6904906224793245,
+        "relative_difference_from_previous": 0.8783358149113751
+      },
+      "33": {
+        "frobenius_over_sqrt_d": 0.84738998098449,
+        "diagonal_energy_fraction": 0.1093840858354773,
+        "distance_from_identity_over_sqrt_d": 1.1377654210374435,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.6896663787517666,
+        "relative_difference_from_previous": 0.8757622042190545
+      },
+      "34": {
+        "frobenius_over_sqrt_d": 0.8538359518859088,
+        "diagonal_energy_fraction": 0.11523132289478447,
+        "distance_from_identity_over_sqrt_d": 1.1263097476882207,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.6802746820032369,
+        "relative_difference_from_previous": 0.8768401226644453
+      },
+      "35": {
+        "frobenius_over_sqrt_d": 0.8610691135248317,
+        "diagonal_energy_fraction": 0.12690230582289821,
+        "distance_from_identity_over_sqrt_d": 1.1121739489021087,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.6931121106118229,
+        "relative_difference_from_previous": 0.866782726058492
+      },
+      "36": {
+        "frobenius_over_sqrt_d": 0.8618171432535192,
+        "diagonal_energy_fraction": 0.14530993641516504,
+        "distance_from_identity_over_sqrt_d": 1.0901515775489923,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7130528926924881,
+        "relative_difference_from_previous": 0.847945738750769
+      },
+      "37": {
+        "frobenius_over_sqrt_d": 0.8563663559363094,
+        "diagonal_energy_fraction": 0.16190035230664354,
+        "distance_from_identity_over_sqrt_d": 1.0678581878900881,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7333870872656877,
+        "relative_difference_from_previous": 0.8293994559665536
+      },
+      "38": {
+        "frobenius_over_sqrt_d": 0.8846934632269126,
+        "diagonal_energy_fraction": 0.17905999152682436,
+        "distance_from_identity_over_sqrt_d": 1.0605841976082795,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.7622066166602107,
+        "relative_difference_from_previous": 0.808497258125251
+      },
+      "39": {
+        "frobenius_over_sqrt_d": 0.9323409189590732,
+        "diagonal_energy_fraction": 0.19658143056068073,
+        "distance_from_identity_over_sqrt_d": 1.0651113994495824,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.7838086441228364,
+        "relative_difference_from_previous": 0.785158993075639
+      },
+      "40": {
+        "frobenius_over_sqrt_d": 0.9997667275235118,
+        "diagonal_energy_fraction": 0.21345715433304827,
+        "distance_from_identity_over_sqrt_d": 1.079824277423212,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.809443898809366,
+        "relative_difference_from_previous": 0.7622997895091966
+      },
+      "41": {
+        "frobenius_over_sqrt_d": 1.0610708951307317,
+        "diagonal_energy_fraction": 0.2330313830272196,
+        "distance_from_identity_over_sqrt_d": 1.090120509771336,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8273674093484852,
+        "relative_difference_from_previous": 0.7333797991170136
+      },
+      "42": {
+        "frobenius_over_sqrt_d": 1.079963843592543,
+        "diagonal_energy_fraction": 0.25393001786317093,
+        "distance_from_identity_over_sqrt_d": 1.0769297788550316,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.8390708448554971,
+        "relative_difference_from_previous": 0.711776759689695
+      },
+      "43": {
+        "frobenius_over_sqrt_d": 1.1174410685632632,
+        "diagonal_energy_fraction": 0.27525732101445477,
+        "distance_from_identity_over_sqrt_d": 1.073115702873752,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8479737175846331,
+        "relative_difference_from_previous": 0.6902482439312395
+      },
+      "44": {
+        "frobenius_over_sqrt_d": 1.140701900790072,
+        "diagonal_energy_fraction": 0.2999368966800714,
+        "distance_from_identity_over_sqrt_d": 1.0579705525964456,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8561205963594783,
+        "relative_difference_from_previous": 0.6721656979396706
+      },
+      "45": {
+        "frobenius_over_sqrt_d": 1.1727540139979602,
+        "diagonal_energy_fraction": 0.3225731271470491,
+        "distance_from_identity_over_sqrt_d": 1.0501955321448113,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8619213431056107,
+        "relative_difference_from_previous": 0.6559022905034997
+      },
+      "46": {
+        "frobenius_over_sqrt_d": 1.1951305799486653,
+        "diagonal_energy_fraction": 0.3489450747471779,
+        "distance_from_identity_over_sqrt_d": 1.0337530248383222,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.8699840875685994,
+        "relative_difference_from_previous": 0.6378032716024116
+      },
+      "47": {
+        "frobenius_over_sqrt_d": 1.2230841792706413,
+        "diagonal_energy_fraction": 0.3757377030755554,
+        "distance_from_identity_over_sqrt_d": 1.020856421397692,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8746644661008757,
+        "relative_difference_from_previous": 0.6210669053070368
+      },
+      "48": {
+        "frobenius_over_sqrt_d": 1.2409074131582813,
+        "diagonal_energy_fraction": 0.41477309435594534,
+        "distance_from_identity_over_sqrt_d": 0.9894249589407306,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8754408252558941,
+        "relative_difference_from_previous": 0.5970413765057924
+      },
+      "49": {
+        "frobenius_over_sqrt_d": 1.2437971087021444,
+        "diagonal_energy_fraction": 0.45589376970048795,
+        "distance_from_identity_over_sqrt_d": 0.9470087013650511,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8803717106725187,
+        "relative_difference_from_previous": 0.573197321487081
+      },
+      "50": {
+        "frobenius_over_sqrt_d": 1.2265656847821333,
+        "diagonal_energy_fraction": 0.5100473289732514,
+        "distance_from_identity_over_sqrt_d": 0.8783294641630003,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.8844957337907914,
+        "relative_difference_from_previous": 0.5455376138171588
+      },
+      "51": {
+        "frobenius_over_sqrt_d": 1.223103205121667,
+        "diagonal_energy_fraction": 0.5691593728504392,
+        "distance_from_identity_over_sqrt_d": 0.8124125846275105,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.8902631748243318,
+        "relative_difference_from_previous": 0.5162052092083634
+      },
+      "52": {
+        "frobenius_over_sqrt_d": 1.2392902823929755,
+        "diagonal_energy_fraction": 0.6104380889398524,
+        "distance_from_identity_over_sqrt_d": 0.7783555390201132,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.9017368929293834,
+        "relative_difference_from_previous": 0.4833688110645048
+      },
+      "53": {
+        "frobenius_over_sqrt_d": 1.2442531552768163,
+        "diagonal_energy_fraction": 0.6437591628349874,
+        "distance_from_identity_over_sqrt_d": 0.7461479666618736,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.9120360096623833,
+        "relative_difference_from_previous": 0.4560666705913704
+      },
+      "54": {
+        "frobenius_over_sqrt_d": 1.2588527613016327,
+        "diagonal_energy_fraction": 0.670208129507615,
+        "distance_from_identity_over_sqrt_d": 0.7265513255172665,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.9196648735548448,
+        "relative_difference_from_previous": 0.43426563494553483
+      },
+      "55": {
+        "frobenius_over_sqrt_d": 1.2605145409181129,
+        "diagonal_energy_fraction": 0.6964165502658696,
+        "distance_from_identity_over_sqrt_d": 0.6993179687772335,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.9262269000732553,
+        "relative_difference_from_previous": 0.41401735633114917
+      },
+      "56": {
+        "frobenius_over_sqrt_d": 1.2576104037307316,
+        "diagonal_energy_fraction": 0.7212070835424634,
+        "distance_from_identity_over_sqrt_d": 0.6704412810122189,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.9329349614516583,
+        "relative_difference_from_previous": 0.39089516742761377
+      },
+      "57": {
+        "frobenius_over_sqrt_d": 1.2529749403502246,
+        "diagonal_energy_fraction": 0.7406389911482371,
+        "distance_from_identity_over_sqrt_d": 0.6458728641030248,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.9395257026360437,
+        "relative_difference_from_previous": 0.37068959494953607
+      },
+      "58": {
+        "frobenius_over_sqrt_d": 1.2493024107382373,
+        "diagonal_energy_fraction": 0.7588487289559701,
+        "distance_from_identity_over_sqrt_d": 0.6228476633384673,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.9457649132931415,
+        "relative_difference_from_previous": 0.35100777218812346
+      },
+      "59": {
+        "frobenius_over_sqrt_d": 1.2253397471670522,
+        "diagonal_energy_fraction": 0.7863832577647081,
+        "distance_from_identity_over_sqrt_d": 0.5757929147291866,
+        "source_layer_type": "full_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.9499639922159812,
+        "relative_difference_from_previous": 0.3326709890240543
+      },
+      "60": {
+        "frobenius_over_sqrt_d": 1.168921309936173,
+        "diagonal_energy_fraction": 0.8117263601508368,
+        "distance_from_identity_over_sqrt_d": 0.5121126333405099,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.9558441272525433,
+        "relative_difference_from_previous": 0.3091128268082638
+      },
+      "61": {
+        "frobenius_over_sqrt_d": 1.1275411179281134,
+        "diagonal_energy_fraction": 0.8379240415650878,
+        "distance_from_identity_over_sqrt_d": 0.45682354796506647,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "linear_attention",
+        "cosine_to_previous_snapshot": 0.9640619597548421,
+        "relative_difference_from_previous": 0.2766720687173474
+      },
+      "62": {
+        "frobenius_over_sqrt_d": 1.0536311461436518,
+        "diagonal_energy_fraction": 0.8978481440379794,
+        "distance_from_identity_over_sqrt_d": 0.33768492594995864,
+        "source_layer_type": "linear_attention",
+        "next_layer_type": "full_attention",
+        "cosine_to_previous_snapshot": 0.9865237742512205,
+        "relative_difference_from_previous": 0.1720652342123078
+      }
+    },
+    "prompt_indices": [
+      0,
+      1
+    ],
+    "diagnostic_precision": "FP64 blockwise cosine and difference reductions; reconstructed unrounded FP32 weighted mean from original FP16 worker checkpoints; no model/GPU used"
+  }
+}

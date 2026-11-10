@@ -1,0 +1,88 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  folks-common gnome-contacts gnome-software-common libfolks-eds26 libfolks26
+  libproxy1-plugin-webkit nvidia-firmware-580-580.95.05
+  tailscale-archive-keyring
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  libpython3.12-dev libpython3.12-minimal libpython3.12-stdlib
+  libpython3.12t64 python3.12 python3.12-minimal python3.12-venv
+Suggested packages:
+  python3.12-doc binfmt-support
+The following NEW packages will be installed:
+  libpython3.12-dev python3.12-dev
+The following packages will be upgraded:
+  libpython3.12-minimal libpython3.12-stdlib libpython3.12t64 python3.12
+  python3.12-minimal python3.12-venv
+6 upgraded, 2 newly installed, 0 to remove and 660 not upgraded.
+Need to get 14.1 MB of archives.
+After this operation, 28.7 MB of additional disk space will be used.
+Get:1 http://ports.ubuntu.com/ubuntu-ports noble-updates/universe arm64 python3.12-venv arm64 3.12.3-1ubuntu0.17 [5684 B]
+Get:2 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libpython3.12t64 arm64 3.12.3-1ubuntu0.17 [2280 kB]
+Get:3 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 python3.12 arm64 3.12.3-1ubuntu0.17 [651 kB]
+Get:4 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libpython3.12-stdlib arm64 3.12.3-1ubuntu0.17 [2039 kB]
+Get:5 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 python3.12-minimal arm64 3.12.3-1ubuntu0.17 [2253 kB]
+Get:6 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libpython3.12-minimal arm64 3.12.3-1ubuntu0.17 [835 kB]
+Get:7 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 libpython3.12-dev arm64 3.12.3-1ubuntu0.17 [5539 kB]
+Get:8 http://ports.ubuntu.com/ubuntu-ports noble-updates/main arm64 python3.12-dev arm64 3.12.3-1ubuntu0.17 [498 kB]
+debconf: unable to initialize frontend: Dialog
+debconf: (Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or without a controlling terminal.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+dpkg-preconfigure: unable to re-open stdin: 
+Fetched 14.1 MB in 3s (4881 kB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 486491 files and directories currently installed.)
+Preparing to unpack .../0-python3.12-venv_3.12.3-1ubuntu0.17_arm64.deb ...
+Unpacking python3.12-venv (3.12.3-1ubuntu0.17) over (3.12.3-1ubuntu0.13) ...
+Preparing to unpack .../1-libpython3.12t64_3.12.3-1ubuntu0.17_arm64.deb ...
+Unpacking libpython3.12t64:arm64 (3.12.3-1ubuntu0.17) over (3.12.3-1ubuntu0.13) ...
+Preparing to unpack .../2-python3.12_3.12.3-1ubuntu0.17_arm64.deb ...
+Unpacking python3.12 (3.12.3-1ubuntu0.17) over (3.12.3-1ubuntu0.13) ...
+Preparing to unpack .../3-libpython3.12-stdlib_3.12.3-1ubuntu0.17_arm64.deb ...
+Unpacking libpython3.12-stdlib:arm64 (3.12.3-1ubuntu0.17) over (3.12.3-1ubuntu0.13) ...
+Preparing to unpack .../4-python3.12-minimal_3.12.3-1ubuntu0.17_arm64.deb ...
+Unpacking python3.12-minimal (3.12.3-1ubuntu0.17) over (3.12.3-1ubuntu0.13) ...
+Preparing to unpack .../5-libpython3.12-minimal_3.12.3-1ubuntu0.17_arm64.deb ...
+Unpacking libpython3.12-minimal:arm64 (3.12.3-1ubuntu0.17) over (3.12.3-1ubuntu0.13) ...
+Selecting previously unselected package libpython3.12-dev:arm64.
+Preparing to unpack .../6-libpython3.12-dev_3.12.3-1ubuntu0.17_arm64.deb ...
+Unpacking libpython3.12-dev:arm64 (3.12.3-1ubuntu0.17) ...
+Selecting previously unselected package python3.12-dev.
+Preparing to unpack .../7-python3.12-dev_3.12.3-1ubuntu0.17_arm64.deb ...
+Unpacking python3.12-dev (3.12.3-1ubuntu0.17) ...
+Setting up libpython3.12-minimal:arm64 (3.12.3-1ubuntu0.17) ...
+Setting up python3.12-minimal (3.12.3-1ubuntu0.17) ...
+Setting up libpython3.12-stdlib:arm64 (3.12.3-1ubuntu0.17) ...
+Setting up python3.12 (3.12.3-1ubuntu0.17) ...
+Setting up libpython3.12t64:arm64 (3.12.3-1ubuntu0.17) ...
+Setting up python3.12-venv (3.12.3-1ubuntu0.17) ...
+Setting up libpython3.12-dev:arm64 (3.12.3-1ubuntu0.17) ...
+Setting up python3.12-dev (3.12.3-1ubuntu0.17) ...
+Processing triggers for gnome-menus (3.36.0-1.1ubuntu3) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.7) ...
+Processing triggers for systemd (255.4-1ubuntu8.15) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for desktop-file-utils (0.27-2build1) ...
+debconf: unable to initialize frontend: Dialog
+debconf: (Dialog frontend will not work on a dumb terminal, an emacs shell buffer, or without a controlling terminal.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+
+Running kernel seems to be up-to-date.
+
+The processor microcode seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+User sessions running outdated binaries:
+ lmxxf @ session #9: sh[64962]
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.

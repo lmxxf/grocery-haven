@@ -1,0 +1,75 @@
+LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '115218836 kB', 'SwapFree': '16776872 kB'}
+LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106682016 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105652416 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104910852 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104139788 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103318792 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102559388 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101801420 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101030540 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100277204 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99539544 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98781908 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98012888 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97289272 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96530924 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95771896 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95000684 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94255004 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93498212 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92724376 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91937928 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91197120 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90437480 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89684852 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88910008 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88167372 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87418212 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86664056 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85905956 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85175140 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84410856 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83644864 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82888480 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82149260 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81388804 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80626616 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79927972 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79184912 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78416500 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77654448 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76896084 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76153024 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75382840 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74628112 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73866480 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73125992 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72366488 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71609936 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70854044 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70106088 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69339980 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68589208 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67827928 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67081688 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66308856 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65550732 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64790468 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64047660 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63282236 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62527156 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61770188 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61025288 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '60246868 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '59489564 kB', 'SwapFree': '16776876 kB'}
+LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '58729808 kB', 'SwapFree': '16776876 kB'}
+MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '57984548 kB', 'SwapFree': '16776876 kB'}
+[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+EVAL_STAGE_DONE vanilla {'multihop': {'items': 93, 'eligible_items': 84, 'excluded_multitoken_concepts': 9, 'pass@1': 0.3392857142857143, 'pass@5': 0.5396825396825398, 'pass@10': 0.6646825396825398}, 'multilingual': {'items': 107, 'eligible_items': 107, 'excluded_multitoken_concepts': 2, 'pass@1': 0.21261682242990654, 'pass@5': 0.3886292834890966, 'pass@10': 0.4688473520249221}}
+EVAL_STAGE_DONE n1 {'multihop': {'items': 93, 'eligible_items': 84, 'excluded_multitoken_concepts': 9, 'pass@1': 0.3392857142857143, 'pass@5': 0.5634920634920635, 'pass@10': 0.634920634920635}, 'multilingual': {'items': 107, 'eligible_items': 107, 'excluded_multitoken_concepts': 2, 'pass@1': 0.3208722741433022, 'pass@5': 0.42679127725856697, 'pass@10': 0.5062305295950156}}
+EVAL_STAGE_DONE n2 {'multihop': {'items': 93, 'eligible_items': 84, 'excluded_multitoken_concepts': 9, 'pass@1': 0.23809523809523808, 'pass@5': 0.503968253968254, 'pass@10': 0.623015873015873}, 'multilingual': {'items': 107, 'eligible_items': 107, 'excluded_multitoken_concepts': 2, 'pass@1': 0.22741433021806853, 'pass@5': 0.3637071651090342, 'pass@10': 0.4244548286604361}}
+EVAL_STAGE_DONE n4 {'multihop': {'items': 93, 'eligible_items': 84, 'excluded_multitoken_concepts': 9, 'pass@1': 0.30952380952380953, 'pass@5': 0.5634920634920635, 'pass@10': 0.634920634920635}, 'multilingual': {'items': 107, 'eligible_items': 107, 'excluded_multitoken_concepts': 2, 'pass@1': 0.22975077881619937, 'pass@5': 0.3722741433021807, 'pass@10': 0.4369158878504673}}
+EVAL_STAGE_DONE n10 {'multihop': {'items': 93, 'eligible_items': 84, 'excluded_multitoken_concepts': 9, 'pass@1': 0.3333333333333333, 'pass@5': 0.5753968253968255, 'pass@10': 0.6468253968253969}, 'multilingual': {'items': 107, 'eligible_items': 107, 'excluded_multitoken_concepts': 2, 'pass@1': 0.2601246105919003, 'pass@5': 0.396417445482866, 'pass@10': 0.45560747663551404}}
+EVAL_STAGE_DONE n20 {'multihop': {'items': 93, 'eligible_items': 84, 'excluded_multitoken_concepts': 9, 'pass@1': 0.32142857142857145, 'pass@5': 0.5873015873015873, 'pass@10': 0.634920634920635}, 'multilingual': {'items': 107, 'eligible_items': 107, 'excluded_multitoken_concepts': 2, 'pass@1': 0.2601246105919003, 'pass@5': 0.40342679127725856, 'pass@10': 0.4719626168224299}}
+EVAL_STAGE_DONE n50 {'multihop': {'items': 93, 'eligible_items': 84, 'excluded_multitoken_concepts': 9, 'pass@1': 0.35119047619047616, 'pass@5': 0.5753968253968255, 'pass@10': 0.6468253968253969}, 'multilingual': {'items': 107, 'eligible_items': 107, 'excluded_multitoken_concepts': 2, 'pass@1': 0.23909657320872274, 'pass@5': 0.396417445482866, 'pass@10': 0.45560747663551404}}
+EVAL_STAGE_DONE n100 {'multihop': {'items': 93, 'eligible_items': 84, 'excluded_multitoken_concepts': 9, 'pass@1': 0.3630952380952381, 'pass@5': 0.5634920634920635, 'pass@10': 0.6468253968253969}, 'multilingual': {'items': 107, 'eligible_items': 107, 'excluded_multitoken_concepts': 2, 'pass@1': 0.2507788161993769, 'pass@5': 0.40576323987538937, 'pass@10': 0.4696261682242991}}

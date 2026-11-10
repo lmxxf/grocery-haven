@@ -1,0 +1,36 @@
+np_model_id: "qwen3.8-27b"
+hf_model_name: "Qwen/Qwen3.8-27B"
+dataset:
+  name: "Salesforce/wikitext + PleIAs/Wikipedia-cn (1:1 bilingual)"
+  config: "wikitext-103-raw-v1"
+  split: "train"
+  text_field: "text"
+  max_chars: null
+fit:
+  method: "jlens"
+  n_prompts: 100
+  dim_batch: 2
+  max_seq_len: 128
+  target_layer: 63
+  skip_first: 16
+  dtype: "bfloat16"
+  device_map: "cuda"
+  compile: false
+  trust_remote_code: true
+  stop_at_delta: null
+  min_prompts: 100
+  stop_window: null
+  levels: null
+lens:
+  file: "Qwen3.8-27B_jacobian_lens.pt"
+  source: "lmxxf/Qwen3.8-27B-jacobian-lens@7c5476185483d7aabf51592cea2d7c3073781ceb:Qwen3.8-27B_jacobian_lens.pt (sha256 e9b11582f2023b7934ed591ab1134f7a3a9b6d64782665d3400a3fc56f532402)"
+  d_model: 5120
+  source_layers_first: 0
+  source_layers_last: 62
+  n_source_layers: 63
+  capture_point: "block_output"
+  stream_reduce: "none"
+  stream_index: null
+  capture_point_derived_from: null
+extra_metadata: null
+attribution: "Jacobian lens ('jlens') by Anthropic PBC — companion code for the 'Verbalizable Workspace' paper (https://github.com/anthropics/jacobian-lens), Apache-2.0. Fitted externally by Jin Yanyan (lmxxf)."

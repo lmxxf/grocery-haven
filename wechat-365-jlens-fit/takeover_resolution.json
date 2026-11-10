@@ -1,0 +1,8 @@
+{
+  "time": 1794273989.9193106,
+  "alert": "local sync process exited",
+  "resolved": true,
+  "reason": "Expected normal exit after all copies, plots, report and completion notification; not a transfer failure.",
+  "delivery_validation_accepted": true,
+  "active_problems": []
+}
