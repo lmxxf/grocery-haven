@@ -1,0 +1,74 @@
+[
+  {
+    "layer": 16,
+    "axis": 119,
+    "candidate_label": "All-Star 词组附近的词汇方向",
+    "type": "English lexical/collocation",
+    "reason": "最高激活左文重复出现 All @-@ Star；J-lens读出含cling/星号等，不能单凭词表证明纯体育概念",
+    "limitation": "多条最高激活来自同一主题，独立文档覆盖尚弱"
+  },
+  {
+    "layer": 16,
+    "axis": 246,
+    "candidate_label": "左方括号 [",
+    "type": "punctuation",
+    "reason": "最高激活左文均以 [ 结束，J-lens也给出方括号/省略引用片段",
+    "limitation": "是标点/引用结构，不冒充高层抽象概念"
+  },
+  {
+    "layer": 38,
+    "axis": 74,
+    "candidate_label": "中文维基简繁/语言变体标记",
+    "type": "Chinese wiki language-variant markup",
+    "reason": "最高激活含 -{zh-cn:域;zh 或zh-hant，J-lens Top词元为繁体/普通话/台湾等",
+    "limitation": "可能主要检测语料标记和后续补全，不等于抽象中英语言开关"
+  },
+  {
+    "layer": 41,
+    "axis": 45,
+    "candidate_label": "中文语言变体标签",
+    "type": "Chinese wiki language-variant markup",
+    "reason": "最高激活含zh-cn/zh-hant片段，J-lens读出繁体/普通话/粤语/简体/简体中文",
+    "limitation": "与上一层方向相似不等于跨层成分ID已对齐"
+  },
+  {
+    "layer": 56,
+    "axis": 83,
+    "candidate_label": "zh 语言代码补全",
+    "type": "language-code lexical pattern",
+    "reason": "最高激活止于-{zh，读出含-cn/繁体/-CN/zh",
+    "limitation": "语料格式特征，不是整体语言理解的单轴模块"
+  },
+  {
+    "layer": 63,
+    "axis": 10,
+    "candidate_label": "汉字 不 附近的否定补全",
+    "type": "Chinese lexical negation context",
+    "reason": "不同左文末尾均出现不；读出确定/愿/平等/约而同/完全是可组成常见不字搭配",
+    "limitation": "词元共现支持词汇读法，尚无专门随机对照干预证明抽象否定因果功能"
+  },
+  {
+    "layer": 63,
+    "axis": 522,
+    "candidate_label": "窗口首词 A 的高κ反例",
+    "type": "position/lexical confound control",
+    "reason": "最高激活左文只有A，显示高κ也会优先挑出窗口位置/稀有字面模式",
+    "limitation": "明确作为不能把高κ直接数成清晰语义概念的反例"
+  },
+  {
+    "layer": 38,
+    "axis": 2639,
+    "candidate_label": "植物/农作物附近的双语候选轴",
+    "type": "bilingual plant/agriculture candidate",
+    "reason": "apple与苹果拟合对比各自选中同轴，留出均8/8；自然左文包括英文cotton/corn/tobacco与中文植物学/水杉；J-lens读出和蔬菜/种植/植物等",
+    "limitation": "更像广义植物特征，不是苹果水果专属轴，也不证明反方向纯粹是Apple公司；未做此轴专门因果干预"
+  },
+  {
+    "layer": 41,
+    "axis": 828,
+    "candidate_label": "植物/作物/可食用物附近的双语候选轴",
+    "type": "bilingual plant/food candidate",
+    "reason": "英文apple与中文苹果对比选中同一轴且留出各8/8；自然高激活英文农业花环cotton/corn/tobacco与中文植物学/主食；J-lens读出种植、作物、和蔬菜、crops、foods、edible",
+    "limitation": "与L38可能是相近特征的层间重复，不应数成两个独立概念；词表方向为启发式读出，无纯度盲评或此轴干预"
+  }
+]

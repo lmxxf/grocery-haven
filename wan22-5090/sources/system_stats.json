@@ -1,0 +1,74 @@
+{
+  "system": {
+    "os": "win32",
+    "ram_total": 68208013312,
+    "ram_free": 52539813888,
+    "comfyui_version": "0.44.0",
+    "required_frontend_version": "1.57.6",
+    "installed_templates_version": "0.11.101",
+    "required_templates_version": "0.11.101",
+    "comfy_package_versions": [
+      {
+        "name": "comfyui-frontend-package",
+        "installed": "1.57.6",
+        "required": "1.57.6"
+      },
+      {
+        "name": "comfyui-workflow-templates",
+        "installed": "0.11.101",
+        "required": "0.11.101"
+      },
+      {
+        "name": "comfyui-embedded-docs",
+        "installed": "0.5.16",
+        "required": "0.5.16"
+      },
+      {
+        "name": "comfy-aimdo",
+        "installed": "0.6.0",
+        "required": "0.6.0"
+      },
+      {
+        "name": "comfy-kitchen",
+        "installed": "0.2.40",
+        "required": "0.2.40"
+      }
+    ],
+    "python_version": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+    "pytorch_version": "2.15.0+cu132",
+    "embedded_python": true,
+    "deploy_environment": "local-portable",
+    "argv": [
+      "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\main.py",
+      "--listen",
+      "0.0.0.0",
+      "--port",
+      "8188",
+      "--windows-standalone-build",
+      "--disable-auto-launch",
+      "--disable-xformers",
+      "--reserve-vram",
+      "3",
+      "--input-directory",
+      "C:\\AI\\Wan22-ComfyUI\\input",
+      "--output-directory",
+      "C:\\AI\\Wan22-ComfyUI\\output",
+      "--temp-directory",
+      "C:\\AI\\Wan22-ComfyUI\\temp",
+      "--user-directory",
+      "C:\\AI\\Wan22-ComfyUI\\user",
+      "--use-pytorch-cross-attention"
+    ]
+  },
+  "devices": [
+    {
+      "name": "cuda:0 NVIDIA GeForce RTX 5090 : cudaMallocAsync",
+      "type": "cuda",
+      "index": 0,
+      "vram_total": 34162343936,
+      "vram_free": 32496418816,
+      "torch_vram_total": 0,
+      "torch_vram_free": 0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+$root='C:\AI\Wan22-ComfyUI'
+[pscustomobject]@{HostName=$env:COMPUTERNAME;User=$env:USERNAME;RootExists=(Test-Path $root);Admin=([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator);ProxyHTTP=$env:HTTP_PROXY;ProxyHTTPS=$env:HTTPS_PROXY;WinHTTP=(netsh winhttp show proxy | Out-String);Disk=(Get-PSDrive C,D | Select-Object Name,Used,Free);RAM=(Get-CimInstance Win32_ComputerSystem).TotalPhysicalMemory} | ConvertTo-Json -Depth 5
+Get-CimInstance Win32_Process | Where-Object {$_.Name -match 'PBZ|Cyberpunk|BlackMyth|python|comfy|steam|game|7z'} | Select-Object ProcessId,Name,CommandLine | ConvertTo-Json -Depth 3
+Get-NetTCPConnection -LocalPort 8188 -ErrorAction SilentlyContinue | Select-Object State,OwningProcess | ConvertTo-Json
+curl.exe -L --connect-timeout 8 --max-time 15 -o NUL -w 'GITHUB code=%{http_code} bytes=%{size_download} speed=%{speed_download} total=%{time_total}\n' https://raw.githubusercontent.com/Comfy-Org/ComfyUI/master/requirements.txt
+curl.exe -L --connect-timeout 8 --max-time 15 -o NUL -w 'HF code=%{http_code} bytes=%{size_download} speed=%{speed_download} total=%{time_total}\n' https://huggingface.co/api/models/Comfy-Org/Wan-2.2
+curl.exe -L --connect-timeout 8 --max-time 15 -o NUL -w 'MIRROR code=%{http_code} bytes=%{size_download} speed=%{speed_download} total=%{time_total}\n' https://hf-mirror.com/api/models/Comfy-Org/Wan-2.2

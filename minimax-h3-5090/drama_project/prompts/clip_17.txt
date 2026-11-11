@@ -1,0 +1,23 @@
+subject_definitions:
+<Subject 1> is the handsome young man in <Picture 1>, wearing a dark-navy silver-embroidered stand-collar coat.
+<Subject 2> is the beautiful young woman in <Picture 2>, wearing a white jade hairpin and pale-white qipao dress.
+<Subject 3> is the moonlit peach-blossom pavilion in <Picture 3>.
+
+summary:
+[reference generation] Inside <Subject 3>, <Subject 1> places a glowing white jade pendant into <Subject 2>'s hands and proposes marriage, and <Subject 2> joyfully accepts with tears of happiness.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - his handsome features and dark-navy coat are retained.
+<Subject 2> (appears in [Shot 2]): fully_preserved - her face, amber eyes, white jade hairpin, and pale-white qipao dress are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2]): fully_preserved - the moonlit blossom pavilion and lantern glow are retained.
+
+detailed_description:
+The target video is in a luminous 2D Chinese romance anime style with sparkling moonlight and swirling pink blossoms.
+[Shot 1] A medium close-up in <Subject 3> shows <Subject 1> (S1) placing an intricately carved, softly glowing white jade heirloom pendant into <Subject 2>'s hands and holding her hands warmly between his own. Looking straight into her eyes, <Subject 1> (S1) asks clearly in a warm, clean foreground Mandarin male voice, <d>[Chinese] 清雪，你愿不愿意嫁给我，做我此生唯一的妻子？</d>
+[Shot 2] At 00:05.300, the shot cuts to a radiant close-up of <Subject 2> (S2) under the falling petals; a happy tear rolls down her blushing cheek as she breaks into a breathtaking smile, nods firmly, and replies clearly in a sweet, clean foreground Mandarin female voice, <d>[Chinese] 我愿意，此生此世，绝不负你。</d>
+
+overall_soundscape:
+Quiet moonlit pavilion and two clean close-mic foreground Mandarin voices.
+
+non_diegetic_music:
+Quiet, sparse guzheng notes under the voices.

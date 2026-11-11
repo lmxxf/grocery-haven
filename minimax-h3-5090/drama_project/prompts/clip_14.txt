@@ -1,0 +1,23 @@
+subject_definitions:
+<Subject 1> is the handsome young man in <Picture 1>, wearing a dark-navy silver-embroidered stand-collar coat.
+<Subject 2> is the beautiful young woman in <Picture 2>, wearing a white jade hairpin and a moonlight-white qipao dress with a sheer shawl.
+<Subject 3> is the opulent clan grand hall in <Picture 3>.
+
+summary:
+[reference generation] Inside <Subject 3>, <Subject 1> turns gently to <Subject 2>, extends his hand with a warm smile, and leads her away hand in hand.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - his handsome face and dark-navy stand-collar coat are retained.
+<Subject 2> (appears in [Shot 2]): fully_preserved - her amber eyes, white jade hairpin, and pale-white qipao dress are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2]): fully_preserved - the warm chandelier-lit grand hall is retained.
+
+detailed_description:
+The target video is in a romantic 2D Chinese anime style with soft golden bokeh lights.
+[Shot 1] A medium close-up inside <Subject 3> shows <Subject 1> (S1) turning away from the hall toward <Subject 2>; every trace of coldness vanishes from his face, replaced by a gentle, devoted smile as he extends his open right hand toward her and says clearly in a warm, clean foreground Mandarin male voice, <d>[Chinese] 清雪，这种乌烟瘴气的地方不配留你，我带你走。</d>
+[Shot 2] At 00:06.200, in a medium two-shot, <Subject 2> looks at him with tear-bright amber eyes and a shy, touched smile, gently placing her slender hand into <Subject 1>'s palm as they turn together to walk out into the night.
+
+overall_soundscape:
+Quiet indoor hall and a clean close-mic foreground Mandarin male voice.
+
+non_diegetic_music:
+Quiet, sparse piano notes under the voice.

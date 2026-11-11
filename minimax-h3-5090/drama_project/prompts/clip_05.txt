@@ -1,0 +1,21 @@
+subject_definitions:
+<Subject 1> is the handsome 22-year-old young man in <Picture 1>, with tousled black hair, sharp sword-like eyebrows, and a dark-navy silver-embroidered stand-collar coat.
+<Subject 2> is the opulent Chinese clan grand hall in <Picture 2>, with carved wooden doors, rosewood pillars, and golden chandeliers.
+
+summary:
+[reference generation] The heavy wooden doors of <Subject 2> burst open and <Subject 1> strides inside heroically, roaring a warning that freezes the hall.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - his handsome features, black hair, and dark-navy silver-embroidered stand-collar coat are retained.
+<Subject 2> (appears in [Shot 1], [Shot 2]): fully_preserved - the grand clan hall interior and lighting are retained.
+
+detailed_description:
+The target video is in an epic 2D Chinese donghua anime style with dynamic impact frames, swirling wind, and dramatic backlighting.
+[Shot 1] A wide low-angle shot inside <Subject 2> captures the massive carved double wooden entrance doors violently blasting open inward smoothly. Backlit by cold silver moonlight against the warm golden chandeliers of <Subject 2>, <Subject 1> steps across the threshold, his dark-navy stand-collar coat draping neatly.
+[Shot 2] At 00:03.000, the camera tracks rapidly into a sharp medium close-up of <Subject 1> (S1) striding forward across the dark dragon marble floor, his eyes blazing with icy authority. <Subject 1> (S1) says clearly and firmly in a clean foreground Mandarin male voice, <d>[Chinese] 我看今天，谁敢动她一根头发！</d> Warm golden light rims his shoulders as he comes to a powerful halt.
+
+overall_soundscape:
+A clean wooden door opening sound at 00:00.500, then quiet indoor hall and a clean close-mic foreground Mandarin male voice.
+
+non_diegetic_music:
+Quiet, sparse cello notes under the voice.

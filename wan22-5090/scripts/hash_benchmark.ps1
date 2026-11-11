@@ -1,0 +1,1 @@
+& 'C:\AI\Wan22-ComfyUI\ComfyUI_windows_portable\python_embeded\python.exe' -s 'C:\AI\Wan22-ComfyUI\scripts\verify_sha256.py' 'C:\AI\Wan22-ComfyUI\ComfyUI_windows_portable\ComfyUI\models\vae\wan_2.1_vae.safetensors' '2fc39d31359a4b0a64f55876d8ff7fa8d780956ae2cb13463b0223e15148976b'

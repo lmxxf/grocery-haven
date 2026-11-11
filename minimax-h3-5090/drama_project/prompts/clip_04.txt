@@ -1,0 +1,23 @@
+subject_definitions:
+<Subject 1> is the beautiful 20-year-old young woman in <Picture 1>, with amber-brown eyes, black hair with a white jade hairpin, and a pale-white floral qipao dress with a sheer shawl.
+<Subject 2> is the arrogant scion in <Picture 2>, wearing a burgundy suit with a black shirt and gold lapel pin.
+<Subject 3> is the opulent Chinese clan grand hall in <Picture 3>, with rosewood pillars and warm golden lanterns.
+
+summary:
+[reference generation] In <Subject 3>, <Subject 1> clutches a red silk marriage scroll to her chest and bravely defies <Subject 2>, who rises in fury.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - her face, amber eyes, white jade hairpin, and pale-white qipao dress are retained.
+<Subject 2> (appears in [Shot 2]): fully_preserved - his chestnut hair and burgundy suit are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2]): fully_preserved - the grand clan hall setting is retained.
+
+detailed_description:
+The target video is in an expressive 2D Chinese anime style with crisp linework and emotional lighting.
+[Shot 1] A close-up inside <Subject 3> focuses on <Subject 1> (S1), the young woman with amber eyes and a white jade hairpin in her pale-white qipao dress, hugging a traditional red-and-gold marriage scroll tightly against her chest. Despite a glistening tear at the corner of her eye, her gaze burns with unyielding pride as the camera slowly pushes in. <Subject 1> (S1) says clearly in a clean foreground Mandarin female voice, <d>[Chinese] 婚约是老太爷亲手所定，就算我苏家落魄，也绝不受你羞辱！</d>
+[Shot 2] At 00:07.200, the shot cuts to <Subject 2> in his burgundy suit inside <Subject 3>; his smirk twists into rage as he slams his palm onto a wooden table and lunges forward menacingly, raising his hand to strike.
+
+overall_soundscape:
+Quiet indoor hall, a single clean wooden tap at 00:07.500, and a clean close-mic foreground Mandarin female voice.
+
+non_diegetic_music:
+Quiet, sparse bamboo flute notes under the voice.

@@ -1,0 +1,1763 @@
+{
+  "records": 72,
+  "probes_sha256": "dea31b524d10a719114f0650bfc3a842ee449abde345199e53b2cb41af3e08cb",
+  "layers": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63
+  ],
+  "dtype": "float32 from BF16 block outputs",
+  "tokenization": "prefix + canonical target suffix encoded separately, identical target token sequence within each language/lexeme; decoded text preserved",
+  "finite": true,
+  "tokens": [
+    {
+      "id": "bank_finance_0",
+      "token_ids": [
+        760,
+        4400,
+        883,
+        18413,
+        9331,
+        321,
+        2647,
+        7566,
+        18253,
+        9444,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_finance_1",
+      "token_ids": [
+        760,
+        1830,
+        383,
+        8091,
+        82265,
+        321,
+        43840,
+        7176,
+        5064,
+        264,
+        13901,
+        883,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_finance_2",
+      "token_ids": [
+        15542,
+        264,
+        9915,
+        314,
+        58846,
+        321,
+        11343,
+        8098,
+        11,
+        1292,
+        6895,
+        685,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_finance_3",
+      "token_ids": [
+        7732,
+        5122,
+        883,
+        12910,
+        9331,
+        321,
+        3117,
+        29612,
+        11,
+        551,
+        13293,
+        264,
+        5604,
+        310,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_finance_4",
+      "token_ids": [
+        623,
+        264,
+        53235,
+        12096,
+        383,
+        6459,
+        13001,
+        321,
+        5713,
+        32537,
+        11,
+        781,
+        7246,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_finance_5",
+      "token_ids": [
+        760,
+        24164,
+        883,
+        11085,
+        9013,
+        321,
+        5713,
+        3401,
+        27312,
+        264,
+        3644,
+        310,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_finance_6",
+      "token_ids": [
+        623,
+        279,
+        2193,
+        314,
+        2478,
+        38242,
+        321,
+        2605,
+        37568,
+        11,
+        279,
+        18040,
+        13675,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_finance_7",
+      "token_ids": [
+        760,
+        6906,
+        883,
+        87248,
+        11988,
+        321,
+        18413,
+        32537,
+        5743,
+        310,
+        279,
+        3704,
+        314,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_finance_8",
+      "token_ids": [
+        760,
+        3543,
+        3255,
+        883,
+        16051,
+        7857,
+        321,
+        2605,
+        27770,
+        13464,
+        310,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_finance_9",
+      "token_ids": [
+        32,
+        11346,
+        2605,
+        314,
+        44498,
+        82265,
+        321,
+        13329,
+        43840,
+        7176,
+        5064,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_finance_10",
+      "token_ids": [
+        760,
+        15041,
+        383,
+        23589,
+        29612,
+        321,
+        5713,
+        16118,
+        9202,
+        539,
+        42820,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_finance_11",
+      "token_ids": [
+        760,
+        8627,
+        883,
+        279,
+        7903,
+        1785,
+        321,
+        4204,
+        18413,
+        11352,
+        13464,
+        310,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_0",
+      "token_ids": [
+        760,
+        4400,
+        883,
+        14367,
+        57587,
+        321,
+        76739,
+        60068,
+        18253,
+        9444,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_1",
+      "token_ids": [
+        760,
+        1830,
+        383,
+        4129,
+        2919,
+        321,
+        311,
+        6554,
+        3055,
+        279,
+        29199,
+        5064,
+        264,
+        13901,
+        883,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_2",
+      "token_ids": [
+        15542,
+        264,
+        9915,
+        314,
+        19340,
+        30592,
+        321,
+        279,
+        14367,
+        6607,
+        11,
+        1292,
+        6895,
+        685,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_3",
+      "token_ids": [
+        7732,
+        5122,
+        883,
+        14367,
+        36900,
+        321,
+        55090,
+        314,
+        279,
+        29199,
+        11,
+        551,
+        13293,
+        264,
+        5604,
+        310,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_4",
+      "token_ids": [
+        623,
+        264,
+        53235,
+        12096,
+        383,
+        628,
+        6852,
+        321,
+        279,
+        6607,
+        314,
+        279,
+        4129,
+        11,
+        781,
+        7246,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_5",
+      "token_ids": [
+        760,
+        24164,
+        883,
+        2919,
+        5684,
+        321,
+        279,
+        15879,
+        88,
+        34343,
+        562,
+        27312,
+        264,
+        3644,
+        310,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_6",
+      "token_ids": [
+        623,
+        279,
+        2193,
+        314,
+        34793,
+        91838,
+        28428,
+        279,
+        34338,
+        62230,
+        11,
+        279,
+        18040,
+        13675,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_7",
+      "token_ids": [
+        760,
+        6906,
+        883,
+        14367,
+        89600,
+        321,
+        279,
+        17079,
+        9694,
+        94682,
+        5743,
+        310,
+        279,
+        3704,
+        314,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_8",
+      "token_ids": [
+        760,
+        3543,
+        3255,
+        883,
+        13988,
+        1867,
+        311,
+        6554,
+        28428,
+        279,
+        14367,
+        5323,
+        13464,
+        310,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_9",
+      "token_ids": [
+        32,
+        11346,
+        2605,
+        314,
+        76739,
+        57013,
+        28428,
+        279,
+        14367,
+        1428,
+        5064,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_10",
+      "token_ids": [
+        760,
+        15041,
+        383,
+        19340,
+        28428,
+        264,
+        4778,
+        34338,
+        4129,
+        9202,
+        539,
+        42820,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "bank_river_11",
+      "token_ids": [
+        760,
+        8627,
+        883,
+        55090,
+        3043,
+        264,
+        21664,
+        14367,
+        13759,
+        11352,
+        13464,
+        310,
+        279,
+        5883
+      ],
+      "last_token": " bank",
+      "target_token_ids": [
+        5883
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_0",
+      "token_ids": [
+        760,
+        4400,
+        883,
+        38813,
+        2271,
+        321,
+        54800,
+        13383,
+        18253,
+        9444,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_1",
+      "token_ids": [
+        760,
+        1830,
+        383,
+        43587,
+        321,
+        13383,
+        24780,
+        5064,
+        264,
+        13901,
+        883,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_2",
+      "token_ids": [
+        15542,
+        264,
+        9915,
+        314,
+        13383,
+        31393,
+        321,
+        7478,
+        7936,
+        11,
+        1292,
+        6895,
+        685,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_3",
+      "token_ids": [
+        7732,
+        5122,
+        883,
+        4208,
+        4990,
+        793,
+        321,
+        79667,
+        13383,
+        11,
+        551,
+        13293,
+        264,
+        5604,
+        310,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_4",
+      "token_ids": [
+        623,
+        264,
+        53235,
+        12096,
+        383,
+        13383,
+        66031,
+        321,
+        5983,
+        48269,
+        11,
+        781,
+        7246,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_5",
+      "token_ids": [
+        760,
+        24164,
+        883,
+        13383,
+        12052,
+        321,
+        279,
+        22700,
+        27312,
+        264,
+        3644,
+        310,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_6",
+      "token_ids": [
+        623,
+        279,
+        2193,
+        314,
+        32413,
+        23043,
+        321,
+        7478,
+        13383,
+        11,
+        279,
+        18040,
+        13675,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_7",
+      "token_ids": [
+        760,
+        6906,
+        883,
+        13383,
+        32121,
+        321,
+        2438,
+        48269,
+        5743,
+        310,
+        279,
+        3704,
+        314,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_8",
+      "token_ids": [
+        760,
+        3543,
+        3255,
+        883,
+        13383,
+        40897,
+        321,
+        9922,
+        22105,
+        13464,
+        310,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_9",
+      "token_ids": [
+        32,
+        11346,
+        2605,
+        314,
+        54800,
+        13383,
+        12405,
+        494,
+        12052,
+        5064,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_10",
+      "token_ids": [
+        760,
+        15041,
+        383,
+        39334,
+        13383,
+        9919,
+        430,
+        41334,
+        9202,
+        539,
+        42820,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_fruit_11",
+      "token_ids": [
+        760,
+        8627,
+        883,
+        7478,
+        13383,
+        28428,
+        65069,
+        11352,
+        13464,
+        310,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_0",
+      "token_ids": [
+        760,
+        4400,
+        883,
+        11819,
+        2790,
+        321,
+        20853,
+        6416,
+        18253,
+        9444,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_1",
+      "token_ids": [
+        760,
+        1830,
+        383,
+        7166,
+        46286,
+        321,
+        6165,
+        11436,
+        5064,
+        264,
+        13901,
+        883,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_2",
+      "token_ids": [
+        15542,
+        264,
+        9915,
+        314,
+        21580,
+        27646,
+        321,
+        836,
+        3061,
+        11,
+        1292,
+        6895,
+        685,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_3",
+      "token_ids": [
+        7732,
+        5122,
+        883,
+        7539,
+        86,
+        8845,
+        321,
+        3609,
+        3026,
+        11,
+        551,
+        13293,
+        264,
+        5604,
+        310,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_4",
+      "token_ids": [
+        623,
+        264,
+        53235,
+        12096,
+        383,
+        279,
+        1781,
+        8856,
+        321,
+        878,
+        13015,
+        11,
+        781,
+        7246,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_5",
+      "token_ids": [
+        760,
+        24164,
+        883,
+        7166,
+        59515,
+        17943,
+        321,
+        836,
+        13562,
+        27312,
+        264,
+        3644,
+        310,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_6",
+      "token_ids": [
+        623,
+        279,
+        2193,
+        314,
+        15575,
+        8570,
+        321,
+        20853,
+        3061,
+        11,
+        279,
+        18040,
+        13675,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_7",
+      "token_ids": [
+        760,
+        6906,
+        883,
+        380,
+        54439,
+        35378,
+        321,
+        6165,
+        22858,
+        5743,
+        310,
+        279,
+        3704,
+        314,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_8",
+      "token_ids": [
+        760,
+        3543,
+        3255,
+        883,
+        233997,
+        321,
+        20111,
+        41581,
+        13464,
+        310,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_9",
+      "token_ids": [
+        32,
+        11346,
+        2605,
+        314,
+        29449,
+        1253,
+        321,
+        74606,
+        7370,
+        5064,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_10",
+      "token_ids": [
+        760,
+        15041,
+        383,
+        585,
+        1984,
+        321,
+        28560,
+        3401,
+        9202,
+        539,
+        42820,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "apple_company_11",
+      "token_ids": [
+        760,
+        8627,
+        883,
+        18036,
+        1409,
+        321,
+        2678,
+        7842,
+        3061,
+        11352,
+        13464,
+        310,
+        22544
+      ],
+      "last_token": " apple",
+      "target_token_ids": [
+        22544
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_0",
+      "token_ids": [
+        96158,
+        96968,
+        99957,
+        118384,
+        95793,
+        101687,
+        119283,
+        110763,
+        104020,
+        124258,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_1",
+      "token_ids": [
+        116416,
+        97785,
+        147406,
+        103836,
+        98676,
+        129965,
+        124860,
+        96621,
+        101750,
+        114164,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_2",
+      "token_ids": [
+        95772,
+        99957,
+        103836,
+        119902,
+        95793,
+        104056,
+        119599,
+        98816,
+        3709,
+        96343,
+        124258,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_3",
+      "token_ids": [
+        97075,
+        97785,
+        96140,
+        103169,
+        100247,
+        95793,
+        99844,
+        96652,
+        119283,
+        123448,
+        95865,
+        3709,
+        95948,
+        142832,
+        98405,
+        115187,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_4",
+      "token_ids": [
+        123462,
+        97785,
+        103836,
+        97984,
+        95793,
+        131367,
+        135361,
+        96424,
+        96410,
+        133399,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_5",
+      "token_ids": [
+        96158,
+        95938,
+        97785,
+        119076,
+        95793,
+        103836,
+        96150,
+        98046,
+        115810,
+        95826,
+        96425,
+        96179,
+        95860,
+        97431,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_6",
+      "token_ids": [
+        95772,
+        128326,
+        95793,
+        104056,
+        103836,
+        96488,
+        105087,
+        3709,
+        101884,
+        96043,
+        97100,
+        96761,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_7",
+      "token_ids": [
+        124599,
+        97785,
+        118384,
+        111268,
+        95793,
+        101698,
+        96140,
+        116443,
+        100153,
+        96473,
+        112043,
+        139022,
+        4960,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_8",
+      "token_ids": [
+        122621,
+        97785,
+        103836,
+        95952,
+        118457,
+        97480,
+        115209,
+        126484,
+        99173,
+        124258,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_9",
+      "token_ids": [
+        103774,
+        97785,
+        96200,
+        114966,
+        98092,
+        98276,
+        101687,
+        103836,
+        139886,
+        98151,
+        119110,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_10",
+      "token_ids": [
+        97785,
+        98753,
+        96026,
+        103836,
+        97480,
+        108637,
+        111043,
+        97790,
+        124258,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果水果_11",
+      "token_ids": [
+        96158,
+        96968,
+        97785,
+        112757,
+        115396,
+        104056,
+        103836,
+        110763,
+        98290,
+        124258,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_0",
+      "token_ids": [
+        96158,
+        96968,
+        99957,
+        43252,
+        112063,
+        112021,
+        96474,
+        97637,
+        97551,
+        104020,
+        124258,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_1",
+      "token_ids": [
+        116416,
+        97785,
+        18955,
+        114607,
+        95793,
+        99499,
+        101874,
+        129965,
+        124860,
+        96621,
+        101750,
+        114164,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_2",
+      "token_ids": [
+        95772,
+        99957,
+        64056,
+        119274,
+        101625,
+        97703,
+        98816,
+        3709,
+        96343,
+        124258,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_3",
+      "token_ids": [
+        97075,
+        97785,
+        98409,
+        110222,
+        95793,
+        13911,
+        3026,
+        123448,
+        95865,
+        3709,
+        95948,
+        142832,
+        98405,
+        115187,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_4",
+      "token_ids": [
+        123462,
+        97785,
+        2095,
+        8856,
+        117290,
+        111429,
+        96424,
+        96410,
+        133399,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_5",
+      "token_ids": [
+        96158,
+        95938,
+        97785,
+        18955,
+        59515,
+        99460,
+        101625,
+        111263,
+        95726,
+        115810,
+        95826,
+        96425,
+        96179,
+        95860,
+        97431,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_6",
+      "token_ids": [
+        95772,
+        60646,
+        98134,
+        95793,
+        112021,
+        97703,
+        96488,
+        105087,
+        3709,
+        101884,
+        96043,
+        97100,
+        96761,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_7",
+      "token_ids": [
+        124599,
+        97785,
+        44,
+        98253,
+        109787,
+        95793,
+        99460,
+        108705,
+        95726,
+        100153,
+        96473,
+        112043,
+        139022,
+        4960,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_8",
+      "token_ids": [
+        122621,
+        97785,
+        24875,
+        168579,
+        95793,
+        101982,
+        97409,
+        100036,
+        133832,
+        124258,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_9",
+      "token_ids": [
+        103774,
+        97785,
+        65765,
+        1253,
+        95793,
+        147340,
+        109124,
+        98153,
+        98151,
+        119110,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_10",
+      "token_ids": [
+        97785,
+        72,
+        1984,
+        95793,
+        98839,
+        108837,
+        111043,
+        97790,
+        124258,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    },
+    {
+      "id": "苹果公司_11",
+      "token_ids": [
+        96158,
+        96968,
+        97785,
+        15802,
+        1409,
+        136790,
+        113989,
+        97703,
+        110763,
+        98290,
+        124258,
+        99203
+      ],
+      "last_token": "苹果",
+      "target_token_ids": [
+        99203
+      ],
+      "matches_default_tokenization": true
+    }
+  ],
+  "time": 1794327488.3856647
+}

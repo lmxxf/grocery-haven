@@ -1,0 +1,8 @@
+{
+  "state": "PASS",
+  "time": 1794338304.3398354,
+  "web_url": "http://192.168.31.50:8188",
+  "readme": "README.md",
+  "results": "results.json",
+  "acceptance": "deployment_acceptance.json"
+}

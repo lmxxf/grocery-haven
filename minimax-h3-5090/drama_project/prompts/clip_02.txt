@@ -1,0 +1,19 @@
+subject_definitions:
+<Subject 1> is the handsome 22-year-old Chinese anime young man in <Picture 1>, with tousled black short hair, sharp eyebrows, and a dark-navy stand-collar coat with silver dragon collar embroidery.
+
+summary:
+[reference generation] A glowing golden holographic system interface materializes before <Subject 1> in 2D Chinese anime style, announcing its binding in an ethereal female voiceover before <Subject 1> vows revenge and strides forward.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - his identity, hairstyle, and dark-navy silver-embroidered stand-collar coat are preserved.
+
+detailed_description:
+The target video is in a sleek 2D Chinese donghua anime style with luminous golden holographic UI effects contrasting against a dark night courtyard.
+[Shot 1] A medium shot shows <Subject 1>, the young man in the dark-navy stand-collar coat from <Picture 1>, standing in the night courtyard as a translucent golden holographic magic panel unfolds in midair before his chest, casting warm gold light across his sharp features. While <Subject 1>'s lips remain completely closed, a clean, calm female voice (S1) says clearly in voiceover, <d>[Chinese] 叮！天命守护系统已绑定，宿命之人苏清雪正在受辱。</d> while his lips remain completely closed.
+[Shot 2] At 00:05.200, the camera pushes in at slow speed to a close-up of <Subject 1> (S2). With a cold, fearless smirk, he swipes his hand to dismiss the golden light particles and says clearly and firmly in a clean foreground Mandarin male voice, <d>[Chinese] 林浩，前世欠我的，今晚连本带利讨回来！</d> Immediately after speaking, he turns and strides decisively toward the glowing hall ahead.
+
+overall_soundscape:
+Quiet night courtyard and two clean close-mic foreground Mandarin voices.
+
+non_diegetic_music:
+Quiet, sparse guqin notes under the voices.

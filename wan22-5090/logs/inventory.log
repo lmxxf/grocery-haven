@@ -1,0 +1,94 @@
+{
+    "HostName":  "NUCBOX_EVO-T1",
+    "User":  "seth",
+    "RootExists":  false,
+    "Admin":  true,
+    "ProxyHTTP":  null,
+    "ProxyHTTPS":  null,
+    "WinHTTP":  "\r\nCurrent WinHTTP proxy settings:\r\n\r\n    Direct access (no proxy server).\r\n\r\n",
+    "Disk":  [
+                 {
+                     "Name":  "C",
+                     "Used":  251142303744,
+                     "Free":  747680858112
+                 },
+                 {
+                     "Name":  "D",
+                     "Used":  809081860096,
+                     "Free":  189741301760
+                 }
+             ],
+    "RAM":  68208013312
+}
+[
+    {
+        "ProcessId":  4548,
+        "Name":  "GameInputRedistService.exe",
+        "CommandLine":  "\"C:\\Program Files\\Microsoft GameInput\\x64\\GameInputRedistService.exe\""
+    },
+    {
+        "ProcessId":  16596,
+        "Name":  "steam.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Steam\\steam.exe\" -silent"
+    },
+    {
+        "ProcessId":  13440,
+        "Name":  "steamwebhelper.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe\" -nocrashdialog \"-lang=zh_CN\" \"-cachedir=C:\\Users\\Seth\\AppData\\Local\\Steam\\htmlcache\" \"-steampid=16596\" \"-buildid=1792618285\" \"-steamid=0\" \"-logdir=C:\\Program Files (x86)\\Steam\\logs\" \"-uimode=7\" \"-startcount=0\" \"-steamuniverse=Public\" \"-realm=Global\" \"-clientui=C:\\Program Files (x86)\\Steam\\clientui\" \"-steampath=C:\\Program Files (x86)\\Steam\\steam.exe\" \"-launcher=0\" \"--valve-initial-threadpool-size=12\" --valve-enable-site-isolation \"--crl-sets-path=C:\\Program Files (x86)\\Steam\\resource\\crl-set\" --enable-smooth-scrolling \"--log-file=C:\\Program Files (x86)\\Steam\\logs\\cef_log.txt\" --disable-quick-menu --disable-component-update \"--gaia-url=http://disabled.invalid\" \"--enable-features=PlatformHEVCDecoderSupport\" \"--disable-features=WinRetrieveSuggestionsOnlyOnDemand,SpareRendererForSitePerProcess,BlockPromptsIfIgnoredOften,WebUsbDeviceDetection,ValveFFmpegAllowLowDelayHEVC\""
+    },
+    {
+        "ProcessId":  24352,
+        "Name":  "steamwebhelper.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe\" --type=crashpad-handler /prefetch:4 --max-uploads=5 --max-db-size=20 --max-db-age=5 --monitor-self-annotation=ptype=crashpad-handler \"--database=C:\\Program Files (x86)\\Steam\\dumps\" \"--metrics-dir=C:\\Users\\Seth\\AppData\\Local\\CEF\\User Data\" --url=https://crash.steampowered.com/submit --annotation=platform=win64 --annotation=product=cefwebhelper --annotation=version=1792618285 --initial-client-data=0x398,0x39c,0x3a0,0x394,0x3a4,0x7ffa9a5aaea0,0x7ffa9a5aaeac,0x7ffa9a5aaeb8"
+    },
+    {
+        "ProcessId":  26108,
+        "Name":  "steamservice.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Common Files\\Steam\\steamservice.exe\" /RunAsService"
+    },
+    {
+        "ProcessId":  7716,
+        "Name":  "steamwebhelper.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe\" --type=gpu-process --start-stack-profiler --enable-chrome-runtime --user-data-dir=\"C:\\Users\\Seth\\AppData\\Local\\Steam\\htmlcache\" --user-agent-product=\"Valve Steam Client\" --buildid=1792618285 --steamid=0 --valve-initial-threadpool-size=12 --gpu-preferences=WAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --field-trial-handle=2004,i,15009965979251511892,6694340665759817464,262144 --enable-features=PlatformHEVCDecoderSupport --disable-features=BlockPromptsIfIgnoredOften,SpareRendererForSitePerProcess,ValveFFmpegAllowLowDelayHEVC,WebUsbDeviceDetection,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --enable-logging=handle --log-file=1984 --mojo-platform-channel-handle=1996 /prefetch:2"
+    },
+    {
+        "ProcessId":  13092,
+        "Name":  "steamwebhelper.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=zh-CN --service-sandbox-type=none --start-stack-profiler --enable-chrome-runtime --user-data-dir=\"C:\\Users\\Seth\\AppData\\Local\\Steam\\htmlcache\" --user-agent-product=\"Valve Steam Client\" --buildid=1792618285 --steamid=0 --valve-initial-threadpool-size=12 --field-trial-handle=2280,i,15009965979251511892,6694340665759817464,262144 --enable-features=PlatformHEVCDecoderSupport --disable-features=BlockPromptsIfIgnoredOften,SpareRendererForSitePerProcess,ValveFFmpegAllowLowDelayHEVC,WebUsbDeviceDetection,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --enable-logging=handle --log-file=2336 --mojo-platform-channel-handle=2332 /prefetch:11"
+    },
+    {
+        "ProcessId":  20832,
+        "Name":  "steamwebhelper.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe\" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=zh-CN --service-sandbox-type=service --enable-chrome-runtime --user-data-dir=\"C:\\Users\\Seth\\AppData\\Local\\Steam\\htmlcache\" --user-agent-product=\"Valve Steam Client\" --buildid=1792618285 --steamid=0 --valve-initial-threadpool-size=12 --field-trial-handle=2452,i,15009965979251511892,6694340665759817464,262144 --enable-features=PlatformHEVCDecoderSupport --disable-features=BlockPromptsIfIgnoredOften,SpareRendererForSitePerProcess,ValveFFmpegAllowLowDelayHEVC,WebUsbDeviceDetection,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --enable-logging=handle --log-file=2468 --mojo-platform-channel-handle=2464 /prefetch:13"
+    },
+    {
+        "ProcessId":  5744,
+        "Name":  "steamwebhelper.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe\" --type=renderer --enable-chrome-runtime --user-data-dir=\"C:\\Users\\Seth\\AppData\\Local\\Steam\\htmlcache\" --user-agent-product=\"Valve Steam Client\" --buildid=1792618285 --steamid=0 --valve-initial-threadpool-size=12 --gaia-url=http://disabled.invalid --lang=zh-CN --device-scale-factor=1.5 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1794052642660621 --launch-time-ticks=138656412512 --field-trial-handle=4116,i,15009965979251511892,6694340665759817464,262144 --enable-features=PlatformHEVCDecoderSupport --disable-features=BlockPromptsIfIgnoredOften,SpareRendererForSitePerProcess,ValveFFmpegAllowLowDelayHEVC,WebUsbDeviceDetection,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --enable-logging=handle --log-file=4128 --mojo-platform-channel-handle=4124 /prefetch:1"
+    },
+    {
+        "ProcessId":  23356,
+        "Name":  "steamwebhelper.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe\" --type=renderer --enable-chrome-runtime --user-data-dir=\"C:\\Users\\Seth\\AppData\\Local\\Steam\\htmlcache\" --user-agent-product=\"Valve Steam Client\" --buildid=1792618285 --steamid=0 --valve-initial-threadpool-size=12 --gaia-url=http://disabled.invalid --lang=zh-CN --device-scale-factor=1.5 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=12 --time-ticks-at-unix-epoch=-1794052642660621 --launch-time-ticks=191396249083 --field-trial-handle=6964,i,15009965979251511892,6694340665759817464,262144 --enable-features=PlatformHEVCDecoderSupport --disable-features=BlockPromptsIfIgnoredOften,SpareRendererForSitePerProcess,ValveFFmpegAllowLowDelayHEVC,WebUsbDeviceDetection,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --enable-logging=handle --log-file=5176 --mojo-platform-channel-handle=7056 /prefetch:1"
+    },
+    {
+        "ProcessId":  17728,
+        "Name":  "EdgeGameAssist.exe",
+        "CommandLine":  "\"C:\\Program Files\\WindowsApps\\microsoft.edge.gameassist_1.0.4019.0_x64__8wekyb3d8bbwe\\EdgeGameAssist.exe\" -ServerName:App.AppXjs7v3smdq2xg9r0emdwc70mxxcrc31jq.mca"
+    },
+    {
+        "ProcessId":  7068,
+        "Name":  "steamwebhelper.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win64\\steamwebhelper.exe\" --type=utility --utility-sub-type=audio.mojom.AudioService --lang=zh-CN --service-sandbox-type=audio --enable-chrome-runtime --user-data-dir=\"C:\\Users\\Seth\\AppData\\Local\\Steam\\htmlcache\" --user-agent-product=\"Valve Steam Client\" --buildid=1792618285 --steamid=0 --valve-initial-threadpool-size=12 --field-trial-handle=6056,i,15009965979251511892,6694340665759817464,262144 --enable-features=PlatformHEVCDecoderSupport --disable-features=BlockPromptsIfIgnoredOften,SpareRendererForSitePerProcess,ValveFFmpegAllowLowDelayHEVC,WebUsbDeviceDetection,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --enable-logging=handle --log-file=5408 --mojo-platform-channel-handle=5940 /prefetch:12"
+    }
+]
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0           00:02              0100    529 100    529   0      0    158      0   00:03   00:03              0100    529 100    529   0      0    158      0   00:03   00:03              0100    529 100    529   0      0    158      0   00:03   00:03              0
+GITHUB code=200 bytes=529 speed=158 total=3.335519
+HF code=000 bytes=0 speed=0 total=0.000000
+curl: (28) Connection timed out after 8017 milliseconds
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0           00:01              0100   5408   0   5408   0      0   3232      0           00:01              0100   5408   0   5408   0      0   3232      0           00:01              0100   5408   0   5408   0      0   3232      0           00:01              0
+MIRROR code=200 bytes=5408 speed=3232 total=1.673095

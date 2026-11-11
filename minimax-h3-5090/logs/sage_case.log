@@ -1,0 +1,9 @@
+RUN ref2va_4_sage
+prompt_id=89865f13-a06b-47b6-8a33-cfda32e5353e frames=158 record=/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/ref2va_4_sage/job_eb706b5215a7.json
+waiting 0s
+waiting 15s
+waiting 30s
+waiting 45s
+waiting 60s
+/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/ref2va_4_sage/eb706b5215a7_eb706b5215a7_00001_.mp4
+DONE ref2va_4_sage 67.77 sec 31657.0 MiB

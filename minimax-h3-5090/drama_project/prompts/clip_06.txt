@@ -1,0 +1,23 @@
+subject_definitions:
+<Subject 1> is the handsome young man in <Picture 1>, wearing a dark-navy silver-embroidered stand-collar coat.
+<Subject 2> is the pale beautiful young woman in <Picture 2>, wearing a white jade hairpin and a moonlight-white qipao dress with a sheer shawl.
+<Subject 3> is the opulent clan grand hall in <Picture 3>.
+
+summary:
+[reference generation] Inside <Subject 3>, <Subject 1> steps protectively in front of <Subject 2>, answering her surprised question with gentle reassurance.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - his appearance and dark-navy stand-collar coat are retained.
+<Subject 2> (appears in [Shot 1], [Shot 2]): fully_preserved - her face, white jade hairpin, and pale-white qipao dress are retained.
+<Subject 3> (appears in [Shot 1], [Shot 2]): fully_preserved - the golden-lit grand hall background is retained.
+
+detailed_description:
+The target video is in a refined 2D Chinese anime style with warm emotional lighting and shallow depth of field.
+[Shot 1] A medium two-shot inside <Subject 3> shows <Subject 1> stepping squarely in front of <Subject 2>, shielding her slender figure behind his broad shoulders. Looking up at his back with wide, glistening amber eyes, <Subject 2> (S1) says clearly in a gentle, clean foreground Mandarin female voice, <d>[Chinese] 林霄，你不是被他们关在后院禁足了吗？</d>
+[Shot 2] At 00:05.300, the camera shifts to an over-the-shoulder close-up as <Subject 1> (S2) turns his head slightly back toward <Subject 2>; his icy expression melts into deep tenderness as he says clearly in a warm, clean foreground Mandarin male voice, <d>[Chinese] 别怕，从今往后，有我在。</d> <Subject 2>'s eyes shimmer with relief and emotion.
+
+overall_soundscape:
+Quiet indoor hall and two clean close-mic foreground Mandarin voices.
+
+non_diegetic_music:
+Quiet, sparse guzheng notes under the voices.

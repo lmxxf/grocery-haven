@@ -1,0 +1,117 @@
+{
+  "prompt": [
+    1,
+    "b7b82367-f056-4ba9-b40d-b397eaa9b3f8",
+    {
+      "1": {
+        "class_type": "EmptyImage",
+        "inputs": {
+          "width": 64,
+          "height": 64,
+          "batch_size": 1,
+          "color": 4789273
+        }
+      },
+      "2": {
+        "class_type": "VAELoader",
+        "inputs": {
+          "vae_name": "minimax_h3_video_vae_int8_convrot.safetensors"
+        }
+      },
+      "3": {
+        "class_type": "VAEEncode",
+        "inputs": {
+          "pixels": [
+            "1",
+            0
+          ],
+          "vae": [
+            "2",
+            0
+          ]
+        }
+      },
+      "4": {
+        "class_type": "VAEDecode",
+        "inputs": {
+          "samples": [
+            "3",
+            0
+          ],
+          "vae": [
+            "2",
+            0
+          ]
+        }
+      },
+      "5": {
+        "class_type": "PreviewImage",
+        "inputs": {
+          "images": [
+            "4",
+            0
+          ]
+        }
+      }
+    },
+    {
+      "create_time": 1794363301323
+    },
+    [
+      "5"
+    ]
+  ],
+  "outputs": {
+    "5": {
+      "images": [
+        {
+          "filename": "ComfyUI_temp_nkoap_00001_.png",
+          "subfolder": "",
+          "type": "temp",
+          "metadata": {
+            "kind": "image",
+            "width": 64,
+            "height": 64
+          },
+          "id": "8b4db61e-876f-487a-8cd5-789758f2be77"
+        }
+      ]
+    }
+  },
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "b7b82367-f056-4ba9-b40d-b397eaa9b3f8",
+          "timestamp": 1794363301337
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [],
+          "prompt_id": "b7b82367-f056-4ba9-b40d-b397eaa9b3f8",
+          "timestamp": 1794363301359
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "b7b82367-f056-4ba9-b40d-b397eaa9b3f8",
+          "timestamp": 1794363323739
+        }
+      ]
+    ]
+  },
+  "meta": {
+    "5": {
+      "node_id": "5",
+      "display_node": "5",
+      "parent_node": null,
+      "real_node_id": "5"
+    }
+  }
+}

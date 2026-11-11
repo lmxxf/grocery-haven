@@ -1,0 +1,6 @@
+$base='C:\AI\Wan22-ComfyUI'
+New-Item -ItemType Directory -Force -Path $base,"$base\downloads","$base\logs","$base\scripts","$base\workflows" | Out-Null
+curl.exe -sS -L --proxy http://192.168.31.198:17891 --connect-timeout 8 --max-time 20 -o NUL -w 'PROXY_HF code=%{http_code} bytes=%{size_download} speed=%{speed_download} total=%{time_total}\n' https://huggingface.co/api/models/Comfy-Org/Wan-2.2
+curl.exe -sS -L --proxy http://192.168.31.198:17891 --connect-timeout 8 --max-time 20 --range 0-8388607 -o NUL -w 'PROXY_MODEL code=%{http_code} bytes=%{size_download} speed=%{speed_download} total=%{time_total}\n' https://huggingface.co/Comfy-Org/Wan-2.2/resolve/main/split_files/vae/wan_2.1_vae.safetensors
+curl.exe -sS -L --connect-timeout 8 --max-time 20 --range 0-8388607 -o NUL -w 'MIRROR_MODEL code=%{http_code} bytes=%{size_download} speed=%{speed_download} total=%{time_total}\n' https://hf-mirror.com/Comfy-Org/Wan-2.2/resolve/main/split_files/vae/wan_2.1_vae.safetensors
+curl.exe -sS -L --proxy http://192.168.31.198:17891 --connect-timeout 8 --max-time 20 --range 0-8388607 -o NUL -w 'PROXY_PORTABLE code=%{http_code} bytes=%{size_download} speed=%{speed_download} total=%{time_total}\n' https://github.com/Comfy-Org/ComfyUI/releases/download/v0.44.0/ComfyUI_windows_portable_nvidia.7z

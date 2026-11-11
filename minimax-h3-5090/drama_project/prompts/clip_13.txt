@@ -1,0 +1,20 @@
+subject_definitions:
+<Subject 1> is the handsome young man in <Picture 1>, with tousled black hair and a dark-navy silver-embroidered stand-collar coat.
+<Subject 2> is the opulent clan grand hall in <Picture 2>.
+
+summary:
+[reference generation] Standing majestically in the center of <Subject 2>, <Subject 1> delivers the final verdict banishing the villain and restoring the heroine's family fortune.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - his commanding features and dark-navy silver-embroidered coat are retained.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the grand hall chandeliers and carved throne backdrop are retained.
+
+detailed_description:
+The target video is in a majestic 2D Chinese donghua anime style with golden chandelier backlighting.
+[Shot 1] A low-angle medium shot frames <Subject 1> (S1) standing tall and unshakable in the center of <Subject 2>, framed symmetrically by the golden crystal chandeliers and carved rosewood throne behind him. The camera slowly orbits slightly right as <Subject 1> (S1) gazes coldly downward and says clearly and calmly in a clean foreground Mandarin male voice, <d>[Chinese] 把林浩逐出宗族，苏家当年被吞并的产业，明日双倍奉还！</d> He sweeps his sleeve cleanly as the hall falls into awed silence.
+
+overall_soundscape:
+Quiet indoor hall and a clean close-mic foreground Mandarin male voice.
+
+non_diegetic_music:
+Quiet, sparse guqin notes under the voice.

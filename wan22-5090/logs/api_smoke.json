@@ -1,0 +1,124 @@
+{
+  "status": "pass",
+  "prompt_id": "84a30846-e422-4999-b0f2-96410f762d52",
+  "history": {
+    "prompt": [
+      0,
+      "84a30846-e422-4999-b0f2-96410f762d52",
+      {
+        "1": {
+          "class_type": "EmptyImage",
+          "inputs": {
+            "width": 64,
+            "height": 64,
+            "batch_size": 5,
+            "color": 3381759
+          }
+        },
+        "2": {
+          "class_type": "CreateVideo",
+          "inputs": {
+            "images": [
+              "1",
+              0
+            ],
+            "fps": 16.0
+          }
+        },
+        "3": {
+          "class_type": "SaveVideo",
+          "inputs": {
+            "video": [
+              "2",
+              0
+            ],
+            "filename_prefix": "_api_smoke/export",
+            "format": "mp4"
+          }
+        }
+      },
+      {
+        "client_id": "api_smoke",
+        "create_time": 1794336006213
+      },
+      [
+        "3"
+      ]
+    ],
+    "outputs": {
+      "3": {
+        "images": [
+          {
+            "filename": "export_00001_.mp4",
+            "subfolder": "_api_smoke",
+            "type": "output",
+            "metadata": {
+              "kind": "video",
+              "width": 64,
+              "height": 64,
+              "duration": 0.3125,
+              "fps": 16.0,
+              "frame_count": 5
+            },
+            "id": "1066b3e3-c63e-4c9b-a739-b488ec3aa4e6"
+          }
+        ],
+        "animated": [
+          true
+        ]
+      }
+    },
+    "status": {
+      "status_str": "success",
+      "completed": true,
+      "messages": [
+        [
+          "execution_start",
+          {
+            "prompt_id": "84a30846-e422-4999-b0f2-96410f762d52",
+            "timestamp": 1794336006225
+          }
+        ],
+        [
+          "execution_cached",
+          {
+            "nodes": [],
+            "prompt_id": "84a30846-e422-4999-b0f2-96410f762d52",
+            "timestamp": 1794336006244
+          }
+        ],
+        [
+          "execution_success",
+          {
+            "prompt_id": "84a30846-e422-4999-b0f2-96410f762d52",
+            "timestamp": 1794336006455
+          }
+        ]
+      ]
+    },
+    "meta": {
+      "3": {
+        "node_id": "3",
+        "display_node": "3",
+        "parent_node": null,
+        "real_node_id": "3"
+      }
+    }
+  },
+  "files": [
+    {
+      "filename": "export_00001_.mp4",
+      "subfolder": "_api_smoke",
+      "type": "output",
+      "metadata": {
+        "kind": "video",
+        "width": 64,
+        "height": 64,
+        "duration": 0.3125,
+        "fps": 16.0,
+        "frame_count": 5
+      },
+      "id": "1066b3e3-c63e-4c9b-a739-b488ec3aa4e6"
+    }
+  ]
+}

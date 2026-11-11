@@ -1,0 +1,469 @@
+{
+  "complete": true,
+  "source_to_local_sha256_match": true,
+  "slave_to_main_sha256_match": true,
+  "slave_files_compared": 227,
+  "files_compared": 710,
+  "target_last_token_ids": {
+    "bank": [
+      5883
+    ],
+    "apple": [
+      22544
+    ],
+    "苹果": [
+      99203
+    ]
+  },
+  "layers": [
+    {
+      "layer": 0,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 7.516335926993634e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 1,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 6.77436958085309e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 2,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 6.27930944574473e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 3,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 6.118651754150051e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 4,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.911230118726962e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 5,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.907726290388382e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 6,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.860018745806883e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 7,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.698176437363145e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 8,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.664696232088318e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 9,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.689256568075507e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 10,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.840465746587142e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 11,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.867908043910575e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 12,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.90190381899447e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 13,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.872512929272489e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 14,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.834777425661741e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 15,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.768783921666909e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 16,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.773419502475008e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 17,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.736023922509048e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 18,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.744530540141568e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 19,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.475654916153871e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 20,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.318564149092708e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 21,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.218367959969328e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 22,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.23370999871986e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 23,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.148409627508954e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 24,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.184915607969742e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 25,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.332614705366723e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 26,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.588436806647223e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 27,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.616206522063294e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 28,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.786853307654383e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 29,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.822406023980875e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 30,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.869581514161837e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 31,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.710831487704127e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 32,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.681371817445324e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 33,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.66456037631724e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 34,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.818715749228431e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 35,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.57267071599199e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 36,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.466090442496352e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 37,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.345005433810002e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 38,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.342450322132208e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 39,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.350159426598111e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 40,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.387441888160538e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 41,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.445934903036687e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 42,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.647660259455733e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 43,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.774242595180112e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 44,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.888347800464544e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 45,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.923001822338847e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 46,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.950333843429689e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 47,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.949473802502325e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 48,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.97826669945789e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 49,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 6.118781925579242e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 50,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 6.514583787975425e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 51,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.949690944362374e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 52,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.936057618782797e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 53,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.677904368894815e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 54,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.712216761821765e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 55,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.595163088401023e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 56,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.480652589540114e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 57,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.363910418054729e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 58,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.30509908003296e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 59,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.283535529088113e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 60,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.35675098944921e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 61,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.484156417878694e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 62,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 5.744123541262525e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    },
+    {
+      "layer": 63,
+      "finite": true,
+      "polysemy_score_recompute_relative_l2": 7.171608444878075e-07,
+      "heldout_decisions_recounted": true,
+      "population_kurtosis_bounds_valid": true
+    }
+  ],
+  "time": 1794328141.4705925
+}

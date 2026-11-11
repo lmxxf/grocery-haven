@@ -1,0 +1,23 @@
+{
+  "state": "pass",
+  "torch": "2.15.0+cu132",
+  "cuda": "13.2",
+  "triton_windows": "3.9.0.post30",
+  "sageattention": "2.2.0+cu130torch2.10.0andhigher.post6",
+  "shape": [
+    1,
+    40,
+    4096,
+    128
+  ],
+  "dtype": "bfloat16",
+  "triton_add_pass": true,
+  "relative_l2_sage_vs_sdpa": 0.03865049034357071,
+  "max_abs_sage_vs_sdpa": 0.01171875,
+  "cuda_event_ms_mean10": {
+    "sdpa": 1.7081279754638672,
+    "sage": 0.7922111988067627
+  },
+  "note": "warm attention microbenchmark, not end-to-end video speed",
+  "time": 1794335630.8689268
+}

@@ -1,0 +1,271 @@
+2026-11-10T23:43:20+08:00 main=running slave=running
+2026-11-10T23:43:50+08:00 main=running slave=running
+2026-11-10T23:44:21+08:00 main=running slave=running
+2026-11-10T23:44:52+08:00 main=running slave=running
+2026-11-10T23:45:22+08:00 main=running slave=running
+2026-11-10T23:45:52+08:00 main=running slave=running
+2026-11-10T23:46:23+08:00 main=running slave=running
+2026-11-10T23:46:53+08:00 main=running slave=running
+2026-11-10T23:47:24+08:00 main=running slave=running
+2026-11-10T23:47:55+08:00 main=running slave=running
+2026-11-10T23:48:25+08:00 main=running slave=running
+2026-11-10T23:48:56+08:00 main=running slave=running
+2026-11-10T23:49:26+08:00 main=running slave=running
+2026-11-10T23:49:57+08:00 main=running slave=running
+2026-11-10T23:50:27+08:00 main=running slave=running
+2026-11-10T23:50:58+08:00 main=running slave=running
+2026-11-10T23:51:28+08:00 main=running slave=running
+2026-11-10T23:51:59+08:00 main=running slave=running
+2026-11-10T23:52:29+08:00 main=running slave=running
+2026-11-10T23:53:00+08:00 main=running slave=running
+2026-11-10T23:53:30+08:00 main=running slave=running
+2026-11-10T23:54:01+08:00 main=running slave=running
+2026-11-10T23:54:31+08:00 main=running slave=running
+2026-11-10T23:55:02+08:00 main=running slave=running
+2026-11-10T23:55:32+08:00 main=running slave=running
+2026-11-10T23:56:03+08:00 main=running slave=running
+2026-11-10T23:56:33+08:00 main=running slave=running
+2026-11-10T23:57:04+08:00 main=running slave=running
+2026-11-10T23:57:34+08:00 main=running slave=running
+2026-11-10T23:58:05+08:00 main=running slave=running
+2026-11-10T23:58:35+08:00 main=running slave=running
+2026-11-10T23:59:06+08:00 main=running slave=running
+2026-11-10T23:59:36+08:00 main=running slave=running
+2026-11-11T00:00:07+08:00 main=running slave=running
+2026-11-11T00:00:37+08:00 main=running slave=running
+2026-11-11T00:01:08+08:00 main=running slave=running
+2026-11-11T00:01:38+08:00 main=running slave=running
+2026-11-11T00:02:09+08:00 main=running slave=running
+2026-11-11T00:02:39+08:00 main=running slave=running
+2026-11-11T00:03:10+08:00 main=running slave=running
+2026-11-11T00:03:41+08:00 main=running slave=running
+2026-11-11T00:04:11+08:00 main=running slave=running
+2026-11-11T00:04:42+08:00 main=running slave=running
+2026-11-11T00:05:12+08:00 main=running slave=running
+2026-11-11T00:05:43+08:00 main=running slave=running
+2026-11-11T00:06:13+08:00 main=running slave=running
+2026-11-11T00:06:44+08:00 main=running slave=running
+2026-11-11T00:07:14+08:00 main=running slave=running
+2026-11-11T00:07:45+08:00 main=running slave=running
+2026-11-11T00:08:15+08:00 main=complete slave=running
+2026-11-11T00:08:46+08:00 main=complete slave=running
+2026-11-11T00:09:16+08:00 main=complete slave=running
+2026-11-11T00:09:47+08:00 main=complete slave=running
+2026-11-11T00:10:17+08:00 main=complete slave=running
+2026-11-11T00:10:48+08:00 main=complete slave=running
+2026-11-11T00:11:18+08:00 main=complete slave=running
+2026-11-11T00:11:49+08:00 main=complete slave=running
+2026-11-11T00:12:19+08:00 main=complete slave=running
+2026-11-11T00:12:50+08:00 main=complete slave=running
+2026-11-11T00:13:20+08:00 main=complete slave=running
+2026-11-11T00:13:51+08:00 main=complete slave=running
+2026-11-11T00:14:21+08:00 main=complete slave=running
+2026-11-11T00:14:52+08:00 main=complete slave=running
+2026-11-11T00:15:22+08:00 main=complete slave=running
+2026-11-11T00:15:53+08:00 main=complete slave=running
+2026-11-11T00:16:23+08:00 main=complete slave=running
+2026-11-11T00:16:54+08:00 main=complete slave=complete
+LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '118974640 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '109561348 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '108513276 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '107772540 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '107024192 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106194596 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105431880 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104688652 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103911476 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103356432 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102596152 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101838956 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101065024 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100322892 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99554860 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98782888 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98000344 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97262472 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96507704 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95751128 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94987172 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94272872 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93519392 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92743992 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91938852 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91177868 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90438256 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89674624 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88889576 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88129924 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87355580 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86588156 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85826440 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85075496 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84307888 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83531008 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82733976 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81975088 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81186256 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80398552 kB', 'SwapFree': '13613688 kB'}
+LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79717744 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78991184 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78257572 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77498352 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76716156 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75960136 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75186536 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74400720 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73642864 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72877120 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72108656 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71325060 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70558140 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69813624 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69035028 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68260004 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67514672 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66763368 kB', 'SwapFree': '13613692 kB'}
+LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65985824 kB', 'SwapFree': '13613700 kB'}
+LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65243804 kB', 'SwapFree': '13613700 kB'}
+LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64467384 kB', 'SwapFree': '13613700 kB'}
+LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63728984 kB', 'SwapFree': '13613700 kB'}
+LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62946816 kB', 'SwapFree': '13613700 kB'}
+LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62197228 kB', 'SwapFree': '13613700 kB'}
+LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61441788 kB', 'SwapFree': '13613700 kB'}
+MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '60725552 kB', 'SwapFree': '13613700 kB'}
+[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+POLYSEMY 1 72 available_GiB 57.35377502441406
+POLYSEMY 2 72 available_GiB 57.342533111572266
+POLYSEMY 3 72 available_GiB 57.339317321777344
+POLYSEMY 4 72 available_GiB 57.356197357177734
+POLYSEMY 5 72 available_GiB 57.34652328491211
+POLYSEMY 6 72 available_GiB 57.32240676879883
+POLYSEMY 7 72 available_GiB 57.34492874145508
+POLYSEMY 8 72 available_GiB 57.3702507019043
+POLYSEMY 9 72 available_GiB 57.35292053222656
+POLYSEMY 10 72 available_GiB 57.346221923828125
+POLYSEMY 11 72 available_GiB 57.33714294433594
+POLYSEMY 12 72 available_GiB 57.3477897644043
+POLYSEMY 13 72 available_GiB 57.33913803100586
+POLYSEMY 14 72 available_GiB 57.329681396484375
+POLYSEMY 15 72 available_GiB 57.31322479248047
+POLYSEMY 16 72 available_GiB 57.32102584838867
+POLYSEMY 17 72 available_GiB 57.31442642211914
+POLYSEMY 18 72 available_GiB 57.31479263305664
+POLYSEMY 19 72 available_GiB 57.30900573730469
+POLYSEMY 20 72 available_GiB 57.31161117553711
+POLYSEMY 21 72 available_GiB 57.30311584472656
+POLYSEMY 22 72 available_GiB 57.29471206665039
+POLYSEMY 23 72 available_GiB 57.29412841796875
+POLYSEMY 24 72 available_GiB 57.298221588134766
+POLYSEMY 25 72 available_GiB 57.30723571777344
+POLYSEMY 26 72 available_GiB 57.48493194580078
+POLYSEMY 27 72 available_GiB 57.47023010253906
+POLYSEMY 28 72 available_GiB 57.46013259887695
+POLYSEMY 29 72 available_GiB 57.46267318725586
+POLYSEMY 30 72 available_GiB 57.4661750793457
+POLYSEMY 31 72 available_GiB 57.456424713134766
+POLYSEMY 32 72 available_GiB 57.443443298339844
+POLYSEMY 33 72 available_GiB 57.43475341796875
+POLYSEMY 34 72 available_GiB 57.435062408447266
+POLYSEMY 35 72 available_GiB 57.415462493896484
+POLYSEMY 36 72 available_GiB 57.40342330932617
+POLYSEMY 37 72 available_GiB 57.39522171020508
+POLYSEMY 38 72 available_GiB 57.39262390136719
+POLYSEMY 39 72 available_GiB 57.37742233276367
+POLYSEMY 40 72 available_GiB 57.37125778198242
+POLYSEMY 41 72 available_GiB 57.343719482421875
+POLYSEMY 42 72 available_GiB 57.3335075378418
+POLYSEMY 43 72 available_GiB 57.3277702331543
+POLYSEMY 44 72 available_GiB 57.32130813598633
+POLYSEMY 45 72 available_GiB 57.31709289550781
+POLYSEMY 46 72 available_GiB 57.3068733215332
+POLYSEMY 47 72 available_GiB 57.311668395996094
+POLYSEMY 48 72 available_GiB 57.298423767089844
+POLYSEMY 49 72 available_GiB 57.2862663269043
+POLYSEMY 50 72 available_GiB 57.28060531616211
+POLYSEMY 51 72 available_GiB 57.27458190917969
+POLYSEMY 52 72 available_GiB 57.261085510253906
+POLYSEMY 53 72 available_GiB 57.25749206542969
+POLYSEMY 54 72 available_GiB 57.25584411621094
+POLYSEMY 55 72 available_GiB 57.240230560302734
+POLYSEMY 56 72 available_GiB 57.2376823425293
+POLYSEMY 57 72 available_GiB 57.22600173950195
+POLYSEMY 58 72 available_GiB 57.22821044921875
+POLYSEMY 59 72 available_GiB 57.21427917480469
+POLYSEMY 60 72 available_GiB 57.20649719238281
+POLYSEMY 61 72 available_GiB 57.198753356933594
+POLYSEMY 62 72 available_GiB 57.20332717895508
+POLYSEMY 63 72 available_GiB 57.193634033203125
+POLYSEMY 64 72 available_GiB 57.18321990966797
+POLYSEMY 65 72 available_GiB 57.17320251464844
+POLYSEMY 66 72 available_GiB 57.1829833984375
+POLYSEMY 67 72 available_GiB 57.21432876586914
+POLYSEMY 68 72 available_GiB 57.21535873413086
+POLYSEMY 69 72 available_GiB 57.203346252441406
+POLYSEMY 70 72 available_GiB 57.20255661010742
+POLYSEMY 71 72 available_GiB 57.20363998413086
+POLYSEMY 72 72 available_GiB 57.20125198364258
+POLYSEMY_ANALYZED 0
+POLYSEMY_ANALYZED 1
+POLYSEMY_ANALYZED 2
+POLYSEMY_ANALYZED 3
+POLYSEMY_ANALYZED 4
+POLYSEMY_ANALYZED 5
+POLYSEMY_ANALYZED 6
+POLYSEMY_ANALYZED 7
+POLYSEMY_ANALYZED 8
+POLYSEMY_ANALYZED 9
+POLYSEMY_ANALYZED 10
+POLYSEMY_ANALYZED 11
+POLYSEMY_ANALYZED 12
+POLYSEMY_ANALYZED 13
+POLYSEMY_ANALYZED 14
+POLYSEMY_ANALYZED 15
+POLYSEMY_ANALYZED 16
+POLYSEMY_ANALYZED 17
+POLYSEMY_ANALYZED 18
+POLYSEMY_ANALYZED 19
+POLYSEMY_ANALYZED 20
+POLYSEMY_ANALYZED 21
+POLYSEMY_ANALYZED 22
+POLYSEMY_ANALYZED 23
+POLYSEMY_ANALYZED 24
+POLYSEMY_ANALYZED 25
+POLYSEMY_ANALYZED 26
+POLYSEMY_ANALYZED 27
+POLYSEMY_ANALYZED 28
+POLYSEMY_ANALYZED 29
+POLYSEMY_ANALYZED 30
+POLYSEMY_ANALYZED 31
+POLYSEMY_ANALYZED 32
+POLYSEMY_ANALYZED 33
+POLYSEMY_ANALYZED 34
+POLYSEMY_ANALYZED 35
+POLYSEMY_ANALYZED 36
+POLYSEMY_ANALYZED 37
+POLYSEMY_ANALYZED 38
+POLYSEMY_ANALYZED 39
+POLYSEMY_ANALYZED 40
+POLYSEMY_ANALYZED 41
+POLYSEMY_ANALYZED 42
+POLYSEMY_ANALYZED 43
+POLYSEMY_ANALYZED 44
+POLYSEMY_ANALYZED 45
+POLYSEMY_ANALYZED 46
+POLYSEMY_ANALYZED 47
+POLYSEMY_ANALYZED 48
+POLYSEMY_ANALYZED 49
+POLYSEMY_ANALYZED 50
+POLYSEMY_ANALYZED 51
+POLYSEMY_ANALYZED 52
+POLYSEMY_ANALYZED 53
+POLYSEMY_ANALYZED 54
+POLYSEMY_ANALYZED 55
+POLYSEMY_ANALYZED 56
+POLYSEMY_ANALYZED 57
+POLYSEMY_ANALYZED 58
+POLYSEMY_ANALYZED 59
+POLYSEMY_ANALYZED 60
+POLYSEMY_ANALYZED 61
+POLYSEMY_ANALYZED 62
+POLYSEMY_ANALYZED 63
+POSTHOC_POLYSEMY_DONE

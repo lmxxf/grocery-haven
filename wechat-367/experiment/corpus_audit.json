@@ -1,0 +1,22 @@
+{
+  "fit_en": {
+    "records": 461,
+    "documents": 32,
+    "tokens": 100352
+  },
+  "fit_zh": {
+    "records": 201,
+    "documents": 34,
+    "tokens": 100352
+  },
+  "heldout_en": {
+    "records": 114,
+    "documents": 6,
+    "tokens": 25600
+  },
+  "heldout_zh": {
+    "records": 52,
+    "documents": 11,
+    "tokens": 25600
+  }
+}

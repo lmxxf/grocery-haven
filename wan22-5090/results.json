@@ -1,0 +1,362 @@
+{
+  "state": "PASS",
+  "time": 1794338304.3263907,
+  "windows_root": "C:\\AI\\Wan22-ComfyUI",
+  "web_url": "http://192.168.31.50:8188",
+  "hardware": {
+    "python": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+    "torch": "2.15.0+cu132",
+    "cuda": "13.2",
+    "device": "NVIDIA GeForce RTX 5090",
+    "capability": [
+      12,
+      0
+    ],
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ],
+    "fp8_scaled_mm_finite": true,
+    "fp8_scaled_mm_relative_error": 0.0016632563201710582,
+    "sdpa_finite": true
+  },
+  "software": {
+    "torch": "2.15.0+cu132",
+    "torchvision": "0.29.2+cu132",
+    "torchaudio": "2.11.1+cu132",
+    "triton-windows": "3.9.0.post30",
+    "sageattention": "2.2.0+cu130torch2.10.0andhigher.post6",
+    "comfyui-frontend-package": "1.57.6",
+    "comfyui-workflow-templates": "0.11.101",
+    "av": "19.0.2"
+  },
+  "model_inventory": [
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/vae/wan_2.1_vae.safetensors",
+      "size": 253815318,
+      "sha256": "2fc39d31359a4b0a64f55876d8ff7fa8d780956ae2cb13463b0223e15148976b",
+      "group": "shared",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\vae\\wan_2.1_vae.safetensors",
+      "actual_sha256": "2fc39d31359a4b0a64f55876d8ff7fa8d780956ae2cb13463b0223e15148976b",
+      "verified": true,
+      "hash_seconds": 0.1591119000222534
+    },
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "size": 6735906897,
+      "sha256": "c3355d30191f1f066b26d93fba017ae9809dce6c627dda5f6a66eaa651204f68",
+      "group": "shared",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\text_encoders\\umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "actual_sha256": "c3355d30191f1f066b26d93fba017ae9809dce6c627dda5f6a66eaa651204f68",
+      "verified": true,
+      "hash_seconds": 7.439829199982341
+    },
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/diffusion_models/wan2.2_t2v_high_noise_14B_fp8_scaled.safetensors",
+      "size": 14293923632,
+      "sha256": "cad711ae211c8b23455ec68cd6a190a33a3d874234a77eb57266d73f8f0e6c9f",
+      "group": "t2v",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\diffusion_models\\wan2.2_t2v_high_noise_14B_fp8_scaled.safetensors",
+      "actual_sha256": "cad711ae211c8b23455ec68cd6a190a33a3d874234a77eb57266d73f8f0e6c9f",
+      "verified": true,
+      "hash_seconds": 22.176964899990708
+    },
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors",
+      "size": 14293923632,
+      "sha256": "e71b96d7c82e638694c5e7fb98fac4bfb0e4ddc5fbbb4b1df40da8f0f1278a97",
+      "group": "t2v",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\diffusion_models\\wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors",
+      "actual_sha256": "e71b96d7c82e638694c5e7fb98fac4bfb0e4ddc5fbbb4b1df40da8f0f1278a97",
+      "verified": true,
+      "hash_seconds": 21.86891190003371
+    },
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/diffusion_models/wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
+      "size": 14294742832,
+      "sha256": "6122e79d55e0f235698d11d657f3b196c5273c830da00b2b013c5a048d5e6a42",
+      "group": "i2v",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\diffusion_models\\wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
+      "actual_sha256": "6122e79d55e0f235698d11d657f3b196c5273c830da00b2b013c5a048d5e6a42",
+      "verified": true,
+      "hash_seconds": 21.73532290000003
+    },
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/diffusion_models/wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
+      "size": 14294742832,
+      "sha256": "5471a457b6ac404202a5fbe6c11595a3d5641fc766b00f38763f72303fffc21e",
+      "group": "i2v",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\diffusion_models\\wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
+      "actual_sha256": "5471a457b6ac404202a5fbe6c11595a3d5641fc766b00f38763f72303fffc21e",
+      "verified": true,
+      "hash_seconds": 22.476554099994246
+    }
+  ],
+  "attention_microbenchmark": {
+    "state": "pass",
+    "torch": "2.15.0+cu132",
+    "cuda": "13.2",
+    "triton_windows": "3.9.0.post30",
+    "sageattention": "2.2.0+cu130torch2.10.0andhigher.post6",
+    "shape": [
+      1,
+      40,
+      4096,
+      128
+    ],
+    "dtype": "bfloat16",
+    "triton_add_pass": true,
+    "relative_l2_sage_vs_sdpa": 0.03865049034357071,
+    "max_abs_sage_vs_sdpa": 0.01171875,
+    "cuda_event_ms_mean10": {
+      "sdpa": 1.7081279754638672,
+      "sage": 0.7922111988067627
+    },
+    "note": "warm attention microbenchmark, not end-to-end video speed",
+    "time": 1794335630.8689268
+  },
+  "cases": [
+    {
+      "name": "t2v_sdpa",
+      "backend": "sdpa",
+      "job_file": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sdpa/job_53b1f711.json",
+      "prompt_id": "a689d7e3-4908-4d12-938e-6a1be25e578a",
+      "server_execution_seconds": 292.416,
+      "client_wall_seconds": 294.12738013267517,
+      "wait_seconds_until_history_complete": 293.865088224411,
+      "video": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sdpa/53b1f711_t2v_sdpa_00001_.mp4",
+      "bytes": 1541001,
+      "video_sha256": "98e9a6871bd38d4804248a8a4743d224765460a12fa527334de3f570f5fa118f",
+      "codec": "h264",
+      "width": 832,
+      "height": 480,
+      "frames": 81,
+      "playback_fps": "16/1",
+      "duration": "5.063000",
+      "gpu_total_peak_MiB_sampled_500ms": 29324.0,
+      "gpu_total_min_MiB": 2922.0,
+      "gpu_samples": 566,
+      "keyframe_checks": [
+        {
+          "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sdpa/53b1f711_t2v_sdpa_00001_/frame_01.png",
+          "mean_luma": 75.59682537109377,
+          "spatial_std_luma": 25.408698731630835,
+          "rgb_spatial_std": [
+            36.13893127441406,
+            24.959388732910156,
+            17.297077178955078
+          ]
+        },
+        {
+          "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sdpa/53b1f711_t2v_sdpa_00001_/frame_02.png",
+          "mean_luma": 71.14255927884615,
+          "spatial_std_luma": 24.49510361679679,
+          "rgb_spatial_std": [
+            34.95016860961914,
+            24.01045799255371,
+            16.94318199157715
+          ]
+        },
+        {
+          "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sdpa/53b1f711_t2v_sdpa_00001_/frame_03.png",
+          "mean_luma": 70.60891308794069,
+          "spatial_std_luma": 24.370019185205447,
+          "rgb_spatial_std": [
+            35.051353454589844,
+            23.92251205444336,
+            16.87714958190918
+          ]
+        }
+      ],
+      "keyframe_temporal_mean_absolute_difference": [
+        20.893665313720703,
+        21.01461410522461
+      ],
+      "automatic_basic_video_checks": "pass",
+      "manual_visual_review": "pass",
+      "note": "end-to-end includes loading; OS file cache and concurrent downloads differ across runs; GPU peak includes desktop and CUDA context",
+      "manual_visual_review_scope": "first/middle/last keyframes; clear fox fur and flowers, coherent pose/location changes, shallow depth of field intentional, no black/corrupt frames in inspected samples",
+      "all_frame_basic_checks": {
+        "file": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sdpa/53b1f711_t2v_sdpa_00001_.mp4",
+        "decoded_frames": 81,
+        "min_mean_luma": 69.62365559895835,
+        "min_spatial_std_luma": 22.400474017048023,
+        "near_black_frames": 0,
+        "near_uniform_frames": 0,
+        "mean_adjacent_frame_RGB_MAE": 5.382840090990067,
+        "min_adjacent_frame_RGB_MAE": 3.436957359313965,
+        "max_adjacent_frame_RGB_MAE": 7.060836315155029,
+        "method": "CPU ffmpeg RGB decode and 128x72 statistical screen; not a perceptual quality metric"
+      }
+    },
+    {
+      "name": "t2v_sage",
+      "backend": "sage",
+      "job_file": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sage/job_2e0d1fff.json",
+      "prompt_id": "8733886d-0aac-46cf-ba74-55b5db87938c",
+      "server_execution_seconds": 191.611,
+      "client_wall_seconds": 193.63311910629272,
+      "wait_seconds_until_history_complete": 193.37100672721863,
+      "video": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sage/2e0d1fff_t2v_sage_00001_.mp4",
+      "bytes": 1567128,
+      "video_sha256": "cc1a7bef191175abe3a1db979af66f19b6f6cb5b485704ef5d6257e271c974ab",
+      "codec": "h264",
+      "width": 832,
+      "height": 480,
+      "frames": 81,
+      "playback_fps": "16/1",
+      "duration": "5.063000",
+      "gpu_total_peak_MiB_sampled_500ms": 28620.0,
+      "gpu_total_min_MiB": 2922.0,
+      "gpu_samples": 323,
+      "keyframe_checks": [
+        {
+          "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sage/2e0d1fff_t2v_sage_00001_/frame_01.png",
+          "mean_luma": 75.22231156250002,
+          "spatial_std_luma": 25.438862026956684,
+          "rgb_spatial_std": [
+            36.53346633911133,
+            24.838603973388672,
+            18.154130935668945
+          ]
+        },
+        {
+          "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sage/2e0d1fff_t2v_sage_00001_/frame_02.png",
+          "mean_luma": 70.30083443709935,
+          "spatial_std_luma": 24.200898281667033,
+          "rgb_spatial_std": [
+            35.434486389160156,
+            23.47897720336914,
+            17.44153594970703
+          ]
+        },
+        {
+          "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sage/2e0d1fff_t2v_sage_00001_/frame_03.png",
+          "mean_luma": 70.12382115785255,
+          "spatial_std_luma": 24.17274650064844,
+          "rgb_spatial_std": [
+            35.488624572753906,
+            23.505435943603516,
+            17.34996223449707
+          ]
+        }
+      ],
+      "keyframe_temporal_mean_absolute_difference": [
+        21.04255485534668,
+        21.156633377075195
+      ],
+      "automatic_basic_video_checks": "pass",
+      "manual_visual_review": "pass",
+      "note": "end-to-end includes loading; OS file cache and concurrent downloads differ across runs; GPU peak includes desktop and CUDA context",
+      "manual_visual_review_scope": "first/middle/last keyframes; clear fox and flowers, consistent motion, no black/corrupt appearance; expected small pose/detail differences from SDPA",
+      "all_frame_basic_checks": {
+        "file": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sage/2e0d1fff_t2v_sage_00001_.mp4",
+        "decoded_frames": 81,
+        "min_mean_luma": 68.84473832465278,
+        "min_spatial_std_luma": 22.14029065314358,
+        "near_black_frames": 0,
+        "near_uniform_frames": 0,
+        "mean_adjacent_frame_RGB_MAE": 5.42189037501812,
+        "min_adjacent_frame_RGB_MAE": 3.485894203186035,
+        "max_adjacent_frame_RGB_MAE": 6.970956325531006,
+        "method": "CPU ffmpeg RGB decode and 128x72 statistical screen; not a perceptual quality metric"
+      }
+    },
+    {
+      "name": "i2v_sage",
+      "backend": "sage",
+      "job_file": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/i2v_sage/job_de4ffaaa.json",
+      "prompt_id": "cfd14cb0-30d1-47f8-90c2-aaada068ed58",
+      "server_execution_seconds": 170.642,
+      "client_wall_seconds": 171.73347973823547,
+      "wait_seconds_until_history_complete": 171.44928741455078,
+      "video": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/i2v_sage/de4ffaaa_i2v_sage_00001_.mp4",
+      "bytes": 1568568,
+      "video_sha256": "d5efd0d004c3b1a982877bbd4829fe7dc539d32aff9075aab045383462ec2dff",
+      "codec": "h264",
+      "width": 832,
+      "height": 480,
+      "frames": 81,
+      "playback_fps": "16/1",
+      "duration": "5.063000",
+      "gpu_total_peak_MiB_sampled_500ms": 29390.0,
+      "gpu_total_min_MiB": 3388.0,
+      "gpu_samples": 323,
+      "keyframe_checks": [
+        {
+          "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/i2v_sage/de4ffaaa_i2v_sage_00001_/frame_01.png",
+          "mean_luma": 71.96306944260819,
+          "spatial_std_luma": 25.790438966718625,
+          "rgb_spatial_std": [
+            36.326412200927734,
+            25.39789390563965,
+            17.199440002441406
+          ]
+        },
+        {
+          "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/i2v_sage/de4ffaaa_i2v_sage_00001_/frame_02.png",
+          "mean_luma": 69.11629562249601,
+          "spatial_std_luma": 24.481203778688727,
+          "rgb_spatial_std": [
+            34.941749572753906,
+            24.30650520324707,
+            14.93565845489502
+          ]
+        },
+        {
+          "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/i2v_sage/de4ffaaa_i2v_sage_00001_/frame_03.png",
+          "mean_luma": 67.87056280548876,
+          "spatial_std_luma": 23.725064230837237,
+          "rgb_spatial_std": [
+            33.954376220703125,
+            23.826271057128906,
+            13.620080947875977
+          ]
+        }
+      ],
+      "keyframe_temporal_mean_absolute_difference": [
+        20.603370666503906,
+        19.533031463623047
+      ],
+      "automatic_basic_video_checks": "pass",
+      "manual_visual_review": "pass",
+      "note": "end-to-end includes loading; OS file cache and concurrent downloads differ across runs; GPU peak includes desktop and CUDA context",
+      "manual_visual_review_scope": "first/middle/last keyframes; reference fox coat/face and meadow retained, coherent forward walk and tracking, no black/corrupt appearance",
+      "all_frame_basic_checks": {
+        "file": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/i2v_sage/de4ffaaa_i2v_sage_00001_.mp4",
+        "decoded_frames": 81,
+        "min_mean_luma": 66.72725546875,
+        "min_spatial_std_luma": 22.263425437358205,
+        "near_black_frames": 0,
+        "near_uniform_frames": 0,
+        "mean_adjacent_frame_RGB_MAE": 5.456494596600533,
+        "min_adjacent_frame_RGB_MAE": 3.1488354206085205,
+        "max_adjacent_frame_RGB_MAE": 7.523618221282959,
+        "method": "CPU ffmpeg RGB decode and 128x72 statistical screen; not a perceptual quality metric"
+      }
+    }
+  ],
+  "api_export_and_websocket": "pass",
+  "startup": "SYSTEM AtStartup task configured; manually started and verified; not reboot tested",
+  "final_backend": "sage",
+  "gpu_cache_released": true,
+  "temporary_download_relay": "stopped",
+  "inference_requires_spark": false,
+  "validation_scope": "81-frame 832x480 20-step standard T2V SDPA/Sage and I2V Sage; all-frame statistical checks plus first/middle/last keyframe visual inspection, not a guarantee for arbitrary settings"
+}

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "clip_01",
+    "duration": 10,
+    "refs": [
+      "assets/char1_male_lead.png"
+    ],
+    "subtitles": [
+      [
+        2.2,
+        8.8,
+        "这一世，我竟然重生回到了宗祠退婚这一夜？"
+      ]
+    ],
+    "prompt_file": "prompts/clip_01.txt"
+  },
+  {
+    "id": "clip_02",
+    "duration": 10,
+    "refs": [
+      "assets/char1_male_lead.png"
+    ],
+    "subtitles": [
+      [
+        0.6,
+        5.2,
+        "叮！天命守护系统已绑定，宿命之人苏清雪正在受辱。"
+      ],
+      [
+        5.5,
+        9.6,
+        "林浩，前世欠我的，今晚连本带利讨回来！"
+      ]
+    ],
+    "prompt_file": "prompts/clip_02.txt"
+  },
+  {
+    "id": "clip_03",
+    "duration": 10,
+    "refs": [
+      "assets/scene1_grand_hall.png",
+      "assets/char3_villain_cousin.png",
+      "assets/char2_female_lead.png"
+    ],
+    "subtitles": [
+      [
+        2.0,
+        9.0,
+        "苏清雪，你苏家早就破产了，还不跪下把婚书交出来！"
+      ]
+    ],
+    "prompt_file": "prompts/clip_03.txt"
+  },
+  {
+    "id": "clip_04",
+    "duration": 10,
+    "refs": [
+      "assets/char2_female_lead.png",
+      "assets/char3_villain_cousin.png",
+      "assets/scene1_grand_hall.png"
+    ],
+    "subtitles": [
+      [
+        1.0,
+        8.2,
+        "婚约是老太爷亲手所定，就算我苏家落魄，也绝不受你羞辱！"
+      ]
+    ],
+    "prompt_file": "prompts/clip_04.txt"
+  },
+  {
+    "id": "clip_05",
+    "duration": 10,
+    "refs": [
+      "assets/char1_male_lead.png",
+      "assets/scene1_grand_hall.png"
+    ],
+    "subtitles": [
+      [
+        3.2,
+        8.8,
+        "我看今天，谁敢动她一根头发！"
+      ]
+    ],
+    "prompt_file": "prompts/clip_05.txt"
+  },
+  {
+    "id": "clip_06",
+    "duration": 10,
+    "refs": [
+      "assets/char1_male_lead.png",
+      "assets/char2_female_lead.png",
+      "assets/scene1_grand_hall.png"
+    ],
+    "subtitles": [
+      [
+        0.8,
+        5.2,
+        "林霄……你不是被他们关在后院禁足了吗？"
+      ],
+      [
+        5.6,
+        9.5,
+        "别怕，从今往后，有我在。"
+      ]
+    ],
+    "prompt_file": "prompts/clip_06.txt"
+  },
+  {
+    "id": "clip_07",
+    "duration": 10,
+    "refs": [
+      "assets/char3_villain_cousin.png",
+      "assets/scene1_grand_hall.png"
+    ],
+    "subtitles": [
+      [
+        1.2,
+        9.0,
+        "好啊，你这个废物还敢送上门来！今晚连她一块滚出林家！"
+      ]
+    ],
+    "prompt_file": "prompts/clip_07.txt"
+  },
+  {
+    "id": "clip_08",
+    "duration": 10,
+    "refs": [
+      "assets/char1_male_lead.png",
+      "assets/scene1_grand_hall.png"
+    ],
+    "subtitles": [
+      [
+        1.8,
+        8.8,
+        "废物？那就睁大你的眼看清楚，到底谁才是废物！"
+      ]
+    ],
+    "prompt_file": "prompts/clip_08.txt"
+  },
+  {
+    "id": "clip_09",
+    "duration": 10,
+    "refs": [
+      "assets/char1_male_lead.png",
+      "assets/char3_villain_cousin.png",
+      "assets/scene1_grand_hall.png"
+    ],
+    "subtitles": [
+      [
+        5.2,
+        9.5,
+        "啊！我的脸！你怎会有如此恐怖的内劲！"
+      ]
+    ],
+    "prompt_file": "prompts/clip_09.txt"
+  },
+  {
+    "id": "clip_10",
+    "duration": 10,
+    "refs": [
+      "assets/scene1_grand_hall.png",
+      "assets/char1_male_lead.png"
+    ],
+    "subtitles": [
+      [
+        4.8,
+        9.2,
+        "就凭这几条助纣为虐的恶奴，也配拦我？"
+      ]
+    ],
+    "prompt_file": "prompts/clip_10.txt"
+  },
+  {
+    "id": "clip_11",
+    "duration": 10,
+    "refs": [
+      "assets/char1_male_lead.png",
+      "assets/scene1_grand_hall.png"
+    ],
+    "subtitles": [
+      [
+        1.5,
+        9.2,
+        "三年来你私吞家族三千万公款、暗害长辈，桩桩件件铁证如山！"
+      ]
+    ],
+    "prompt_file": "prompts/clip_11.txt"
+  },
+  {
+    "id": "clip_12",
+    "duration": 10,
+    "refs": [
+      "assets/char3_villain_cousin.png",
+      "assets/scene1_grand_hall.png"
+    ],
+    "subtitles": [
+      [
+        1.0,
+        9.0,
+        "不可能，你怎么会有绝密账本！堂弟饶命，家主之位我不敢争了！"
+      ]
+    ],
+    "prompt_file": "prompts/clip_12.txt"
+  },
+  {
+    "id": "clip_13",
+    "duration": 10,
+    "refs": [
+      "assets/char1_male_lead.png",
+      "assets/scene1_grand_hall.png"
+    ],
+    "subtitles": [
+      [
+        1.2,
+        9.2,
+        "把林浩逐出宗族，苏家当年被吞并的产业，明日双倍奉还！"
+      ]
+    ],
+    "prompt_file": "prompts/clip_13.txt"
+  },
+  {
+    "id": "clip_14",
+    "duration": 10,
+    "refs": [
+      "assets/char1_male_lead.png",
+      "assets/char2_female_lead.png",
+      "assets/scene1_grand_hall.png"
+    ],
+    "subtitles": [
+      [
+        1.2,
+        8.2,
+        "清雪，这种乌烟瘴气的地方不配留你，我带你走。"
+      ]
+    ],
+    "prompt_file": "prompts/clip_14.txt"
+  },
+  {
+    "id": "clip_15",
+    "duration": 10,
+    "refs": [
+      "assets/scene2_blossom_pavilion.png",
+      "assets/char2_female_lead.png",
+      "assets/char1_male_lead.png"
+    ],
+    "subtitles": [
+      [
+        2.0,
+        9.0,
+        "所有人都在看我苏家的笑话，为什么只有你拼了命也要护着我？"
+      ]
+    ],
+    "prompt_file": "prompts/clip_15.txt"
+  },
+  {
+    "id": "clip_16",
+    "duration": 10,
+    "refs": [
+      "assets/char1_male_lead.png",
+      "assets/char2_female_lead.png",
+      "assets/scene2_blossom_pavilion.png"
+    ],
+    "subtitles": [
+      [
+        1.2,
+        9.2,
+        "因为在我最绝望的时候，只有你信我。这一世，换我拿命疼你。"
+      ]
+    ],
+    "prompt_file": "prompts/clip_16.txt"
+  },
+  {
+    "id": "clip_17",
+    "duration": 10,
+    "refs": [
+      "assets/char1_male_lead.png",
+      "assets/char2_female_lead.png",
+      "assets/scene2_blossom_pavilion.png"
+    ],
+    "subtitles": [
+      [
+        0.6,
+        5.2,
+        "清雪，你愿不愿意嫁给我，做我此生唯一的妻子？"
+      ],
+      [
+        5.5,
+        9.5,
+        "我愿意，此生此世，绝不负你。"
+      ]
+    ],
+    "prompt_file": "prompts/clip_17.txt"
+  },
+  {
+    "id": "clip_18",
+    "duration": 10,
+    "refs": [
+      "assets/scene2_blossom_pavilion.png",
+      "assets/char1_male_lead.png",
+      "assets/char2_female_lead.png"
+    ],
+    "subtitles": [
+      [
+        1.5,
+        8.5,
+        "山河万朵，不及你眉间一抹月光。——《重生宗祠夜》终"
+      ]
+    ],
+    "prompt_file": "prompts/clip_18.txt"
+  }
+]

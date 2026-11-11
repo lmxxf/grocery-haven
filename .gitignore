@@ -13,3 +13,28 @@ wechat-365-jlens-fit/evaluation_results.json
 wechat-365-jlens-fit/early_evaluation_results.json
 wechat-365-jlens-fit/resource_timeseries*.jsonl
 wechat-366-jlens-experiments/experiment1.json
+
+# wechat-367 (64-layer ICA-Lens 40GB weights & cloned upstream repos)
+wechat-367/experiment/L[0-9][0-9]/
+wechat-367/experiment/corpus.jsonl
+wechat-367/ica-lens-paper/
+wechat-367/icalens_pkg/
+wechat-367/paper_src/
+
+# wechat-368 (23MB raw PDF)
+wechat-368-fable52-system-card/*.pdf
+
+# wan22-5090 & minimax-h3-5090 (rendered MP4/audio/raw JSON dumps)
+wan22-5090/outputs/
+wan22-5090/sources/object_info.json
+wan22-5090/sources/torch_pypi.json
+minimax-h3-5090/outputs/
+minimax-h3-5090/object_info.json
+minimax-h3-5090/courtyard.png
+minimax-h3-5090/drama_project/clips_raw/
+minimax-h3-5090/drama_project/clips_raw_v1_noisy/
+minimax-h3-5090/drama_project/clips_norm/
+minimax-h3-5090/drama_project/clips_20step/
+minimax-h3-5090/drama_project/composited_refs/
+minimax-h3-5090/drama_project/ost/
+minimax-h3-5090/drama_project/*.mp4

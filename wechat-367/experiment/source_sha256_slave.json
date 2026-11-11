@@ -1,0 +1,948 @@
+{
+  "role": "slave",
+  "time": 1794327448.6386054,
+  "layers": [
+    16,
+    41,
+    63,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    17,
+    19,
+    21,
+    23,
+    25,
+    27,
+    29,
+    31,
+    33,
+    35,
+    37,
+    40,
+    43,
+    45,
+    47,
+    49,
+    51,
+    53,
+    55,
+    58,
+    60,
+    62
+  ],
+  "files": {
+    "L16/complete.json": {
+      "bytes": 209,
+      "sha256": "5d8ef87d84b16daff95bfc03af118de8157ad028e1a22f26f67e2fe2c4a15d2d"
+    },
+    "L16/statistics.json": {
+      "bytes": 21145652,
+      "sha256": "41a5a83aecdf16ca962173cf8c64138fec6f99d8501b889208ef685aeeaa76aa"
+    },
+    "L16/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "a8b3312eadbcc4562f7098013ee182d3a06ad690b75bd8b7b02c2ebdde1a94e0"
+    },
+    "L16/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "be07c51f06032d1311e637751dc97704a4ae6806597aa09999a245c585edbefc"
+    },
+    "L16/native/artifacts/resid_post/layer_16.safetensors": {
+      "bytes": 209735936,
+      "sha256": "4ab994c8a24ffce12827767c563b09345c6545a2ef6920af6d950863d008d5c6"
+    },
+    "L16/native/icalens.json": {
+      "bytes": 321392,
+      "sha256": "dfed260e2ced916f19ab7626cdc635fee6ac159d1eb5db57c2eda25fc109de44"
+    },
+    "L16/vocabulary_readouts.json": {
+      "bytes": 490199,
+      "sha256": "0984c4f54f80ee805544d4cd7be10c8efc0af36e4fd8872331f88cda8e010d67"
+    },
+    "L16/steering.json": {
+      "bytes": 2604,
+      "sha256": "6711477f7e740c5565d467bc4dfcd188daad7d29186e47a9b0eaf0770c51accf"
+    },
+    "L41/complete.json": {
+      "bytes": 211,
+      "sha256": "d50be8098194045f5fb7d0e2e90ed3b24bba2a74bf5ad8a6c828ea3268a01957"
+    },
+    "L41/statistics.json": {
+      "bytes": 21204319,
+      "sha256": "4d46372e411cce4685e0aff496d17f1878677101188a5cc0c15ffefd02ae31f2"
+    },
+    "L41/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "624d1ada3117a89c4ca8ecb9985519e5484e41043c3e1553855c230d79e32b48"
+    },
+    "L41/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "eb3d507355b7bf0905fcc8d8431ab691eae590df74dd159c6ae60b1b6038c703"
+    },
+    "L41/native/artifacts/resid_post/layer_41.safetensors": {
+      "bytes": 209735936,
+      "sha256": "083cad513db1e2e96a6c132335bd63716861034102a639d65d2c502cc4cdb0a4"
+    },
+    "L41/native/icalens.json": {
+      "bytes": 321301,
+      "sha256": "c1421c610d43836bfc2804fd84250ecaed2694a33116208f19a47e2c93077207"
+    },
+    "L41/vocabulary_readouts.json": {
+      "bytes": 487411,
+      "sha256": "91e5e8093bff7c10edb86eb8462cf3f57bee3b132d6971aca50a634f233b43f5"
+    },
+    "L41/steering.json": {
+      "bytes": 2615,
+      "sha256": "e6dd04c8f316f99edd3f8cf219ced199b907100554d89657178e2ae704f60033"
+    },
+    "L63/complete.json": {
+      "bytes": 209,
+      "sha256": "f3da731e2aae6ab590000d37b1f1bb757e61915c6f3face36da57a407ecb5b9b"
+    },
+    "L63/statistics.json": {
+      "bytes": 21295541,
+      "sha256": "dd69c8d4b6e23a124b9d2d2728523f04c71c6ac7a8a7848e30349f92c9347d73"
+    },
+    "L63/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "b1f5a77616ba62125279d904e8d87858bdd38bd488b012bac3eaf791797e9d39"
+    },
+    "L63/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "85ceb16a1e81a7182e1c5a5b78643393a865e7098b967a0a59c7fc374c9c0fcc"
+    },
+    "L63/native/artifacts/resid_post/layer_63.safetensors": {
+      "bytes": 209735936,
+      "sha256": "861629fec3f6cb641cbb136dc407a920f42b91508e3e4e99a2d9394a9fc242e6"
+    },
+    "L63/native/icalens.json": {
+      "bytes": 320920,
+      "sha256": "4ba64859d352fc4ded7b6f53a702f63107e65e1ac81934d23e6275d17bd117c5"
+    },
+    "L63/vocabulary_readouts.json": {
+      "bytes": 484048,
+      "sha256": "74707d5b15c29c0fb9f762b438d7509b5f471a5eb0e48cd1fe20fc9faeefcf84"
+    },
+    "L63/steering.json": {
+      "bytes": 2629,
+      "sha256": "069c03a156ae87f9fd2cd715eebe59030b92a22a2364fffb6f6594796745b0e7"
+    },
+    "L02/complete.json": {
+      "bytes": 210,
+      "sha256": "256f238340041ff2dc545e083841a0a6a58e901c46723cb718135461f99b7407"
+    },
+    "L02/statistics.json": {
+      "bytes": 21193020,
+      "sha256": "7bbdfb540da75c0b4588cf2d2308d6bee516e5c731f7377346946c7b55afd4a3"
+    },
+    "L02/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "3f212bcdba1ff39b0551f360690e5ed9933c7af0bae46747175b68fe5145ab71"
+    },
+    "L02/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "96bc8f559d318de5962fa6405071958d00eb2a0f45065902efba48cdfe742cff"
+    },
+    "L02/native/artifacts/resid_post/layer_02.safetensors": {
+      "bytes": 209735936,
+      "sha256": "41bc9b1708698f064e001aa835d64ed7f1f25d27a98e7cad70affac25c6afe9b"
+    },
+    "L02/native/icalens.json": {
+      "bytes": 320327,
+      "sha256": "d417fe6879bfd2083f1a990eca4baf509e8f2c0dd705460785c9e0e456a10b23"
+    },
+    "L02/vocabulary_readouts.json": {
+      "bytes": 488112,
+      "sha256": "0dc50eed6f75dcd09608e708c7ab426a0007e6db33a18b80198c36ffbb73c290"
+    },
+    "L04/complete.json": {
+      "bytes": 210,
+      "sha256": "69fbb3b0d3d72f403345888edb5f27ff74cec4379c7c6e18de34fab42797305f"
+    },
+    "L04/statistics.json": {
+      "bytes": 21171141,
+      "sha256": "96eb7fbbffacc21a6902f8082ee2d881f48f93c110b1f6103991eff59ba10183"
+    },
+    "L04/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "a51ee7fbf4fabf6a1a53eaeace36582fab31315507c24f2c856a7ee480df911a"
+    },
+    "L04/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "ba17414785965673c0726f30b85fd9168e6736a6e6faf17dbcc2d1adf1cbe626"
+    },
+    "L04/native/artifacts/resid_post/layer_04.safetensors": {
+      "bytes": 209735936,
+      "sha256": "c06300e62a05dd241f9b74913d1b20910a7d2a2a68619976552e978bad4e90d7"
+    },
+    "L04/native/icalens.json": {
+      "bytes": 320401,
+      "sha256": "d88c34bfc245be923b1ca5bf78875fe199fbc13219ee188f42e6016d374f30fb"
+    },
+    "L04/vocabulary_readouts.json": {
+      "bytes": 488151,
+      "sha256": "a4e6ece903a90670798bfb64d65f6287a973cc2cb76787630c8478b860aed453"
+    },
+    "L06/complete.json": {
+      "bytes": 210,
+      "sha256": "8be2c66f539b739706b0037fe99935fe6c961604958e8eb46903cd7c2561c881"
+    },
+    "L06/statistics.json": {
+      "bytes": 21226234,
+      "sha256": "657f9fbccb0a00af94f5da13240b346713328bb3f78384c023f4d7b00c7069ce"
+    },
+    "L06/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "acbdc04bbc6d4886b57b6b7a8ff67b00ca08a4e4b38c819db9d13e2702e6356e"
+    },
+    "L06/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "f8d43a1fb1d811f20f19da7506fc77af5f199138fa8899a62303664d62f4db87"
+    },
+    "L06/native/artifacts/resid_post/layer_06.safetensors": {
+      "bytes": 209735936,
+      "sha256": "1d8536190b2526c2981a568921f8f89cb13bdb497e28d845c802b071106be70e"
+    },
+    "L06/native/icalens.json": {
+      "bytes": 320502,
+      "sha256": "0d3f4bfbbe91a665a8f7bac4078927c15fd0bb72a95c51cda476862eef6e1eb4"
+    },
+    "L06/vocabulary_readouts.json": {
+      "bytes": 489094,
+      "sha256": "6db5814e17a918443e25634dba20527985b32d42c9e57321be97534668904dfe"
+    },
+    "L08/complete.json": {
+      "bytes": 210,
+      "sha256": "cacb5a3add90bf447874d100936bb599ed1f69027a310deedff507433af3c147"
+    },
+    "L08/statistics.json": {
+      "bytes": 21202730,
+      "sha256": "21cff93ec54411f00ed258897c385ba74253ce4d22b55ac3925e1366552d10ab"
+    },
+    "L08/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "e3fc77197c7bf1e618360a38152a8cd01867d29902d66dab088a6b49f7ba4ce1"
+    },
+    "L08/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "41bb2d85f556830e084e9f8cefec11ca0c7af6c5dc1504b8e9a8c2536e6d48b0"
+    },
+    "L08/native/artifacts/resid_post/layer_08.safetensors": {
+      "bytes": 209735936,
+      "sha256": "432c7571d2fb59cb12e7f1d50a91cca74fabd77daa661faad6faf947fb8e34e3"
+    },
+    "L08/native/icalens.json": {
+      "bytes": 320817,
+      "sha256": "5108ad3fe0ac9c00e19609a8c8ef686462bbc3ad1ef950f183adb6d2183eb739"
+    },
+    "L08/vocabulary_readouts.json": {
+      "bytes": 490197,
+      "sha256": "87840e7219e965a8271a0865adcd2a15adbfcefcf52856157a87c878364cb144"
+    },
+    "L10/complete.json": {
+      "bytes": 211,
+      "sha256": "30e3cbe1f6c6e878bf495fe69b838258092ba41412d24be9de49bb8536390156"
+    },
+    "L10/statistics.json": {
+      "bytes": 21154770,
+      "sha256": "0360bca72262e824025705f709ad98eaa9041309b267c317b90890d7672d6d7a"
+    },
+    "L10/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "d01abfeeb9949bdb6711b5c54493cda7f6330af8770e388435c66a0c050163c5"
+    },
+    "L10/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "3be731ca6dcb73210c4cdf47bf2686f29b36394699b95aa536db3c678cefd514"
+    },
+    "L10/native/artifacts/resid_post/layer_10.safetensors": {
+      "bytes": 209735936,
+      "sha256": "6470f829dc2070ba92b7452011bb5613843781d8dca62409781545ac73f52e6f"
+    },
+    "L10/native/icalens.json": {
+      "bytes": 320914,
+      "sha256": "0f83801299c90fa0da2e1a9dc872b943c8c083b651a16c3774a4baf0e0a74f6d"
+    },
+    "L10/vocabulary_readouts.json": {
+      "bytes": 490107,
+      "sha256": "a4795a45d56a5eb962b9b1750ae354dd0e2aec178f05fa6deac9ac73a7485ae4"
+    },
+    "L12/complete.json": {
+      "bytes": 210,
+      "sha256": "63bdc4f65df74d09ee4eb2ab11bcebc6ffc34e3f9a231a1e644083c589fa4e35"
+    },
+    "L12/statistics.json": {
+      "bytes": 21115354,
+      "sha256": "c513478983012b91d5d9284d19415ba07fdcaa2992fc837e1306d37555f26b30"
+    },
+    "L12/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "5739f986119e45a1705780913393e25f3af6ce2e800b62bdaa2ad21214320263"
+    },
+    "L12/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "38759be782bf2d1fbb9b9f7fd3a013a347cdf5992fa43da307626ba00157068c"
+    },
+    "L12/native/artifacts/resid_post/layer_12.safetensors": {
+      "bytes": 209735936,
+      "sha256": "acdd9ebd04edd3ac9a06ee09736e7b647a9718b5b7e55a14baa3988c03757297"
+    },
+    "L12/native/icalens.json": {
+      "bytes": 321010,
+      "sha256": "71534c2771a093fe499c844617a79f25bb3268571cfc926bdb1016359156d611"
+    },
+    "L12/vocabulary_readouts.json": {
+      "bytes": 489939,
+      "sha256": "19148190d1e9e629f23160f70e2b0c23d8c51342331bd604ee0ce698c74a8fac"
+    },
+    "L14/complete.json": {
+      "bytes": 211,
+      "sha256": "c9a9f2ed7054e6fd4e5f7e40bdd9fe8c083e9eea8c86b8d1c992ff20a9fd0497"
+    },
+    "L14/statistics.json": {
+      "bytes": 21131109,
+      "sha256": "874ebd41291ad4d2f5d51d8d03e3f2e8242d0af13142053bf119f4ab0adc2072"
+    },
+    "L14/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "f93f4c224c993c6cc89cea6b3b7723434ba29da773e698e2ade0bc8c87bb192f"
+    },
+    "L14/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "6dd219c23a9a69406bad4de1143d0c8ec7ec66009e4c0d4bb30a8fd00d34a340"
+    },
+    "L14/native/artifacts/resid_post/layer_14.safetensors": {
+      "bytes": 209735936,
+      "sha256": "3e9d5af461f22d8eee8309aec8ce176c84b15a61cf8ea43ee72f52283aa6b015"
+    },
+    "L14/native/icalens.json": {
+      "bytes": 321103,
+      "sha256": "3ce4deca4282c9e30ca6a2d39c9372ee932852fdbf5377fa0a9d5e0163bc0722"
+    },
+    "L14/vocabulary_readouts.json": {
+      "bytes": 491177,
+      "sha256": "80fa308134d0dca7e35bd288fc19c4baaadcb502f2e8907aaefc90513173080a"
+    },
+    "L17/complete.json": {
+      "bytes": 210,
+      "sha256": "a325016a6b4b7acdd1d016f5a2ff57365f2f969e1f15e221ffc932ac35bb2b56"
+    },
+    "L17/statistics.json": {
+      "bytes": 21139705,
+      "sha256": "3bd525281591be4a561858bf74eb75c46d776e58d8ab082a02bb95470b6000af"
+    },
+    "L17/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "f10db5210633e352f952137489bf3ddf1f8cf64e8cf29e6d3847ad824be16793"
+    },
+    "L17/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "b646e6e74c714247ea48e5c69b79772baef81867036689a6210834b0888fd9b7"
+    },
+    "L17/native/artifacts/resid_post/layer_17.safetensors": {
+      "bytes": 209735936,
+      "sha256": "46e8dd1362476a230b3e41f7c8a97e8eefadc93538eebeae30a63d888c5a6e42"
+    },
+    "L17/native/icalens.json": {
+      "bytes": 321503,
+      "sha256": "8b44925b0049dbb703c13d56e00ce13d0419e1cf5a1a02d769cf87218813dec8"
+    },
+    "L17/vocabulary_readouts.json": {
+      "bytes": 486066,
+      "sha256": "ee684e89a6b449a590fbe173fcb4ef3fcdd914af083b57011ca072720a7116a3"
+    },
+    "L19/complete.json": {
+      "bytes": 210,
+      "sha256": "7c07d763d18d2fc31d9a7ceebbdd3e12732b64ea620ed09fb317a9957ca1fd07"
+    },
+    "L19/statistics.json": {
+      "bytes": 21137729,
+      "sha256": "68e991df4b187bc1d2c40b3ea79a7563da28cae365a4b915dd78665d68025915"
+    },
+    "L19/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "2f1427df9bcb682a54757b7c0f2ad047cf8121f5376a94cc1c2782ea8ae329ba"
+    },
+    "L19/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "8ff47a60a257343e226c6344283af13cc606cbf9b3ed7bd31c476bc17afbbd94"
+    },
+    "L19/native/artifacts/resid_post/layer_19.safetensors": {
+      "bytes": 209735936,
+      "sha256": "1fd16d4be735d108617881665e89c767b48efe3269d655c5b697d0c46df0d7e3"
+    },
+    "L19/native/icalens.json": {
+      "bytes": 321410,
+      "sha256": "55ddfc2d37b7cf56fd49f180eb0a6bb9d8135bf71e00b61ac643061c4905424a"
+    },
+    "L19/vocabulary_readouts.json": {
+      "bytes": 491875,
+      "sha256": "71455eae7ab9ecd58a22ea0e232acbfcdca05df01113906644cf7ec199a0f055"
+    },
+    "L21/complete.json": {
+      "bytes": 210,
+      "sha256": "d6b84daab5117369fae17b9e4de0118d056d250a7479ab7c1916b6185667abef"
+    },
+    "L21/statistics.json": {
+      "bytes": 21162784,
+      "sha256": "5232f701a51d4bfbc4ba63ef08fa78c933ccc7f41fbf0948fd9d7f661b78d6f4"
+    },
+    "L21/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "7488a3c2edcd8d0ba6454667c269271af8a1c7849f8466fa99f44a7fa260084e"
+    },
+    "L21/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "08a5936871f587fa99c59ed810beed9d763bed1823cc2ba58a22514c6e8f594b"
+    },
+    "L21/native/artifacts/resid_post/layer_21.safetensors": {
+      "bytes": 209735936,
+      "sha256": "50724600fcbd0f22d8c8c7ec7fe6a7c6489b27e36cdea6cceed424908b8d3f0c"
+    },
+    "L21/native/icalens.json": {
+      "bytes": 321245,
+      "sha256": "5430a3706f9450ec8d40542ef5fa7484fc6278435b88ce1fb4726b897f6e085a"
+    },
+    "L21/vocabulary_readouts.json": {
+      "bytes": 492537,
+      "sha256": "d2fb0758f3c6c813391f8733a12748e0353a999c36775492e05bb43b57a71176"
+    },
+    "L23/complete.json": {
+      "bytes": 211,
+      "sha256": "3c9a0be0cae73579b96431d6ac3e0d9585e2cc7fd55230561521c503466df637"
+    },
+    "L23/statistics.json": {
+      "bytes": 21177099,
+      "sha256": "e20d19788a63bcc9b4826cb7acb3820c1f8dc277a38a4453b7fdcae19030004c"
+    },
+    "L23/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "8f094e014fb43f06ed0638ec6c7bbef98032cdb727fe526b3ae2034cf8a62183"
+    },
+    "L23/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "d82b3b98f799ae1536b4fb1b48d6b63af4109fbef422d68883cf9795621300c3"
+    },
+    "L23/native/artifacts/resid_post/layer_23.safetensors": {
+      "bytes": 209735936,
+      "sha256": "02e3101e284eef75a051b11f3d1d0d03531074cdd45f93bf8546b58dea256d7d"
+    },
+    "L23/native/icalens.json": {
+      "bytes": 321124,
+      "sha256": "11c4b9fdb23b9b1e0ed770fb7b95c75b6e734d58818a70d4037a55ad45f88f1f"
+    },
+    "L23/vocabulary_readouts.json": {
+      "bytes": 491810,
+      "sha256": "0cea4e0a6ce4b9e57d3ca70a8341313e10f8049edc5069fa57cd95b4818635a1"
+    },
+    "L25/complete.json": {
+      "bytes": 211,
+      "sha256": "21d7b1a0b9b2e25aaf8b4807516c992933fd6a5d2c3cdc9428a6f6884eb4287f"
+    },
+    "L25/statistics.json": {
+      "bytes": 21176425,
+      "sha256": "ded6c7230f5a1727c9000e486d6a6de5262e3231eb5d32e3d29c436044e397fb"
+    },
+    "L25/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "d4677a1389bf3fde1ce60723d7812b4ad70ea826d08898e21e344f70f18f7075"
+    },
+    "L25/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "493e11ae4d24f3234d8b6c1c5cf95c95f8602725af75b381d04029eb9de25332"
+    },
+    "L25/native/artifacts/resid_post/layer_25.safetensors": {
+      "bytes": 209735936,
+      "sha256": "457e39b5523b8ce4ce39d16df80a4b2be311c2397a69d5d67e9c0f22a8bcbb42"
+    },
+    "L25/native/icalens.json": {
+      "bytes": 321264,
+      "sha256": "bf47627b69d50c24c23d9066f1c11f724bd015ab35081b9793a5c13f3f1d348f"
+    },
+    "L25/vocabulary_readouts.json": {
+      "bytes": 487057,
+      "sha256": "5992913bb01f324c417e3e7f6429c60ab567dfdc0e994141cac2bf03b7ad581e"
+    },
+    "L27/complete.json": {
+      "bytes": 210,
+      "sha256": "d7d1282f767e75945f2839eabee077118a45cb02c4a0326d7d9b291995b8d069"
+    },
+    "L27/statistics.json": {
+      "bytes": 21166875,
+      "sha256": "2a210b0a1e127433c54b2e676104bfb3fdd1c06ed7f0a801d9ab85023890beef"
+    },
+    "L27/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "a051ffe0624d06b565f27b1d4bbe9600fa17e2596718d78b9553cc362b2c5dfd"
+    },
+    "L27/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "727fb409d94199110c5047e6b791ae4d7578fdb147b525dd797729f1e7e6989a"
+    },
+    "L27/native/artifacts/resid_post/layer_27.safetensors": {
+      "bytes": 209735936,
+      "sha256": "e0edf59244f17115d2054a66a9c58957040a260fcd94a3f4c039ae189b2ff632"
+    },
+    "L27/native/icalens.json": {
+      "bytes": 321251,
+      "sha256": "7cec094dfbb55dbde3768b47888c2c659b133ff62c0e39598cb7aac386726359"
+    },
+    "L27/vocabulary_readouts.json": {
+      "bytes": 487044,
+      "sha256": "5cca4a04f0a9eab7988342922811a8a3c4baf91ae6f3f6b8eab8218f4992e219"
+    },
+    "L29/complete.json": {
+      "bytes": 210,
+      "sha256": "e3c101ef3686438a7507111029b77741a29ed20f097723b5e4932aab1f18a433"
+    },
+    "L29/statistics.json": {
+      "bytes": 21173283,
+      "sha256": "014ea965dc51d62c27b202f0bf03aad561d1cd394115a0c0f4ccc8c64279030d"
+    },
+    "L29/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "2a3e87a2c6cd3531c205fa27e70d72ac60155a650ed64f7f0e79c8063ee3f0df"
+    },
+    "L29/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "de1937c460d7ebccce84486a1bebf6267c84318efd4d7ae7b1c7ad90e2a10ce8"
+    },
+    "L29/native/artifacts/resid_post/layer_29.safetensors": {
+      "bytes": 209735936,
+      "sha256": "966a55d621610e580c8153061250f2316b1193406460f3f25ad7f266e5517c8f"
+    },
+    "L29/native/icalens.json": {
+      "bytes": 321575,
+      "sha256": "e4817ba0d2e8dbedfcb1c83da58794e81d54a1193fd2548cb0d7dc30350f15a4"
+    },
+    "L29/vocabulary_readouts.json": {
+      "bytes": 486449,
+      "sha256": "b3e04847de6443ac99b15e5388cf8a67d906157b255b844a645a2e4966bf8a3f"
+    },
+    "L31/complete.json": {
+      "bytes": 210,
+      "sha256": "874b1ab0eb3c74c2bb3cc680be110cfe49aad4fe702f5bb51d81da44a2a743cd"
+    },
+    "L31/statistics.json": {
+      "bytes": 21190667,
+      "sha256": "82a12c4f197e1a274fcf131716a100f2c9e225549b60f589694a89fdac73a07d"
+    },
+    "L31/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "1de061a01ab8fce7cbda432588da777d721619f11a5af56531698a612201bd1f"
+    },
+    "L31/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "a8781e13f730c0916a6ec6d4778c431e895517ec18e01404aa5cf8ffef2f5f9b"
+    },
+    "L31/native/artifacts/resid_post/layer_31.safetensors": {
+      "bytes": 209735936,
+      "sha256": "0c04fd394eae1f0a8bd80ef2b5cbbab2bea247c2caec6ce5bc99b48da34f1f52"
+    },
+    "L31/native/icalens.json": {
+      "bytes": 321726,
+      "sha256": "dac70c470d8d0f861b67d811a2dbb8f39baa109ead5acd55f7bbd886b148970d"
+    },
+    "L31/vocabulary_readouts.json": {
+      "bytes": 486502,
+      "sha256": "3c33745836df0e53a6039e811a6472c6fb713c12238551dc0307e770ff80a353"
+    },
+    "L33/complete.json": {
+      "bytes": 211,
+      "sha256": "c994b7064472e17e9df5a31f2e3acff1d8e43a1f4a843172dde6b595c486c300"
+    },
+    "L33/statistics.json": {
+      "bytes": 21202363,
+      "sha256": "b43911edd8d93bbbf98ca55115143bb092329f23233692e05cf82956117f0080"
+    },
+    "L33/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "219a6ecb82c27be8f41292990f144a23512b20a6b770619b4a65f57c394159b0"
+    },
+    "L33/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "75a472092830a3d4268348e681ba20ea1c8267c308f32e7547e3b36b3223665b"
+    },
+    "L33/native/artifacts/resid_post/layer_33.safetensors": {
+      "bytes": 209735936,
+      "sha256": "f1ce6b12f27851b90d80de2452fa5056ed89f9bf209666205b06776550eb9df8"
+    },
+    "L33/native/icalens.json": {
+      "bytes": 321941,
+      "sha256": "501520ab392cbbce3f3fcb1635d3e7cb500e9d95d3a8a7274913475e9af03822"
+    },
+    "L33/vocabulary_readouts.json": {
+      "bytes": 487120,
+      "sha256": "e642170a93f8950c6165384efa6d7ca70f0be9bc92ecb445e95acdde1ece71a7"
+    },
+    "L35/complete.json": {
+      "bytes": 211,
+      "sha256": "c5841b2cda9ff9897860bf9bad03c86aabdc278b0f6ee0b3b03c3de86013539f"
+    },
+    "L35/statistics.json": {
+      "bytes": 21174228,
+      "sha256": "128dbb2b77195bdc2e1b83b4168d99500ec2608c470efa98d5fad4e20744718b"
+    },
+    "L35/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "72d83245cce66a4b3daeff004936c51b081ce4ae01d13f82a5f55e6180fd0b76"
+    },
+    "L35/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "cdc734791a3cf28d3ec9cd2cfe6a4017aca27f48cbf98cc779335f23bf6eb86d"
+    },
+    "L35/native/artifacts/resid_post/layer_35.safetensors": {
+      "bytes": 209735936,
+      "sha256": "559e846c1340ca6c2a08a71949ee68e821ccbba2ba88d1d076af4b73fa69ddeb"
+    },
+    "L35/native/icalens.json": {
+      "bytes": 321267,
+      "sha256": "0122b99e2512f50bdad2ce4a870b0510cd29bb57782674b7cf64242c2bd2da33"
+    },
+    "L35/vocabulary_readouts.json": {
+      "bytes": 492513,
+      "sha256": "6bbb49883e4d614caffbc1b5bad1754915d6fbfe67ca2a8e30b6d2e342a26754"
+    },
+    "L37/complete.json": {
+      "bytes": 211,
+      "sha256": "094aafa6a4abb6299bb4d40ebff25ed0025fee5711a0edaf934a8fdc1f227f15"
+    },
+    "L37/statistics.json": {
+      "bytes": 21196696,
+      "sha256": "30e1e7c5968dc7283c3b5b478f3badca7a0ee0a82093056f7297cce1b37a5ce7"
+    },
+    "L37/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "5311dbad255bc5a389a54124f7a2a0b8f749b25aeb2f137507fef793821b7f78"
+    },
+    "L37/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "df798e9b0568d5cc676c7804c047043c678ecdaf12ac391f29537c6587803c92"
+    },
+    "L37/native/artifacts/resid_post/layer_37.safetensors": {
+      "bytes": 209735936,
+      "sha256": "f947aab90302cb7a625def6bd238719c4dd4b36d8dae6d79603d4f0de73eabfe"
+    },
+    "L37/native/icalens.json": {
+      "bytes": 321276,
+      "sha256": "5f3eb0611e6e06639c55a7a60fec1a198b0caee3114427e2653a2d7bee57ddb1"
+    },
+    "L37/vocabulary_readouts.json": {
+      "bytes": 487708,
+      "sha256": "baaa32a8493055ac211faeb2789d45ea8d3cdc1444b18279991c8f11dbc30489"
+    },
+    "L40/complete.json": {
+      "bytes": 211,
+      "sha256": "057add1026b3b785dc6e55455c9baba05478659a502acf4ada3f63937ca183ee"
+    },
+    "L40/statistics.json": {
+      "bytes": 21217433,
+      "sha256": "258a01d80193a5a70f228f93364e13a9eb1e2b26f8eab4b00a843dac999dd698"
+    },
+    "L40/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "ece4d71fa4ee1c420f4a79615a6e989e13a6471ec5efc7a03fb8cbc8b364ef8b"
+    },
+    "L40/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "0d6550d5660d8d5dab78f0fe588ac530365dd101ef16c6cb78c2c8d2aedd1998"
+    },
+    "L40/native/artifacts/resid_post/layer_40.safetensors": {
+      "bytes": 209735936,
+      "sha256": "0f23aa7d2bcf81c7877c6c4be79f64660367651b7daee050ce27d5662e804ef3"
+    },
+    "L40/native/icalens.json": {
+      "bytes": 321306,
+      "sha256": "77f5a42d349aa198ef548758d66d22b24185214cb8fc1b63a2f3fd5c294c03d9"
+    },
+    "L40/vocabulary_readouts.json": {
+      "bytes": 487570,
+      "sha256": "076180270e1fc3a7f4b24d24ea2a7354d133f7d886bb14686029dc7ac94e3be6"
+    },
+    "L43/complete.json": {
+      "bytes": 211,
+      "sha256": "81134fffa8f0fcbc06dcf2a2d1c392ebdd9ebbcd101b04122254880e295dcac2"
+    },
+    "L43/statistics.json": {
+      "bytes": 21170781,
+      "sha256": "4e6aaf0717aa2c5bbb856606dcaa18bc1bb2c183dfd56dedd1768d72d31e1c22"
+    },
+    "L43/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "7568493ebad6191d5dbd637f698f888594b5d15230670b91edfcfd2bf1109215"
+    },
+    "L43/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "4e931681d9c474dd7b33cfb21d005a36c931f4e3ea711bd150b0f71940054e94"
+    },
+    "L43/native/artifacts/resid_post/layer_43.safetensors": {
+      "bytes": 209735936,
+      "sha256": "d8bf8f9640f89b9cf5dc4330c7114e99267e3d181537c1bb67374682d862c71e"
+    },
+    "L43/native/icalens.json": {
+      "bytes": 321395,
+      "sha256": "80417706e315599b60df4370cd8a0bd8f2042de114a04eda1a9960129a0ba285"
+    },
+    "L43/vocabulary_readouts.json": {
+      "bytes": 492560,
+      "sha256": "054f9cd9cbfdba4d83bc0f2e09542418b782603f3264d3ee9cebd79864dce653"
+    },
+    "L45/complete.json": {
+      "bytes": 211,
+      "sha256": "7a88238f2b0ec69ce8157fbd843d31aab69e9b42e535b27f53a3e31c7c6c5937"
+    },
+    "L45/statistics.json": {
+      "bytes": 21161899,
+      "sha256": "2d6f9c51bd83a3af61d50c6f06249fe916b8d9cd3d4b228f2328deea80a9ae5b"
+    },
+    "L45/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "ac97a868f1a1b429be216a88f39e7a089457fe8d0e74d82e39d1e615d9ba3267"
+    },
+    "L45/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "54dcc47ec1cd5a4d3a41757253bd2c76e062fbc1cdcf1fcb7db07e91144ef283"
+    },
+    "L45/native/artifacts/resid_post/layer_45.safetensors": {
+      "bytes": 209735936,
+      "sha256": "cd5b1aabe2085f5ca73d81ada9ae3fc0f7d9cc2e3a63d1e8c23360e9a0a2b68c"
+    },
+    "L45/native/icalens.json": {
+      "bytes": 321563,
+      "sha256": "1bd19e340680b0463f72252c43be59697a17dbeb804967e462f64f060f660983"
+    },
+    "L45/vocabulary_readouts.json": {
+      "bytes": 491708,
+      "sha256": "04bb2cade64e545b9925c2c503ad1fa8c163ef88b12705b374036e24ade69a5d"
+    },
+    "L47/complete.json": {
+      "bytes": 211,
+      "sha256": "58f8dfcf3624ab4dce3ff40380534078d28644a7f5da55ddb610052d852ba7b3"
+    },
+    "L47/statistics.json": {
+      "bytes": 21169766,
+      "sha256": "862d190cdbe36153f098552c840d557ddff386aa85d751a9eec690562f439050"
+    },
+    "L47/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "c99596b5d97313b52ca428f4afa7f7bc337a397be184eadb5cebc487cb79d8df"
+    },
+    "L47/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "5084c5ab3eb392530900b4b51f35fc2ffca3d424517001fe5ca059f4745973c1"
+    },
+    "L47/native/artifacts/resid_post/layer_47.safetensors": {
+      "bytes": 209735936,
+      "sha256": "daabe579161c4274d8a701443d894ba134b1bf67d1a86cef6b247ca2a74b98fe"
+    },
+    "L47/native/icalens.json": {
+      "bytes": 321819,
+      "sha256": "35941b74fe06f64449b00eabf622f16124b8139572f68b9eb75977e868c7356a"
+    },
+    "L47/vocabulary_readouts.json": {
+      "bytes": 491650,
+      "sha256": "65cced93e3c5ba38776d2273b991172ac2a9f4160c6d960e831889b93463d4ce"
+    },
+    "L49/complete.json": {
+      "bytes": 210,
+      "sha256": "c6395bc4f4d4a1f54e3bf36b8caf2e09f55196ccc3c191e6443ebc0246e4b735"
+    },
+    "L49/statistics.json": {
+      "bytes": 21180374,
+      "sha256": "f05a0494f1d284502682d28b78c3f1eee8a781d2b7624667187d7fde4ebdef66"
+    },
+    "L49/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "c1eee36ae9a0e6b2782af6255dd267fd8e022f9ac7c43cab880f7ea6bfd2565d"
+    },
+    "L49/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "ce8fcdaa27b58e3fab933f16991012e463b0a2a613a360c62d115c60739715fd"
+    },
+    "L49/native/artifacts/resid_post/layer_49.safetensors": {
+      "bytes": 209735936,
+      "sha256": "602f7299dccd5e67b569944184d20ccca10eb67b27ac1d4af546d903c1be88c2"
+    },
+    "L49/native/icalens.json": {
+      "bytes": 321648,
+      "sha256": "f1d1719b88d26f3bc4dcd1185aaebf80d7c805f71ee7fba242a6757c2365b80f"
+    },
+    "L49/vocabulary_readouts.json": {
+      "bytes": 486998,
+      "sha256": "ed22d73d361a96288be9ca9ee5822ad05535ed01049141fce24675c189d71760"
+    },
+    "L51/complete.json": {
+      "bytes": 210,
+      "sha256": "694b6f87de783f4b4e4c79a6e016d46b510c0d4625e6b247e0dff5ac8c0e793c"
+    },
+    "L51/statistics.json": {
+      "bytes": 21202996,
+      "sha256": "90d9b8b0ecb3b20fe44d4bf2460b6d33ff773852c83a65d17c7e4b0631dc8aeb"
+    },
+    "L51/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "88ae0b34eecd11a904f47ea87e62d709cc8ffa07c18039e8c6f109e66a8c80c8"
+    },
+    "L51/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "491fb96aff272b3da2638c784404cd5984f96d05d593f1853d2397318ba979c2"
+    },
+    "L51/native/artifacts/resid_post/layer_51.safetensors": {
+      "bytes": 209735936,
+      "sha256": "f2274620919b6bd87b6317ddffe2d632ef3f89a7d950a085b6dabaa87207c187"
+    },
+    "L51/native/icalens.json": {
+      "bytes": 321053,
+      "sha256": "0f1f5c88aee97dc202508a67a807cd56d7ffd9b654f3c3644811aa60571150a1"
+    },
+    "L51/vocabulary_readouts.json": {
+      "bytes": 491071,
+      "sha256": "b7aa2729609ee86e93d736d017c6315d6124728c403e726aa14efc358031710c"
+    },
+    "L53/complete.json": {
+      "bytes": 208,
+      "sha256": "eacc53557a28560287f3f4a253f0eacf3c22d5fe46a185f89707aa523b04f639"
+    },
+    "L53/statistics.json": {
+      "bytes": 21210498,
+      "sha256": "6a5f163919e9d8da56e53d798f87c1324c812d7047cbe9cc154b3b3bd393ae47"
+    },
+    "L53/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "912a33fe27dfa09f07d1c32438a4e1d4d926453c4131b366bc42f08fdd825871"
+    },
+    "L53/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "2dd243be21982946b350cf04263f00bb7d2f490425a2d27bdb243de119bafd16"
+    },
+    "L53/native/artifacts/resid_post/layer_53.safetensors": {
+      "bytes": 209735936,
+      "sha256": "91906bbade791ef009d1f1640e894eec09b33ab3cb4609eade9f04e99215b324"
+    },
+    "L53/native/icalens.json": {
+      "bytes": 320923,
+      "sha256": "9cf3b6b1c314977ef8334fcf2b6a71eab09268a715970e68b750c998273a9323"
+    },
+    "L53/vocabulary_readouts.json": {
+      "bytes": 490003,
+      "sha256": "758ed0519ed4042511ffe1bee0c7f8de7b4840e3f0f2e5cb85d352df19063629"
+    },
+    "L55/complete.json": {
+      "bytes": 207,
+      "sha256": "ab852a09662978bf9ca33eb5d7a9dfe5311bc8d0aa3244f21fdff7bf01329cc1"
+    },
+    "L55/statistics.json": {
+      "bytes": 21296468,
+      "sha256": "edacf29ca60589f18e11e52ea86850eb716dec6160f02be6855a56716dd2117d"
+    },
+    "L55/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "d48a4769d729aca29e78bf7ec8ef497fe9428285e9eadb991192a441a1909390"
+    },
+    "L55/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "49fdb1fc2e5ff6b8bc707cef33e03c62a504c5c1f3c58fabec56d8db18c74639"
+    },
+    "L55/native/artifacts/resid_post/layer_55.safetensors": {
+      "bytes": 209735936,
+      "sha256": "1a281adf8767c03857447751f235949c63fecc68f923822204fdab095e7ff4cb"
+    },
+    "L55/native/icalens.json": {
+      "bytes": 320862,
+      "sha256": "7a90f597eba21eea81e0b81af6720b0111061c0be2ee39d0294f87e9a98acb16"
+    },
+    "L55/vocabulary_readouts.json": {
+      "bytes": 488947,
+      "sha256": "bdd1c49b98ee58be87c7110915b8bb0d7386541f2c06d0bdaad9bd28a3c3414e"
+    },
+    "L58/complete.json": {
+      "bytes": 210,
+      "sha256": "2707a224f000a6ae6c52144619f2f2b7b7ca47900991bf1ddbeb5fde4d36e6d7"
+    },
+    "L58/statistics.json": {
+      "bytes": 21514134,
+      "sha256": "4361ca87b48adfd238d2e54be60911fd1580f0be0e093f6f5439b168a3dea5ea"
+    },
+    "L58/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "088c680278ae53eaf7b082e13ab79e86578646f19f927003fb971f4537e818d6"
+    },
+    "L58/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "76667d39cd108312981bb3f77f80a9f8ef7285aab8ed28f091cb64ddb1c3345e"
+    },
+    "L58/native/artifacts/resid_post/layer_58.safetensors": {
+      "bytes": 209735936,
+      "sha256": "cc2bcf7f3b398e3be57e3bc5c91a9d70d9d31e02ea5f220919de6110e85aa648"
+    },
+    "L58/native/icalens.json": {
+      "bytes": 320819,
+      "sha256": "4472df690673cdfec7a722fe2501ef85eeb376535587de7b2fd9275c48ed195e"
+    },
+    "L58/vocabulary_readouts.json": {
+      "bytes": 483148,
+      "sha256": "e3b9c0944122312a9e695503869c3906bbc4734a19210589ac067c0f6ca517f0"
+    },
+    "L60/complete.json": {
+      "bytes": 211,
+      "sha256": "6bd98edf895009fa214b31eb84c0f35d469ea6e4681f2afbe598993b4f4b695b"
+    },
+    "L60/statistics.json": {
+      "bytes": 21290442,
+      "sha256": "1b1a7e9e18a5c1b5130f69db07ef27e8f9617bf7a1d6f442604d88811c17fcf9"
+    },
+    "L60/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "0306175579417fe0c1ef76ac6ac8bc44927c6c8d44eacddd476cd7877591b33b"
+    },
+    "L60/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "43da0a70f10b340d8fffe8057f5c5bbb20d6e63e503d7bc104b252b50c5355b5"
+    },
+    "L60/native/artifacts/resid_post/layer_60.safetensors": {
+      "bytes": 209735936,
+      "sha256": "a725aa4f971355fc46021499356c6fd0cb201344922d36cdc2082e8af472a679"
+    },
+    "L60/native/icalens.json": {
+      "bytes": 321007,
+      "sha256": "a6228e18309659fa68978bb90431fd81fd3cde371d712f35a0e9f97aa1cfb796"
+    },
+    "L60/vocabulary_readouts.json": {
+      "bytes": 481576,
+      "sha256": "3738cd92494ed35a97102020a66015f11723a23d2187dd33d6bebd9e6b805f61"
+    },
+    "L62/complete.json": {
+      "bytes": 210,
+      "sha256": "ac074be815d4a67910f4c954d2b771f3159e5c4449d5ac856375360d1a5d5607"
+    },
+    "L62/statistics.json": {
+      "bytes": 21299721,
+      "sha256": "2aa5ad1efe7058407c03e1a1ca5adbf32db0d534d9761eee7fb25e6bbcfe2701"
+    },
+    "L62/oriented.safetensors": {
+      "bytes": 209756488,
+      "sha256": "3bcfa3a1e12ad3250639e1f1718695fdc1479e45b8c4c844d85d894b60921eb7"
+    },
+    "L62/saelens_adapter.safetensors": {
+      "bytes": 209756480,
+      "sha256": "52464854e23e84e0d24b9e7aa66dc13b33d7fdac89b4f4c8ff1779c962fb8a38"
+    },
+    "L62/native/artifacts/resid_post/layer_62.safetensors": {
+      "bytes": 209735936,
+      "sha256": "add0745748e415ce96e41b7de6011099b5e18f49f3f9585508cab2a6ee436e1c"
+    },
+    "L62/native/icalens.json": {
+      "bytes": 321100,
+      "sha256": "a6e7a50ebb375e49f893aac09b8086d6d9d600f4290d7d8d38cbd2a74d58b89f"
+    },
+    "L62/vocabulary_readouts.json": {
+      "bytes": 483977,
+      "sha256": "57cb42961762e457004601f9deb6a0b3c043aabb9d397d38dc447354c2ed815a"
+    }
+  }
+}

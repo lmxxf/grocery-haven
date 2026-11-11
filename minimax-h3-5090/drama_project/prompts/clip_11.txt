@@ -1,0 +1,20 @@
+subject_definitions:
+<Subject 1> is the handsome young man in <Picture 1>, wearing a dark-navy silver-embroidered stand-collar coat.
+<Subject 2> is the opulent clan grand hall in <Picture 2>.
+
+summary:
+[reference generation] In <Subject 2>, <Subject 1> summons a stack of secret ledgers from golden light and flings them across the hall while exposing the villain's crimes aloud.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - his sharp features, black hair, and dark-navy stand-collar coat are retained.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the chandelier-lit grand hall is retained.
+
+detailed_description:
+The target video is in a dramatic 2D Chinese anime style with fluttering paper pages and righteous lighting.
+[Shot 1] A medium shot inside <Subject 2> frames <Subject 1> (S1) in his dark-navy silver-embroidered coat raising his right hand; in a flash of golden system light, a thick stack of bound red-and-black account ledgers materializes in his grip, and he hurls them forcefully downward toward the camera, sending dozens of stamped evidence pages fluttering through the golden chandelier light. As the camera slowly pushes in on his stern, righteous expression, <Subject 1> (S1) says clearly and firmly in a clean foreground Mandarin male voice, <d>[Chinese] 三年来你私吞家族三千万公款、暗害长辈，桩桩件件铁证如山！</d>
+
+overall_soundscape:
+Soft paper pages settling at 00:01.000, then quiet indoor hall and a clean close-mic foreground Mandarin male voice.
+
+non_diegetic_music:
+Quiet, sparse cello notes under the voice.

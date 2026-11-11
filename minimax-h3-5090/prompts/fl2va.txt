@@ -1,0 +1,5 @@
+integrated_multimodal_description: [Shot 1] A richly hand-painted Chinese donghua scene. In a blue-hour manor courtyard just after rain, a young adult man (S1) with a distinctive dark blue robe, silver clasp, and long tied black hair faces an adult woman in a pale jade robe. A steady medium two-shot shows both faces. He takes a slow breath and turns to her. From about 00:01.000 to 00:05.500 he speaks slowly and firmly in Mandarin with visible lip motion, <d>[Chinese] 这一世，属于我的东西，我会亲手拿回来。</d> The woman looks at him quietly and closes her lips. Hold their expressions for the last second. No subtitles, no text, no cuts.
+
+overall_soundscape: Gentle dripping rain, soft fabric rustle, and a quiet courtyard. Clear close Mandarin voice in front of the ambience.
+
+non_diegetic_music: Soft sustained cello and a few guqin notes underneath the voice.

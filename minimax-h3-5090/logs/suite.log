@@ -1,0 +1,37 @@
+RUN fl2va_8
+prompt_id=7d9a5fca-2985-492b-a2f7-6d3864980503 frames=158 record=/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/fl2va_8/job_996c15059e02.json
+waiting 0s
+waiting 15s
+waiting 30s
+waiting 45s
+waiting 60s
+waiting 76s
+/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/fl2va_8/996c15059e02_996c15059e02_00001_.mp4
+DONE fl2va_8 82.491 sec 31581.0 MiB
+RUN fl2va_4_anchors
+prompt_id=f2efabdb-ec72-4042-84b1-023d21ac1566 frames=124 record=/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/fl2va_4_anchors/job_5a253e04fce9.json
+waiting 0s
+waiting 15s
+waiting 30s
+/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/fl2va_4_anchors/5a253e04fce9_5a253e04fce9_00001_.mp4
+DONE fl2va_4_anchors 34.829 sec 31673.0 MiB
+RUN ref2va_4
+prompt_id=401b41f3-6375-49db-994b-5dc57d17a535 frames=158 record=/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/ref2va_4/job_94f27af1ef3f.json
+waiting 0s
+waiting 15s
+waiting 30s
+waiting 45s
+/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/ref2va_4/94f27af1ef3f_94f27af1ef3f_00001_.mp4
+DONE ref2va_4 45.197 sec 31670.0 MiB
+RUN ref2va_20
+prompt_id=e5afd5bd-1331-43b4-a892-50b3cc97cc3b frames=158 record=/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/ref2va_20/job_46bf87d57c44.json
+waiting 0s
+waiting 15s
+waiting 30s
+waiting 45s
+waiting 60s
+waiting 75s
+waiting 90s
+waiting 105s
+/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/ref2va_20/46bf87d57c44_46bf87d57c44_00001_.mp4
+DONE ref2va_20 116.443 sec 31657.0 MiB

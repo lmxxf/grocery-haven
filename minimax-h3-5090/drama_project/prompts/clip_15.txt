@@ -1,0 +1,23 @@
+subject_definitions:
+<Subject 1> is the moonlit courtyard pavilion in <Picture 1>, surrounded by blooming pink peach trees, falling petals, glowing red-gold lanterns, and a starry lotus pond.
+<Subject 2> is the beautiful young woman in <Picture 2>, with a white jade hairpin and pale-white qipao dress with a sheer shawl.
+<Subject 3> is the handsome young man in <Picture 3>, in a dark-navy stand-collar coat.
+
+summary:
+[reference generation] Under the falling peach blossoms of <Subject 1>, <Subject 2> stands beside <Subject 3> and softly asks why he risked everything to protect her.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - the moonlit pavilion, glowing lanterns, lotus pond, and falling pink blossom petals are retained.
+<Subject 2> (appears in [Shot 1], [Shot 2]): fully_preserved - her delicate features, amber eyes, white jade hairpin, and pale-white qipao dress are retained.
+<Subject 3> (appears in [Shot 1]): fully_preserved - his dark-navy stand-collar coat and profile are retained.
+
+detailed_description:
+The target video is in a breathtaking Makoto Shinkai-inspired 2D Chinese romance anime style with luminous moonlight, warm lantern glow, and drifting pink petals.
+[Shot 1] A wide romantic shot establishes <Subject 1>, the moonlit wooden pavilion over a starry lotus pond as pink peach blossom petals drift through warm lantern light, where <Subject 3> and <Subject 2> stand facing each other by the carved railing.
+[Shot 2] At 00:02.000, the shot cuts to a soft close-up of <Subject 2> (S1) bathed in warm lantern glow and silver moonlight, pink petals floating past her black hair and white jade hairpin. Gazing earnestly up with glistening amber eyes, <Subject 2> (S1) asks clearly in a gentle, clean foreground Mandarin female voice, <d>[Chinese] 所有人都在看我苏家的笑话，为什么只有你拼了命也要护着我？</d>
+
+overall_soundscape:
+Quiet moonlit pavilion and a clean close-mic foreground Mandarin female voice.
+
+non_diegetic_music:
+Quiet, sparse guzheng notes under the voice.

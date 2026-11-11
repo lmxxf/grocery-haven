@@ -1,0 +1,22 @@
+subject_definitions:
+<Subject 1> is the moonlit peach-blossom pavilion over the starry lotus pond in <Picture 1>.
+<Subject 2> is the handsome young man in <Picture 2>, in a dark-navy stand-collar coat.
+<Subject 3> is the beautiful young woman in <Picture 3>, in a pale-white qipao dress and white jade hairpin.
+
+summary:
+[reference generation] Under the crescent moon and swirling peach blossoms of <Subject 1>, <Subject 2> embraces <Subject 3> warmly as the camera pulls back into a grand, poetic finale.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - the crescent moon, starry pond reflection, lantern-lit pavilion, and peach trees are retained.
+<Subject 2> (appears in [Shot 1]): fully_preserved - his dark-navy stand-collar coat and appearance are retained.
+<Subject 3> (appears in [Shot 1]): fully_preserved - her black hair, white jade hairpin, and pale-white qipao dress are retained.
+
+detailed_description:
+The target video is in a grand, cinematic Makoto Shinkai-style 2D Chinese romance anime finale with dazzling starlight, warm golden lanterns, and thousands of floating pink petals.
+[Shot 1] Beginning in a medium two-shot inside <Subject 1>, <Subject 2> gently pulls <Subject 3> into a warm, protective embrace beneath the glowing pavilion lanterns, and <Subject 3> rests her head peacefully against his chest with her eyes closed in bliss. Slowly and smoothly with large amplitude, the camera pulls backward and rises across the shimmering lotus pond, revealing the entire lantern-lit pavilion framed by blooming pink peach trees, drifting golden fireflies, and the bright crescent moon reflected in the water. Both characters hold their silent embrace with closed lips through the poetic ending frame.
+
+overall_soundscape:
+Quiet moonlit garden.
+
+non_diegetic_music:
+Soft, gentle guzheng and flute chord.

@@ -1,0 +1,22 @@
+subject_definitions:
+<Subject 1> is the handsome young man in <Picture 1>, with black hair and a dark-navy silver-embroidered stand-collar coat.
+<Subject 2> is the beautiful young woman in <Picture 2>, with a white jade hairpin and pale-white qipao dress.
+<Subject 3> is the moonlit peach-blossom pavilion in <Picture 3>.
+
+summary:
+[reference generation] In <Subject 3>, <Subject 1> gently brushes a fallen blossom petal from <Subject 2>'s hair and confesses his deep devotion.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - his tender expression, black hair, and dark-navy stand-collar coat are retained.
+<Subject 2> (appears in [Shot 1]): fully_preserved - her profile, white jade hairpin, and pale-white dress are retained.
+<Subject 3> (appears in [Shot 1]): fully_preserved - the lantern-lit pavilion and falling pink blossoms are retained.
+
+detailed_description:
+The target video is in a lush 2D Chinese romance anime style with warm lantern highlights and drifting pink petals.
+[Shot 1] An intimate close-up two-shot inside <Subject 3> frames <Subject 1> (S1) stepping closer to <Subject 2> beneath the glowing pavilion lanterns. Reaching out gently, <Subject 1> brushes a fallen pink peach petal from the black hair near her white jade hairpin, his dark eyes filled with profound love and warmth as the camera slowly pushes in. <Subject 1> (S1) says clearly in a warm, clean foreground Mandarin male voice, <d>[Chinese] 因为在我最绝望的时候，只有你信我。这一世，换我拿命疼你。</d> <Subject 2>'s cheeks flush softly as she gazes back at him.
+
+overall_soundscape:
+Quiet moonlit pavilion and a clean close-mic foreground Mandarin male voice.
+
+non_diegetic_music:
+Quiet, sparse cello notes under the voice.

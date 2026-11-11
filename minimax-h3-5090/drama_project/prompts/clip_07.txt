@@ -1,0 +1,20 @@
+subject_definitions:
+<Subject 1> is the arrogant wealthy scion in <Picture 1>, with slicked-back chestnut hair and a burgundy luxury suit with a gold lapel pin.
+<Subject 2> is the opulent Chinese clan grand hall in <Picture 2>.
+
+summary:
+[reference generation] In <Subject 2>, <Subject 1> bursts into arrogant laughter and points aggressively while hurling insults.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - his chestnut slicked hair, sneering expression, and burgundy suit with gold pin are retained.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the chandelier-lit rosewood grand hall is retained.
+
+detailed_description:
+The target video is in a sharp 2D Chinese anime style with dramatic villainous shadows and expressive facial animation.
+[Shot 1] A medium close-up inside <Subject 2> frames <Subject 1> (S1), the arrogant scion in the burgundy suit and gold lapel pin. Recovering from momentary surprise, his face contorts into a vicious, mocking grin. The camera trucks slightly left as he steps forward, thrusts an arrogant finger toward the camera, and says clearly in a sharp, clean foreground Mandarin male voice, <d>[Chinese] 好啊，你这个废物还敢送上门来！今晚连她一块滚出林家！</d> He tilts his chin up in utter contempt as the chandelier light glints off his gold pin.
+
+overall_soundscape:
+Quiet indoor hall and a clean close-mic foreground Mandarin male voice.
+
+non_diegetic_music:
+Quiet, sparse low string notes under the voice.

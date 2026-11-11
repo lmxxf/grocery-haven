@@ -1,0 +1,1 @@
+Get-CimInstance Win32_Process -Filter "name='aria2c.exe'" | Where-Object {$_.CommandLine -like '*Wan22-ComfyUI*' -and $_.CommandLine -like '*wan2.2_i2v_low_noise_*'} | ForEach-Object {Stop-Process -Id $_.ProcessId -Force}

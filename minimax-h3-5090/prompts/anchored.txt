@@ -1,0 +1,7 @@
+How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 5.17-second mark of the target video.
+
+integrated_multimodal_description: [Shot 1] A steady Chinese donghua shot connects the two supplied frames. Retain both characters' faces and robes. The man (S1) glances at the woman and says in clear Mandarin, <d>[Chinese] 我回来了。</d> His lips close as the camera settles into the supplied final composition.
+
+overall_soundscape: Soft rain drips and clear foreground dialogue.
+
+non_diegetic_music: A quiet guqin note fades at the end.

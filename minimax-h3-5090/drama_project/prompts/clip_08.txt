@@ -1,0 +1,21 @@
+subject_definitions:
+<Subject 1> is the handsome young man in <Picture 1>, with black hair and a dark-navy silver-embroidered stand-collar coat.
+<Subject 2> is the opulent clan grand hall in <Picture 2>.
+
+summary:
+[reference generation] Inside <Subject 2>, <Subject 1> unleashes an overwhelming golden martial aura from his system, cracking the floor tiles beneath his feet as he speaks coldly.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - his face, tousled black hair, and dark-navy stand-collar coat are retained.
+<Subject 2> (appears in [Shot 1], [Shot 2]): fully_preserved - the dark dragon marble floor and hall pillars are retained.
+
+detailed_description:
+The target video is in a high-impact 2D Chinese donghua martial-arts anime style with blazing golden energy shockwaves.
+[Shot 1] A low-angle medium shot inside <Subject 2> shows <Subject 1> taking one calm step forward on the dark marble floor; suddenly, soft golden light glows beneath his boots across the stone and whipping his dark-navy coat upward.
+[Shot 2] At 00:02.000, the camera zooms into a fierce close-up of <Subject 1> (S1) surrounded by rising golden spirit particles, his eyes glowing with piercing golden light. <Subject 1> (S1) says clearly and firmly in a clean foreground Mandarin male voice, <d>[Chinese] 废物？那就睁大你的眼看清楚，到底谁才是废物！</d> Soft golden light glows calmly around the frame as he finishes.
+
+overall_soundscape:
+Quiet indoor hall and a clean close-mic foreground Mandarin male voice.
+
+non_diegetic_music:
+Quiet, sparse cello notes under the voice.

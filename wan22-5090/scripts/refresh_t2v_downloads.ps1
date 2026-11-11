@@ -1,0 +1,1 @@
+Get-CimInstance Win32_Process -Filter "name='aria2c.exe'" | Where-Object {$_.CommandLine -like '*Wan22-ComfyUI*' -and $_.CommandLine -like '*wan2.2_t2v_*'} | ForEach-Object {Write-Output "Refreshing resumable download pid=$($_.ProcessId)";Stop-Process -Id $_.ProcessId -Force}

@@ -1,0 +1,23 @@
+subject_definitions:
+<Subject 1> is the handsome young man in <Picture 1>, wearing a dark-navy silver-embroidered stand-collar coat.
+<Subject 2> is the arrogant scion in <Picture 2>, wearing a burgundy suit.
+<Subject 3> is the opulent clan grand hall in <Picture 3>.
+
+summary:
+[reference generation] In <Subject 3>, <Subject 1> dodges <Subject 2>'s clumsy punch at blinding speed and delivers a resounding golden-aura slap that sends <Subject 2> crashing into a table, screaming in shock.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - his appearance and dark-navy coat are retained.
+<Subject 2> (appears in [Shot 1], [Shot 2]): fully_preserved - his chestnut hair and burgundy suit are retained, disheveled after crashing down.
+<Subject 3> (appears in [Shot 1], [Shot 2]): fully_preserved - the grand hall interior is retained.
+
+detailed_description:
+The target video is in a kinetic 2D Chinese action anime style with crisp impact flashes and dynamic camera shake.
+[Shot 1] In a fast medium action shot inside <Subject 3>, <Subject 2> in his burgundy suit lunges forward throwing a wild punch. <Subject 1> in his dark-navy coat blurs effortlessly to the side and swings a lightning-fast backhand wreathed in golden energy, landing a thunderous slap squarely across <Subject 2>'s cheek with a bright golden impact flash and strong camera shake.
+[Shot 2] At 00:04.200, <Subject 2> (S1) crashes backward, smashing through a wooden side table onto the dark marble floor of <Subject 3>. Clutching his swollen red cheek in terror with messy hair, <Subject 2> (S1) says clearly in a startled, clean foreground Mandarin male voice, <d>[Chinese] 啊！我的脸！你怎会有如此恐怖的内劲！</d>
+
+overall_soundscape:
+A single clean crisp slap impact at 00:02.000, then quiet indoor hall and a clean close-mic foreground Mandarin male voice.
+
+non_diegetic_music:
+Quiet, sparse low string notes under the voice.

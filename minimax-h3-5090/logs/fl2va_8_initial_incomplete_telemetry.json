@@ -1,0 +1,648 @@
+{
+  "state": "complete",
+  "started": 1794364535.089392,
+  "source_images": [],
+  "parameters": {
+    "mode": "fl2va",
+    "seed": 20261111,
+    "steps": 8,
+    "turbo": 8,
+    "requested_duration": 6.0,
+    "effective_frames": 158,
+    "effective_duration": 6.583333333333333,
+    "requested_size": [
+      832,
+      480
+    ],
+    "render_size": [
+      832,
+      480
+    ],
+    "fps": 24,
+    "sampler": "res_multistep",
+    "scheduler": "simple",
+    "guidance": "BasicGuider (single conditioning, effective CFG=1)"
+  },
+  "workflow": {
+    "1": {
+      "class_type": "UNETLoader",
+      "inputs": {
+        "unet_name": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+        "weight_dtype": "default"
+      }
+    },
+    "2": {
+      "class_type": "CLIPLoader",
+      "inputs": {
+        "clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+        "type": "minimax",
+        "device": "default"
+      }
+    },
+    "3": {
+      "class_type": "VAELoader",
+      "inputs": {
+        "vae_name": "minimax_h3_video_vae_int8_convrot.safetensors"
+      }
+    },
+    "4": {
+      "class_type": "VAELoader",
+      "inputs": {
+        "vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+      }
+    },
+    "5": {
+      "class_type": "LoraLoaderModelOnly",
+      "inputs": {
+        "model": [
+          "1",
+          0
+        ],
+        "lora_name": "minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors",
+        "strength_model": 1.0
+      }
+    },
+    "6": {
+      "class_type": "MiniMaxH3ImageToVideo",
+      "inputs": {
+        "clip": [
+          "2",
+          0
+        ],
+        "vae": [
+          "3",
+          0
+        ],
+        "prompt": "integrated_multimodal_description: [Shot 1] A richly hand-painted Chinese donghua scene. In a blue-hour manor courtyard just after rain, a young adult man (S1) with a distinctive dark blue robe, silver clasp, and long tied black hair faces an adult woman in a pale jade robe. A steady medium two-shot shows both faces. He takes a slow breath and turns to her. From about 00:01.000 to 00:05.500 he speaks slowly and firmly in Mandarin with visible lip motion, <d>[Chinese] 这一世，属于我的东西，我会亲手拿回来。</d> The woman looks at him quietly and closes her lips. Hold their expressions for the last second. No subtitles, no text, no cuts.\n\noverall_soundscape: Gentle dripping rain, soft fabric rustle, and a quiet courtyard. Clear close Mandarin voice in front of the ambience.\n\nnon_diegetic_music: Soft sustained cello and a few guqin notes underneath the voice.",
+        "width": 832,
+        "height": 480,
+        "length": 158
+      }
+    },
+    "7": {
+      "class_type": "RandomNoise",
+      "inputs": {
+        "noise_seed": 20261111
+      }
+    },
+    "8": {
+      "class_type": "KSamplerSelect",
+      "inputs": {
+        "sampler_name": "res_multistep"
+      }
+    },
+    "9": {
+      "class_type": "BasicScheduler",
+      "inputs": {
+        "model": [
+          "5",
+          0
+        ],
+        "scheduler": "simple",
+        "steps": 8,
+        "denoise": 1.0
+      }
+    },
+    "10": {
+      "class_type": "BasicGuider",
+      "inputs": {
+        "model": [
+          "5",
+          0
+        ],
+        "conditioning": [
+          "6",
+          0
+        ]
+      }
+    },
+    "11": {
+      "class_type": "SamplerCustomAdvanced",
+      "inputs": {
+        "noise": [
+          "7",
+          0
+        ],
+        "guider": [
+          "10",
+          0
+        ],
+        "sampler": [
+          "8",
+          0
+        ],
+        "sigmas": [
+          "9",
+          0
+        ],
+        "latent_image": [
+          "6",
+          1
+        ]
+      }
+    },
+    "12": {
+      "class_type": "VAEDecode",
+      "inputs": {
+        "samples": [
+          "11",
+          0
+        ],
+        "vae": [
+          "3",
+          0
+        ]
+      }
+    },
+    "13": {
+      "class_type": "VAEDecodeAudio",
+      "inputs": {
+        "samples": [
+          "11",
+          0
+        ],
+        "vae": [
+          "4",
+          0
+        ]
+      }
+    },
+    "14": {
+      "class_type": "CreateVideo",
+      "inputs": {
+        "images": [
+          "12",
+          0
+        ],
+        "audio": [
+          "13",
+          0
+        ],
+        "fps": 24.0
+      }
+    },
+    "15": {
+      "class_type": "SaveVideo",
+      "inputs": {
+        "video": [
+          "14",
+          0
+        ],
+        "filename_prefix": "H3/7c4d85c5efca",
+        "format": "mp4"
+      }
+    }
+  },
+  "server": {
+    "system": {
+      "os": "win32",
+      "ram_total": 68208013312,
+      "ram_free": 52078002176,
+      "comfyui_version": "0.44.0",
+      "required_frontend_version": "1.57.6",
+      "installed_templates_version": "0.11.101",
+      "required_templates_version": "0.11.101",
+      "comfy_package_versions": [
+        {
+          "name": "comfyui-frontend-package",
+          "installed": "1.57.6",
+          "required": "1.57.6"
+        },
+        {
+          "name": "comfyui-workflow-templates",
+          "installed": "0.11.101",
+          "required": "0.11.101"
+        },
+        {
+          "name": "comfyui-embedded-docs",
+          "installed": "0.5.16",
+          "required": "0.5.16"
+        },
+        {
+          "name": "comfy-aimdo",
+          "installed": "0.6.0",
+          "required": "0.6.0"
+        },
+        {
+          "name": "comfy-kitchen",
+          "installed": "0.2.40",
+          "required": "0.2.40"
+        }
+      ],
+      "python_version": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+      "pytorch_version": "2.15.0+cu132",
+      "embedded_python": true,
+      "deploy_environment": "local-portable",
+      "argv": [
+        "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\main.py",
+        "--listen",
+        "0.0.0.0",
+        "--port",
+        "8188",
+        "--windows-standalone-build",
+        "--disable-auto-launch",
+        "--disable-xformers",
+        "--reserve-vram",
+        "3",
+        "--input-directory",
+        "C:\\AI\\Wan22-ComfyUI\\input",
+        "--output-directory",
+        "C:\\AI\\Wan22-ComfyUI\\output",
+        "--temp-directory",
+        "C:\\AI\\Wan22-ComfyUI\\temp",
+        "--user-directory",
+        "C:\\AI\\Wan22-ComfyUI\\user",
+        "--use-pytorch-cross-attention"
+      ]
+    },
+    "devices": [
+      {
+        "name": "cuda:0 NVIDIA GeForce RTX 5090 : cudaMallocAsync",
+        "type": "cuda",
+        "index": 0,
+        "vram_total": 34162343936,
+        "vram_free": 29456626148,
+        "torch_vram_total": 33554432,
+        "torch_vram_free": 32535012
+      }
+    ]
+  },
+  "prompt_id": "9cfe7e64-9ffe-45c2-a992-5b0320df11f6",
+  "history": {
+    "prompt": [
+      2,
+      "9cfe7e64-9ffe-45c2-a992-5b0320df11f6",
+      {
+        "1": {
+          "class_type": "UNETLoader",
+          "inputs": {
+            "unet_name": "minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+            "weight_dtype": "default"
+          }
+        },
+        "2": {
+          "class_type": "CLIPLoader",
+          "inputs": {
+            "clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+            "type": "minimax",
+            "device": "default"
+          }
+        },
+        "3": {
+          "class_type": "VAELoader",
+          "inputs": {
+            "vae_name": "minimax_h3_video_vae_int8_convrot.safetensors"
+          }
+        },
+        "4": {
+          "class_type": "VAELoader",
+          "inputs": {
+            "vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+          }
+        },
+        "5": {
+          "class_type": "LoraLoaderModelOnly",
+          "inputs": {
+            "model": [
+              "1",
+              0
+            ],
+            "lora_name": "minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors",
+            "strength_model": 1.0
+          }
+        },
+        "6": {
+          "class_type": "MiniMaxH3ImageToVideo",
+          "inputs": {
+            "clip": [
+              "2",
+              0
+            ],
+            "vae": [
+              "3",
+              0
+            ],
+            "prompt": "integrated_multimodal_description: [Shot 1] A richly hand-painted Chinese donghua scene. In a blue-hour manor courtyard just after rain, a young adult man (S1) with a distinctive dark blue robe, silver clasp, and long tied black hair faces an adult woman in a pale jade robe. A steady medium two-shot shows both faces. He takes a slow breath and turns to her. From about 00:01.000 to 00:05.500 he speaks slowly and firmly in Mandarin with visible lip motion, <d>[Chinese] 这一世，属于我的东西，我会亲手拿回来。</d> The woman looks at him quietly and closes her lips. Hold their expressions for the last second. No subtitles, no text, no cuts.\n\noverall_soundscape: Gentle dripping rain, soft fabric rustle, and a quiet courtyard. Clear close Mandarin voice in front of the ambience.\n\nnon_diegetic_music: Soft sustained cello and a few guqin notes underneath the voice.",
+            "width": 832,
+            "height": 480,
+            "length": 158
+          }
+        },
+        "7": {
+          "class_type": "RandomNoise",
+          "inputs": {
+            "noise_seed": 20261111
+          }
+        },
+        "8": {
+          "class_type": "KSamplerSelect",
+          "inputs": {
+            "sampler_name": "res_multistep"
+          }
+        },
+        "9": {
+          "class_type": "BasicScheduler",
+          "inputs": {
+            "model": [
+              "5",
+              0
+            ],
+            "scheduler": "simple",
+            "steps": 8,
+            "denoise": 1.0
+          }
+        },
+        "10": {
+          "class_type": "BasicGuider",
+          "inputs": {
+            "model": [
+              "5",
+              0
+            ],
+            "conditioning": [
+              "6",
+              0
+            ]
+          }
+        },
+        "11": {
+          "class_type": "SamplerCustomAdvanced",
+          "inputs": {
+            "noise": [
+              "7",
+              0
+            ],
+            "guider": [
+              "10",
+              0
+            ],
+            "sampler": [
+              "8",
+              0
+            ],
+            "sigmas": [
+              "9",
+              0
+            ],
+            "latent_image": [
+              "6",
+              1
+            ]
+          }
+        },
+        "12": {
+          "class_type": "VAEDecode",
+          "inputs": {
+            "samples": [
+              "11",
+              0
+            ],
+            "vae": [
+              "3",
+              0
+            ]
+          }
+        },
+        "13": {
+          "class_type": "VAEDecodeAudio",
+          "inputs": {
+            "samples": [
+              "11",
+              0
+            ],
+            "vae": [
+              "4",
+              0
+            ]
+          }
+        },
+        "14": {
+          "class_type": "CreateVideo",
+          "inputs": {
+            "images": [
+              "12",
+              0
+            ],
+            "audio": [
+              "13",
+              0
+            ],
+            "fps": 24.0
+          }
+        },
+        "15": {
+          "class_type": "SaveVideo",
+          "inputs": {
+            "video": [
+              "14",
+              0
+            ],
+            "filename_prefix": "H3/7c4d85c5efca",
+            "format": "mp4"
+          }
+        }
+      },
+      {
+        "client_id": "7c4d85c5efca",
+        "create_time": 1794364534732
+      },
+      [
+        "15"
+      ]
+    ],
+    "outputs": {
+      "15": {
+        "images": [
+          {
+            "filename": "7c4d85c5efca_00001_.mp4",
+            "subfolder": "H3",
+            "type": "output",
+            "metadata": {
+              "kind": "video",
+              "width": 832,
+              "height": 480,
+              "duration": 6.583333333333333,
+              "fps": 24.0,
+              "frame_count": 158
+            },
+            "id": "dec9107e-40a3-495d-a874-75093ba727fa"
+          }
+        ],
+        "animated": [
+          true
+        ]
+      }
+    },
+    "status": {
+      "status_str": "success",
+      "completed": true,
+      "messages": [
+        [
+          "execution_start",
+          {
+            "prompt_id": "9cfe7e64-9ffe-45c2-a992-5b0320df11f6",
+            "timestamp": 1794364534745
+          }
+        ],
+        [
+          "execution_cached",
+          {
+            "nodes": [
+              "3"
+            ],
+            "prompt_id": "9cfe7e64-9ffe-45c2-a992-5b0320df11f6",
+            "timestamp": 1794364534773
+          }
+        ],
+        [
+          "execution_success",
+          {
+            "prompt_id": "9cfe7e64-9ffe-45c2-a992-5b0320df11f6",
+            "timestamp": 1794364607625
+          }
+        ]
+      ]
+    },
+    "meta": {
+      "15": {
+        "node_id": "15",
+        "display_node": "15",
+        "parent_node": null,
+        "real_node_id": "15"
+      }
+    }
+  },
+  "video": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/fl2va_8/7c4d85c5efca_7c4d85c5efca_00001_.mp4",
+  "bytes": 1340901,
+  "sha256": "be61af7333e35f6698b9317eae74e4cce8d4f92a86f8cb77bd2e336f85faa2db",
+  "ffprobe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 832,
+        "height": 480,
+        "coded_width": 832,
+        "coded_height": 480,
+        "closed_captions": 0,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 30,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "iec61966-2-1",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 80896,
+        "duration": "6.583333",
+        "bit_rate": "1488390",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "158",
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "32000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/32000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 210400,
+        "duration": "6.575000",
+        "bit_rate": "129239",
+        "nb_frames": "207",
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/fl2va_8/7c4d85c5efca_7c4d85c5efca_00001_.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "6.583333",
+      "size": "1340901",
+      "bit_rate": "1629449",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "prompt": "{\"1\": {\"class_type\": \"UNETLoader\", \"inputs\": {\"unet_name\": \"minimax_h3_fl2va_pruned_int8_convrot.safetensors\", \"weight_dtype\": \"default\"}}, \"2\": {\"class_type\": \"CLIPLoader\", \"inputs\": {\"clip_name\": \"qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors\", \"type\": \"minimax\", \"device\": \"default\"}}, \"3\": {\"class_type\": \"VAELoader\", \"inputs\": {\"vae_name\": \"minimax_h3_video_vae_int8_convrot.safetensors\"}}, \"4\": {\"class_type\": \"VAELoader\", \"inputs\": {\"vae_name\": \"minimax_h3_audio_vae_fp32.safetensors\"}}, \"5\": {\"class_type\": \"LoraLoaderModelOnly\", \"inputs\": {\"model\": [\"1\", 0], \"lora_name\": \"minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors\", \"strength_model\": 1.0}}, \"6\": {\"class_type\": \"MiniMaxH3ImageToVideo\", \"inputs\": {\"clip\": [\"2\", 0], \"vae\": [\"3\", 0], \"prompt\": \"integrated_multimodal_description: [Shot 1] A richly hand-painted Chinese donghua scene. In a blue-hour manor courtyard just after rain, a young adult man (S1) with a distinctive dark blue robe, silver clasp, and long tied black hair faces an adult woman in a pale jade robe. A steady medium two-shot shows both faces. He takes a slow breath and turns to her. From about 00:01.000 to 00:05.500 he speaks slowly and firmly in Mandarin with visible lip motion, <d>[Chinese] \\u8fd9\\u4e00\\u4e16\\uff0c\\u5c5e\\u4e8e\\u6211\\u7684\\u4e1c\\u897f\\uff0c\\u6211\\u4f1a\\u4eb2\\u624b\\u62ff\\u56de\\u6765\\u3002</d> The woman looks at him quietly and closes her lips. Hold their expressions for the last second. No subtitles, no text, no cuts.\\n\\noverall_soundscape: Gentle dripping rain, soft fabric rustle, and a quiet courtyard. Clear close Mandarin voice in front of the ambience.\\n\\nnon_diegetic_music: Soft sustained cello and a few guqin notes underneath the voice.\", \"width\": 832, \"height\": 480, \"length\": 158}}, \"7\": {\"class_type\": \"RandomNoise\", \"inputs\": {\"noise_seed\": 20261111}}, \"8\": {\"class_type\": \"KSamplerSelect\", \"inputs\": {\"sampler_name\": \"res_multistep\"}}, \"9\": {\"class_type\": \"BasicScheduler\", \"inputs\": {\"model\": [\"5\", 0], \"scheduler\": \"simple\", \"steps\": 8, \"denoise\": 1.0}}, \"10\": {\"class_type\": \"BasicGuider\", \"inputs\": {\"model\": [\"5\", 0], \"conditioning\": [\"6\", 0]}}, \"11\": {\"class_type\": \"SamplerCustomAdvanced\", \"inputs\": {\"noise\": [\"7\", 0], \"guider\": [\"10\", 0], \"sampler\": [\"8\", 0], \"sigmas\": [\"9\", 0], \"latent_image\": [\"6\", 1]}}, \"12\": {\"class_type\": \"VAEDecode\", \"inputs\": {\"samples\": [\"11\", 0], \"vae\": [\"3\", 0]}}, \"13\": {\"class_type\": \"VAEDecodeAudio\", \"inputs\": {\"samples\": [\"11\", 0], \"vae\": [\"4\", 0]}}, \"14\": {\"class_type\": \"CreateVideo\", \"inputs\": {\"images\": [\"12\", 0], \"audio\": [\"13\", 0], \"fps\": 24.0}}, \"15\": {\"class_type\": \"SaveVideo\", \"inputs\": {\"video\": [\"14\", 0], \"filename_prefix\": \"H3/7c4d85c5efca\", \"format\": \"mp4\"}}}",
+        "encoder": "Lavf63.1.102"
+      }
+    }
+  },
+  "audio_rms": 0.12781794712912029,
+  "keyframes": [
+    "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/fl2va_8/7c4d85c5efca_7c4d85c5efca_00001_/frame_01.png",
+    "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/fl2va_8/7c4d85c5efca_7c4d85c5efca_00001_/frame_02.png",
+    "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/minimax-h3-5090/outputs/fl2va_8/7c4d85c5efca_7c4d85c5efca_00001_/frame_03.png"
+  ],
+  "server_seconds": 72.88,
+  "wall_seconds": 75.88964128494263,
+  "peak_mib": 31598.0,
+  "visual_review": "pass",
+  "visual_notes": "Three inspected keyframes show a clearly rendered blue-robed man and jade-robed woman in a courtyard with consistent faces/clothing and pose changes."
+}

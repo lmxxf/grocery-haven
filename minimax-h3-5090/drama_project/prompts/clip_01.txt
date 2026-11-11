@@ -1,0 +1,17 @@
+subject_definitions:
+<Subject 1> is the handsome 22-year-old Chinese anime young man in <Picture 1>, with tousled jet-black short hair, sharp sword-like eyebrows, dark confident eyes, and a dark-navy modern Chinese stand-collar coat with silver dragon embroidery on the collar.
+
+summary:
+[reference generation] In a 2D Chinese donghua anime style, <Subject 1> opens his eyes in a quiet night courtyard and speaks a clear Mandarin line with resolve.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - preserve his facial features, tousled black hair, sharp eyebrows, and dark-navy silver-embroidered stand-collar coat from <Picture 1>.
+
+detailed_description:
+[Shot 1] A steady medium close-up in a quiet night courtyard in crisp 2D Chinese donghua anime style. <Subject 1> (S1) opens his eyes calmly as soft golden light glints in his pupils, looks at his hand, and lifts his gaze toward the camera. From 00:01.800 to 00:08.000, <Subject 1> (S1) speaks clearly and calmly in a warm, clean foreground Mandarin male voice with visible lip motion, <d>[Chinese] 这一世，我竟然重生回到了宗祠退婚这一夜？</d> He closes his mouth and holds a firm expression until the end. No subtitles, no text.
+
+overall_soundscape:
+Quiet night courtyard and a clean close-mic foreground Mandarin voice.
+
+non_diegetic_music:
+Quiet, sparse guqin notes under the voice.

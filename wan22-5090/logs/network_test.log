@@ -1,0 +1,7 @@
+PROXY_HF code=000 bytes=0 speed=0 total=0.022424
+curl: (7) CONNECT tunnel failed, response 407
+PROXY_MODEL code=000 bytes=0 speed=0 total=0.008488
+curl: (7) CONNECT tunnel failed, response 407
+MIRROR_MODEL code=206 bytes=8388608 speed=4876607 total=1.720173
+PROXY_PORTABLE code=000 bytes=0 speed=0 total=0.006271
+curl: (7) CONNECT tunnel failed, response 407

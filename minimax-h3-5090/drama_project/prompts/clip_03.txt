@@ -1,0 +1,23 @@
+subject_definitions:
+<Subject 1> is the opulent Chinese clan grand hall in <Picture 1>, with golden crystal chandeliers, dark marble floors inlaid with golden dragons, and carved rosewood pillars.
+<Subject 2> is the arrogant 24-year-old wealthy scion in <Picture 2>, with slicked-back chestnut hair, narrow sneering eyes, and a burgundy-red luxury suit with a black shirt and gold lapel pin.
+<Subject 3> is the pale, beautiful 20-year-old young woman in <Picture 3>, with long black hair pinned by a white jade hairpin and a pale-moonlight white floral qipao dress with a sheer white shawl.
+
+summary:
+[reference generation] Inside <Subject 1>, <Subject 2> arrogantly mocks <Subject 3> and demands she kneel and hand over the marriage contract.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - the golden chandeliers, rosewood pillars, and dark dragon-inlaid marble hall are retained.
+<Subject 2> (appears in [Shot 1]): fully_preserved - his slicked-back chestnut hair, arrogant sneer, and burgundy suit with gold lapel pin are retained.
+<Subject 3> (appears in [Shot 2]): fully_preserved - her delicate features, white jade hairpin, and pale-white qipao dress with sheer shawl are retained.
+
+detailed_description:
+The target video is in a dramatic 2D Chinese anime style with rich warm chandelier highlights and deep shadows.
+[Shot 1] A medium shot inside <Subject 1>, the grand clan hall lit by golden chandeliers, frames <Subject 2> (S1), the arrogant scion in the burgundy suit with a gold lapel pin and slicked-back chestnut hair, leaning back presumptuously in a carved rosewood armchair. Pointing a mocking finger forward with a cruel sneer, <Subject 2> (S1) says clearly in a clean foreground Mandarin male voice, <d>[Chinese] 苏清雪，你苏家早就破产了，还不跪下把婚书交出来！</d>
+[Shot 2] At 00:06.500, the shot cuts to a medium shot of <Subject 3>, the pale young woman in the moonlight-white qipao dress and white jade hairpin, standing alone in the center of the cold dark marble floor of <Subject 1>. Her slender shoulders tremble slightly under the harsh chandelier glare, yet she stands upright with dignity.
+
+overall_soundscape:
+Quiet indoor hall and a clean close-mic foreground Mandarin male voice.
+
+non_diegetic_music:
+Quiet, sparse low cello notes under the voice.

@@ -1,0 +1,144 @@
+{
+  "time": 1794337885.4571311,
+  "windows_root": "C:\\AI\\Wan22-ComfyUI",
+  "comfyui_dir": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI",
+  "comfyui_commit": null,
+  "versions": {
+    "torch": "2.15.0+cu132",
+    "torchvision": "0.29.2+cu132",
+    "torchaudio": "2.11.1+cu132",
+    "triton-windows": "3.9.0.post30",
+    "sageattention": "2.2.0+cu130torch2.10.0andhigher.post6",
+    "comfyui-frontend-package": "1.57.6",
+    "comfyui-workflow-templates": "0.11.101",
+    "av": "19.0.2"
+  },
+  "models": [
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/vae/wan_2.1_vae.safetensors",
+      "size": 253815318,
+      "sha256": "2fc39d31359a4b0a64f55876d8ff7fa8d780956ae2cb13463b0223e15148976b",
+      "group": "shared",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\vae\\wan_2.1_vae.safetensors",
+      "actual_sha256": "2fc39d31359a4b0a64f55876d8ff7fa8d780956ae2cb13463b0223e15148976b",
+      "verified": true,
+      "hash_seconds": 0.1591119000222534
+    },
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "size": 6735906897,
+      "sha256": "c3355d30191f1f066b26d93fba017ae9809dce6c627dda5f6a66eaa651204f68",
+      "group": "shared",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\text_encoders\\umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "actual_sha256": "c3355d30191f1f066b26d93fba017ae9809dce6c627dda5f6a66eaa651204f68",
+      "verified": true,
+      "hash_seconds": 7.439829199982341
+    },
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/diffusion_models/wan2.2_t2v_high_noise_14B_fp8_scaled.safetensors",
+      "size": 14293923632,
+      "sha256": "cad711ae211c8b23455ec68cd6a190a33a3d874234a77eb57266d73f8f0e6c9f",
+      "group": "t2v",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\diffusion_models\\wan2.2_t2v_high_noise_14B_fp8_scaled.safetensors",
+      "actual_sha256": "cad711ae211c8b23455ec68cd6a190a33a3d874234a77eb57266d73f8f0e6c9f",
+      "verified": true,
+      "hash_seconds": 22.176964899990708
+    },
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors",
+      "size": 14293923632,
+      "sha256": "e71b96d7c82e638694c5e7fb98fac4bfb0e4ddc5fbbb4b1df40da8f0f1278a97",
+      "group": "t2v",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\diffusion_models\\wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors",
+      "actual_sha256": "e71b96d7c82e638694c5e7fb98fac4bfb0e4ddc5fbbb4b1df40da8f0f1278a97",
+      "verified": true,
+      "hash_seconds": 21.86891190003371
+    },
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/diffusion_models/wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
+      "size": 14294742832,
+      "sha256": "6122e79d55e0f235698d11d657f3b196c5273c830da00b2b013c5a048d5e6a42",
+      "group": "i2v",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\diffusion_models\\wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
+      "actual_sha256": "6122e79d55e0f235698d11d657f3b196c5273c830da00b2b013c5a048d5e6a42",
+      "verified": true,
+      "hash_seconds": 21.73532290000003
+    },
+    {
+      "repository": "Comfy-Org/Wan-2.2",
+      "revision": "ee6f4a40737a995bf5818954cfce6d59443b0f04",
+      "path": "split_files/diffusion_models/wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
+      "size": 14294742832,
+      "sha256": "5471a457b6ac404202a5fbe6c11595a3d5641fc766b00f38763f72303fffc21e",
+      "group": "i2v",
+      "installed_path": "C:\\AI\\Wan22-ComfyUI\\ComfyUI_windows_portable\\ComfyUI\\models\\diffusion_models\\wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
+      "actual_sha256": "5471a457b6ac404202a5fbe6c11595a3d5641fc766b00f38763f72303fffc21e",
+      "verified": true,
+      "hash_seconds": 22.476554099994246
+    }
+  ],
+  "ffmpeg_path": "C:\\AI\\Wan22-ComfyUI\\tools\\ffmpeg\\ffmpeg-9.0.2-essentials_build\\bin\\ffmpeg.exe",
+  "ffmpeg_version": "ffmpeg version 9.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+  "gpu_smoke": {
+    "python": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+    "torch": "2.15.0+cu132",
+    "cuda": "13.2",
+    "device": "NVIDIA GeForce RTX 5090",
+    "capability": [
+      12,
+      0
+    ],
+    "architectures": [
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90",
+      "sm_100",
+      "sm_120"
+    ],
+    "fp8_scaled_mm_finite": true,
+    "fp8_scaled_mm_relative_error": 0.0016632563201710582,
+    "sdpa_finite": true
+  },
+  "attention_benchmark": {
+    "state": "pass",
+    "torch": "2.15.0+cu132",
+    "cuda": "13.2",
+    "triton_windows": "3.9.0.post30",
+    "sageattention": "2.2.0+cu130torch2.10.0andhigher.post6",
+    "shape": [
+      1,
+      40,
+      4096,
+      128
+    ],
+    "dtype": "bfloat16",
+    "triton_add_pass": true,
+    "relative_l2_sage_vs_sdpa": 0.03865049034357071,
+    "max_abs_sage_vs_sdpa": 0.01171875,
+    "cuda_event_ms_mean10": {
+      "sdpa": 1.7081279754638672,
+      "sage": 0.7922111988067627
+    },
+    "note": "warm attention microbenchmark, not end-to-end video speed",
+    "time": 1794335630.8689268
+  },
+  "server_config": {
+    "port": 8188,
+    "backend": "sage",
+    "listen": "0.0.0.0"
+  },
+  "startup_task": "Wan22-ComfyUI",
+  "startup_context": "SYSTEM, AtStartup; manually started and verified, no reboot performed",
+  "proxy_requirement": "none for inference, temporary Spark relay stopped"
+}

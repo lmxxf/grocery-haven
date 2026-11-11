@@ -1,0 +1,61 @@
+{
+  "name": "t2v_sdpa",
+  "backend": "sdpa",
+  "job_file": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sdpa/job_53b1f711.json",
+  "prompt_id": "a689d7e3-4908-4d12-938e-6a1be25e578a",
+  "server_execution_seconds": 292.416,
+  "client_wall_seconds": 294.12738013267517,
+  "wait_seconds_until_history_complete": 293.865088224411,
+  "video": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sdpa/53b1f711_t2v_sdpa_00001_.mp4",
+  "bytes": 1541001,
+  "video_sha256": "98e9a6871bd38d4804248a8a4743d224765460a12fa527334de3f570f5fa118f",
+  "codec": "h264",
+  "width": 832,
+  "height": 480,
+  "frames": 81,
+  "playback_fps": "16/1",
+  "duration": "5.063000",
+  "gpu_total_peak_MiB_sampled_500ms": 29324.0,
+  "gpu_total_min_MiB": 2922.0,
+  "gpu_samples": 566,
+  "keyframe_checks": [
+    {
+      "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sdpa/53b1f711_t2v_sdpa_00001_/frame_01.png",
+      "mean_luma": 75.59682537109377,
+      "spatial_std_luma": 25.408698731630835,
+      "rgb_spatial_std": [
+        36.13893127441406,
+        24.959388732910156,
+        17.297077178955078
+      ]
+    },
+    {
+      "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sdpa/53b1f711_t2v_sdpa_00001_/frame_02.png",
+      "mean_luma": 71.14255927884615,
+      "spatial_std_luma": 24.49510361679679,
+      "rgb_spatial_std": [
+        34.95016860961914,
+        24.01045799255371,
+        16.94318199157715
+      ]
+    },
+    {
+      "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/wan22-5090/outputs/t2v_sdpa/53b1f711_t2v_sdpa_00001_/frame_03.png",
+      "mean_luma": 70.60891308794069,
+      "spatial_std_luma": 24.370019185205447,
+      "rgb_spatial_std": [
+        35.051353454589844,
+        23.92251205444336,
+        16.87714958190918
+      ]
+    }
+  ],
+  "keyframe_temporal_mean_absolute_difference": [
+    20.893665313720703,
+    21.01461410522461
+  ],
+  "automatic_basic_video_checks": "pass",
+  "manual_visual_review": "pass",
+  "note": "end-to-end includes loading; OS file cache and concurrent downloads differ across runs; GPU peak includes desktop and CUDA context",
+  "manual_visual_review_scope": "first/middle/last keyframes; clear fox fur and flowers, coherent pose/location changes, shallow depth of field intentional, no black/corrupt frames in inspected samples"
+}

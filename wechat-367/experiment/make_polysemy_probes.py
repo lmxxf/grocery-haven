@@ -1,0 +1,19 @@
+import json
+from pathlib import Path
+R=Path(__file__).resolve().parent
+# Both meanings share the same carrier within each index. Only causal topic context differs.
+frames=['The article about {} repeatedly mentioned the {}','The report on {} included a paragraph about the {}','During a discussion of {}, she brought up the {}','While reading about {}, he noticed a reference to the {}','In a textbook chapter on {}, they described the {}','The documentary about {} devoted a section to the {}','In the context of {}, the speaker discussed the {}','The interview about {} returned to the subject of the {}','The news story about {} referred to the {}','A detailed account of {} included the {}','The presentation on {} ended by mentioning the {}','The essay about {} specifically referred to the {}']
+zhframes=['那篇讨论{}的文章反复提到了{}','那份关于{}的报告有一段内容专门谈到{}','在讨论{}的时候，她提到了{}','阅读关于{}的资料时，他注意到了其中提到的{}','教科书关于{}的一章描述了{}','那部关于{}的纪录片用了一节来介绍{}','在{}这个背景下，演讲者谈到了{}','那次关于{}的采访又回到了这个话题：{}','那条关于{}的新闻报道提到了{}','一份关于{}的详细记录包括了{}','关于{}的演示最后提到了{}','那篇关于{}的文章明确提到了{}']
+bankA=['savings accounts and interest rates','cash withdrawals and debit cards','mortgages and loan applications','checking accounts and money transfers','credit limits and financial deposits','currency exchange and financial services','business lending and account balances','cashier checks and savings deposits','deposit insurance and account holders','ATM withdrawals and replacement debit cards','overseas transfers and financial loans','the payment system and personal savings']
+bankB=['river currents and muddy shores','stream water and reeds along the shore','fishing boats and the river edge','river flooding and erosion of the shore','canoes and the edge of the stream','water levels and the grassy riverside','duck nests beside the flowing creek','river bends and the sloping shoreline','wetland reeds beside the river channel','muddy slopes beside the river current','fishing beside a fast flowing stream','erosion near a wooden river bridge']
+fruit=['orchards and ripe fruit','vitamins and fruit nutrition','fruit salad and fresh produce','pie fillings and peeled fruit','fruit baskets and green skins','fruit trees and the harvest','dietary fiber and fresh fruit','fruit farms and red skins','fruit snacks and sweet juice','ripe fruit picked from trees','baked fruit served as dessert','fresh fruit beside bananas']
+company=['iPhone design and smartphone sales','Mac laptops and computer hardware','iPad tablets and their software','smartwatches and watchOS','the App Store and app developers','Macintosh computers and their manufacturer','iOS updates and smartphone software','M-series processors and computer chips','AirPods and wireless headphones','Vision Pro and wearable devices','iMessage and messaging services','FaceTime and video calling software']
+zhfruit=['果园和成熟的水果','维生素和水果营养','水果沙拉和新鲜果蔬','果馅饼和削皮的水果','水果篮和青色果皮','果树和水果收成','膳食纤维和新鲜水果','果园农场和红色果皮','水果点心和甜果汁','从树上摘下的成熟水果','烤制水果甜点','香蕉旁边的新鲜水果']
+zhcompany=['iPhone设计和智能手机销量','Mac笔记本电脑和计算机硬件','iPad平板电脑及其软件','智能手表和watchOS','App Store和应用开发者','Macintosh电脑及其制造商','iOS更新和智能手机软件','M系列处理器和电脑芯片','AirPods和无线耳机','Vision Pro和可穿戴设备','iMessage和消息服务','FaceTime和视频通话软件']
+rows=[]
+for label,topics,target,lang in [('bank_finance',bankA,'bank','en'),('bank_river',bankB,'bank','en'),('apple_fruit',fruit,'apple','en'),('apple_company',company,'apple','en'),('苹果水果',zhfruit,'苹果','zh'),('苹果公司',zhcompany,'苹果','zh')]:
+ for i,topic in enumerate(topics):
+  frame=(zhframes if lang=='zh'else frames)[i]
+  if target=='apple':frame=frame.replace('the {}','{}')
+  rows.append({'id':f'{label}_{i}','label':label,'text':frame.format(topic,target),'split':'fit'if i<8 else'heldout','lang':lang,'target':target,'carrier_index':i,'scope':'last target token, no future context; paired carrier per sense'})
+(R/'polysemy_probes.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2));print(len(rows))

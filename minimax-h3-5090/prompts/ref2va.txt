@@ -1,0 +1,21 @@
+subject_definitions:
+<Subject 1> is the young adult man in a dark blue robe and silver clasp in <Picture 1>.
+<Subject 2> is the adult woman in a pale jade robe in <Picture 1>.
+<Subject 3> is the rain-darkened courtyard with amber lanterns and wet stone paving in <Picture 2>.
+
+summary:
+[reference generation] <Subject 1> and <Subject 2> exchange two short Mandarin lines in <Subject 3>, both visible in the same stable Chinese donghua two-shot.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): fully_preserved - preserve his face, tied hair, silver clasp and dark blue robe.
+<Subject 2> (appears in [Shot 1]): fully_preserved - preserve her face and pale jade robe.
+<Subject 3> (appears in [Shot 1]): fully_preserved - preserve the pillars, lanterns and wet paving.
+
+detailed_description:
+[Shot 1] A steady eye-level medium two-shot in <Subject 3>. <Subject 1> (S1) on the left turns toward <Subject 2> and says clearly at 00:01.000, <d>[Chinese] 你愿意帮我吗？</d> He closes his mouth. At 00:03.500, <Subject 2> (S2) on the right looks into his eyes and replies, <d>[Chinese] 我愿意。</d> Both remain in frame until the end, their clothing moves gently in the breeze. No cuts, subtitles, or text.
+
+overall_soundscape:
+Soft drips from the roof, a faint rustle of silk, and two clean foreground Mandarin voices.
+
+non_diegetic_music:
+Quiet, sparse guqin notes under the voices.

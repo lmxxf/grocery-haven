@@ -1,0 +1,4 @@
+PROXY_HF code=200 bytes=5408 speed=12912 total=0.418828
+PROXY_MODEL code=206 bytes=8388608 speed=3048609 total=2.751618
+MIRROR_MODEL code=206 bytes=8388608 speed=2698348 total=3.108793
+PROXY_PORTABLE code=206 bytes=8388608 speed=3156380 total=2.657667

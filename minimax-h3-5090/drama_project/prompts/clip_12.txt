@@ -1,0 +1,20 @@
+subject_definitions:
+<Subject 1> is the wealthy scion villain in <Picture 1>, with chestnut hair and a burgundy suit with a gold lapel pin.
+<Subject 2> is the opulent clan grand hall in <Picture 2>.
+
+summary:
+[reference generation] Collapsed on the marble floor of <Subject 2> amidst scattered ledgers, <Subject 1> trembles in utter despair and begs for mercy.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1]): partially_preserved - his facial identity, chestnut hair, and burgundy suit are retained, now disheveled and terrified on the floor.
+<Subject 2> (appears in [Shot 1]): fully_preserved - the dark marble floor and hall pillars are retained.
+
+detailed_description:
+The target video is in an expressive 2D Chinese anime style with high-angle framing emphasizing defeat.
+[Shot 1] A high-angle medium close-up looks down at <Subject 1> (S1) slumped on his knees on the dark marble floor of <Subject 2>, surrounded by scattered white ledger pages, his burgundy suit wrinkled and chestnut hair messy. Pale with horror and trembling violently as he clutches a page, <Subject 1> (S1) looks up toward the camera and says clearly in a pleading, clean foreground Mandarin male voice, <d>[Chinese] 不可能，你怎么会有绝密账本！堂弟饶命，家主之位我不敢争了！</d> He bows his head low toward the stone floor in complete defeat.
+
+overall_soundscape:
+Quiet indoor hall and a clean close-mic foreground Mandarin male voice.
+
+non_diegetic_music:
+Quiet, sparse low string notes under the voice.

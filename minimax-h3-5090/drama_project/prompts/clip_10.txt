@@ -1,0 +1,21 @@
+subject_definitions:
+<Subject 1> is the opulent clan grand hall in <Picture 1>, with golden crystal chandeliers, dark dragon-inlaid marble floor, and rosewood pillars.
+<Subject 2> is the handsome young man in <Picture 2>, wearing a dark-navy silver-embroidered stand-collar coat.
+
+summary:
+[reference generation] Inside <Subject 1>, two black-clad bodyguards rush at <Subject 2>, who sweeps both off their feet with a single golden crescent kick before standing tall and speaking coldly.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2]): fully_preserved - the clean ceiling, golden crystal chandeliers, rosewood pillars, and dark marble floor are fully retained with no floating objects.
+<Subject 2> (appears in [Shot 1], [Shot 2]): fully_preserved - his facial features and dark-navy stand-collar coat are retained at natural human scale.
+
+detailed_description:
+The target video is in a fluid 2D Chinese martial-arts anime style with clean golden chandelier lighting.
+[Shot 1] A medium-wide action shot inside the clean, unobstructed ceiling and chandeliers of <Subject 1> shows two burly bodyguards in black suits charging from both sides toward <Subject 2>. Without losing composure, <Subject 2> pivots and unleashes a crisp spinning roundhouse kick trailing a golden crescent arc, knocking both guards backward onto the marble floor.
+[Shot 2] At 00:04.500, the camera pushes into a clean medium close-up of <Subject 2> (S1) standing calmly with his hands behind his back under the clear golden chandelier light. Looking down coldly, <Subject 2> (S1) says clearly and calmly in a clean foreground Mandarin male voice, <d>[Chinese] 就凭这几条助纣为虐的恶奴，也配拦我？</d>
+
+overall_soundscape:
+Two clean martial arts impact thuds at 00:02.000, then quiet indoor hall and a clean close-mic foreground Mandarin male voice.
+
+non_diegetic_music:
+Quiet, sparse guqin notes under the voice.

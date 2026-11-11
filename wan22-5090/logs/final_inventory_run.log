@@ -1,0 +1,8 @@
+HASH_VERIFIED wan_2.1_vae.safetensors
+HASH_VERIFIED umt5_xxl_fp8_e4m3fn_scaled.safetensors
+HASH_VERIFIED wan2.2_t2v_high_noise_14B_fp8_scaled.safetensors
+HASH_VERIFIED wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors
+HASH_VERIFIED wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors
+HASH_VERIFIED wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors
+INVENTORY_COMPLETE
+3134 MiB, 32607 MiB
