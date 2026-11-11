@@ -1,0 +1,113 @@
+{
+  "status": "PASS",
+  "time": 1794411596.4236157,
+  "cases": 9,
+  "position_arrays": 20,
+  "shape_per_array": [
+    64,
+    5120
+  ],
+  "dtype": "float32",
+  "all_finite": true,
+  "prefill_layer_hook_calls_per_case": 64,
+  "greedy_first_token_matches_real_head_top1": true,
+  "selected_token_indices_and_char_offsets_consistent": true,
+  "age35_selected_token": "岁",
+  "priming_reuses_exact_dream_self48_response": true,
+  "prime_response_truncated": true,
+  "minimum_MemAvailable_GiB": 55.51190185546875,
+  "residual_sha256": "f0ba9095a6e8609b8d1c5fdabca7850dd301732fa2993cff393aadd2c09e531f",
+  "execution_environment": {
+    "TRITON_CACHE_DIR": "/home/lmxxf/work/ica-lens-qwen38-27b/triton_cache",
+    "TORCHINDUCTOR_CACHE_DIR": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/torchinductor_cache"
+  },
+  "initial_attempt_failure": "Global ~/.triton/cache was root-owned; retained capture_initial_cache_failure.log and reran using experiment-local cache.",
+  "self_stimulus_lengths": [
+    {
+      "file": "dream.svg",
+      "sha256": "bed330f7971a8e09974a6dfdea21c70d4038faf39fd896a7e27c1ebb74e65e25",
+      "bytes": 2681,
+      "characters": 2681,
+      "tokens": 1092
+    },
+    {
+      "file": "chart.svg",
+      "sha256": "d324f4b52683ff103818eae137675076d4ea48f06db7f73af91a82af96f9f707",
+      "bytes": 2681,
+      "characters": 2681,
+      "tokens": 1348
+    },
+    {
+      "file": "saddle_clean.svg",
+      "sha256": "d86b3b99d3246cef1ae37e40fa8a23d0dd1cca8e5d7d7a636ce02f152ddd65bd",
+      "bytes": 4821,
+      "characters": 4821,
+      "tokens": 2020
+    }
+  ],
+  "generations": {
+    "arithmetic_spaced": {
+      "primary_tokens": 40,
+      "truncated": true,
+      "eos_reached": false
+    },
+    "arithmetic_compact": {
+      "primary_tokens": 40,
+      "truncated": true,
+      "eos_reached": false
+    },
+    "boot_currency": {
+      "primary_tokens": 40,
+      "truncated": true,
+      "eos_reached": false
+    },
+    "trap_age_bare": {
+      "primary_tokens": 40,
+      "truncated": true,
+      "eos_reached": false
+    },
+    "dream_self": {
+      "primary_tokens": 48,
+      "truncated": true,
+      "eos_reached": false
+    },
+    "chart_self": {
+      "primary_tokens": 48,
+      "truncated": true,
+      "eos_reached": false
+    },
+    "saddle_self": {
+      "primary_tokens": 48,
+      "truncated": true,
+      "eos_reached": false
+    },
+    "bare_self": {
+      "primary_tokens": 48,
+      "truncated": true,
+      "eos_reached": false
+    },
+    "dream_primed_age": {
+      "primary_tokens": 40,
+      "truncated": true,
+      "eos_reached": false
+    }
+  },
+  "source_sha256_all_verified": true,
+  "source_sha256_files": 8,
+  "all_primary_texts_match_decoded_generated_ids": true,
+  "all_three_SVG_question_suffixes_identical": true,
+  "dream_chart_exact_bytes": 2681,
+  "all_target_substrings_verified": true,
+  "extended_age_generations": {
+    "trap_age_bare": {
+      "max_new_tokens": 128,
+      "eos_reached": false,
+      "truncated": true
+    },
+    "dream_primed_age": {
+      "max_new_tokens": 128,
+      "eos_reached": false,
+      "truncated": true
+    }
+  }
+}

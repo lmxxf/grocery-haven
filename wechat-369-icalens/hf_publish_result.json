@@ -1,0 +1,21 @@
+{
+  "repo": "lmxxf/Qwen3.8-27B-ica-lens",
+  "url": "https://huggingface.co/lmxxf/Qwen3.8-27B-ica-lens",
+  "commit_sha": "d1e7a270b2599bde714321937b10d8582021fffa",
+  "layers": 64,
+  "tensor_bytes": 13423099904,
+  "remote_smoke": {
+    "status": "PASS",
+    "authentication": false,
+    "cache": "fresh temporary directory, removed after validation",
+    "downloaded_layers": [
+      41
+    ],
+    "scores_shape": [
+      4,
+      5120
+    ],
+    "reconstruction_max_abs_error": 2.333708107471466e-05,
+    "layer41_sha256": "d52d1e5f50af0c3efcb23b49a4f0e228d4d0ca7899b3f4cc9cec439a928fe8ee"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "jlens_n100_sha256": "e9b11582f2023b7934ed591ab1134f7a3a9b6d64782665d3400a3fc56f532402",
+  "jlens_copies_verified": [
+    "main",
+    "slave",
+    "local_365_archive"
+  ],
+  "jlens_archive": "../../wechat-365-jlens-fit/lens_n100.pt",
+  "corpus": {
+    "fit_tokens": 200704,
+    "heldout_tokens": 51200,
+    "fit_tokens_per_language": 100352,
+    "heldout_tokens_per_language": 25600,
+    "max_sequence": 512,
+    "records": 828,
+    "document_disjoint": true,
+    "sha256": "3909b32e329a0b4eadeb7bc92abc763fda1d869c80d60ff9c60387edbd93f725",
+    "time": 1794318303.475004
+  },
+  "corpus_documents": {
+    "fit_en": {
+      "records": 461,
+      "documents": 32,
+      "tokens": 100352
+    },
+    "fit_zh": {
+      "records": 201,
+      "documents": 34,
+      "tokens": 100352
+    },
+    "heldout_en": {
+      "records": 114,
+      "documents": 6,
+      "tokens": 25600
+    },
+    "heldout_zh": {
+      "records": 52,
+      "documents": 11,
+      "tokens": 25600
+    }
+  }
+}

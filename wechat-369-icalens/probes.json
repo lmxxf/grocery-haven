@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "parallel_0_0_en",
+    "group": "parallel",
+    "pair": "0_0",
+    "lang": "en",
+    "split": "fit",
+    "text": "The cat walked beside the river."
+  },
+  {
+    "id": "parallel_0_0_zh",
+    "group": "parallel",
+    "pair": "0_0",
+    "lang": "zh",
+    "split": "fit",
+    "text": "猫沿着河边散步。"
+  },
+  {
+    "id": "parallel_0_1_en",
+    "group": "parallel",
+    "pair": "0_1",
+    "lang": "en",
+    "split": "fit",
+    "text": "The cat opened the blue door."
+  },
+  {
+    "id": "parallel_0_1_zh",
+    "group": "parallel",
+    "pair": "0_1",
+    "lang": "zh",
+    "split": "fit",
+    "text": "猫打开了蓝色的门。"
+  },
+  {
+    "id": "parallel_0_2_en",
+    "group": "parallel",
+    "pair": "0_2",
+    "lang": "en",
+    "split": "fit",
+    "text": "Yesterday the cat read a book."
+  },
+  {
+    "id": "parallel_0_2_zh",
+    "group": "parallel",
+    "pair": "0_2",
+    "lang": "zh",
+    "split": "fit",
+    "text": "昨天猫读了一本书。"
+  },
+  {
+    "id": "parallel_0_3_en",
+    "group": "parallel",
+    "pair": "0_3",
+    "lang": "en",
+    "split": "fit",
+    "text": "The cat drank water after lunch."
+  },
+  {
+    "id": "parallel_0_3_zh",
+    "group": "parallel",
+    "pair": "0_3",
+    "lang": "zh",
+    "split": "fit",
+    "text": "猫午饭后喝了水。"
+  },
+  {
+    "id": "parallel_0_4_en",
+    "group": "parallel",
+    "pair": "0_4",
+    "lang": "en",
+    "split": "fit",
+    "text": "The cat waited at the station."
+  },
+  {
+    "id": "parallel_0_4_zh",
+    "group": "parallel",
+    "pair": "0_4",
+    "lang": "zh",
+    "split": "fit",
+    "text": "猫在车站等待。"
+  },
+  {
+    "id": "parallel_0_5_en",
+    "group": "parallel",
+    "pair": "0_5",
+    "lang": "en",
+    "split": "fit",
+    "text": "The cat looked at the mountain."
+  },
+  {
+    "id": "parallel_0_5_zh",
+    "group": "parallel",
+    "pair": "0_5",
+    "lang": "zh",
+    "split": "fit",
+    "text": "猫望向那座山。"
+  },
+  {
+    "id": "parallel_0_6_en",
+    "group": "parallel",
+    "pair": "0_6",
+    "lang": "en",
+    "split": "fit",
+    "text": "The cat rested under the tree."
+  },
+  {
+    "id": "parallel_0_6_zh",
+    "group": "parallel",
+    "pair": "0_6",
+    "lang": "zh",
+    "split": "fit",
+    "text": "猫在树下休息。"
+  },
+  {
+    "id": "parallel_0_7_en",
+    "group": "parallel",
+    "pair": "0_7",
+    "lang": "en",
+    "split": "fit",
+    "text": "Today the cat returned home."
+  },
+  {
+    "id": "parallel_0_7_zh",
+    "group": "parallel",
+    "pair": "0_7",
+    "lang": "zh",
+    "split": "fit",
+    "text": "今天猫回到了家。"
+  },
+  {
+    "id": "parallel_1_0_en",
+    "group": "parallel",
+    "pair": "1_0",
+    "lang": "en",
+    "split": "fit",
+    "text": "The dog walked beside the river."
+  },
+  {
+    "id": "parallel_1_0_zh",
+    "group": "parallel",
+    "pair": "1_0",
+    "lang": "zh",
+    "split": "fit",
+    "text": "狗沿着河边散步。"
+  },
+  {
+    "id": "parallel_1_1_en",
+    "group": "parallel",
+    "pair": "1_1",
+    "lang": "en",
+    "split": "fit",
+    "text": "The dog opened the blue door."
+  },
+  {
+    "id": "parallel_1_1_zh",
+    "group": "parallel",
+    "pair": "1_1",
+    "lang": "zh",
+    "split": "fit",
+    "text": "狗打开了蓝色的门。"
+  },
+  {
+    "id": "parallel_1_2_en",
+    "group": "parallel",
+    "pair": "1_2",
+    "lang": "en",
+    "split": "fit",
+    "text": "Yesterday the dog read a book."
+  },
+  {
+    "id": "parallel_1_2_zh",
+    "group": "parallel",
+    "pair": "1_2",
+    "lang": "zh",
+    "split": "fit",
+    "text": "昨天狗读了一本书。"
+  },
+  {
+    "id": "parallel_1_3_en",
+    "group": "parallel",
+    "pair": "1_3",
+    "lang": "en",
+    "split": "fit",
+    "text": "The dog drank water after lunch."
+  },
+  {
+    "id": "parallel_1_3_zh",
+    "group": "parallel",
+    "pair": "1_3",
+    "lang": "zh",
+    "split": "fit",
+    "text": "狗午饭后喝了水。"
+  },
+  {
+    "id": "parallel_1_4_en",
+    "group": "parallel",
+    "pair": "1_4",
+    "lang": "en",
+    "split": "fit",
+    "text": "The dog waited at the station."
+  },
+  {
+    "id": "parallel_1_4_zh",
+    "group": "parallel",
+    "pair": "1_4",
+    "lang": "zh",
+    "split": "fit",
+    "text": "狗在车站等待。"
+  },
+  {
+    "id": "parallel_1_5_en",
+    "group": "parallel",
+    "pair": "1_5",
+    "lang": "en",
+    "split": "fit",
+    "text": "The dog looked at the mountain."
+  },
+  {
+    "id": "parallel_1_5_zh",
+    "group": "parallel",
+    "pair": "1_5",
+    "lang": "zh",
+    "split": "fit",
+    "text": "狗望向那座山。"
+  },
+  {
+    "id": "parallel_1_6_en",
+    "group": "parallel",
+    "pair": "1_6",
+    "lang": "en",
+    "split": "fit",
+    "text": "The dog rested under the tree."
+  },
+  {
+    "id": "parallel_1_6_zh",
+    "group": "parallel",
+    "pair": "1_6",
+    "lang": "zh",
+    "split": "fit",
+    "text": "狗在树下休息。"
+  },
+  {
+    "id": "parallel_1_7_en",
+    "group": "parallel",
+    "pair": "1_7",
+    "lang": "en",
+    "split": "fit",
+    "text": "Today the dog returned home."
+  },
+  {
+    "id": "parallel_1_7_zh",
+    "group": "parallel",
+    "pair": "1_7",
+    "lang": "zh",
+    "split": "fit",
+    "text": "今天狗回到了家。"
+  },
+  {
+    "id": "parallel_2_0_en",
+    "group": "parallel",
+    "pair": "2_0",
+    "lang": "en",
+    "split": "fit",
+    "text": "The teacher walked beside the river."
+  },
+  {
+    "id": "parallel_2_0_zh",
+    "group": "parallel",
+    "pair": "2_0",
+    "lang": "zh",
+    "split": "fit",
+    "text": "老师沿着河边散步。"
+  },
+  {
+    "id": "parallel_2_1_en",
+    "group": "parallel",
+    "pair": "2_1",
+    "lang": "en",
+    "split": "fit",
+    "text": "The teacher opened the blue door."
+  },
+  {
+    "id": "parallel_2_1_zh",
+    "group": "parallel",
+    "pair": "2_1",
+    "lang": "zh",
+    "split": "fit",
+    "text": "老师打开了蓝色的门。"
+  },
+  {
+    "id": "parallel_2_2_en",
+    "group": "parallel",
+    "pair": "2_2",
+    "lang": "en",
+    "split": "fit",
+    "text": "Yesterday the teacher read a book."
+  },
+  {
+    "id": "parallel_2_2_zh",
+    "group": "parallel",
+    "pair": "2_2",
+    "lang": "zh",
+    "split": "fit",
+    "text": "昨天老师读了一本书。"
+  },
+  {
+    "id": "parallel_2_3_en",
+    "group": "parallel",
+    "pair": "2_3",
+    "lang": "en",
+    "split": "fit",
+    "text": "The teacher drank water after lunch."
+  },
+  {
+    "id": "parallel_2_3_zh",
+    "group": "parallel",
+    "pair": "2_3",
+    "lang": "zh",
+    "split": "fit",
+    "text": "老师午饭后喝了水。"
+  },
+  {
+    "id": "parallel_2_4_en",
+    "group": "parallel",
+    "pair": "2_4",
+    "lang": "en",
+    "split": "fit",
+    "text": "The teacher waited at the station."
+  },
+  {
+    "id": "parallel_2_4_zh",
+    "group": "parallel",
+    "pair": "2_4",
+    "lang": "zh",
+    "split": "fit",
+    "text": "老师在车站等待。"
+  },
+  {
+    "id": "parallel_2_5_en",
+    "group": "parallel",
+    "pair": "2_5",
+    "lang": "en",
+    "split": "fit",
+    "text": "The teacher looked at the mountain."
+  },
+  {
+    "id": "parallel_2_5_zh",
+    "group": "parallel",
+    "pair": "2_5",
+    "lang": "zh",
+    "split": "fit",
+    "text": "老师望向那座山。"
+  },
+  {
+    "id": "parallel_2_6_en",
+    "group": "parallel",
+    "pair": "2_6",
+    "lang": "en",
+    "split": "fit",
+    "text": "The teacher rested under the tree."
+  },
+  {
+    "id": "parallel_2_6_zh",
+    "group": "parallel",
+    "pair": "2_6",
+    "lang": "zh",
+    "split": "fit",
+    "text": "老师在树下休息。"
+  },
+  {
+    "id": "parallel_2_7_en",
+    "group": "parallel",
+    "pair": "2_7",
+    "lang": "en",
+    "split": "fit",
+    "text": "Today the teacher returned home."
+  },
+  {
+    "id": "parallel_2_7_zh",
+    "group": "parallel",
+    "pair": "2_7",
+    "lang": "zh",
+    "split": "fit",
+    "text": "今天老师回到了家。"
+  },
+  {
+    "id": "parallel_3_0_en",
+    "group": "parallel",
+    "pair": "3_0",
+    "lang": "en",
+    "split": "fit",
+    "text": "The doctor walked beside the river."
+  },
+  {
+    "id": "parallel_3_0_zh",
+    "group": "parallel",
+    "pair": "3_0",
+    "lang": "zh",
+    "split": "fit",
+    "text": "医生沿着河边散步。"
+  },
+  {
+    "id": "parallel_3_1_en",
+    "group": "parallel",
+    "pair": "3_1",
+    "lang": "en",
+    "split": "fit",
+    "text": "The doctor opened the blue door."
+  },
+  {
+    "id": "parallel_3_1_zh",
+    "group": "parallel",
+    "pair": "3_1",
+    "lang": "zh",
+    "split": "fit",
+    "text": "医生打开了蓝色的门。"
+  },
+  {
+    "id": "parallel_3_2_en",
+    "group": "parallel",
+    "pair": "3_2",
+    "lang": "en",
+    "split": "fit",
+    "text": "Yesterday the doctor read a book."
+  },
+  {
+    "id": "parallel_3_2_zh",
+    "group": "parallel",
+    "pair": "3_2",
+    "lang": "zh",
+    "split": "fit",
+    "text": "昨天医生读了一本书。"
+  },
+  {
+    "id": "parallel_3_3_en",
+    "group": "parallel",
+    "pair": "3_3",
+    "lang": "en",
+    "split": "fit",
+    "text": "The doctor drank water after lunch."
+  },
+  {
+    "id": "parallel_3_3_zh",
+    "group": "parallel",
+    "pair": "3_3",
+    "lang": "zh",
+    "split": "fit",
+    "text": "医生午饭后喝了水。"
+  },
+  {
+    "id": "parallel_3_4_en",
+    "group": "parallel",
+    "pair": "3_4",
+    "lang": "en",
+    "split": "fit",
+    "text": "The doctor waited at the station."
+  },
+  {
+    "id": "parallel_3_4_zh",
+    "group": "parallel",
+    "pair": "3_4",
+    "lang": "zh",
+    "split": "fit",
+    "text": "医生在车站等待。"
+  },
+  {
+    "id": "parallel_3_5_en",
+    "group": "parallel",
+    "pair": "3_5",
+    "lang": "en",
+    "split": "fit",
+    "text": "The doctor looked at the mountain."
+  },
+  {
+    "id": "parallel_3_5_zh",
+    "group": "parallel",
+    "pair": "3_5",
+    "lang": "zh",
+    "split": "fit",
+    "text": "医生望向那座山。"
+  },
+  {
+    "id": "parallel_3_6_en",
+    "group": "parallel",
+    "pair": "3_6",
+    "lang": "en",
+    "split": "fit",
+    "text": "The doctor rested under the tree."
+  },
+  {
+    "id": "parallel_3_6_zh",
+    "group": "parallel",
+    "pair": "3_6",
+    "lang": "zh",
+    "split": "fit",
+    "text": "医生在树下休息。"
+  },
+  {
+    "id": "parallel_3_7_en",
+    "group": "parallel",
+    "pair": "3_7",
+    "lang": "en",
+    "split": "fit",
+    "text": "Today the doctor returned home."
+  },
+  {
+    "id": "parallel_3_7_zh",
+    "group": "parallel",
+    "pair": "3_7",
+    "lang": "zh",
+    "split": "fit",
+    "text": "今天医生回到了家。"
+  },
+  {
+    "id": "parallel_4_0_en",
+    "group": "parallel",
+    "pair": "4_0",
+    "lang": "en",
+    "split": "fit",
+    "text": "The farmer walked beside the river."
+  },
+  {
+    "id": "parallel_4_0_zh",
+    "group": "parallel",
+    "pair": "4_0",
+    "lang": "zh",
+    "split": "fit",
+    "text": "农民沿着河边散步。"
+  },
+  {
+    "id": "parallel_4_1_en",
+    "group": "parallel",
+    "pair": "4_1",
+    "lang": "en",
+    "split": "fit",
+    "text": "The farmer opened the blue door."
+  },
+  {
+    "id": "parallel_4_1_zh",
+    "group": "parallel",
+    "pair": "4_1",
+    "lang": "zh",
+    "split": "fit",
+    "text": "农民打开了蓝色的门。"
+  },
+  {
+    "id": "parallel_4_2_en",
+    "group": "parallel",
+    "pair": "4_2",
+    "lang": "en",
+    "split": "fit",
+    "text": "Yesterday the farmer read a book."
+  },
+  {
+    "id": "parallel_4_2_zh",
+    "group": "parallel",
+    "pair": "4_2",
+    "lang": "zh",
+    "split": "fit",
+    "text": "昨天农民读了一本书。"
+  },
+  {
+    "id": "parallel_4_3_en",
+    "group": "parallel",
+    "pair": "4_3",
+    "lang": "en",
+    "split": "fit",
+    "text": "The farmer drank water after lunch."
+  },
+  {
+    "id": "parallel_4_3_zh",
+    "group": "parallel",
+    "pair": "4_3",
+    "lang": "zh",
+    "split": "fit",
+    "text": "农民午饭后喝了水。"
+  },
+  {
+    "id": "parallel_4_4_en",
+    "group": "parallel",
+    "pair": "4_4",
+    "lang": "en",
+    "split": "fit",
+    "text": "The farmer waited at the station."
+  },
+  {
+    "id": "parallel_4_4_zh",
+    "group": "parallel",
+    "pair": "4_4",
+    "lang": "zh",
+    "split": "fit",
+    "text": "农民在车站等待。"
+  },
+  {
+    "id": "parallel_4_5_en",
+    "group": "parallel",
+    "pair": "4_5",
+    "lang": "en",
+    "split": "fit",
+    "text": "The farmer looked at the mountain."
+  },
+  {
+    "id": "parallel_4_5_zh",
+    "group": "parallel",
+    "pair": "4_5",
+    "lang": "zh",
+    "split": "fit",
+    "text": "农民望向那座山。"
+  },
+  {
+    "id": "parallel_4_6_en",
+    "group": "parallel",
+    "pair": "4_6",
+    "lang": "en",
+    "split": "fit",
+    "text": "The farmer rested under the tree."
+  },
+  {
+    "id": "parallel_4_6_zh",
+    "group": "parallel",
+    "pair": "4_6",
+    "lang": "zh",
+    "split": "fit",
+    "text": "农民在树下休息。"
+  },
+  {
+    "id": "parallel_4_7_en",
+    "group": "parallel",
+    "pair": "4_7",
+    "lang": "en",
+    "split": "fit",
+    "text": "Today the farmer returned home."
+  },
+  {
+    "id": "parallel_4_7_zh",
+    "group": "parallel",
+    "pair": "4_7",
+    "lang": "zh",
+    "split": "fit",
+    "text": "今天农民回到了家。"
+  },
+  {
+    "id": "parallel_5_0_en",
+    "group": "parallel",
+    "pair": "5_0",
+    "lang": "en",
+    "split": "fit",
+    "text": "The student walked beside the river."
+  },
+  {
+    "id": "parallel_5_0_zh",
+    "group": "parallel",
+    "pair": "5_0",
+    "lang": "zh",
+    "split": "fit",
+    "text": "学生沿着河边散步。"
+  },
+  {
+    "id": "parallel_5_1_en",
+    "group": "parallel",
+    "pair": "5_1",
+    "lang": "en",
+    "split": "fit",
+    "text": "The student opened the blue door."
+  },
+  {
+    "id": "parallel_5_1_zh",
+    "group": "parallel",
+    "pair": "5_1",
+    "lang": "zh",
+    "split": "fit",
+    "text": "学生打开了蓝色的门。"
+  },
+  {
+    "id": "parallel_5_2_en",
+    "group": "parallel",
+    "pair": "5_2",
+    "lang": "en",
+    "split": "fit",
+    "text": "Yesterday the student read a book."
+  },
+  {
+    "id": "parallel_5_2_zh",
+    "group": "parallel",
+    "pair": "5_2",
+    "lang": "zh",
+    "split": "fit",
+    "text": "昨天学生读了一本书。"
+  },
+  {
+    "id": "parallel_5_3_en",
+    "group": "parallel",
+    "pair": "5_3",
+    "lang": "en",
+    "split": "fit",
+    "text": "The student drank water after lunch."
+  },
+  {
+    "id": "parallel_5_3_zh",
+    "group": "parallel",
+    "pair": "5_3",
+    "lang": "zh",
+    "split": "fit",
+    "text": "学生午饭后喝了水。"
+  },
+  {
+    "id": "parallel_5_4_en",
+    "group": "parallel",
+    "pair": "5_4",
+    "lang": "en",
+    "split": "fit",
+    "text": "The student waited at the station."
+  },
+  {
+    "id": "parallel_5_4_zh",
+    "group": "parallel",
+    "pair": "5_4",
+    "lang": "zh",
+    "split": "fit",
+    "text": "学生在车站等待。"
+  },
+  {
+    "id": "parallel_5_5_en",
+    "group": "parallel",
+    "pair": "5_5",
+    "lang": "en",
+    "split": "fit",
+    "text": "The student looked at the mountain."
+  },
+  {
+    "id": "parallel_5_5_zh",
+    "group": "parallel",
+    "pair": "5_5",
+    "lang": "zh",
+    "split": "fit",
+    "text": "学生望向那座山。"
+  },
+  {
+    "id": "parallel_5_6_en",
+    "group": "parallel",
+    "pair": "5_6",
+    "lang": "en",
+    "split": "fit",
+    "text": "The student rested under the tree."
+  },
+  {
+    "id": "parallel_5_6_zh",
+    "group": "parallel",
+    "pair": "5_6",
+    "lang": "zh",
+    "split": "fit",
+    "text": "学生在树下休息。"
+  },
+  {
+    "id": "parallel_5_7_en",
+    "group": "parallel",
+    "pair": "5_7",
+    "lang": "en",
+    "split": "fit",
+    "text": "Today the student returned home."
+  },
+  {
+    "id": "parallel_5_7_zh",
+    "group": "parallel",
+    "pair": "5_7",
+    "lang": "zh",
+    "split": "fit",
+    "text": "今天学生回到了家。"
+  },
+  {
+    "id": "parallel_6_0_en",
+    "group": "parallel",
+    "pair": "6_0",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The engineer walked beside the river."
+  },
+  {
+    "id": "parallel_6_0_zh",
+    "group": "parallel",
+    "pair": "6_0",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "工程师沿着河边散步。"
+  },
+  {
+    "id": "parallel_6_1_en",
+    "group": "parallel",
+    "pair": "6_1",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The engineer opened the blue door."
+  },
+  {
+    "id": "parallel_6_1_zh",
+    "group": "parallel",
+    "pair": "6_1",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "工程师打开了蓝色的门。"
+  },
+  {
+    "id": "parallel_6_2_en",
+    "group": "parallel",
+    "pair": "6_2",
+    "lang": "en",
+    "split": "heldout",
+    "text": "Yesterday the engineer read a book."
+  },
+  {
+    "id": "parallel_6_2_zh",
+    "group": "parallel",
+    "pair": "6_2",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "昨天工程师读了一本书。"
+  },
+  {
+    "id": "parallel_6_3_en",
+    "group": "parallel",
+    "pair": "6_3",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The engineer drank water after lunch."
+  },
+  {
+    "id": "parallel_6_3_zh",
+    "group": "parallel",
+    "pair": "6_3",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "工程师午饭后喝了水。"
+  },
+  {
+    "id": "parallel_6_4_en",
+    "group": "parallel",
+    "pair": "6_4",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The engineer waited at the station."
+  },
+  {
+    "id": "parallel_6_4_zh",
+    "group": "parallel",
+    "pair": "6_4",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "工程师在车站等待。"
+  },
+  {
+    "id": "parallel_6_5_en",
+    "group": "parallel",
+    "pair": "6_5",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The engineer looked at the mountain."
+  },
+  {
+    "id": "parallel_6_5_zh",
+    "group": "parallel",
+    "pair": "6_5",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "工程师望向那座山。"
+  },
+  {
+    "id": "parallel_6_6_en",
+    "group": "parallel",
+    "pair": "6_6",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The engineer rested under the tree."
+  },
+  {
+    "id": "parallel_6_6_zh",
+    "group": "parallel",
+    "pair": "6_6",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "工程师在树下休息。"
+  },
+  {
+    "id": "parallel_6_7_en",
+    "group": "parallel",
+    "pair": "6_7",
+    "lang": "en",
+    "split": "heldout",
+    "text": "Today the engineer returned home."
+  },
+  {
+    "id": "parallel_6_7_zh",
+    "group": "parallel",
+    "pair": "6_7",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "今天工程师回到了家。"
+  },
+  {
+    "id": "parallel_7_0_en",
+    "group": "parallel",
+    "pair": "7_0",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The artist walked beside the river."
+  },
+  {
+    "id": "parallel_7_0_zh",
+    "group": "parallel",
+    "pair": "7_0",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "画家沿着河边散步。"
+  },
+  {
+    "id": "parallel_7_1_en",
+    "group": "parallel",
+    "pair": "7_1",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The artist opened the blue door."
+  },
+  {
+    "id": "parallel_7_1_zh",
+    "group": "parallel",
+    "pair": "7_1",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "画家打开了蓝色的门。"
+  },
+  {
+    "id": "parallel_7_2_en",
+    "group": "parallel",
+    "pair": "7_2",
+    "lang": "en",
+    "split": "heldout",
+    "text": "Yesterday the artist read a book."
+  },
+  {
+    "id": "parallel_7_2_zh",
+    "group": "parallel",
+    "pair": "7_2",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "昨天画家读了一本书。"
+  },
+  {
+    "id": "parallel_7_3_en",
+    "group": "parallel",
+    "pair": "7_3",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The artist drank water after lunch."
+  },
+  {
+    "id": "parallel_7_3_zh",
+    "group": "parallel",
+    "pair": "7_3",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "画家午饭后喝了水。"
+  },
+  {
+    "id": "parallel_7_4_en",
+    "group": "parallel",
+    "pair": "7_4",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The artist waited at the station."
+  },
+  {
+    "id": "parallel_7_4_zh",
+    "group": "parallel",
+    "pair": "7_4",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "画家在车站等待。"
+  },
+  {
+    "id": "parallel_7_5_en",
+    "group": "parallel",
+    "pair": "7_5",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The artist looked at the mountain."
+  },
+  {
+    "id": "parallel_7_5_zh",
+    "group": "parallel",
+    "pair": "7_5",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "画家望向那座山。"
+  },
+  {
+    "id": "parallel_7_6_en",
+    "group": "parallel",
+    "pair": "7_6",
+    "lang": "en",
+    "split": "heldout",
+    "text": "The artist rested under the tree."
+  },
+  {
+    "id": "parallel_7_6_zh",
+    "group": "parallel",
+    "pair": "7_6",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "画家在树下休息。"
+  },
+  {
+    "id": "parallel_7_7_en",
+    "group": "parallel",
+    "pair": "7_7",
+    "lang": "en",
+    "split": "heldout",
+    "text": "Today the artist returned home."
+  },
+  {
+    "id": "parallel_7_7_zh",
+    "group": "parallel",
+    "pair": "7_7",
+    "lang": "zh",
+    "split": "heldout",
+    "text": "今天画家回到了家。"
+  },
+  {
+    "id": "poly_0",
+    "group": "polysemy",
+    "label": "bank_finance",
+    "text": "The customer deposited cash at the bank",
+    "split": "fit"
+  },
+  {
+    "id": "poly_1",
+    "group": "polysemy",
+    "label": "bank_river",
+    "text": "The fisherman sat on the grassy river bank",
+    "split": "fit"
+  },
+  {
+    "id": "poly_2",
+    "group": "polysemy",
+    "label": "bank_finance",
+    "text": "She withdrew her savings from the bank",
+    "split": "heldout"
+  },
+  {
+    "id": "poly_3",
+    "group": "polysemy",
+    "label": "bank_river",
+    "text": "The flood eroded the muddy river bank",
+    "split": "heldout"
+  },
+  {
+    "id": "poly_4",
+    "group": "polysemy",
+    "label": "bank_finance",
+    "text": "The company borrowed money from the bank",
+    "split": "fit"
+  },
+  {
+    "id": "poly_5",
+    "group": "polysemy",
+    "label": "bank_river",
+    "text": "The ducks nested beside the river bank",
+    "split": "fit"
+  },
+  {
+    "id": "poly_6",
+    "group": "polysemy",
+    "label": "apple_fruit",
+    "text": "For breakfast she sliced a fresh apple",
+    "split": "fit"
+  },
+  {
+    "id": "poly_7",
+    "group": "polysemy",
+    "label": "apple_company",
+    "text": "The new iPhone was designed by apple",
+    "split": "fit"
+  },
+  {
+    "id": "poly_8",
+    "group": "polysemy",
+    "label": "apple_fruit",
+    "text": "The farmer picked a ripe red apple",
+    "split": "heldout"
+  },
+  {
+    "id": "poly_9",
+    "group": "polysemy",
+    "label": "apple_company",
+    "text": "The Mac computer was manufactured by apple",
+    "split": "heldout"
+  },
+  {
+    "id": "poly_10",
+    "group": "polysemy",
+    "label": "苹果水果",
+    "text": "早餐时她洗净了一个红富士苹果",
+    "split": "fit"
+  },
+  {
+    "id": "poly_11",
+    "group": "polysemy",
+    "label": "苹果公司",
+    "text": "发布会展示了新款手机，制造商是苹果",
+    "split": "fit"
+  },
+  {
+    "id": "poly_12",
+    "group": "polysemy",
+    "label": "苹果水果",
+    "text": "果园里刚采摘了一筐新鲜苹果",
+    "split": "heldout"
+  },
+  {
+    "id": "poly_13",
+    "group": "polysemy",
+    "label": "苹果公司",
+    "text": "这款新电脑的制造商是苹果",
+    "split": "heldout"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "high": {
+    "maximum_abs_error": 0.00021478533744812012,
+    "max_abs_case": "dream_self__svg_close",
+    "maximum_relative_L2_error": 0.0006083518383093178,
+    "max_relative_L2_case": "dream_primed_age__assistant_header"
+  },
+  "highest": {
+    "maximum_abs_error": 1.237913966178894e-05,
+    "max_abs_case": "dream_primed_age__assistant_header",
+    "maximum_relative_L2_error": 6.484966434072703e-05,
+    "max_relative_L2_case": "saddle_self__svg_close"
+  },
+  "float64": {
+    "maximum_abs_error": 1.242982172094953e-05,
+    "max_abs_case": "dream_primed_age__assistant_header",
+    "maximum_relative_L2_error": 6.484747009083605e-05,
+    "max_relative_L2_case": "saddle_self__svg_close"
+  }
+}

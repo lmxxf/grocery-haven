@@ -1,0 +1,447 @@
+{
+  "status": "PASS",
+  "experiment_root": "/home/lmxxf/work/ica-lens-qwen38-27b",
+  "report": "../双镜与梦境实验报告.md",
+  "capture_acceptance": "PASS",
+  "analysis_acceptance": {
+    "status": "PASS",
+    "layers": 64,
+    "position_layer_checks": 1280,
+    "difference_layer_checks": 704,
+    "coordinate_shape": [
+      64,
+      20,
+      5120
+    ],
+    "uniform_current_source_fingerprints": true,
+    "L63_actual_model_primary_positions": 9,
+    "maximum_reconstruction_error": 3.0096620321273804e-05
+  },
+  "input_fingerprints": {
+    "capture_json_sha256": "6b8eec410881783234a7c6aac2c869ce9bb263892e5660a12f59b800e53b28cf",
+    "residual_npz_sha256": "f0ba9095a6e8609b8d1c5fdabca7850dd301732fa2993cff393aadd2c09e531f",
+    "analysis_script_sha256": "9983fd137c1c4077954977da096b42afceb07cf1b7f503444761de5041365426",
+    "ica_manifest_sha256": "a6c0ed6550be566685205c5f98648eec6cb2ae3173537043134f33d028274b87",
+    "j_lens_checkpoint_sha256": "e9b11582f2023b7934ed591ab1134f7a3a9b6d64782665d3400a3fc56f532402"
+  },
+  "archived_files": [
+    {
+      "file": "dual_dream/analysis_brief.json",
+      "bytes": 19511,
+      "sha256": "62c22deed6f5cd8d5276284861ca7e9e3b4885268446f9f84e285438ac1cdd83"
+    },
+    {
+      "file": "dual_dream/analysis_manifest.json",
+      "bytes": 4369,
+      "sha256": "932f9b1a469d51c772ddeb8c561fade2df2b9f5004992a03da8f508a92b2689e"
+    },
+    {
+      "file": "dual_dream/analysis_precision_diagnostic.json",
+      "bytes": 705,
+      "sha256": "f218f963faf78dc292005f98c715322c87e865b7bbd9f562795f40ecd243dcb3"
+    },
+    {
+      "file": "dual_dream/analysis_self_evidence.json",
+      "bytes": 241433,
+      "sha256": "110c2848fcbaaab1ef00fb861bf381fd44881b647313538fdf8766cb1cc231c2"
+    },
+    {
+      "file": "dual_dream/capture.json",
+      "bytes": 474478,
+      "sha256": "6b8eec410881783234a7c6aac2c869ce9bb263892e5660a12f59b800e53b28cf"
+    },
+    {
+      "file": "dual_dream/capture_acceptance.json",
+      "bytes": 3109,
+      "sha256": "6ed0fc6531f8397d9018ede9fb99b894f0d9653601ee2d3557e1190a42c92d9b"
+    },
+    {
+      "file": "dual_dream/capture_run.sh",
+      "bytes": 378,
+      "sha256": "f361cf7dcddc2c8aab5628e98b26a2e710ca7085c72eb23e2b7afe2a9c71a762"
+    },
+    {
+      "file": "dual_dream/experiment_acceptance.json",
+      "bytes": 308,
+      "sha256": "99f85c6a87a4b74c3d9b6d58ea2c179792eff1bc6eac811addc05845b1fb1719"
+    },
+    {
+      "file": "dual_dream/stimuli/chart.svg",
+      "bytes": 2681,
+      "sha256": "d324f4b52683ff103818eae137675076d4ea48f06db7f73af91a82af96f9f707"
+    },
+    {
+      "file": "dual_dream/stimuli/dream.svg",
+      "bytes": 2681,
+      "sha256": "bed330f7971a8e09974a6dfdea21c70d4038faf39fd896a7e27c1ebb74e65e25"
+    },
+    {
+      "file": "dual_dream/stimuli/saddle_clean.svg",
+      "bytes": 4821,
+      "sha256": "d86b3b99d3246cef1ae37e40fa8a23d0dd1cca8e5d7d7a636ce02f152ddd65bd"
+    },
+    {
+      "file": "dual_dream_accept.py",
+      "bytes": 3171,
+      "sha256": "4556bf607411c559c5927b1f7dec11f457383c51aa01f3db66fd0911e886de9b"
+    },
+    {
+      "file": "dual_dream_analyze.py",
+      "bytes": 26318,
+      "sha256": "9983fd137c1c4077954977da096b42afceb07cf1b7f503444761de5041365426"
+    },
+    {
+      "file": "dual_dream_capture.py",
+      "bytes": 12289,
+      "sha256": "ce5856f7e3c62d2c6e563d1b5a78fb6897ee3b14429883b94658726cfc5400fe"
+    },
+    {
+      "file": "dual_lens_dream_spec.md",
+      "bytes": 6582,
+      "sha256": "857ddaf501fb030651bebeca796c7a447675b41f1d856c2892cde6696eec8fc2"
+    },
+    {
+      "file": "双镜与梦境实验报告.md",
+      "bytes": 24805,
+      "sha256": "e39afe9a85723ca0fe4b10792862b92c15dfdf999a45969cceda2ec07e67eb2b"
+    }
+  ],
+  "local_full_data_not_archived": [
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/capture_residuals.npz",
+      "bytes": 26220032,
+      "sha256": "f0ba9095a6e8609b8d1c5fdabca7850dd301732fa2993cff393aadd2c09e531f"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_coordinates.npz",
+      "bytes": 24323830,
+      "sha256": "c987d2512a5091cfd9255069b98740a4b2656b304d60e4f1c9f63365e88c4db3"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_summary.json",
+      "bytes": 3650143,
+      "sha256": "b1906eaa6ac85c3a97674edfb7191b8919c745c4f58374b346ea64b09f0bd29c"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_00.json",
+      "bytes": 1040942,
+      "sha256": "b8f6ddd3cafe0a0363b590e4fc9727d80e726cc8ebc2326d2112f8e2a0d179d2"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_01.json",
+      "bytes": 1061012,
+      "sha256": "edc47d8af0eebfea600b3ec7a47569a50e3b51f279bc8c312511f4c71d04a9f5"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_02.json",
+      "bytes": 1212360,
+      "sha256": "6dcd02ca1a91c922685081c980299512c637ca60ef6e2aa617da8d76c327b2eb"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_03.json",
+      "bytes": 1290726,
+      "sha256": "c512aa7e685762aab7c533fb7a0521910fd6ba548c9b4a71c707d6a88ec45bf3"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_04.json",
+      "bytes": 1208686,
+      "sha256": "a4767f898214c91282a0879d077ce8d132584d01e0709e9eb58e2922e454a6c5"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_05.json",
+      "bytes": 1198107,
+      "sha256": "de50915bd21ffb20e1e305fe915e1bcd0dad2d683738e490bd52c0b75681c186"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_06.json",
+      "bytes": 1254064,
+      "sha256": "bb987c8be14a6d7742f5f0ee034bb43248eb065a02f6126b865ec22a9c26c6b2"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_07.json",
+      "bytes": 1198916,
+      "sha256": "a6642d456ea5e0970ddbd2988db443ac1f74499672e703cb0bfb60192cffb1bb"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_08.json",
+      "bytes": 1213698,
+      "sha256": "2e3874cbbadc5d5b791aa09e7a81d2e27096566f07de72260f8491696766f84f"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_09.json",
+      "bytes": 1183952,
+      "sha256": "07d931c686f50a6e864420c2ea92fc99eb6c8feb8fb99f6b2cc937d44af2a56b"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_10.json",
+      "bytes": 1143265,
+      "sha256": "e972a5cf0251bad8e4ad2760a53583b03d7fa02980f1aa060d207352e8d5b75f"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_11.json",
+      "bytes": 1205368,
+      "sha256": "7e3b37bca88da597902d402f02ce943a9a5f3f4a8e7341b920c515a8d9802d45"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_12.json",
+      "bytes": 1241085,
+      "sha256": "ee5912fe2c6766283849daa7bf42849b3f695a6039df27887a8165a7b0900dc4"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_13.json",
+      "bytes": 1225650,
+      "sha256": "2da967329b9b46cc5def7ac1e3ded7b47b5e46960b37e3d54e08b823f1ae0d64"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_14.json",
+      "bytes": 1145016,
+      "sha256": "3882745498c2d1bba563370fb9927f72748dc4a216e50c342b4cc90956d1ef5b"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_15.json",
+      "bytes": 1256347,
+      "sha256": "793ead30f9dbd22027d12270031e30b6c52f530b3176a724622fd7c27a25e844"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_16.json",
+      "bytes": 1952371,
+      "sha256": "016abd6348b235238160c7fc39b27aa30c372b6ef17a3497a3ea06f3207271eb"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_17.json",
+      "bytes": 1143678,
+      "sha256": "f7cbed4084fb79ac910998f7bf27a06ff4121aa8f63ba8df155f621ffd63d6a9"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_18.json",
+      "bytes": 1137973,
+      "sha256": "6e8cc9a323c7984d9c8786c9982d8ab33f2aa7cdbd876d5b69883f12991df913"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_19.json",
+      "bytes": 1182994,
+      "sha256": "7b6ab2399572b1efa90e6d7d244ea4a77c99ab5beb6232c9f79ed0601117886b"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_20.json",
+      "bytes": 1192499,
+      "sha256": "67573dfdf281a5abbd60fbb5364d90a4d50589507b59e9e9ff6402d6ec19e029"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_21.json",
+      "bytes": 1228396,
+      "sha256": "f550e3c5ba15a8ac1ffbc4ec5eca0797a9db29e47c3f2dcbdc8bc19b8c0bbdc5"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_22.json",
+      "bytes": 1178386,
+      "sha256": "3091494ac0ecea8ca515985679b9762cd495324ab0f30f6f0928269247359def"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_23.json",
+      "bytes": 1197778,
+      "sha256": "1cdea52ec7721e3ec4e7fa1b684a64f91536f04078af887a86b7a29112353930"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_24.json",
+      "bytes": 1922020,
+      "sha256": "eabb1b1b1748abb0cfcb66d8cac214a6ba375b73f6b7f49485d2a8075fb2cd2d"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_25.json",
+      "bytes": 1203480,
+      "sha256": "1bcb7a17661d9ee0243973cfe063abfd5132934b64415e5ee967f8f3684b748d"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_26.json",
+      "bytes": 1203990,
+      "sha256": "d5fc1fbbbc82cec3f33ff77dfd452a98fd5a67f7062f614f1f67275fe8058454"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_27.json",
+      "bytes": 1102035,
+      "sha256": "68928017869690c210f2b436102a5da98d84a05b76c15595db13ebea6185cde9"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_28.json",
+      "bytes": 1127402,
+      "sha256": "793b64a794abe8242a78e118c7f0d7a2499fcfdc2d767e57855996c1153eb38a"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_29.json",
+      "bytes": 1101656,
+      "sha256": "7ff8ebe26fc37775d9d51e2524f80e6a0182fc1f446219a4453b59c8e6f2a51c"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_30.json",
+      "bytes": 1168455,
+      "sha256": "9e647c7483c5466c327297f11f8bdf22acc9bb435dbb67751181dec6acdcbc39"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_31.json",
+      "bytes": 1173541,
+      "sha256": "503d1549e259d16620a8db381f23ec91d59b003a9a21da2d4d803db3f70bb8a7"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_32.json",
+      "bytes": 2019826,
+      "sha256": "e103603974053d0b0a389cb683179d38c80decd2b2674763da2b347b3d4e0bf5"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_33.json",
+      "bytes": 1076358,
+      "sha256": "ad9990399820297b9c342619d4b84bf0df4154de8dbedef2389bdf0c907c3619"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_34.json",
+      "bytes": 1122576,
+      "sha256": "102bc1f37b749beed4cf09e24c5ddd711c6a2215c21c31cb09dbb7c093f063ec"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_35.json",
+      "bytes": 1137630,
+      "sha256": "bc461231008ce77bbad356116b4d1c2e83ef37b10c79af793450e0534452306b"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_36.json",
+      "bytes": 1911130,
+      "sha256": "0f14450d78fa1221ed5e2b3adaebc499b2e94a9b931343a8dce431d5ec64033d"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_37.json",
+      "bytes": 1152920,
+      "sha256": "6b853780445b867a45f5afa61b0f080aa0e808cb5dd0dad3e86286f90b60d1b4"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_38.json",
+      "bytes": 2052934,
+      "sha256": "b457c1735c06d39feea6ef19303f495f2c13f2a6845eb07fb8d101b1dffc45b2"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_39.json",
+      "bytes": 1189227,
+      "sha256": "08cdc8496dea0a520222606254355aded232fd3884d9d5807280d20755f7e261"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_40.json",
+      "bytes": 1188298,
+      "sha256": "114d6bb2c0417a5cc7a5cf7a458d836599298d7a1639e2ca7dc3c73e66582e2d"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_41.json",
+      "bytes": 2083903,
+      "sha256": "36af52574fdb90ae4a50b672eba9380bd1acdbfc729078d5b81c360641cfe445"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_42.json",
+      "bytes": 1148000,
+      "sha256": "ebaebc9df0ee006881b49f8707007f0d7da233c729624187e34b8cab8dca3deb"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_43.json",
+      "bytes": 1157905,
+      "sha256": "f5fbc9a99dd59afe912d50dbfc545afee2f26399548b655edefa1a5e0ac7967a"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_44.json",
+      "bytes": 1152382,
+      "sha256": "f9cd3501e064a8aee9bdc429a9b81d1c2b3ac09e9bb2e50558edae83e351e3d5"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_45.json",
+      "bytes": 1188283,
+      "sha256": "d230d888f9d459cfc8bca8c1e028480e5486a876d9fda5ef9b7e4f949e24edfe"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_46.json",
+      "bytes": 1101642,
+      "sha256": "6d941b37a1210cb4109c0b1484205dcd48a4cd85d094773b0511a4d8bfa4742b"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_47.json",
+      "bytes": 1127067,
+      "sha256": "e14a03285727dd9a42e1c6757b8bcde9d40db57627f9050d36c5a06427886def"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_48.json",
+      "bytes": 1969489,
+      "sha256": "1d16c6bffaf22cf4f3d81d64618dbd14013d6c026b3229b23582a3045b475e11"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_49.json",
+      "bytes": 1152179,
+      "sha256": "fdacef1784970e686720f8b01fd3285582d8b3ffdc84a80f7eabd394b8a0a80e"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_50.json",
+      "bytes": 1066247,
+      "sha256": "82dbc6b5cac65333f9196ec4e0766a6468524ace7fbab217004209cc1604e27d"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_51.json",
+      "bytes": 1182975,
+      "sha256": "13e817fa971958d33eb987a6891eb7080085eb926fe1133fc7a3dd7af9d0cd94"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_52.json",
+      "bytes": 1764310,
+      "sha256": "87eb61726cb433ebfce800adb46da17c522d9f6da89ee335f63ca72944191625"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_53.json",
+      "bytes": 1151466,
+      "sha256": "57fa447c39353f3243d86692a3685410c8f24181f8166ea49214ad8a67bcab9d"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_54.json",
+      "bytes": 1815788,
+      "sha256": "b291407ae5eabe4d538347c5390a3a6889c48373ac6a3c38a57080d1c424d1d0"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_55.json",
+      "bytes": 1807686,
+      "sha256": "100b59d361fee1ff53a7c8af021fbc8c12c071147ee8cad19c24069d202dbbb8"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_56.json",
+      "bytes": 1833011,
+      "sha256": "36606d2a1329b6e95f319237c65ccd5683bf2d3055c479dc32e6f4c96592c763"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_57.json",
+      "bytes": 1094219,
+      "sha256": "cd8b478285fe7b2351f8406d83e01bdd82fc3e821d93066e135c62d19a2c300c"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_58.json",
+      "bytes": 1795687,
+      "sha256": "09c3c2c4aa3b556a9c0f779ca46638c942416118865fe24732742e1c74aec97e"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_59.json",
+      "bytes": 1143489,
+      "sha256": "06042a88272b844af84c51335ab91ce4fb05c3197b259a547d527df7e6523113"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_60.json",
+      "bytes": 1775781,
+      "sha256": "e1c926092639844e359ba7d7810cd54f94d4b5ad71266355ba3cd2e044af9bed"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_61.json",
+      "bytes": 1098015,
+      "sha256": "b39abeec4dcd442d3c8550206a566372c15db7d575537199fc07c0f6d5b7dc39"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_62.json",
+      "bytes": 1175975,
+      "sha256": "995c7c79cd77bdf07b7f46ebb3995abf717d44f86e2d23f2bff7fe19b2cc65f7"
+    },
+    {
+      "file": "/home/lmxxf/work/ica-lens-qwen38-27b/dual_dream/analysis_layers/layer_63.json",
+      "bytes": 2030163,
+      "sha256": "9eb08cb93202a1aa0e487a50d3b0e20e5158ecaf65c781dcec420c49a842fdf7"
+    }
+  ],
+  "note": "All 64 final readouts use highest precision; initial high-precision-mode trial failures are diagnostic only. No model/ICA/J weights or residual/coordinate arrays are included in this archive."
+}

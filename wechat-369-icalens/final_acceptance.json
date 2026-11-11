@@ -1,0 +1,79 @@
+{
+  "status": "PASS",
+  "time": 1794328424.1023357,
+  "layers": 64,
+  "nodes_32_each": true,
+  "weights_all_finite": true,
+  "slave_main_local_sha256_match": true,
+  "main_source_files_compared": 710,
+  "slave_source_files_compared": 227,
+  "postprocess_resources": {
+    "collect_polysemy": {
+      "command": [
+        "collect_polysemy.py"
+      ],
+      "exit_code": 0,
+      "minimum_MemAvailable_GiB": 57.172672271728516,
+      "time": 1794327492.088895
+    },
+    "extra_readouts": {
+      "command": [
+        "extra_readouts.py"
+      ],
+      "exit_code": 0,
+      "minimum_MemAvailable_GiB": 100.79703521728516,
+      "time": 1794327582.2164254
+    }
+  },
+  "artifacts": {
+    "summary.json": {
+      "bytes": 1157105,
+      "sha256": "fc77b443557c8e1311be2bc43fcb458ab6db6c04a1d21203a94a9d5b268ba2c6"
+    },
+    "实验报告.md": {
+      "bytes": 16030,
+      "sha256": "9bddb05227466cdd5dd20084cb0b957593d527f4d49344c8cfff3773f23f5d57"
+    },
+    "validation.json": {
+      "bytes": 120530,
+      "sha256": "66855c9456700d13acd591fc8779fd785397743746b1e2b4beb8d80d3c33203d"
+    },
+    "posthoc_validation.json": {
+      "bytes": 13951,
+      "sha256": "805fd13ed05dc921ed16d1f27cac952b524c067a86db8a0af8c7d89f8856f963"
+    },
+    "source_sha256.json": {
+      "bytes": 107470,
+      "sha256": "eef0665683ae0ebe0291ba92dea17f7187f8c7571a971e26ab894b1b5330fb6d"
+    },
+    "source_sha256_slave.json": {
+      "bytes": 34768,
+      "sha256": "b7644ef6197d09605b0fcb446341638e604b6fb3e69309dfa714e8109d5d86d0"
+    },
+    "polysemy_summary.json": {
+      "bytes": 2516271,
+      "sha256": "62ecb184292717f793d71b567383c481e1c3a064799f337fc31d575302ccb8ff"
+    },
+    "polysemy_capture.json": {
+      "bytes": 28794,
+      "sha256": "62c9dc30e7c81f37e3408200b5683348887b208c4c6ebe2562bef7d3adfee6fb"
+    },
+    "extra_readouts_complete.json": {
+      "bytes": 93,
+      "sha256": "d74aabe8b9c694f91ad7efc9f86ada511a600f9171cef32bd2faee921cdf32b7"
+    },
+    "steering_full_text.md": {
+      "bytes": 10732,
+      "sha256": "cab9011e0832dd65fa47c5c156b011cb83fc1ab461bdd7db3a3aaa5cd0a5dbb1"
+    },
+    "kurtosis_by_layer.svg": {
+      "bytes": 16252,
+      "sha256": "5c9d2554945d3d831a94c616b85db2c5ce4310489e3a1e29e4a80046cf1d110f"
+    },
+    "polysemy_by_layer.svg": {
+      "bytes": 18561,
+      "sha256": "a1560ee13ad3f2ea41cf6823d56f364a3015d2984e2d94b2cac978c4f098b917"
+    }
+  },
+  "scope": "completion and engineering verification; not semantic purity or causal proof for every component"
+}

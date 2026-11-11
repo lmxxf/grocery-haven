@@ -1,0 +1,722 @@
+[
+  {
+    "id": "bank_finance_0",
+    "label": "bank_finance",
+    "text": "The article about savings accounts and interest rates repeatedly mentioned the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 0,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_finance_1",
+    "label": "bank_finance",
+    "text": "The report on cash withdrawals and debit cards included a paragraph about the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 1,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_finance_2",
+    "label": "bank_finance",
+    "text": "During a discussion of mortgages and loan applications, she brought up the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 2,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_finance_3",
+    "label": "bank_finance",
+    "text": "While reading about checking accounts and money transfers, he noticed a reference to the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 3,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_finance_4",
+    "label": "bank_finance",
+    "text": "In a textbook chapter on credit limits and financial deposits, they described the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 4,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_finance_5",
+    "label": "bank_finance",
+    "text": "The documentary about currency exchange and financial services devoted a section to the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 5,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_finance_6",
+    "label": "bank_finance",
+    "text": "In the context of business lending and account balances, the speaker discussed the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 6,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_finance_7",
+    "label": "bank_finance",
+    "text": "The interview about cashier checks and savings deposits returned to the subject of the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 7,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_finance_8",
+    "label": "bank_finance",
+    "text": "The news story about deposit insurance and account holders referred to the bank",
+    "split": "heldout",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 8,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_finance_9",
+    "label": "bank_finance",
+    "text": "A detailed account of ATM withdrawals and replacement debit cards included the bank",
+    "split": "heldout",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 9,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_finance_10",
+    "label": "bank_finance",
+    "text": "The presentation on overseas transfers and financial loans ended by mentioning the bank",
+    "split": "heldout",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 10,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_finance_11",
+    "label": "bank_finance",
+    "text": "The essay about the payment system and personal savings specifically referred to the bank",
+    "split": "heldout",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 11,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_0",
+    "label": "bank_river",
+    "text": "The article about river currents and muddy shores repeatedly mentioned the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 0,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_1",
+    "label": "bank_river",
+    "text": "The report on stream water and reeds along the shore included a paragraph about the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 1,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_2",
+    "label": "bank_river",
+    "text": "During a discussion of fishing boats and the river edge, she brought up the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 2,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_3",
+    "label": "bank_river",
+    "text": "While reading about river flooding and erosion of the shore, he noticed a reference to the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 3,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_4",
+    "label": "bank_river",
+    "text": "In a textbook chapter on canoes and the edge of the stream, they described the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 4,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_5",
+    "label": "bank_river",
+    "text": "The documentary about water levels and the grassy riverside devoted a section to the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 5,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_6",
+    "label": "bank_river",
+    "text": "In the context of duck nests beside the flowing creek, the speaker discussed the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 6,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_7",
+    "label": "bank_river",
+    "text": "The interview about river bends and the sloping shoreline returned to the subject of the bank",
+    "split": "fit",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 7,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_8",
+    "label": "bank_river",
+    "text": "The news story about wetland reeds beside the river channel referred to the bank",
+    "split": "heldout",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 8,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_9",
+    "label": "bank_river",
+    "text": "A detailed account of muddy slopes beside the river current included the bank",
+    "split": "heldout",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 9,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_10",
+    "label": "bank_river",
+    "text": "The presentation on fishing beside a fast flowing stream ended by mentioning the bank",
+    "split": "heldout",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 10,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "bank_river_11",
+    "label": "bank_river",
+    "text": "The essay about erosion near a wooden river bridge specifically referred to the bank",
+    "split": "heldout",
+    "lang": "en",
+    "target": "bank",
+    "carrier_index": 11,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_0",
+    "label": "apple_fruit",
+    "text": "The article about orchards and ripe fruit repeatedly mentioned apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 0,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_1",
+    "label": "apple_fruit",
+    "text": "The report on vitamins and fruit nutrition included a paragraph about apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 1,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_2",
+    "label": "apple_fruit",
+    "text": "During a discussion of fruit salad and fresh produce, she brought up apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 2,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_3",
+    "label": "apple_fruit",
+    "text": "While reading about pie fillings and peeled fruit, he noticed a reference to apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 3,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_4",
+    "label": "apple_fruit",
+    "text": "In a textbook chapter on fruit baskets and green skins, they described apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 4,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_5",
+    "label": "apple_fruit",
+    "text": "The documentary about fruit trees and the harvest devoted a section to apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 5,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_6",
+    "label": "apple_fruit",
+    "text": "In the context of dietary fiber and fresh fruit, the speaker discussed apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 6,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_7",
+    "label": "apple_fruit",
+    "text": "The interview about fruit farms and red skins returned to the subject of apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 7,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_8",
+    "label": "apple_fruit",
+    "text": "The news story about fruit snacks and sweet juice referred to apple",
+    "split": "heldout",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 8,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_9",
+    "label": "apple_fruit",
+    "text": "A detailed account of ripe fruit picked from trees included apple",
+    "split": "heldout",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 9,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_10",
+    "label": "apple_fruit",
+    "text": "The presentation on baked fruit served as dessert ended by mentioning apple",
+    "split": "heldout",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 10,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_fruit_11",
+    "label": "apple_fruit",
+    "text": "The essay about fresh fruit beside bananas specifically referred to apple",
+    "split": "heldout",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 11,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_0",
+    "label": "apple_company",
+    "text": "The article about iPhone design and smartphone sales repeatedly mentioned apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 0,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_1",
+    "label": "apple_company",
+    "text": "The report on Mac laptops and computer hardware included a paragraph about apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 1,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_2",
+    "label": "apple_company",
+    "text": "During a discussion of iPad tablets and their software, she brought up apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 2,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_3",
+    "label": "apple_company",
+    "text": "While reading about smartwatches and watchOS, he noticed a reference to apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 3,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_4",
+    "label": "apple_company",
+    "text": "In a textbook chapter on the App Store and app developers, they described apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 4,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_5",
+    "label": "apple_company",
+    "text": "The documentary about Macintosh computers and their manufacturer devoted a section to apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 5,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_6",
+    "label": "apple_company",
+    "text": "In the context of iOS updates and smartphone software, the speaker discussed apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 6,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_7",
+    "label": "apple_company",
+    "text": "The interview about M-series processors and computer chips returned to the subject of apple",
+    "split": "fit",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 7,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_8",
+    "label": "apple_company",
+    "text": "The news story about AirPods and wireless headphones referred to apple",
+    "split": "heldout",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 8,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_9",
+    "label": "apple_company",
+    "text": "A detailed account of Vision Pro and wearable devices included apple",
+    "split": "heldout",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 9,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_10",
+    "label": "apple_company",
+    "text": "The presentation on iMessage and messaging services ended by mentioning apple",
+    "split": "heldout",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 10,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "apple_company_11",
+    "label": "apple_company",
+    "text": "The essay about FaceTime and video calling software specifically referred to apple",
+    "split": "heldout",
+    "lang": "en",
+    "target": "apple",
+    "carrier_index": 11,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_0",
+    "label": "苹果水果",
+    "text": "那篇讨论果园和成熟的水果的文章反复提到了苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 0,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_1",
+    "label": "苹果水果",
+    "text": "那份关于维生素和水果营养的报告有一段内容专门谈到苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 1,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_2",
+    "label": "苹果水果",
+    "text": "在讨论水果沙拉和新鲜果蔬的时候，她提到了苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 2,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_3",
+    "label": "苹果水果",
+    "text": "阅读关于果馅饼和削皮的水果的资料时，他注意到了其中提到的苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 3,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_4",
+    "label": "苹果水果",
+    "text": "教科书关于水果篮和青色果皮的一章描述了苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 4,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_5",
+    "label": "苹果水果",
+    "text": "那部关于果树和水果收成的纪录片用了一节来介绍苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 5,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_6",
+    "label": "苹果水果",
+    "text": "在膳食纤维和新鲜水果这个背景下，演讲者谈到了苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 6,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_7",
+    "label": "苹果水果",
+    "text": "那次关于果园农场和红色果皮的采访又回到了这个话题：苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 7,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_8",
+    "label": "苹果水果",
+    "text": "那条关于水果点心和甜果汁的新闻报道提到了苹果",
+    "split": "heldout",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 8,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_9",
+    "label": "苹果水果",
+    "text": "一份关于从树上摘下的成熟水果的详细记录包括了苹果",
+    "split": "heldout",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 9,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_10",
+    "label": "苹果水果",
+    "text": "关于烤制水果甜点的演示最后提到了苹果",
+    "split": "heldout",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 10,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果水果_11",
+    "label": "苹果水果",
+    "text": "那篇关于香蕉旁边的新鲜水果的文章明确提到了苹果",
+    "split": "heldout",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 11,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_0",
+    "label": "苹果公司",
+    "text": "那篇讨论iPhone设计和智能手机销量的文章反复提到了苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 0,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_1",
+    "label": "苹果公司",
+    "text": "那份关于Mac笔记本电脑和计算机硬件的报告有一段内容专门谈到苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 1,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_2",
+    "label": "苹果公司",
+    "text": "在讨论iPad平板电脑及其软件的时候，她提到了苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 2,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_3",
+    "label": "苹果公司",
+    "text": "阅读关于智能手表和watchOS的资料时，他注意到了其中提到的苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 3,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_4",
+    "label": "苹果公司",
+    "text": "教科书关于App Store和应用开发者的一章描述了苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 4,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_5",
+    "label": "苹果公司",
+    "text": "那部关于Macintosh电脑及其制造商的纪录片用了一节来介绍苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 5,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_6",
+    "label": "苹果公司",
+    "text": "在iOS更新和智能手机软件这个背景下，演讲者谈到了苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 6,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_7",
+    "label": "苹果公司",
+    "text": "那次关于M系列处理器和电脑芯片的采访又回到了这个话题：苹果",
+    "split": "fit",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 7,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_8",
+    "label": "苹果公司",
+    "text": "那条关于AirPods和无线耳机的新闻报道提到了苹果",
+    "split": "heldout",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 8,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_9",
+    "label": "苹果公司",
+    "text": "一份关于Vision Pro和可穿戴设备的详细记录包括了苹果",
+    "split": "heldout",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 9,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_10",
+    "label": "苹果公司",
+    "text": "关于iMessage和消息服务的演示最后提到了苹果",
+    "split": "heldout",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 10,
+    "scope": "last target token, no future context; paired carrier per sense"
+  },
+  {
+    "id": "苹果公司_11",
+    "label": "苹果公司",
+    "text": "那篇关于FaceTime和视频通话软件的文章明确提到了苹果",
+    "split": "heldout",
+    "lang": "zh",
+    "target": "苹果",
+    "carrier_index": 11,
+    "scope": "last target token, no future context; paired carrier per sense"
+  }
+]

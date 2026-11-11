@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "layers": 64,
+  "position_layer_checks": 1280,
+  "difference_layer_checks": 704,
+  "coordinate_shape": [
+    64,
+    20,
+    5120
+  ],
+  "uniform_current_source_fingerprints": true,
+  "L63_actual_model_primary_positions": 9,
+  "maximum_reconstruction_error": 3.0096620321273804e-05
+}

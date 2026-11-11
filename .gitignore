@@ -38,3 +38,21 @@ minimax-h3-5090/drama_project/clips_20step/
 minimax-h3-5090/drama_project/composited_refs/
 minimax-h3-5090/drama_project/ost/
 minimax-h3-5090/drama_project/*.mp4
+
+# wechat-369 (lightweight scripts/reports only; weights and full experiment data stay local)
+wechat-369-icalens/**/*.safetensors
+wechat-369-icalens/**/*.npy
+wechat-369-icalens/**/*.npz
+wechat-369-icalens/**/*.log
+wechat-369-icalens/**/.cache/
+wechat-369-icalens/**/triton_cache/
+wechat-369-icalens/**/torchinductor_cache/
+wechat-369-icalens/hf_release/
+wechat-369-icalens/icalens_pkg/
+wechat-369-icalens/L[0-9][0-9]/
+wechat-369-icalens/corpus.jsonl
+wechat-369-icalens/summary.json
+wechat-369-icalens/polysemy_summary.json
+wechat-369-icalens/dual_dream/analysis_summary.json
+wechat-369-icalens/dual_dream/analysis_layers/
+wechat-369-icalens/dual_dream/analysis_layers_high_initial/
