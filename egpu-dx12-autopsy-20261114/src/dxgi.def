@@ -1,0 +1,22 @@
+LIBRARY dxgi
+EXPORTS
+ ApplyCompatResolutionQuirking=proxy_0 @1
+ CompatString=proxy_1 @2
+ CompatValue=proxy_2 @3
+ DXGIDumpJournal=proxy_3 @4
+ PIXBeginCapture=proxy_4 @5
+ PIXEndCapture=proxy_5 @6
+ PIXGetCaptureState=proxy_6 @7
+ SetAppCompatStringPointer=proxy_7 @8
+ UpdateHMDEmulationStatus=proxy_8 @9
+ CreateDXGIFactory=proxy_9 @10
+ CreateDXGIFactory1=proxy_10 @11
+ CreateDXGIFactory2=proxy_11 @12
+ DXGID3D10CreateDevice=proxy_12 @13
+ DXGID3D10CreateLayeredDevice=proxy_13 @14
+ DXGID3D10GetLayeredDeviceSize=proxy_14 @15
+ DXGID3D10RegisterLayers=proxy_15 @16
+ DXGIDeclareAdapterRemovalSupport=proxy_16 @17
+ DXGIDisableVBlankVirtualization=proxy_17 @18
+ DXGIGetDebugInterface1=proxy_18 @19
+ DXGIReportAdapterConfiguration=proxy_19 @20

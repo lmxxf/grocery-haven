@@ -1,0 +1,314 @@
+{
+  "baseline": {
+    "label": "baseline",
+    "window": {
+      "label": "baseline",
+      "startUtc": "2026-11-13T16:02:04.6666306Z",
+      "endUtc": "2026-11-13T16:03:08.4649148Z",
+      "endLogBytes": 225578,
+      "startLogBytes": 155653,
+      "secondsRequested": 60
+    },
+    "snapshot_count": 32,
+    "telemetry_seconds": 64.016,
+    "fps": 59.89127718070482,
+    "frame_sample_count": 3834,
+    "frame_median_ms": 16.6627,
+    "frame_p99_ms": 18.4919,
+    "dmon_samples": 60,
+    "sm_mean_pct": 76.88333333333334,
+    "rxpci_mean_MB_s": 1383.1333333333334,
+    "rxpci_p95_MB_s": 1495.0,
+    "txpci_mean_MB_s": 275.4,
+    "txpci_p95_MB_s": 301.0,
+    "interval_totals": {
+      "presents": 3834,
+      "upload_bindings": 17021177,
+      "upload_default_bytes": 23731318762,
+      "default_readback_bytes": 4940361648,
+      "submissions": 299103,
+      "commandlists": 847919,
+      "fence_events": 147763,
+      "fence_polls": 2803887
+    },
+    "final_promotion": {
+      "mode": "0",
+      "gpu_upload_supported": "1",
+      "promoted_heaps": "0",
+      "promoted_buffers": "0",
+      "promoted_live_mb": "0.000000",
+      "promoted_live_bytes": "0",
+      "promoted_peak_bytes": "0",
+      "promote_attempts": "0",
+      "promote_fallbacks": "0",
+      "quota_skips": "0",
+      "cbv_upload_creates": "0",
+      "cbv_promoted_creates": "0",
+      "srv_upload_creates": "312890",
+      "srv_promoted_creates": "0",
+      "root_upload_binds": "41053766",
+      "root_promoted_binds": "0",
+      "map_calls": "1344",
+      "map_upload_calls": "1344",
+      "map_promoted_calls": "0",
+      "map_explicit_reads": "0"
+    },
+    "live_bytes_by_type_median": [
+      5793661144.0,
+      142562304.0,
+      19070976.0,
+      0.0,
+      0.0
+    ],
+    "hook_failures_max": 0,
+    "mclk_median_MHz": 14001.0,
+    "pclk_median_MHz": 2497.0,
+    "custom_l1_live_bytes_max": 0,
+    "gpu_query_rows": 63,
+    "pcie_gen_seen": [
+      "4"
+    ],
+    "pcie_width_seen": [
+      "4"
+    ],
+    "gpu_temp_range_C": [
+      49.0,
+      51.39
+    ],
+    "power_mean_W": null
+  },
+  "baseline_uncapped": {
+    "label": "baseline_uncapped",
+    "window": {
+      "label": "baseline_uncapped",
+      "startUtc": "2026-11-13T16:08:40.1869265Z",
+      "endUtc": "2026-11-13T16:09:43.7057197Z",
+      "endLogBytes": 673138,
+      "startLogBytes": 596689,
+      "secondsRequested": 60
+    },
+    "snapshot_count": 35,
+    "telemetry_seconds": 63.641,
+    "fps": 65.99519177888469,
+    "frame_sample_count": 4200,
+    "frame_median_ms": 15.0715,
+    "frame_p99_ms": 17.711,
+    "dmon_samples": 60,
+    "sm_mean_pct": 80.21666666666667,
+    "rxpci_mean_MB_s": 1563.2,
+    "rxpci_p95_MB_s": 1897.0,
+    "txpci_mean_MB_s": 302.76666666666665,
+    "txpci_p95_MB_s": 326.0,
+    "interval_totals": {
+      "presents": 4200,
+      "upload_bindings": 18985693,
+      "upload_default_bytes": 26058672404,
+      "default_readback_bytes": 5413365376,
+      "submissions": 323230,
+      "commandlists": 926752,
+      "fence_events": 141219,
+      "fence_polls": 2975661
+    },
+    "final_promotion": {
+      "mode": "0",
+      "gpu_upload_supported": "1",
+      "promoted_heaps": "0",
+      "promoted_buffers": "0",
+      "promoted_live_mb": "0.000000",
+      "promoted_live_bytes": "0",
+      "promoted_peak_bytes": "0",
+      "promote_attempts": "0",
+      "promote_fallbacks": "0",
+      "quota_skips": "0",
+      "cbv_upload_creates": "0",
+      "cbv_promoted_creates": "0",
+      "srv_upload_creates": "677890",
+      "srv_promoted_creates": "0",
+      "root_upload_binds": "156456858",
+      "root_promoted_binds": "0",
+      "map_calls": "1476",
+      "map_upload_calls": "1476",
+      "map_promoted_calls": "0",
+      "map_explicit_reads": "0"
+    },
+    "live_bytes_by_type_median": [
+      5995249880,
+      197088256,
+      19070976,
+      0,
+      0
+    ],
+    "hook_failures_max": 0,
+    "mclk_median_MHz": 14001.0,
+    "pclk_median_MHz": 2827.0,
+    "custom_l1_live_bytes_max": 0,
+    "gpu_query_rows": 63,
+    "pcie_gen_seen": [
+      "4"
+    ],
+    "pcie_width_seen": [
+      "4"
+    ],
+    "gpu_temp_range_C": [
+      59.73,
+      64.4
+    ],
+    "power_mean_W": null
+  },
+  "narrow20": {
+    "label": "narrow20",
+    "window": {
+      "label": "narrow20",
+      "startUtc": "2026-11-13T16:13:03.4613132Z",
+      "endUtc": "2026-11-13T16:14:07.2415915Z",
+      "endLogBytes": 232156,
+      "startLogBytes": 152030,
+      "secondsRequested": 60
+    },
+    "snapshot_count": 36,
+    "telemetry_seconds": 64.844,
+    "fps": 66.62142989328234,
+    "frame_sample_count": 4320,
+    "frame_median_ms": 14.9431,
+    "frame_p99_ms": 17.4705,
+    "dmon_samples": 60,
+    "sm_mean_pct": 80.63333333333334,
+    "rxpci_mean_MB_s": 1589.8666666666666,
+    "rxpci_p95_MB_s": 1944.0,
+    "txpci_mean_MB_s": 295.71666666666664,
+    "txpci_p95_MB_s": 331.0,
+    "interval_totals": {
+      "presents": 4320,
+      "upload_bindings": 5301577,
+      "upload_default_bytes": 27045367614,
+      "default_readback_bytes": 5568056832,
+      "submissions": 335379,
+      "commandlists": 960705,
+      "fence_events": 162650,
+      "fence_polls": 3170822
+    },
+    "final_promotion": {
+      "mode": "1",
+      "gpu_upload_supported": "1",
+      "promoted_heaps": "0",
+      "promoted_buffers": "42",
+      "promoted_live_mb": "19.958008",
+      "promoted_live_bytes": "20927488",
+      "promoted_peak_bytes": "20971520",
+      "promote_attempts": "42",
+      "promote_fallbacks": "0",
+      "quota_skips": "66",
+      "cbv_upload_creates": "0",
+      "cbv_promoted_creates": "0",
+      "srv_upload_creates": "175616",
+      "srv_promoted_creates": "197717",
+      "root_upload_binds": "9385764",
+      "root_promoted_binds": "28846357",
+      "map_calls": "2191",
+      "map_upload_calls": "1784",
+      "map_promoted_calls": "407",
+      "map_explicit_reads": "0"
+    },
+    "live_bytes_by_type_median": [
+      5894455480.0,
+      163577856.0,
+      19070976.0,
+      0.0,
+      20927488.0
+    ],
+    "hook_failures_max": 0,
+    "mclk_median_MHz": 14001.0,
+    "pclk_median_MHz": 2835.0,
+    "custom_l1_live_bytes_max": 0,
+    "gpu_query_rows": 63,
+    "pcie_gen_seen": [
+      "4"
+    ],
+    "pcie_width_seen": [
+      "4"
+    ],
+    "gpu_temp_range_C": [
+      55.01,
+      61.72
+    ],
+    "power_mean_W": null
+  },
+  "wide256": {
+    "label": "wide256",
+    "window": {
+      "label": "wide256",
+      "startUtc": "2026-11-13T16:17:37.4811026Z",
+      "endUtc": "2026-11-13T16:18:41.2392678Z",
+      "endLogBytes": 265551,
+      "startLogBytes": 190228,
+      "secondsRequested": 60
+    },
+    "snapshot_count": 34,
+    "telemetry_seconds": 64.313,
+    "fps": 63.43974002145756,
+    "frame_sample_count": 4080,
+    "frame_median_ms": 15.7176,
+    "frame_p99_ms": 18.0352,
+    "dmon_samples": 60,
+    "sm_mean_pct": 70.21666666666667,
+    "rxpci_mean_MB_s": 1630.4,
+    "rxpci_p95_MB_s": 1723.0,
+    "txpci_mean_MB_s": 197.1,
+    "txpci_p95_MB_s": 216.0,
+    "interval_totals": {
+      "presents": 4080,
+      "upload_bindings": 0,
+      "upload_default_bytes": 25478841623,
+      "default_readback_bytes": 5258706688,
+      "submissions": 325400,
+      "commandlists": 914741,
+      "fence_events": 168039,
+      "fence_polls": 3040700
+    },
+    "final_promotion": {
+      "mode": "1",
+      "gpu_upload_supported": "1",
+      "promoted_heaps": "2",
+      "promoted_buffers": "169",
+      "promoted_live_mb": "163.958008",
+      "promoted_live_bytes": "171922432",
+      "promoted_peak_bytes": "268391424",
+      "promote_attempts": "171",
+      "promote_fallbacks": "0",
+      "quota_skips": "23",
+      "cbv_upload_creates": "0",
+      "cbv_promoted_creates": "0",
+      "srv_upload_creates": "80",
+      "srv_promoted_creates": "324231",
+      "root_upload_binds": "156",
+      "root_promoted_binds": "39244051",
+      "map_calls": "2545",
+      "map_upload_calls": "83",
+      "map_promoted_calls": "2462",
+      "map_explicit_reads": "0"
+    },
+    "live_bytes_by_type_median": [
+      5860901048.0,
+      8388608.0,
+      19070976.0,
+      0.0,
+      138368000.0
+    ],
+    "hook_failures_max": 0,
+    "mclk_median_MHz": 14001.0,
+    "pclk_median_MHz": 2835.0,
+    "custom_l1_live_bytes_max": 0,
+    "gpu_query_rows": 63,
+    "pcie_gen_seen": [
+      "4"
+    ],
+    "pcie_width_seen": [
+      "4"
+    ],
+    "gpu_temp_range_C": [
+      54.98,
+      60.29
+    ],
+    "power_mean_W": null
+  }
+}

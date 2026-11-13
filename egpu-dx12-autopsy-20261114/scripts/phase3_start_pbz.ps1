@@ -1,0 +1,5 @@
+$env:SteamAppId='4115450'
+$env:SteamGameId='4115450'
+$exe='D:\SteamLibrary\steamapps\common\PBZ\platform\steam\PBZ.exe'
+Start-Process $exe -WorkingDirectory (Split-Path $exe) -ArgumentList 'ProjectPBZ -basedir="D:\SteamLibrary\steamapps\common\PBZ\ProjectPBZ\Binaries\Win64" -pc-platform=Steam'
+'engine_launch_requested'

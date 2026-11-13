@@ -1,0 +1,401 @@
+{
+  "label": "wukong_dlss_perf_base",
+  "windows": 66,
+  "presents": 8936,
+  "seconds": 132.594,
+  "fps": 67.39369805571897,
+  "frame_median_ms": 13.829049999999999,
+  "frame_p99_ms": 21.4871,
+  "dmon_n": 150,
+  "sm_mean": 80.15333333333334,
+  "sm_median": 91.0,
+  "rx_MB_s": 907.74,
+  "tx_MB_s": 384.72,
+  "api": {
+    "present": {
+      "calls": 8936,
+      "total_us": 3752757.4999999986,
+      "long_calls": 1052,
+      "max_us": 10367.6,
+      "ms_per_present": 0.41995943375111894
+    },
+    "exec": {
+      "calls": 219213,
+      "total_us": 9449219.799999999,
+      "long_calls": 146,
+      "max_us": 21840.6,
+      "ms_per_present": 1.0574328334825425
+    },
+    "map_upload": {
+      "calls": 843,
+      "total_us": 317678.8,
+      "long_calls": 262,
+      "max_us": 4465.6,
+      "ms_per_present": 0.03555044762757385
+    },
+    "map_readback": {
+      "calls": 8551,
+      "total_us": 15446.900000000001,
+      "long_calls": 0,
+      "max_us": 92.6,
+      "ms_per_present": 0.001728614592658908
+    },
+    "map_other": {
+      "calls": 0,
+      "total_us": 0.0,
+      "long_calls": 0,
+      "max_us": 0,
+      "ms_per_present": 0.0
+    },
+    "fence_wait": {
+      "calls": 290580,
+      "total_us": 127695660.9,
+      "long_calls": 63771,
+      "max_us": 1767010.3,
+      "ms_per_present": 14.290024720232767
+    },
+    "other_wait": {
+      "calls": 5162709,
+      "total_us": 11391690547.800001,
+      "long_calls": 1263379,
+      "max_us": 720385941.6,
+      "ms_per_present": 1274.8087005147718
+    },
+    "fence_event": {
+      "calls": 161172,
+      "total_us": 908988.5000000002,
+      "long_calls": 0,
+      "max_us": 411.0,
+      "ms_per_present": 0.1017220792300806
+    },
+    "fence_poll": {
+      "calls": 1457861,
+      "total_us": 111963.5,
+      "long_calls": 0,
+      "max_us": 387.1,
+      "ms_per_present": 0.012529487466427932
+    },
+    "other_present": {
+      "calls": 0,
+      "total_us": 0.0,
+      "long_calls": 0,
+      "max_us": 0,
+      "ms_per_present": 0.0
+    }
+  },
+  "threads": {
+    "25084|FAsyncPurge": {
+      "other_wait": 14.827684377797675
+    },
+    "8|Background_Worker_#10": {
+      "other_wait": 12.372795221575652,
+      "map_readback": 1.074306177260519e-06,
+      "map_upload": 2.2045658012533577e-06,
+      "fence_poll": 4.923903312444047e-07
+    },
+    "32008|RHISubmissionThread": {
+      "exec": 0.7732765778871978,
+      "other_wait": 12.342977976723366,
+      "fence_poll": 0.004944247985675918
+    },
+    "26892|OnlineAsyncTaskThreadSteam_DefaultInstance": {
+      "other_wait": 14.803792524619514
+    },
+    "21904|IPC:CSteamEngine": {
+      "other_wait": 13.338206871083251
+    },
+    "28432|unnamed": {
+      "other_wait": 14.836077092658908
+    },
+    "19988|unnamed": {
+      "other_wait": 16.801282822291856
+    },
+    "2460|unnamed": {
+      "other_wait": 13.97237277305282
+    },
+    "32160|Background_Worker_#11": {
+      "other_wait": 12.399756692032229,
+      "map_upload": 7.515666965085047e-05,
+      "map_readback": 6.826320501342882e-07,
+      "fence_poll": 4.923903312444047e-07
+    },
+    "27168|FChunkCacheWorker": {
+      "other_wait": 1.325939659803044
+    },
+    "27684|Background_Worker_#8": {
+      "other_wait": 12.67492018800358,
+      "map_readback": 5.483437779767234e-07,
+      "map_upload": 3.077439570277529e-06,
+      "fence_poll": 2.4619516562220235e-07
+    },
+    "29996|IOThreadPool_#2": {
+      "other_wait": 14.109012130707253
+    },
+    "12716|IOThreadPool_#3": {
+      "other_wait": 14.069704319606087
+    },
+    "30768|unnamed": {
+      "other_wait": 14.838551119068937
+    },
+    "31924|Background_Worker_#2": {
+      "other_wait": 12.564604308415396,
+      "map_readback": 6.93822739480752e-07,
+      "map_upload": 4.835496866606983e-05,
+      "fence_poll": 4.2524619516562225e-07
+    },
+    "28852|unnamed": {
+      "other_wait": 14.231194650850494
+    },
+    "18488|CHTTPCacheFileThreadPool:0": {
+      "other_wait": 14.844740409579233
+    },
+    "27192|Background_Worker_#5": {
+      "other_wait": 12.53591290286482,
+      "map_readback": 5.483437779767234e-07,
+      "map_upload": 2.4059982094897046e-06,
+      "fence_poll": 3.692927484333035e-07
+    },
+    "28344|Background_Worker_#3": {
+      "other_wait": 12.563799496418978,
+      "map_upload": 3.0550581915846016e-06,
+      "fence_poll": 3.581020590868398e-07
+    },
+    "30648|Background_Worker_#4": {
+      "other_wait": 12.454059545658012,
+      "map_readback": 1.0362578334825424e-05,
+      "map_upload": 1.4995523724261412e-06,
+      "fence_poll": 4.028648164726948e-07
+    },
+    "28220|FAsyncLoadingThread": {
+      "other_wait": 13.744284579230083
+    },
+    "29716|CNet_Encrypt:0": {
+      "other_wait": 14.845110944494175
+    },
+    "31172|RHIThread": {
+      "present": 0.41995943375111905,
+      "exec": 0.28417779767233664,
+      "other_wait": 3.2163280774395697,
+      "fence_poll": 0.001168498209489705,
+      "map_upload": 0.0047655326768128925,
+      "map_readback": 8.784691136974038e-06
+    },
+    "26828|ParllelMovementThread": {
+      "other_wait": 14.404877898388541
+    },
+    "15696|Foreground_Worker_#1": {
+      "other_wait": 9.46287084825425,
+      "map_readback": 7.273948075201432e-07,
+      "fence_poll": 3.1557743957027747e-06
+    },
+    "31312|RenderThread_1": {
+      "map_upload": 0.03042958818263205,
+      "other_wait": 7.394602853625782,
+      "fence_poll": 3.528424350940019e-05,
+      "map_readback": 0.0016994852282900626
+    },
+    "7124|IOThreadPool_#1": {
+      "other_wait": 20.630545434198748
+    },
+    "32596|Background_Worker_#13": {
+      "other_wait": 12.523855841539834,
+      "map_readback": 8.393017009847806e-07,
+      "map_upload": 3.346016114592659e-06,
+      "fence_poll": 4.7000895255147723e-07
+    },
+    "11736|CHTTPClientThreadPool:0": {
+      "other_wait": 14.844671161593551
+    },
+    "30168|Background_Worker_#9": {
+      "other_wait": 12.474002965532677,
+      "map_upload": 3.726499552372426e-06,
+      "fence_poll": 6.04297224709042e-07
+    },
+    "23772|Background_Worker_#7": {
+      "other_wait": 12.507364335273055,
+      "fence_poll": 4.252461951656223e-07,
+      "map_upload": 3.3460161145926592e-06
+    },
+    "12384|Background_Worker_#12": {
+      "other_wait": 12.220448791405552,
+      "map_readback": 7.83348254252462e-07,
+      "map_upload": 2.853625783348254e-06,
+      "fence_poll": 4.7000895255147723e-07
+    },
+    "21348|CJobMgr::m_WorkThreadPool:0": {
+      "other_wait": 14.844667893912263
+    },
+    "25320|unnamed": {
+      "other_wait": 14.826075414055502
+    },
+    "7532|GameThread": {
+      "other_wait": 1.3572782676812891
+    },
+    "32492|RHIInterruptThread": {
+      "fence_wait": 14.290622112802144,
+      "fence_event": 0.10172513428827216,
+      "fence_poll": 0.006369639659803043
+    },
+    "13552|Background_Worker_#14": {
+      "other_wait": 12.5221269919427,
+      "map_readback": 3.4355416293643687e-06,
+      "map_upload": 4.521038495971353e-06,
+      "fence_poll": 5.259623992837958e-07
+    },
+    "32624|unnamed": {
+      "other_wait": 85.58142256042973
+    },
+    "31080|unnamed": {
+      "other_wait": 14.822982911817364
+    },
+    "1788|IOThreadPool_#0": {
+      "other_wait": 14.072747638764545
+    },
+    "24700|Foreground_Worker_#0": {
+      "other_wait": 9.586018375111907,
+      "fence_poll": 2.7641002685765445e-06
+    },
+    "12156|Background_Worker_#6": {
+      "other_wait": 12.658824742614144,
+      "map_readback": 8.281110116383169e-07,
+      "map_upload": 4.683303491495075e-05,
+      "fence_poll": 4.1405550581915846e-07
+    },
+    "12044|Reserve_Worker_#14": {
+      "other_wait": 34.611082419427035,
+      "map_upload": 7.83348254252462e-07,
+      "fence_poll": 3.357206803939123e-08
+    },
+    "3684|SteamEngineWatchdogThread": {
+      "other_wait": 14.548672224709044
+    },
+    "13776|Reserve_Worker_#13": {
+      "other_wait": 1.8660615040286486,
+      "map_upload": 8.169203222918532e-07,
+      "fence_poll": 6.714413607878244e-08
+    },
+    "5628|unnamed": {
+      "other_wait": 0.4296304386750224
+    },
+    "31772|unnamed": {
+      "other_wait": 14.771801264547896
+    },
+    "28836|HttpManagerThread": {
+      "other_wait": 6.612578334825425e-05
+    },
+    "29392|ThreadPoolForegroundWorker": {
+      "other_wait": 8.576476387645478
+    },
+    "11588|Reserve_Worker_#12": {
+      "other_wait": 93.87584070053717,
+      "map_upload": 4.358773500447627e-05,
+      "fence_poll": 4.4762757385854974e-08
+    },
+    "29896|unnamed": {
+      "other_wait": 37.48832429498656
+    },
+    "32604|BackgroundThreadPool_#1": {
+      "other_wait": 1.7664801141450315
+    },
+    "22388|ThreadPoolServiceThread": {
+      "other_wait": 83.77770208146822
+    },
+    "30428|ThreadPoolSingleThreadForegroundBlocking1": {
+      "other_wait": 69.02335655774397
+    },
+    "11620|FChunkCacheWorker": {
+      "other_wait": 0.5830893464637422
+    },
+    "32384|FChunkCacheWorker": {
+      "other_wait": 6.375317793196061
+    },
+    "17692|FChunkCacheWorker": {
+      "other_wait": 2.2774876230975827
+    }
+  },
+  "copies": {
+    "upload_to_default_buffer": {
+      "calls": 1150358,
+      "bytes": 35295209704,
+      "unknown": 0,
+      "MB_s": 266.19009686712826,
+      "bytes_per_present": 3949777.2721575648
+    },
+    "upload_to_default_texture": {
+      "calls": 49125,
+      "bytes": 4213544960,
+      "unknown": 0,
+      "MB_s": 31.777795073683578,
+      "bytes_per_present": 471524.72694717994
+    },
+    "default_to_readback_buffer": {
+      "calls": 38532,
+      "bytes": 29806474564,
+      "unknown": 0,
+      "MB_s": 224.795047769884,
+      "bytes_per_present": 3335549.973589973
+    },
+    "default_to_readback_texture": {
+      "calls": 8572,
+      "bytes": 0,
+      "unknown": 8572,
+      "MB_s": 0.0,
+      "bytes_per_present": 0.0
+    }
+  },
+  "target_windows": [
+    {
+      "utc": "2026-11-13T17:32:15.955Z",
+      "fps": 37.72,
+      "gpu": 1.5,
+      "cpu": {
+        "present": 0.456737,
+        "exec": 0.713054,
+        "map_upload": 0.152918,
+        "map_readback": 0.000518,
+        "map_other": 0.0,
+        "fence_wait": 26.180621,
+        "other_wait": 1526.416545,
+        "fence_event": 0.044049,
+        "fence_poll": 0.008779,
+        "other_present": 0.0
+      }
+    },
+    {
+      "utc": "2026-11-13T17:32:23.998Z",
+      "fps": 49.5,
+      "gpu": 50.5,
+      "cpu": {
+        "present": 0.444982,
+        "exec": 1.217608,
+        "map_upload": 0.030692,
+        "map_readback": 0.002014,
+        "map_other": 0.0,
+        "fence_wait": 19.492584,
+        "other_wait": 1443.945223,
+        "fence_event": 0.118529,
+        "fence_poll": 0.013728,
+        "other_present": 0.0
+      }
+    }
+  ],
+  "hook_failures": 0,
+  "readback_size_bins_all_captured_windows": [
+    147,
+    29359,
+    25261,
+    16689
+  ],
+  "event_ring_evictions": 0,
+  "thread_slot_overflow": 60,
+  "mixed_fence_wait_us": 0.0,
+  "pcie_gen_seen": [
+    "1",
+    "2",
+    "4"
+  ],
+  "pcie_width_seen": [
+    "4"
+  ],
+  "gpu_query_rows": 159
+}

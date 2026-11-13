@@ -1,0 +1,2 @@
+Get-WinEvent -FilterHashtable @{LogName='Application';StartTime=(Get-Date).AddMinutes(-15)} -MaxEvents 50 -ErrorAction SilentlyContinue | Where-Object {$_.Id -in @(1000,1001,1026)} | Select-Object TimeCreated,Id,Message | Format-List
+Get-ChildItem 'C:\Users\seth\AppData\Local\ProjectPBZ\Saved\PBZCrashes' -Recurse -File -ErrorAction SilentlyContinue | Sort-Object LastWriteTime -Descending | Select-Object -First 8 FullName,Length,LastWriteTime | Format-List
