@@ -65,3 +65,5 @@ icalens-v3-exp*/**/top3_joint_statistics.json
 icalens-v3-exp1b-archaic-nucai-20261116/sources/*.pdf
 icalens-v3-exp1b-archaic-nucai-20261116/sources/*.raw
 icalens-v3-exp1b-archaic-nucai-20261116/sources/honglou/
+icalens-v3-exp2-cot-navigation-20261117/island_labels/
+icalens-v3-exp2-cot-navigation-20261117/traces/

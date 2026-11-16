@@ -1,0 +1,100 @@
+[
+  {
+    "pair": "sum",
+    "start": 47,
+    "end": 138,
+    "metrics": {
+      "s_geo": {
+        "n": 91,
+        "natural_mean": 0.6725670695304871,
+        "forced_mean": 0.6725670695304871,
+        "max_abs_diff": 0.0
+      },
+      "kappa_geo": {
+        "n": 91,
+        "natural_mean": 2.9171671867370605,
+        "forced_mean": 2.9171671867370605,
+        "max_abs_diff": 0.0
+      },
+      "erank_dir": {
+        "n": 91,
+        "natural_mean": 4.002596378326416,
+        "forced_mean": 4.002596378326416,
+        "max_abs_diff": 0.0
+      },
+      "zmax_positive": {
+        "n": 91,
+        "natural_mean": 10.183547019958496,
+        "forced_mean": 10.183547019958496,
+        "max_abs_diff": 0.0
+      },
+      "top20_energy": {
+        "n": 91,
+        "natural_mean": 0.07568992674350739,
+        "forced_mean": 0.07568992674350739,
+        "max_abs_diff": 0.0
+      },
+      "deltaC_10": {
+        "n": 91,
+        "natural_mean": -0.049151476472616196,
+        "forced_mean": -0.049151476472616196,
+        "max_abs_diff": 0.0
+      },
+      "H_bits": {
+        "n": 91,
+        "natural_mean": 0.4242808520793915,
+        "forced_mean": 0.4242808520793915,
+        "max_abs_diff": 0.0
+      }
+    }
+  },
+  {
+    "pair": "mul",
+    "start": 43,
+    "end": 134,
+    "metrics": {
+      "s_geo": {
+        "n": 91,
+        "natural_mean": 0.6744822859764099,
+        "forced_mean": 0.6744822859764099,
+        "max_abs_diff": 0.0
+      },
+      "kappa_geo": {
+        "n": 91,
+        "natural_mean": 2.9030845165252686,
+        "forced_mean": 2.9030845165252686,
+        "max_abs_diff": 0.0
+      },
+      "erank_dir": {
+        "n": 91,
+        "natural_mean": 4.01680326461792,
+        "forced_mean": 4.01680326461792,
+        "max_abs_diff": 0.0
+      },
+      "zmax_positive": {
+        "n": 91,
+        "natural_mean": 10.71529769897461,
+        "forced_mean": 10.71529769897461,
+        "max_abs_diff": 0.0
+      },
+      "top20_energy": {
+        "n": 91,
+        "natural_mean": 0.07947586476802826,
+        "forced_mean": 0.07947586476802826,
+        "max_abs_diff": 0.0
+      },
+      "deltaC_10": {
+        "n": 91,
+        "natural_mean": -0.04574771597981453,
+        "forced_mean": -0.04574771597981453,
+        "max_abs_diff": 0.0
+      },
+      "H_bits": {
+        "n": 91,
+        "natural_mean": 0.39660120010375977,
+        "forced_mean": 0.39660120010375977,
+        "max_abs_diff": 0.0
+      }
+    }
+  }
+]

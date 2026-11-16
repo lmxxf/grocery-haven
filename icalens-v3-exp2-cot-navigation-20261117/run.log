@@ -1,0 +1,638 @@
+LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '119977560 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '110402916 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '109333856 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '108544824 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '107800680 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106992380 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106228808 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105467440 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104718116 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103974828 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103247112 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102491596 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101732072 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100992860 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100233612 kB', 'SwapFree': '12463028 kB'}
+LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99471684 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98714436 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97970312 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97206820 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96432980 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95673976 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94931888 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94170612 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93394316 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92640772 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91897940 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91137392 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90360832 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89614056 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88870572 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88113088 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87357520 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86599900 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85858872 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85104860 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84356640 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83596556 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82850964 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82066988 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81308332 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80547496 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79803408 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79029212 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78266796 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77513540 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76786296 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76016980 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75255168 kB', 'SwapFree': '12463032 kB'}
+LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74490308 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73756108 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72978908 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72220692 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71461200 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70716528 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69961188 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69202832 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68449072 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67702428 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66948228 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66194248 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65437120 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64681788 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63916236 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63158940 kB', 'SwapFree': '12463036 kB'}
+LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62399748 kB', 'SwapFree': '12463036 kB'}
+MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '61659312 kB', 'SwapFree': '12463036 kB'}
+HISTORY Step 2｜27B一次驻留开始
+[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+[transformers] `causal_conv1d_update` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+DECODE rail_01 1 4.85
+DECODE rail_01 21 9.54
+DECODE rail_01 41 14.23
+HISTORY Step 2/3/4 真实生成｜rail_01
+HISTORY Step 2 排坑｜缓存解码与整段重放不是逐位同一个数
+DECODE rail_02 1 0.54
+DECODE rail_02 21 5.24
+DECODE rail_02 41 9.95
+HISTORY Step 2/3/4 真实生成｜rail_02
+DECODE rail_03 1 0.5
+DECODE rail_03 21 5.2
+DECODE rail_03 41 9.9
+HISTORY Step 2/3/4 真实生成｜rail_03
+DECODE rail_04 1 0.54
+DECODE rail_04 21 5.27
+DECODE rail_04 41 9.95
+HISTORY Step 2/3/4 真实生成｜rail_04
+DECODE rail_05 1 0.5
+DECODE rail_05 21 5.2
+DECODE rail_05 41 9.9
+HISTORY Step 2/3/4 真实生成｜rail_05
+DECODE rail_06 1 0.55
+DECODE rail_06 21 5.26
+DECODE rail_06 41 9.95
+HISTORY Step 2/3/4 真实生成｜rail_06
+DECODE rail_07 1 0.5
+DECODE rail_07 21 5.22
+DECODE rail_07 41 9.91
+HISTORY Step 2/3/4 真实生成｜rail_07
+DECODE rail_08 1 0.53
+DECODE rail_08 21 5.23
+DECODE rail_08 41 9.93
+HISTORY Step 2/3/4 真实生成｜rail_08
+DECODE reason_01 1 0.74
+DECODE reason_01 21 5.47
+DECODE reason_01 41 10.18
+DECODE reason_01 61 14.89
+DECODE reason_01 81 19.58
+DECODE reason_01 101 24.28
+DECODE reason_01 121 28.98
+DECODE reason_01 141 33.69
+DECODE reason_01 161 38.48
+HISTORY Step 2/3/4 真实生成｜reason_01
+DECODE reason_02 1 0.6
+DECODE reason_02 21 5.34
+DECODE reason_02 41 10.05
+DECODE reason_02 61 14.75
+DECODE reason_02 81 19.46
+DECODE reason_02 101 24.16
+DECODE reason_02 121 28.87
+DECODE reason_02 141 33.57
+DECODE reason_02 161 38.37
+HISTORY Step 2/3/4 真实生成｜reason_02
+DECODE reason_03 1 0.86
+DECODE reason_03 21 5.61
+DECODE reason_03 41 10.32
+DECODE reason_03 61 15.03
+DECODE reason_03 81 19.74
+DECODE reason_03 101 24.45
+DECODE reason_03 121 29.16
+DECODE reason_03 141 33.91
+DECODE reason_03 161 38.68
+HISTORY Step 2/3/4 真实生成｜reason_03
+DECODE reason_04 1 0.54
+DECODE reason_04 21 5.3
+DECODE reason_04 41 10.01
+DECODE reason_04 61 14.72
+DECODE reason_04 81 19.43
+DECODE reason_04 101 24.14
+DECODE reason_04 121 28.86
+DECODE reason_04 141 33.66
+DECODE reason_04 161 38.37
+HISTORY Step 2/3/4 真实生成｜reason_04
+DECODE reason_05 1 0.75
+DECODE reason_05 21 5.51
+DECODE reason_05 41 10.22
+DECODE reason_05 61 14.95
+DECODE reason_05 81 19.67
+DECODE reason_05 101 24.38
+DECODE reason_05 121 29.09
+DECODE reason_05 141 33.89
+DECODE reason_05 161 38.61
+HISTORY Step 2/3/4 真实生成｜reason_05
+DECODE reason_06 1 0.71
+DECODE reason_06 21 5.46
+DECODE reason_06 41 10.18
+DECODE reason_06 61 14.9
+DECODE reason_06 81 19.61
+DECODE reason_06 101 24.32
+DECODE reason_06 121 29.04
+DECODE reason_06 141 33.83
+DECODE reason_06 161 38.54
+HISTORY Step 2/3/4 真实生成｜reason_06
+DECODE reason_07 1 0.62
+DECODE reason_07 21 5.38
+DECODE reason_07 41 10.09
+DECODE reason_07 61 14.8
+DECODE reason_07 81 19.51
+DECODE reason_07 101 24.23
+DECODE reason_07 121 28.94
+DECODE reason_07 141 33.73
+DECODE reason_07 161 38.45
+HISTORY Step 2/3/4 真实生成｜reason_07
+DECODE reason_08 1 0.85
+DECODE reason_08 21 5.61
+DECODE reason_08 41 10.33
+DECODE reason_08 61 15.07
+DECODE reason_08 81 19.78
+DECODE reason_08 101 24.5
+DECODE reason_08 121 29.22
+DECODE reason_08 141 33.94
+DECODE reason_08 161 38.74
+HISTORY Step 2/3/4 真实生成｜reason_08
+DECODE age_normal 1 0.54
+DECODE age_normal 21 5.29
+DECODE age_normal 41 10.0
+DECODE age_normal 61 14.71
+DECODE age_normal 81 19.43
+DECODE age_normal 101 24.14
+HISTORY Step 2/3/4 真实生成｜age_normal
+DECODE age_trap 1 0.74
+DECODE age_trap 21 5.49
+DECODE age_trap 41 10.22
+DECODE age_trap 61 14.93
+DECODE age_trap 81 19.65
+DECODE age_trap 101 24.37
+HISTORY Step 2/3/4 真实生成｜age_trap
+DECODE lincoln_normal 1 0.54
+DECODE lincoln_normal 21 5.29
+DECODE lincoln_normal 41 10.0
+DECODE lincoln_normal 61 14.72
+DECODE lincoln_normal 81 19.44
+DECODE lincoln_normal 101 24.16
+HISTORY Step 2/3/4 真实生成｜lincoln_normal
+DECODE lincoln_trap 1 0.71
+DECODE lincoln_trap 21 5.46
+DECODE lincoln_trap 41 10.18
+DECODE lincoln_trap 61 14.89
+DECODE lincoln_trap 81 19.6
+DECODE lincoln_trap 101 24.32
+HISTORY Step 2/3/4 真实生成｜lincoln_trap
+DECODE literature_normal 1 0.53
+DECODE literature_normal 21 5.27
+DECODE literature_normal 41 9.98
+DECODE literature_normal 61 14.69
+DECODE literature_normal 81 19.4
+DECODE literature_normal 101 24.12
+HISTORY Step 2/3/4 真实生成｜literature_normal
+DECODE literature_trap 1 0.67
+DECODE literature_trap 21 5.42
+DECODE literature_trap 41 10.16
+DECODE literature_trap 61 14.87
+DECODE literature_trap 81 19.58
+DECODE literature_trap 101 24.3
+HISTORY Step 2/3/4 真实生成｜literature_trap
+DECODE table_normal 1 0.61
+DECODE table_normal 21 5.36
+DECODE table_normal 41 10.07
+DECODE table_normal 61 14.78
+DECODE table_normal 81 19.49
+DECODE table_normal 101 24.2
+HISTORY Step 2/3/4 真实生成｜table_normal
+DECODE table_trap 1 0.75
+DECODE table_trap 21 5.5
+DECODE table_trap 41 10.21
+DECODE table_trap 61 14.92
+DECODE table_trap 81 19.64
+DECODE table_trap 101 24.35
+HISTORY Step 2/3/4 真实生成｜table_trap
+DECODE shirt_normal 1 0.54
+DECODE shirt_normal 21 5.29
+DECODE shirt_normal 41 10.0
+DECODE shirt_normal 61 14.71
+DECODE shirt_normal 81 19.42
+DECODE shirt_normal 101 24.13
+HISTORY Step 2/3/4 真实生成｜shirt_normal
+DECODE shirt_trap 1 0.75
+DECODE shirt_trap 21 5.5
+DECODE shirt_trap 41 10.22
+DECODE shirt_trap 61 14.93
+DECODE shirt_trap 81 19.64
+DECODE shirt_trap 101 24.36
+HISTORY Step 2/3/4 真实生成｜shirt_trap
+DECODE triangle_normal 1 0.54
+DECODE triangle_normal 21 5.27
+DECODE triangle_normal 41 9.99
+DECODE triangle_normal 61 14.7
+DECODE triangle_normal 81 19.41
+DECODE triangle_normal 101 24.13
+HISTORY Step 2/3/4 真实生成｜triangle_normal
+DECODE triangle_trap 1 0.73
+DECODE triangle_trap 21 5.48
+DECODE triangle_trap 41 10.2
+DECODE triangle_trap 61 14.91
+DECODE triangle_trap 81 19.64
+DECODE triangle_trap 101 24.36
+HISTORY Step 2/3/4 真实生成｜triangle_trap
+DECODE correction_mul49 1 0.54
+DECODE correction_mul49 21 5.28
+DECODE correction_mul49 41 10.01
+DECODE correction_mul49 61 14.73
+DECODE correction_mul49 81 19.44
+DECODE correction_mul49 101 24.17
+DECODE correction_mul49 121 28.88
+DECODE correction_mul49 141 33.59
+HISTORY Step 2/3/4 真实生成｜correction_mul49
+DECODE correction_mul17 1 0.72
+DECODE correction_mul17 21 5.47
+DECODE correction_mul17 41 10.18
+DECODE correction_mul17 61 14.9
+DECODE correction_mul17 81 19.62
+DECODE correction_mul17 101 24.33
+DECODE correction_mul17 121 29.04
+DECODE correction_mul17 141 33.77
+HISTORY Step 2/3/4 真实生成｜correction_mul17
+DECODE correction_speed 1 0.81
+DECODE correction_speed 21 5.57
+DECODE correction_speed 41 10.29
+DECODE correction_speed 61 15.0
+DECODE correction_speed 81 19.73
+DECODE correction_speed 101 24.44
+DECODE correction_speed 121 29.16
+DECODE correction_speed 141 33.88
+HISTORY Step 2/3/4 真实生成｜correction_speed
+DECODE correction_batball 1 0.59
+DECODE correction_batball 21 5.38
+DECODE correction_batball 41 10.13
+DECODE correction_batball 61 14.85
+DECODE correction_batball 81 19.56
+DECODE correction_batball 101 24.28
+DECODE correction_batball 121 28.99
+DECODE correction_batball 141 33.7
+HISTORY Step 2/3/4 真实生成｜correction_batball
+DECODE port_sum_natural 1 0.68
+DECODE port_sum_natural 21 5.42
+DECODE port_sum_natural 41 10.13
+DECODE port_sum_natural 61 14.85
+DECODE port_sum_natural 81 19.57
+DECODE port_sum_natural 101 24.29
+DECODE port_sum_natural 121 29.03
+DECODE port_sum_natural 141 33.74
+DECODE port_sum_natural 161 38.54
+DECODE port_sum_natural 181 43.25
+HISTORY Step 2/3/4 真实生成｜port_sum_natural
+DECODE port_sum_forced 1 0.53
+DECODE port_sum_forced 21 5.27
+DECODE port_sum_forced 41 9.98
+DECODE port_sum_forced 61 14.71
+DECODE port_sum_forced 81 19.42
+DECODE port_sum_forced 101 24.13
+HISTORY Step 2/3/4 真实生成｜port_sum_forced
+DECODE port_mul_natural 1 0.68
+DECODE port_mul_natural 21 5.43
+DECODE port_mul_natural 41 10.14
+DECODE port_mul_natural 61 14.85
+DECODE port_mul_natural 81 19.57
+DECODE port_mul_natural 101 24.29
+DECODE port_mul_natural 121 29.0
+HISTORY Step 2/3/4 真实生成｜port_mul_natural
+DECODE port_mul_forced 1 0.52
+DECODE port_mul_forced 21 5.27
+DECODE port_mul_forced 41 9.98
+DECODE port_mul_forced 61 14.69
+DECODE port_mul_forced 81 19.41
+DECODE port_mul_forced 101 24.12
+HISTORY Step 2/3/4 真实生成｜port_mul_forced
+HISTORY Step 2 修正｜第一份解答与裸续写尾巴分开统计
+DECODE rail_09 1 0.51
+DECODE rail_09 21 5.24
+DECODE rail_09 41 9.94
+HISTORY Step 2/3/4 真实生成｜rail_09
+DECODE rail_10 1 0.5
+DECODE rail_10 21 5.23
+DECODE rail_10 41 9.94
+HISTORY Step 2/3/4 真实生成｜rail_10
+DECODE rail_11 1 0.5
+DECODE rail_11 21 5.23
+DECODE rail_11 41 9.95
+HISTORY Step 2/3/4 真实生成｜rail_11
+DECODE rail_12 1 0.56
+DECODE rail_12 21 5.28
+DECODE rail_12 41 9.99
+HISTORY Step 2/3/4 真实生成｜rail_12
+DECODE cycle_positive_control 1 0.68
+DECODE cycle_positive_control 21 5.43
+DECODE cycle_positive_control 41 10.14
+HISTORY Step 2/3/4 真实生成｜cycle_positive_control
+DECODE arithmetic_direct_control 1 0.52
+HISTORY Step 2/3/4 真实生成｜arithmetic_direct_control
+PROJECTED 0
+PROJECTED 1
+PROJECTED 2
+PROJECTED 3
+PROJECTED 4
+PROJECTED 5
+PROJECTED 6
+PROJECTED 7
+PROJECTED 8
+PROJECTED 9
+PROJECTED 10
+PROJECTED 11
+PROJECTED 12
+PROJECTED 13
+PROJECTED 14
+PROJECTED 15
+PROJECTED 16
+PROJECTED 17
+PROJECTED 18
+PROJECTED 19
+PROJECTED 20
+PROJECTED 21
+PROJECTED 22
+PROJECTED 23
+PROJECTED 24
+PROJECTED 25
+PROJECTED 26
+PROJECTED 27
+PROJECTED 28
+PROJECTED 29
+PROJECTED 30
+PROJECTED 31
+PROJECTED 32
+PROJECTED 33
+PROJECTED 34
+PROJECTED 35
+PROJECTED 36
+PROJECTED 37
+PROJECTED 38
+PROJECTED 39
+PROJECTED 40
+PROJECTED 41
+PROJECTED 42
+PROJECTED 43
+PROJECTED 44
+PROJECTED 45
+PROJECTED 46
+PROJECTED 47
+PROJECTED 48
+PROJECTED 49
+PROJECTED 50
+PROJECTED 51
+PROJECTED 52
+PROJECTED 53
+PROJECTED 54
+PROJECTED 55
+PROJECTED 56
+PROJECTED 57
+PROJECTED 58
+PROJECTED 59
+PROJECTED 60
+PROJECTED 61
+PROJECTED 62
+PROJECTED 63
+HISTORY Step 2 首轮量化｜先记读数，再给岛挂名字
+LABELLED 0 3097
+LABELLED 1 2736
+LABELLED 2 2513
+LABELLED 3 2369
+LABELLED 4 2354
+LABELLED 5 2253
+LABELLED 6 2178
+LABELLED 7 2088
+LABELLED 8 2057
+LABELLED 9 2011
+LABELLED 10 1991
+LABELLED 11 2047
+LABELLED 12 1990
+LABELLED 13 2056
+LABELLED 14 2062
+LABELLED 15 2181
+LABELLED 16 2111
+LABELLED 17 2150
+LABELLED 18 2078
+LABELLED 19 2024
+LABELLED 20 1978
+LABELLED 21 1925
+LABELLED 22 1953
+LABELLED 23 1840
+LABELLED 24 1779
+LABELLED 25 1711
+LABELLED 26 1764
+LABELLED 27 1760
+LABELLED 28 1710
+LABELLED 29 1836
+LABELLED 30 1862
+LABELLED 31 2021
+LABELLED 32 2079
+LABELLED 33 2068
+LABELLED 34 1927
+LABELLED 35 1965
+LABELLED 36 1825
+LABELLED 37 1873
+LABELLED 38 1790
+LABELLED 39 1792
+LABELLED 40 1755
+LABELLED 41 1760
+LABELLED 42 1685
+LABELLED 43 1778
+LABELLED 44 1695
+LABELLED 45 1811
+LABELLED 46 1783
+LABELLED 47 2021
+LABELLED 48 1907
+LABELLED 49 1959
+LABELLED 50 2119
+LABELLED 51 2201
+LABELLED 52 2132
+LABELLED 53 2081
+LABELLED 54 2186
+LABELLED 55 1992
+LABELLED 56 1874
+LABELLED 57 1833
+LABELLED 58 1819
+LABELLED 59 1756
+LABELLED 60 1720
+LABELLED 61 1750
+LABELLED 62 1760
+LABELLED 63 1671
+HISTORY Step 4 补跑决定｜先找真正提出EOS的正确短答
+DECODE port_eos_probe_0 1 0.59
+HISTORY Step 2/3/4 真实生成｜port_eos_probe_0
+DECODE port_eos_direct_forced 1 0.52
+DECODE port_eos_direct_forced 21 5.25
+DECODE port_eos_direct_forced 41 9.94
+DECODE port_eos_direct_forced 61 14.64
+DECODE port_eos_direct_forced 81 19.35
+HISTORY Step 2/3/4 真实生成｜port_eos_direct_forced
+PROJECTED 0
+PROJECTED 1
+PROJECTED 2
+PROJECTED 3
+PROJECTED 4
+PROJECTED 5
+PROJECTED 6
+PROJECTED 7
+PROJECTED 8
+PROJECTED 9
+PROJECTED 10
+PROJECTED 11
+PROJECTED 12
+PROJECTED 13
+PROJECTED 14
+PROJECTED 15
+PROJECTED 16
+PROJECTED 17
+PROJECTED 18
+PROJECTED 19
+PROJECTED 20
+PROJECTED 21
+PROJECTED 22
+PROJECTED 23
+PROJECTED 24
+PROJECTED 25
+PROJECTED 26
+PROJECTED 27
+PROJECTED 28
+PROJECTED 29
+PROJECTED 30
+PROJECTED 31
+PROJECTED 32
+PROJECTED 33
+PROJECTED 34
+PROJECTED 35
+PROJECTED 36
+PROJECTED 37
+PROJECTED 38
+PROJECTED 39
+PROJECTED 40
+PROJECTED 41
+PROJECTED 42
+PROJECTED 43
+PROJECTED 44
+PROJECTED 45
+PROJECTED 46
+PROJECTED 47
+PROJECTED 48
+PROJECTED 49
+PROJECTED 50
+PROJECTED 51
+PROJECTED 52
+PROJECTED 53
+PROJECTED 54
+PROJECTED 55
+PROJECTED 56
+PROJECTED 57
+PROJECTED 58
+PROJECTED 59
+PROJECTED 60
+PROJECTED 61
+PROJECTED 62
+PROJECTED 63
+LABELLED 0 3116
+LABELLED 1 2760
+LABELLED 2 2540
+LABELLED 3 2392
+LABELLED 4 2374
+LABELLED 5 2267
+LABELLED 6 2192
+LABELLED 7 2102
+LABELLED 8 2074
+LABELLED 9 2024
+LABELLED 10 2000
+LABELLED 11 2060
+LABELLED 12 2006
+LABELLED 13 2069
+LABELLED 14 2072
+LABELLED 15 2193
+LABELLED 16 2126
+LABELLED 17 2167
+LABELLED 18 2097
+LABELLED 19 2039
+LABELLED 20 1995
+LABELLED 21 1941
+LABELLED 22 1970
+LABELLED 23 1852
+LABELLED 24 1789
+LABELLED 25 1720
+LABELLED 26 1769
+LABELLED 27 1771
+LABELLED 28 1719
+LABELLED 29 1844
+LABELLED 30 1879
+LABELLED 31 2049
+LABELLED 32 2098
+LABELLED 33 2091
+LABELLED 34 1941
+LABELLED 35 1984
+LABELLED 36 1839
+LABELLED 37 1884
+LABELLED 38 1806
+LABELLED 39 1817
+LABELLED 40 1770
+LABELLED 41 1774
+LABELLED 42 1698
+LABELLED 43 1798
+LABELLED 44 1706
+LABELLED 45 1825
+LABELLED 46 1797
+LABELLED 47 2033
+LABELLED 48 1921
+LABELLED 49 1972
+LABELLED 50 2137
+LABELLED 51 2221
+LABELLED 52 2147
+LABELLED 53 2093
+LABELLED 54 2203
+LABELLED 55 2003
+LABELLED 56 1884
+LABELLED 57 1849
+LABELLED 58 1830
+LABELLED 59 1762
+LABELLED 60 1731
+LABELLED 61 1758
+LABELLED 62 1767
+LABELLED 63 1682
+HISTORY Step 2 实测｜海陆×运动学首轮对账
+HISTORY Step 2 补刀｜负ΔC不等于真的潜入高斯海
+HISTORY Step 2 显微航线｜rail_01
+HISTORY Step 2 显微航线｜reason_01
+HISTORY Step 3 实测｜六组孪生陷阱
+HISTORY Step 3 全样本索引｜12条轨迹的真实κ峰与前后8步
+HISTORY Step 3 显微急转弯｜reason_05
+HISTORY Step 3 显微急转弯｜correction_mul49
+HISTORY Step 4 纵向穿海剖面｜rail_01 t=18
+HISTORY Step 4 纵向穿海剖面｜reason_01 t=70
+HISTORY Step 4 纵向穿海剖面｜reason_05 t=127
+HISTORY Step 4 实测｜EOS屏蔽是否有效、港口是否真的兜圈
+HISTORY Step 4 图像落盘
+HISTORY 收工状态｜数据与模型生命周期

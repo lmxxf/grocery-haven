@@ -1,0 +1,11 @@
+{
+  "cases": 44,
+  "layers": 64,
+  "all_have_raw": true,
+  "all_have_metrics": true,
+  "entropy_max_cached_vs_recomputed": 0.11322760581970215,
+  "all_metrics_finite_after_valid_prefix": true,
+  "entropy_primary_generated_source": "actual decode_events and terminal_prediction; prefill-only earlier positions use chunked readout",
+  "entropy_generated_max_error_after_sync": 0.0,
+  "all_light_files_under_10MB": true
+}

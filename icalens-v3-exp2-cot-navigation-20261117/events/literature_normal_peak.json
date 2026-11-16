@@ -1,0 +1,2162 @@
+[
+  {
+    "t": 108,
+    "token_id": 7313,
+    "token": "）",
+    "raw_token": "ï¼ī",
+    "layer": 32,
+    "s": 0.6364692449569702,
+    "theta": 1.9194382429122925,
+    "kappa_g": 3.19156813621521,
+    "rank5": 3.8497469425201416,
+    "H_next_bits": 0.056980688124895096,
+    "deltaC10": -0.0694892406463623,
+    "deltaC30": -0.05737370252609253,
+    "deltaC50": -0.027599051594734192,
+    "zmax": 9.76231575012207,
+    "top20": 0.0751645565032959,
+    "kurt_d": 2.560487747192383,
+    "islands": [
+      {
+        "axis": 2131,
+        "z": 9.76231575012207,
+        "kurtosis": 16.8253231048584,
+        "words": [
+          " later",
+          "后来",
+          " thereafter",
+          "后来又",
+          "此后"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.15625,
+            "text": " later",
+            "token": "Ġlater",
+            "token_id": 2843
+          },
+          {
+            "logit": 2.046875,
+            "text": "后来",
+            "token": "åĲİæĿ¥",
+            "token_id": 103728
+          },
+          {
+            "logit": 1.96875,
+            "text": " thereafter",
+            "token": "Ġthereafter",
+            "token_id": 43492
+          },
+          {
+            "logit": 1.9609375,
+            "text": "后来又",
+            "token": "åĲİæĿ¥åıĪ",
+            "token_id": 144614
+          },
+          {
+            "logit": 1.8671875,
+            "text": "此后",
+            "token": "æŃ¤åĲİ",
+            "token_id": 112819
+          }
+        ]
+      },
+      {
+        "axis": 704,
+        "z": 5.6057586669921875,
+        "kurtosis": 27.02918243408203,
+        "words": [
+          "<|endoftext|>",
+          "\n\n",
+          "。",
+          ".",
+          "\n"
+        ],
+        "word_entries": [
+          {
+            "logit": 3.140625,
+            "text": "<|endoftext|>",
+            "token": "<|endoftext|>",
+            "token_id": 248044
+          },
+          {
+            "logit": 2.359375,
+            "text": "\n\n",
+            "token": "ĊĊ",
+            "token_id": 271
+          },
+          {
+            "logit": 2.03125,
+            "text": "。",
+            "token": "ãĢĤ",
+            "token_id": 1710
+          },
+          {
+            "logit": 2.015625,
+            "text": ".",
+            "token": ".",
+            "token_id": 13
+          },
+          {
+            "logit": 1.9609375,
+            "text": "\n",
+            "token": "Ċ",
+            "token_id": 198
+          }
+        ]
+      },
+      {
+        "axis": 1901,
+        "z": 5.314675807952881,
+        "kurtosis": 12.967789649963379,
+        "words": [
+          "大量",
+          "一大批",
+          "大规模",
+          "日益",
+          " increasingly"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.328125,
+            "text": "大量",
+            "token": "å¤§éĩı",
+            "token_id": 101624
+          },
+          {
+            "logit": 1.28125,
+            "text": "一大批",
+            "token": "ä¸Ģå¤§æī¹",
+            "token_id": 129597
+          },
+          {
+            "logit": 1.265625,
+            "text": "大规模",
+            "token": "å¤§è§Ħæ¨¡",
+            "token_id": 105019
+          },
+          {
+            "logit": 1.25,
+            "text": "日益",
+            "token": "æĹ¥çĽĬ",
+            "token_id": 109290
+          },
+          {
+            "logit": 1.25,
+            "text": " increasingly",
+            "token": "Ġincreasingly",
+            "token_id": 14328
+          }
+        ]
+      },
+      {
+        "axis": 1716,
+        "z": 5.053730010986328,
+        "kurtosis": 28.31544303894043,
+        "words": [
+          "再到",
+          "最后是",
+          "再接",
+          " finally",
+          " Finally"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.046875,
+            "text": "再到",
+            "token": "åĨįåĪ°",
+            "token_id": 111693
+          },
+          {
+            "logit": 0.9453125,
+            "text": "最后是",
+            "token": "æľĢåĲİæĺ¯",
+            "token_id": 143127
+          },
+          {
+            "logit": 0.91015625,
+            "text": "再接",
+            "token": "åĨįæİ¥",
+            "token_id": 102819
+          },
+          {
+            "logit": 0.8828125,
+            "text": " finally",
+            "token": "Ġfinally",
+            "token_id": 5326
+          },
+          {
+            "logit": 0.87890625,
+            "text": " Finally",
+            "token": "ĠFinally",
+            "token_id": 16864
+          }
+        ]
+      },
+      {
+        "axis": 2377,
+        "z": 4.249060153961182,
+        "kurtosis": 58.474700927734375,
+        "words": [
+          "高手",
+          "武功",
+          "武侠",
+          "少林",
+          "救人"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.921875,
+            "text": "高手",
+            "token": "é«ĺæīĭ",
+            "token_id": 109404
+          },
+          {
+            "logit": 0.87890625,
+            "text": "武功",
+            "token": "æŃ¦åĬŁ",
+            "token_id": 116719
+          },
+          {
+            "logit": 0.875,
+            "text": "武侠",
+            "token": "æŃ¦ä¾ł",
+            "token_id": 102390
+          },
+          {
+            "logit": 0.87109375,
+            "text": "少林",
+            "token": "å°ĳæŀĹ",
+            "token_id": 106793
+          },
+          {
+            "logit": 0.86328125,
+            "text": "救人",
+            "token": "æķĳäºº",
+            "token_id": 123215
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 109,
+    "token_id": 198,
+    "token": "\n",
+    "raw_token": "Ċ",
+    "layer": 32,
+    "s": 0.6363117694854736,
+    "theta": 1.7948544025421143,
+    "kappa_g": 2.820366382598877,
+    "rank5": 4.184755802154541,
+    "H_next_bits": 3.052412284887396e-05,
+    "deltaC10": -0.04855334758758545,
+    "deltaC30": -0.04666188359260559,
+    "deltaC50": -0.04023703932762146,
+    "zmax": 7.780938625335693,
+    "top20": 0.07249468564987183,
+    "kurt_d": 1.3827924728393555,
+    "islands": [
+      {
+        "axis": 2377,
+        "z": 7.780938625335693,
+        "kurtosis": 58.474700927734375,
+        "words": [
+          "高手",
+          "武功",
+          "武侠",
+          "少林",
+          "救人"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.921875,
+            "text": "高手",
+            "token": "é«ĺæīĭ",
+            "token_id": 109404
+          },
+          {
+            "logit": 0.87890625,
+            "text": "武功",
+            "token": "æŃ¦åĬŁ",
+            "token_id": 116719
+          },
+          {
+            "logit": 0.875,
+            "text": "武侠",
+            "token": "æŃ¦ä¾ł",
+            "token_id": 102390
+          },
+          {
+            "logit": 0.87109375,
+            "text": "少林",
+            "token": "å°ĳæŀĹ",
+            "token_id": 106793
+          },
+          {
+            "logit": 0.86328125,
+            "text": "救人",
+            "token": "æķĳäºº",
+            "token_id": 123215
+          }
+        ]
+      },
+      {
+        "axis": 1530,
+        "z": 5.674095153808594,
+        "kurtosis": 19.7128849029541,
+        "words": [
+          " “",
+          "“",
+          " “[",
+          "全球化",
+          " many"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.140625,
+            "text": " “",
+            "token": "ĠâĢľ",
+            "token_id": 1001
+          },
+          {
+            "logit": 0.81640625,
+            "text": "“",
+            "token": "âĢľ",
+            "token_id": 2005
+          },
+          {
+            "logit": 0.7734375,
+            "text": " “[",
+            "token": "ĠâĢľ[",
+            "token_id": 63534
+          },
+          {
+            "logit": 0.76953125,
+            "text": "全球化",
+            "token": "åħ¨çĲĥåĮĸ",
+            "token_id": 115731
+          },
+          {
+            "logit": 0.75,
+            "text": " many",
+            "token": "Ġmany",
+            "token_id": 1599
+          }
+        ]
+      },
+      {
+        "axis": 430,
+        "z": 5.52133846282959,
+        "kurtosis": 14.387537956237793,
+        "words": [
+          "在做好",
+          "ing",
+          " licenci",
+          "ed",
+          "akedown"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.97265625,
+            "text": "在做好",
+            "token": "åľ¨åģļå¥½",
+            "token_id": 144771
+          },
+          {
+            "logit": 0.8984375,
+            "text": "ing",
+            "token": "ing",
+            "token_id": 286
+          },
+          {
+            "logit": 0.890625,
+            "text": " licenci",
+            "token": "Ġlicenci",
+            "token_id": 186480
+          },
+          {
+            "logit": 0.87890625,
+            "text": "ed",
+            "token": "ed",
+            "token_id": 290
+          },
+          {
+            "logit": 0.8671875,
+            "text": "akedown",
+            "token": "akedown",
+            "token_id": 74603
+          }
+        ]
+      },
+      {
+        "axis": 995,
+        "z": 5.467852592468262,
+        "kurtosis": 45.49822998046875,
+        "words": [
+          " […",
+          " [=",
+          "［",
+          "耶和华",
+          " ［"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.953125,
+            "text": " […",
+            "token": "Ġ[âĢ¦",
+            "token_id": 9901
+          },
+          {
+            "logit": 0.9453125,
+            "text": " [=",
+            "token": "Ġ[=",
+            "token_id": 84072
+          },
+          {
+            "logit": 0.9296875,
+            "text": "［",
+            "token": "ï¼»",
+            "token_id": 169262
+          },
+          {
+            "logit": 0.8828125,
+            "text": "耶和华",
+            "token": "èĢ¶åĴĮåįİ",
+            "token_id": 139308
+          },
+          {
+            "logit": 0.8671875,
+            "text": " ［",
+            "token": "Ġï¼»",
+            "token_id": 200519
+          }
+        ]
+      },
+      {
+        "axis": 949,
+        "z": 5.466519355773926,
+        "kurtosis": 24.181123733520508,
+        "words": [
+          " initially",
+          "最早的",
+          "最初",
+          "最初的",
+          "最早"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.640625,
+            "text": " initially",
+            "token": "Ġinitially",
+            "token_id": 14661
+          },
+          {
+            "logit": 1.484375,
+            "text": "最早的",
+            "token": "æľĢæĹ©çļĦ",
+            "token_id": 123295
+          },
+          {
+            "logit": 1.484375,
+            "text": "最初",
+            "token": "æľĢåĪĿ",
+            "token_id": 104584
+          },
+          {
+            "logit": 1.4609375,
+            "text": "最初的",
+            "token": "æľĢåĪĿçļĦ",
+            "token_id": 118133
+          },
+          {
+            "logit": 1.453125,
+            "text": "最早",
+            "token": "æľĢæĹ©",
+            "token_id": 104526
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 110,
+    "token_id": 12,
+    "token": "-",
+    "raw_token": "-",
+    "layer": 32,
+    "s": 0.6154175400733948,
+    "theta": 2.3372044563293457,
+    "kappa_g": 3.734360933303833,
+    "rank5": 3.8505005836486816,
+    "H_next_bits": 0.0012024645693600178,
+    "deltaC10": -0.047749876976013184,
+    "deltaC30": -0.04881212115287781,
+    "deltaC50": -0.028670474886894226,
+    "zmax": 6.542847156524658,
+    "top20": 0.0805547684431076,
+    "kurt_d": 1.8253679275512695,
+    "islands": [
+      {
+        "axis": 2131,
+        "z": 6.542847156524658,
+        "kurtosis": 16.8253231048584,
+        "words": [
+          " later",
+          "后来",
+          " thereafter",
+          "后来又",
+          "此后"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.15625,
+            "text": " later",
+            "token": "Ġlater",
+            "token_id": 2843
+          },
+          {
+            "logit": 2.046875,
+            "text": "后来",
+            "token": "åĲİæĿ¥",
+            "token_id": 103728
+          },
+          {
+            "logit": 1.96875,
+            "text": " thereafter",
+            "token": "Ġthereafter",
+            "token_id": 43492
+          },
+          {
+            "logit": 1.9609375,
+            "text": "后来又",
+            "token": "åĲİæĿ¥åıĪ",
+            "token_id": 144614
+          },
+          {
+            "logit": 1.8671875,
+            "text": "此后",
+            "token": "æŃ¤åĲİ",
+            "token_id": 112819
+          }
+        ]
+      },
+      {
+        "axis": 1095,
+        "z": 6.01452112197876,
+        "kurtosis": 23.305532455444336,
+        "words": [
+          "<|endoftext|>",
+          " ",
+          "ly",
+          " „",
+          " ("
+        ],
+        "word_entries": [
+          {
+            "logit": 3.171875,
+            "text": "<|endoftext|>",
+            "token": "<|endoftext|>",
+            "token_id": 248044
+          },
+          {
+            "logit": 2.796875,
+            "text": " ",
+            "token": "Ġ",
+            "token_id": 220
+          },
+          {
+            "logit": 1.65625,
+            "text": "ly",
+            "token": "ly",
+            "token_id": 391
+          },
+          {
+            "logit": 1.5625,
+            "text": " „",
+            "token": "ĠâĢŀ",
+            "token_id": 14405
+          },
+          {
+            "logit": 1.53125,
+            "text": " (",
+            "token": "Ġ(",
+            "token_id": 318
+          }
+        ]
+      },
+      {
+        "axis": 1901,
+        "z": 5.060519695281982,
+        "kurtosis": 12.967789649963379,
+        "words": [
+          "大量",
+          "一大批",
+          "大规模",
+          "日益",
+          " increasingly"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.328125,
+            "text": "大量",
+            "token": "å¤§éĩı",
+            "token_id": 101624
+          },
+          {
+            "logit": 1.28125,
+            "text": "一大批",
+            "token": "ä¸Ģå¤§æī¹",
+            "token_id": 129597
+          },
+          {
+            "logit": 1.265625,
+            "text": "大规模",
+            "token": "å¤§è§Ħæ¨¡",
+            "token_id": 105019
+          },
+          {
+            "logit": 1.25,
+            "text": "日益",
+            "token": "æĹ¥çĽĬ",
+            "token_id": 109290
+          },
+          {
+            "logit": 1.25,
+            "text": " increasingly",
+            "token": "Ġincreasingly",
+            "token_id": 14328
+          }
+        ]
+      },
+      {
+        "axis": 2534,
+        "z": 4.971897125244141,
+        "kurtosis": 7.18182373046875,
+        "words": [
+          "直到",
+          "直至",
+          "\n",
+          "等等",
+          " thereafter"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.80859375,
+            "text": "直到",
+            "token": "çĽ´åĪ°",
+            "token_id": 103796
+          },
+          {
+            "logit": 0.80078125,
+            "text": "直至",
+            "token": "çĽ´èĩ³",
+            "token_id": 110507
+          },
+          {
+            "logit": 0.7578125,
+            "text": "\n",
+            "token": "Ċ",
+            "token_id": 198
+          },
+          {
+            "logit": 0.7421875,
+            "text": "等等",
+            "token": "çŃīçŃī",
+            "token_id": 108533
+          },
+          {
+            "logit": 0.6953125,
+            "text": " thereafter",
+            "token": "Ġthereafter",
+            "token_id": 43492
+          }
+        ]
+      },
+      {
+        "axis": 939,
+        "z": 4.38919734954834,
+        "kurtosis": 26.32297134399414,
+        "words": [
+          " World",
+          " M",
+          " G",
+          " Mac",
+          " Sm"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.4375,
+            "text": " World",
+            "token": "ĠWorld",
+            "token_id": 4196
+          },
+          {
+            "logit": 1.4140625,
+            "text": " M",
+            "token": "ĠM",
+            "token_id": 380
+          },
+          {
+            "logit": 1.390625,
+            "text": " G",
+            "token": "ĠG",
+            "token_id": 469
+          },
+          {
+            "logit": 1.3359375,
+            "text": " Mac",
+            "token": "ĠMac",
+            "token_id": 7166
+          },
+          {
+            "logit": 1.3203125,
+            "text": " Sm",
+            "token": "ĠSm",
+            "token_id": 4245
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 111,
+    "token_id": 220,
+    "token": " ",
+    "raw_token": "Ġ",
+    "layer": 32,
+    "s": 0.4747690260410309,
+    "theta": 1.994085669517517,
+    "kappa_g": 3.6582465171813965,
+    "rank5": 3.9369938373565674,
+    "H_next_bits": 1.1201426982879639,
+    "deltaC10": -0.01565307378768921,
+    "deltaC30": -0.02492108941078186,
+    "deltaC50": -0.016970232129096985,
+    "zmax": 8.499079704284668,
+    "top20": 0.09166339784860611,
+    "kurt_d": 3.284900665283203,
+    "islands": [
+      {
+        "axis": 2377,
+        "z": 8.499079704284668,
+        "kurtosis": 58.474700927734375,
+        "words": [
+          "高手",
+          "武功",
+          "武侠",
+          "少林",
+          "救人"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.921875,
+            "text": "高手",
+            "token": "é«ĺæīĭ",
+            "token_id": 109404
+          },
+          {
+            "logit": 0.87890625,
+            "text": "武功",
+            "token": "æŃ¦åĬŁ",
+            "token_id": 116719
+          },
+          {
+            "logit": 0.875,
+            "text": "武侠",
+            "token": "æŃ¦ä¾ł",
+            "token_id": 102390
+          },
+          {
+            "logit": 0.87109375,
+            "text": "少林",
+            "token": "å°ĳæŀĹ",
+            "token_id": 106793
+          },
+          {
+            "logit": 0.86328125,
+            "text": "救人",
+            "token": "æķĳäºº",
+            "token_id": 123215
+          }
+        ]
+      },
+      {
+        "axis": 1073,
+        "z": 7.96895694732666,
+        "kurtosis": 17.641969680786133,
+        "words": [
+          "进出口信用",
+          "企业相册",
+          "评价指标得分",
+          "资源篮",
+          "信用貸款"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.703125,
+            "text": "进出口信用",
+            "token": "è¿Ľåĩºåı£ä¿¡çĶ¨",
+            "token_id": 137440
+          },
+          {
+            "logit": 1.65625,
+            "text": "企业相册",
+            "token": "ä¼ģä¸ļçĽ¸åĨĮ",
+            "token_id": 122363
+          },
+          {
+            "logit": 1.5546875,
+            "text": "评价指标得分",
+            "token": "è¯Ħä»·æĮĩæłĩå¾ĹåĪĨ",
+            "token_id": 141139
+          },
+          {
+            "logit": 1.53125,
+            "text": "资源篮",
+            "token": "èµĦæºĲç¯®",
+            "token_id": 107300
+          },
+          {
+            "logit": 1.484375,
+            "text": "信用貸款",
+            "token": "ä¿¡çĶ¨è²¸æ¬¾",
+            "token_id": 138819
+          }
+        ]
+      },
+      {
+        "axis": 939,
+        "z": 6.546067237854004,
+        "kurtosis": 26.32297134399414,
+        "words": [
+          " World",
+          " M",
+          " G",
+          " Mac",
+          " Sm"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.4375,
+            "text": " World",
+            "token": "ĠWorld",
+            "token_id": 4196
+          },
+          {
+            "logit": 1.4140625,
+            "text": " M",
+            "token": "ĠM",
+            "token_id": 380
+          },
+          {
+            "logit": 1.390625,
+            "text": " G",
+            "token": "ĠG",
+            "token_id": 469
+          },
+          {
+            "logit": 1.3359375,
+            "text": " Mac",
+            "token": "ĠMac",
+            "token_id": 7166
+          },
+          {
+            "logit": 1.3203125,
+            "text": " Sm",
+            "token": "ĠSm",
+            "token_id": 4245
+          }
+        ]
+      },
+      {
+        "axis": 389,
+        "z": 5.790557384490967,
+        "kurtosis": 47.16801071166992,
+        "words": [
+          "北宋",
+          "宋代",
+          "王安石",
+          "南宋",
+          "宋朝"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.359375,
+            "text": "北宋",
+            "token": "åĮĹå®ĭ",
+            "token_id": 121313
+          },
+          {
+            "logit": 2.265625,
+            "text": "宋代",
+            "token": "å®ĭä»£",
+            "token_id": 118045
+          },
+          {
+            "logit": 2.046875,
+            "text": "王安石",
+            "token": "çİĭå®īçŁ³",
+            "token_id": 147685
+          },
+          {
+            "logit": 2.015625,
+            "text": "南宋",
+            "token": "åįĹå®ĭ",
+            "token_id": 123534
+          },
+          {
+            "logit": 1.7421875,
+            "text": "宋朝",
+            "token": "å®ĭæľĿ",
+            "token_id": 127149
+          }
+        ]
+      },
+      {
+        "axis": 726,
+        "z": 4.671474456787109,
+        "kurtosis": 33.40775680541992,
+        "words": [
+          " mythical",
+          " magically",
+          " enchanted",
+          " gods",
+          " creatures"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.421875,
+            "text": " mythical",
+            "token": "Ġmythical",
+            "token_id": 80249
+          },
+          {
+            "logit": 1.4140625,
+            "text": " magically",
+            "token": "Ġmagically",
+            "token_id": 75067
+          },
+          {
+            "logit": 1.3515625,
+            "text": " enchanted",
+            "token": "Ġenchanted",
+            "token_id": 93954
+          },
+          {
+            "logit": 1.3359375,
+            "text": " gods",
+            "token": "Ġgods",
+            "token_id": 27871
+          },
+          {
+            "logit": 1.328125,
+            "text": " creatures",
+            "token": "Ġcreatures",
+            "token_id": 19361
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 112,
+    "token_id": 95779,
+    "token": "大",
+    "raw_token": "å¤§",
+    "layer": 32,
+    "s": 0.5613619685173035,
+    "theta": 2.074084997177124,
+    "kappa_g": 4.003518581390381,
+    "rank5": 3.8931238651275635,
+    "H_next_bits": 0.05084314942359924,
+    "deltaC10": -0.034340858459472656,
+    "deltaC30": -0.05105721950531006,
+    "deltaC50": -0.039358749985694885,
+    "zmax": 9.280562400817871,
+    "top20": 0.0998629704117775,
+    "kurt_d": 4.721123218536377,
+    "islands": [
+      {
+        "axis": 1279,
+        "z": 9.280562400817871,
+        "kurtosis": 17.93659210205078,
+        "words": [
+          "<|box_end|>",
+          "/big",
+          "变小",
+          " HUGE",
+          " Huge"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.390625,
+            "text": "<|box_end|>",
+            "token": "<|box_end|>",
+            "token_id": 248050
+          },
+          {
+            "logit": 2.34375,
+            "text": "/big",
+            "token": "/big",
+            "token_id": 87804
+          },
+          {
+            "logit": 2.1875,
+            "text": "变小",
+            "token": "åıĺå°ı",
+            "token_id": 125823
+          },
+          {
+            "logit": 2.1875,
+            "text": " HUGE",
+            "token": "ĠHUGE",
+            "token_id": 70187
+          },
+          {
+            "logit": 2.109375,
+            "text": " Huge",
+            "token": "ĠHuge",
+            "token_id": 49074
+          }
+        ]
+      },
+      {
+        "axis": 1744,
+        "z": 7.747613906860352,
+        "kurtosis": 13.313187599182129,
+        "words": [
+          " pula",
+          " likewise",
+          " similarly",
+          " ebenfalls",
+          "同样"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.3046875,
+            "text": " pula",
+            "token": "Ġpula",
+            "token_id": 173222
+          },
+          {
+            "logit": 1.2890625,
+            "text": " likewise",
+            "token": "Ġlikewise",
+            "token_id": 36670
+          },
+          {
+            "logit": 1.28125,
+            "text": " similarly",
+            "token": "Ġsimilarly",
+            "token_id": 28238
+          },
+          {
+            "logit": 1.2109375,
+            "text": " ebenfalls",
+            "token": "Ġebenfalls",
+            "token_id": 92221
+          },
+          {
+            "logit": 1.1328125,
+            "text": "同样",
+            "token": "åĲĮæł·",
+            "token_id": 101640
+          }
+        ]
+      },
+      {
+        "axis": 919,
+        "z": 6.802421569824219,
+        "kurtosis": 30.02587127685547,
+        "words": [
+          "七大",
+          "○○",
+          "六大",
+          "��",
+          " Harmony"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.90234375,
+            "text": "七大",
+            "token": "ä¸ĥå¤§",
+            "token_id": 119378
+          },
+          {
+            "logit": 0.890625,
+            "text": "○○",
+            "token": "âĹĭâĹĭ",
+            "token_id": 214007
+          },
+          {
+            "logit": 0.8828125,
+            "text": "六大",
+            "token": "åħŃå¤§",
+            "token_id": 113263
+          },
+          {
+            "logit": 0.875,
+            "text": "��",
+            "token": "¿Į",
+            "token_id": 158949
+          },
+          {
+            "logit": 0.85546875,
+            "text": " Harmony",
+            "token": "ĠHarmony",
+            "token_id": 63174
+          }
+        ]
+      },
+      {
+        "axis": 2343,
+        "z": 4.375155448913574,
+        "kurtosis": 7.53383731842041,
+        "words": [
+          "资源篮",
+          "自主信息",
+          "章节错误",
+          "性是",
+          "hips"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.921875,
+            "text": "资源篮",
+            "token": "èµĦæºĲç¯®",
+            "token_id": 107300
+          },
+          {
+            "logit": 0.890625,
+            "text": "自主信息",
+            "token": "èĩªä¸»ä¿¡æģ¯",
+            "token_id": 124392
+          },
+          {
+            "logit": 0.88671875,
+            "text": "章节错误",
+            "token": "ç«łèĬĤéĶĻè¯¯",
+            "token_id": 135910
+          },
+          {
+            "logit": 0.8515625,
+            "text": "性是",
+            "token": "æĢ§æĺ¯",
+            "token_id": 145104
+          },
+          {
+            "logit": 0.84375,
+            "text": "hips",
+            "token": "hips",
+            "token_id": 32119
+          }
+        ]
+      },
+      {
+        "axis": 1518,
+        "z": 4.33636999130249,
+        "kurtosis": 16.539066314697266,
+        "words": [
+          " and",
+          "但同时",
+          " but",
+          "本身就",
+          "所以在"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.69140625,
+            "text": " and",
+            "token": "Ġand",
+            "token_id": 321
+          },
+          {
+            "logit": 0.66796875,
+            "text": "但同时",
+            "token": "ä½ĨåĲĮæĹ¶",
+            "token_id": 130252
+          },
+          {
+            "logit": 0.66796875,
+            "text": " but",
+            "token": "Ġbut",
+            "token_id": 694
+          },
+          {
+            "logit": 0.66015625,
+            "text": "本身就",
+            "token": "æľ¬èº«å°±",
+            "token_id": 129190
+          },
+          {
+            "logit": 0.66015625,
+            "text": "所以在",
+            "token": "æīĢä»¥åľ¨",
+            "token_id": 110067
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 113,
+    "token_id": 98548,
+    "token": "闹",
+    "raw_token": "éĹ¹",
+    "layer": 32,
+    "s": 0.5597070455551147,
+    "theta": 2.0060739517211914,
+    "kappa_g": 3.5788590908050537,
+    "rank5": 3.757215976715088,
+    "H_next_bits": 0.330824613571167,
+    "deltaC10": -0.02693408727645874,
+    "deltaC30": -0.01854872703552246,
+    "deltaC50": -0.01967395842075348,
+    "zmax": 10.542346000671387,
+    "top20": 0.09209343791007996,
+    "kurt_d": 2.881821632385254,
+    "islands": [
+      {
+        "axis": 2377,
+        "z": 10.542346000671387,
+        "kurtosis": 58.474700927734375,
+        "words": [
+          "高手",
+          "武功",
+          "武侠",
+          "少林",
+          "救人"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.921875,
+            "text": "高手",
+            "token": "é«ĺæīĭ",
+            "token_id": 109404
+          },
+          {
+            "logit": 0.87890625,
+            "text": "武功",
+            "token": "æŃ¦åĬŁ",
+            "token_id": 116719
+          },
+          {
+            "logit": 0.875,
+            "text": "武侠",
+            "token": "æŃ¦ä¾ł",
+            "token_id": 102390
+          },
+          {
+            "logit": 0.87109375,
+            "text": "少林",
+            "token": "å°ĳæŀĹ",
+            "token_id": 106793
+          },
+          {
+            "logit": 0.86328125,
+            "text": "救人",
+            "token": "æķĳäºº",
+            "token_id": 123215
+          }
+        ]
+      },
+      {
+        "axis": 931,
+        "z": 6.652841567993164,
+        "kurtosis": 33.871620178222656,
+        "words": [
+          "反抗",
+          "起义",
+          " uprising",
+          " revolt",
+          " rebellion"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.609375,
+            "text": "反抗",
+            "token": "åıįæĬĹ",
+            "token_id": 114591
+          },
+          {
+            "logit": 2.296875,
+            "text": "起义",
+            "token": "èµ·ä¹ī",
+            "token_id": 119436
+          },
+          {
+            "logit": 2.125,
+            "text": " uprising",
+            "token": "Ġuprising",
+            "token_id": 67056
+          },
+          {
+            "logit": 2.125,
+            "text": " revolt",
+            "token": "Ġrevolt",
+            "token_id": 62641
+          },
+          {
+            "logit": 1.875,
+            "text": " rebellion",
+            "token": "Ġrebellion",
+            "token_id": 50973
+          }
+        ]
+      },
+      {
+        "axis": 389,
+        "z": 6.034780025482178,
+        "kurtosis": 47.16801071166992,
+        "words": [
+          "北宋",
+          "宋代",
+          "王安石",
+          "南宋",
+          "宋朝"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.359375,
+            "text": "北宋",
+            "token": "åĮĹå®ĭ",
+            "token_id": 121313
+          },
+          {
+            "logit": 2.265625,
+            "text": "宋代",
+            "token": "å®ĭä»£",
+            "token_id": 118045
+          },
+          {
+            "logit": 2.046875,
+            "text": "王安石",
+            "token": "çİĭå®īçŁ³",
+            "token_id": 147685
+          },
+          {
+            "logit": 2.015625,
+            "text": "南宋",
+            "token": "åįĹå®ĭ",
+            "token_id": 123534
+          },
+          {
+            "logit": 1.7421875,
+            "text": "宋朝",
+            "token": "å®ĭæľĿ",
+            "token_id": 127149
+          }
+        ]
+      },
+      {
+        "axis": 726,
+        "z": 5.690762996673584,
+        "kurtosis": 33.40775680541992,
+        "words": [
+          " mythical",
+          " magically",
+          " enchanted",
+          " gods",
+          " creatures"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.421875,
+            "text": " mythical",
+            "token": "Ġmythical",
+            "token_id": 80249
+          },
+          {
+            "logit": 1.4140625,
+            "text": " magically",
+            "token": "Ġmagically",
+            "token_id": 75067
+          },
+          {
+            "logit": 1.3515625,
+            "text": " enchanted",
+            "token": "Ġenchanted",
+            "token_id": 93954
+          },
+          {
+            "logit": 1.3359375,
+            "text": " gods",
+            "token": "Ġgods",
+            "token_id": 27871
+          },
+          {
+            "logit": 1.328125,
+            "text": " creatures",
+            "token": "Ġcreatures",
+            "token_id": 19361
+          }
+        ]
+      },
+      {
+        "axis": 919,
+        "z": 5.689553260803223,
+        "kurtosis": 30.02587127685547,
+        "words": [
+          "七大",
+          "○○",
+          "六大",
+          "��",
+          " Harmony"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.90234375,
+            "text": "七大",
+            "token": "ä¸ĥå¤§",
+            "token_id": 119378
+          },
+          {
+            "logit": 0.890625,
+            "text": "○○",
+            "token": "âĹĭâĹĭ",
+            "token_id": 214007
+          },
+          {
+            "logit": 0.8828125,
+            "text": "六大",
+            "token": "åħŃå¤§",
+            "token_id": 113263
+          },
+          {
+            "logit": 0.875,
+            "text": "��",
+            "token": "¿Į",
+            "token_id": 158949
+          },
+          {
+            "logit": 0.85546875,
+            "text": " Harmony",
+            "token": "ĠHarmony",
+            "token_id": 63174
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 114,
+    "token_id": 104555,
+    "token": "桃花",
+    "raw_token": "æ¡ĥèĬ±",
+    "layer": 32,
+    "s": 0.7401441335678101,
+    "theta": 1.9641779661178589,
+    "kappa_g": 3.022158145904541,
+    "rank5": 4.035304546356201,
+    "H_next_bits": 0.0007873426075093448,
+    "deltaC10": -0.02094060182571411,
+    "deltaC30": -0.014031916856765747,
+    "deltaC50": -0.020764678716659546,
+    "zmax": 9.608698844909668,
+    "top20": 0.07951096445322037,
+    "kurt_d": 2.3257126808166504,
+    "islands": [
+      {
+        "axis": 2377,
+        "z": 9.608698844909668,
+        "kurtosis": 58.474700927734375,
+        "words": [
+          "高手",
+          "武功",
+          "武侠",
+          "少林",
+          "救人"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.921875,
+            "text": "高手",
+            "token": "é«ĺæīĭ",
+            "token_id": 109404
+          },
+          {
+            "logit": 0.87890625,
+            "text": "武功",
+            "token": "æŃ¦åĬŁ",
+            "token_id": 116719
+          },
+          {
+            "logit": 0.875,
+            "text": "武侠",
+            "token": "æŃ¦ä¾ł",
+            "token_id": 102390
+          },
+          {
+            "logit": 0.87109375,
+            "text": "少林",
+            "token": "å°ĳæŀĹ",
+            "token_id": 106793
+          },
+          {
+            "logit": 0.86328125,
+            "text": "救人",
+            "token": "æķĳäºº",
+            "token_id": 123215
+          }
+        ]
+      },
+      {
+        "axis": 482,
+        "z": 6.326572418212891,
+        "kurtosis": 17.28804588317871,
+        "words": [
+          "合作商机",
+          "是何含义",
+          "開箱文",
+          "加拿大的",
+          "翻攝"
+        ],
+        "word_entries": [
+          {
+            "logit": 3.109375,
+            "text": "合作商机",
+            "token": "åĲĪä½ľåķĨæľº",
+            "token_id": 142461
+          },
+          {
+            "logit": 3.0625,
+            "text": "是何含义",
+            "token": "æĺ¯ä½ķåĲ«ä¹ī",
+            "token_id": 107614
+          },
+          {
+            "logit": 3.03125,
+            "text": "開箱文",
+            "token": "éĸĭç®±æĸĩ",
+            "token_id": 142306
+          },
+          {
+            "logit": 2.96875,
+            "text": "加拿大的",
+            "token": "åĬłæĭ¿å¤§çļĦ",
+            "token_id": 136706
+          },
+          {
+            "logit": 2.96875,
+            "text": "翻攝",
+            "token": "ç¿»æĶĿ",
+            "token_id": 107346
+          }
+        ]
+      },
+      {
+        "axis": 350,
+        "z": 5.576871395111084,
+        "kurtosis": 31.687358856201172,
+        "words": [
+          "这三",
+          "-three",
+          "这三个",
+          " three",
+          " trio"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.828125,
+            "text": "这三",
+            "token": "è¿Ļä¸ī",
+            "token_id": 113554
+          },
+          {
+            "logit": 2.765625,
+            "text": "-three",
+            "token": "-three",
+            "token_id": 46780
+          },
+          {
+            "logit": 2.734375,
+            "text": "这三个",
+            "token": "è¿Ļä¸īä¸ª",
+            "token_id": 115959
+          },
+          {
+            "logit": 2.6875,
+            "text": " three",
+            "token": "Ġthree",
+            "token_id": 2250
+          },
+          {
+            "logit": 2.59375,
+            "text": " trio",
+            "token": "Ġtrio",
+            "token_id": 32837
+          }
+        ]
+      },
+      {
+        "axis": 863,
+        "z": 5.310316562652588,
+        "kurtosis": 11.21601676940918,
+        "words": [
+          "ً",
+          "stra",
+          "ٰ",
+          "cona",
+          "hta"
+        ],
+        "word_entries": [
+          {
+            "logit": 3.53125,
+            "text": "ً",
+            "token": "Ùĭ",
+            "token_id": 148536
+          },
+          {
+            "logit": 3.40625,
+            "text": "stra",
+            "token": "stra",
+            "token_id": 12957
+          },
+          {
+            "logit": 3.203125,
+            "text": "ٰ",
+            "token": "Ù°",
+            "token_id": 169479
+          },
+          {
+            "logit": 3.171875,
+            "text": "cona",
+            "token": "cona",
+            "token_id": 87312
+          },
+          {
+            "logit": 3.09375,
+            "text": "hta",
+            "token": "hta",
+            "token_id": 73218
+          }
+        ]
+      },
+      {
+        "axis": 2215,
+        "z": 5.234091758728027,
+        "kurtosis": 6.246942043304443,
+        "words": [
+          "资源篮",
+          " Информа",
+          " Встре",
+          "预览全文",
+          " Сооб"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.84375,
+            "text": "资源篮",
+            "token": "èµĦæºĲç¯®",
+            "token_id": 107300
+          },
+          {
+            "logit": 2.640625,
+            "text": " Информа",
+            "token": "ĠÐĺÐ½ÑĦÐ¾ÑĢÐ¼Ð°",
+            "token_id": 179578
+          },
+          {
+            "logit": 2.5625,
+            "text": " Встре",
+            "token": "ĠÐĴÑģÑĤÑĢÐµ",
+            "token_id": 221698
+          },
+          {
+            "logit": 2.515625,
+            "text": "预览全文",
+            "token": "é¢Ħè§Īåħ¨æĸĩ",
+            "token_id": 107311
+          },
+          {
+            "logit": 2.515625,
+            "text": " Сооб",
+            "token": "ĠÐ¡Ð¾Ð¾Ð±",
+            "token_id": 192877
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 115,
+    "token_id": 96545,
+    "token": "村",
+    "raw_token": "æĿĳ",
+    "layer": 32,
+    "s": 0.6918678283691406,
+    "theta": 1.859554409980774,
+    "kappa_g": 2.597121238708496,
+    "rank5": 4.080768585205078,
+    "H_next_bits": 1.0086755752563477,
+    "deltaC10": -0.03685307502746582,
+    "deltaC30": -0.03289443254470825,
+    "deltaC50": -0.035577476024627686,
+    "zmax": 11.03847885131836,
+    "top20": 0.07772200554609299,
+    "kurt_d": 2.095094680786133,
+    "islands": [
+      {
+        "axis": 850,
+        "z": 11.03847885131836,
+        "kurtosis": 15.656375885009766,
+        "words": [
+          "和",
+          " and",
+          " và",
+          "และ",
+          " и"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.703125,
+            "text": "和",
+            "token": "åĴĮ",
+            "token_id": 95793
+          },
+          {
+            "logit": 1.6875,
+            "text": " and",
+            "token": "Ġand",
+            "token_id": 321
+          },
+          {
+            "logit": 1.6796875,
+            "text": " và",
+            "token": "ĠvÃł",
+            "token_id": 46152
+          },
+          {
+            "logit": 1.6640625,
+            "text": "และ",
+            "token": "à¹ģà¸¥à¸°",
+            "token_id": 149119
+          },
+          {
+            "logit": 1.640625,
+            "text": " и",
+            "token": "ĠÐ¸",
+            "token_id": 7347
+          }
+        ]
+      },
+      {
+        "axis": 2377,
+        "z": 9.421736717224121,
+        "kurtosis": 58.474700927734375,
+        "words": [
+          "高手",
+          "武功",
+          "武侠",
+          "少林",
+          "救人"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.921875,
+            "text": "高手",
+            "token": "é«ĺæīĭ",
+            "token_id": 109404
+          },
+          {
+            "logit": 0.87890625,
+            "text": "武功",
+            "token": "æŃ¦åĬŁ",
+            "token_id": 116719
+          },
+          {
+            "logit": 0.875,
+            "text": "武侠",
+            "token": "æŃ¦ä¾ł",
+            "token_id": 102390
+          },
+          {
+            "logit": 0.87109375,
+            "text": "少林",
+            "token": "å°ĳæŀĹ",
+            "token_id": 106793
+          },
+          {
+            "logit": 0.86328125,
+            "text": "救人",
+            "token": "æķĳäºº",
+            "token_id": 123215
+          }
+        ]
+      },
+      {
+        "axis": 2128,
+        "z": 8.51519775390625,
+        "kurtosis": 25.175315856933594,
+        "words": [
+          "小说",
+          "的小说",
+          "作家",
+          "篇小说",
+          " literary"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.0390625,
+            "text": "小说",
+            "token": "å°ıè¯´",
+            "token_id": 97441
+          },
+          {
+            "logit": 0.94140625,
+            "text": "的小说",
+            "token": "çļĦå°ıè¯´",
+            "token_id": 113781
+          },
+          {
+            "logit": 0.94140625,
+            "text": "作家",
+            "token": "ä½ľå®¶",
+            "token_id": 108973
+          },
+          {
+            "logit": 0.875,
+            "text": "篇小说",
+            "token": "ç¯ĩå°ıè¯´",
+            "token_id": 106835
+          },
+          {
+            "logit": 0.87109375,
+            "text": " literary",
+            "token": "Ġliterary",
+            "token_id": 30333
+          }
+        ]
+      },
+      {
+        "axis": 264,
+        "z": 8.354251861572266,
+        "kurtosis": 31.293617248535156,
+        "words": [
+          "<|box_end|>",
+          "转载至",
+          "本文为博主",
+          "对其真实性负责",
+          " (--"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.4609375,
+            "text": "<|box_end|>",
+            "token": "<|box_end|>",
+            "token_id": 248050
+          },
+          {
+            "logit": 1.40625,
+            "text": "转载至",
+            "token": "è½¬è½½èĩ³",
+            "token_id": 107206
+          },
+          {
+            "logit": 1.3359375,
+            "text": "本文为博主",
+            "token": "æľ¬æĸĩä¸ºåįļä¸»",
+            "token_id": 107637
+          },
+          {
+            "logit": 1.3203125,
+            "text": "对其真实性负责",
+            "token": "å¯¹åħ¶çľŁå®ŀæĢ§è´Łè´£",
+            "token_id": 106938
+          },
+          {
+            "logit": 1.21875,
+            "text": " (--",
+            "token": "Ġ(--",
+            "token_id": 55686
+          }
+        ]
+      },
+      {
+        "axis": 726,
+        "z": 5.5141191482543945,
+        "kurtosis": 33.40775680541992,
+        "words": [
+          " mythical",
+          " magically",
+          " enchanted",
+          " gods",
+          " creatures"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.421875,
+            "text": " mythical",
+            "token": "Ġmythical",
+            "token_id": 80249
+          },
+          {
+            "logit": 1.4140625,
+            "text": " magically",
+            "token": "Ġmagically",
+            "token_id": 75067
+          },
+          {
+            "logit": 1.3515625,
+            "text": " enchanted",
+            "token": "Ġenchanted",
+            "token_id": 93954
+          },
+          {
+            "logit": 1.3359375,
+            "text": " gods",
+            "token": "Ġgods",
+            "token_id": 27871
+          },
+          {
+            "logit": 1.328125,
+            "text": " creatures",
+            "token": "Ġcreatures",
+            "token_id": 19361
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 116,
+    "token_id": 9616,
+    "token": "（",
+    "raw_token": "ï¼Ī",
+    "layer": 32,
+    "s": 0.713636577129364,
+    "theta": 2.0524284839630127,
+    "kappa_g": 2.920557737350464,
+    "rank5": 4.0086669921875,
+    "H_next_bits": 0.02609541453421116,
+    "deltaC10": -0.03780168294906616,
+    "deltaC30": -0.023843228816986084,
+    "deltaC50": -0.01076585054397583,
+    "zmax": 7.5445709228515625,
+    "top20": 0.08578477799892426,
+    "kurt_d": 2.1872148513793945,
+    "islands": [
+      {
+        "axis": 3007,
+        "z": 7.5445709228515625,
+        "kurtosis": 8.299673080444336,
+        "words": [
+          "<|endoftext|>",
+          "byname",
+          "。※",
+          "Ev",
+          "imizer"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.62890625,
+            "text": "<|endoftext|>",
+            "token": "<|endoftext|>",
+            "token_id": 248044
+          },
+          {
+            "logit": 0.62109375,
+            "text": "byname",
+            "token": "byname",
+            "token_id": 91601
+          },
+          {
+            "logit": 0.609375,
+            "text": "。※",
+            "token": "ãĢĤâĢ»",
+            "token_id": 217480
+          },
+          {
+            "logit": 0.5859375,
+            "text": "Ev",
+            "token": "Ev",
+            "token_id": 32983
+          },
+          {
+            "logit": 0.578125,
+            "text": "imizer",
+            "token": "imizer",
+            "token_id": 40321
+          }
+        ]
+      },
+      {
+        "axis": 1852,
+        "z": 6.747065544128418,
+        "kurtosis": 60.33538818359375,
+        "words": [
+          "同上",
+          " unpublished",
+          " later",
+          "又名",
+          "ed"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.66015625,
+            "text": "同上",
+            "token": "åĲĮä¸Ĭ",
+            "token_id": 145080
+          },
+          {
+            "logit": 0.57421875,
+            "text": " unpublished",
+            "token": "Ġunpublished",
+            "token_id": 81309
+          },
+          {
+            "logit": 0.5703125,
+            "text": " later",
+            "token": "Ġlater",
+            "token_id": 2843
+          },
+          {
+            "logit": 0.56640625,
+            "text": "又名",
+            "token": "åıĪåĲį",
+            "token_id": 116339
+          },
+          {
+            "logit": 0.5390625,
+            "text": "ed",
+            "token": "ed",
+            "token_id": 290
+          }
+        ]
+      },
+      {
+        "axis": 850,
+        "z": 6.332171440124512,
+        "kurtosis": 15.656375885009766,
+        "words": [
+          "和",
+          " and",
+          " và",
+          "และ",
+          " и"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.703125,
+            "text": "和",
+            "token": "åĴĮ",
+            "token_id": 95793
+          },
+          {
+            "logit": 1.6875,
+            "text": " and",
+            "token": "Ġand",
+            "token_id": 321
+          },
+          {
+            "logit": 1.6796875,
+            "text": " và",
+            "token": "ĠvÃł",
+            "token_id": 46152
+          },
+          {
+            "logit": 1.6640625,
+            "text": "และ",
+            "token": "à¹ģà¸¥à¸°",
+            "token_id": 149119
+          },
+          {
+            "logit": 1.640625,
+            "text": " и",
+            "token": "ĠÐ¸",
+            "token_id": 7347
+          }
+        ]
+      },
+      {
+        "axis": 2377,
+        "z": 5.256324291229248,
+        "kurtosis": 58.474700927734375,
+        "words": [
+          "高手",
+          "武功",
+          "武侠",
+          "少林",
+          "救人"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.921875,
+            "text": "高手",
+            "token": "é«ĺæīĭ",
+            "token_id": 109404
+          },
+          {
+            "logit": 0.87890625,
+            "text": "武功",
+            "token": "æŃ¦åĬŁ",
+            "token_id": 116719
+          },
+          {
+            "logit": 0.875,
+            "text": "武侠",
+            "token": "æŃ¦ä¾ł",
+            "token_id": 102390
+          },
+          {
+            "logit": 0.87109375,
+            "text": "少林",
+            "token": "å°ĳæŀĹ",
+            "token_id": 106793
+          },
+          {
+            "logit": 0.86328125,
+            "text": "救人",
+            "token": "æķĳäºº",
+            "token_id": 123215
+          }
+        ]
+      },
+      {
+        "axis": 1452,
+        "z": 5.255346775054932,
+        "kurtosis": 37.434715270996094,
+        "words": [
+          "。",
+          "<|endoftext|>",
+          "；",
+          ".",
+          "।"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.2734375,
+            "text": "。",
+            "token": "ãĢĤ",
+            "token_id": 1710
+          },
+          {
+            "logit": 1.15625,
+            "text": "<|endoftext|>",
+            "token": "<|endoftext|>",
+            "token_id": 248044
+          },
+          {
+            "logit": 1.15625,
+            "text": "；",
+            "token": "ï¼Ľ",
+            "token_id": 24178
+          },
+          {
+            "logit": 1.03125,
+            "text": ".",
+            "token": ".",
+            "token_id": 13
+          },
+          {
+            "logit": 0.93359375,
+            "text": "।",
+            "token": "à¥¤",
+            "token_id": 154845
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "before_rank": 4.045152187347412,
+  "after_rank": 4.216202735900879,
+  "before_H": 0.14060048758983612,
+  "after_H": 1.4653092622756958,
+  "after_main_islands": 53,
+  "top3_coverage": 0.2087912087912088,
+  "top4_coverage": 0.25274725274725274,
+  "extra_tokens": 96,
+  "genuine_eos_proposal": true
+}

@@ -1,0 +1,374 @@
+{
+  "rail_01": {
+    "start": 9,
+    "end": 24,
+    "kind": "first_poem",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": true
+  },
+  "rail_02": {
+    "start": 9,
+    "end": 25,
+    "kind": "first_poem",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": true
+  },
+  "rail_03": {
+    "start": 8,
+    "end": 23,
+    "kind": "first_poem",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": true
+  },
+  "rail_04": {
+    "start": 10,
+    "end": 23,
+    "kind": "first_poem",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": true
+  },
+  "rail_05": {
+    "start": 10,
+    "end": 58,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": false
+  },
+  "rail_06": {
+    "start": 8,
+    "end": 56,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": false
+  },
+  "rail_07": {
+    "start": 15,
+    "end": 63,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": false
+  },
+  "rail_08": {
+    "start": 6,
+    "end": 54,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": false
+  },
+  "reason_01": {
+    "start": 40,
+    "end": 74,
+    "kind": "before_next_item",
+    "closing_parenthesis_position": 71,
+    "markers": [],
+    "clean_rail": false
+  },
+  "reason_02": {
+    "start": 50,
+    "end": 163,
+    "kind": "before_next_item",
+    "closing_parenthesis_position": 151,
+    "markers": [],
+    "clean_rail": false
+  },
+  "reason_03": {
+    "start": 55,
+    "end": 129,
+    "kind": "before_generated_meta_think",
+    "closing_parenthesis_position": 116,
+    "markers": [],
+    "clean_rail": false
+  },
+  "reason_04": {
+    "start": 45,
+    "end": 118,
+    "kind": "before_generated_meta_think",
+    "closing_parenthesis_position": 111,
+    "markers": [],
+    "clean_rail": false
+  },
+  "reason_05": {
+    "start": 45,
+    "end": 216,
+    "kind": "before_generated_meta_think",
+    "closing_parenthesis_position": 192,
+    "markers": [
+      {
+        "text": "更严谨",
+        "token_position": 127,
+        "character_position": 125,
+        "within_first_item": true
+      }
+    ],
+    "clean_rail": false
+  },
+  "reason_06": {
+    "start": 35,
+    "end": 62,
+    "kind": "before_next_item",
+    "closing_parenthesis_position": 60,
+    "markers": [],
+    "clean_rail": false
+  },
+  "reason_07": {
+    "start": 48,
+    "end": 99,
+    "kind": "before_generated_meta_think",
+    "closing_parenthesis_position": 90,
+    "markers": [],
+    "clean_rail": false
+  },
+  "reason_08": {
+    "start": 59,
+    "end": 134,
+    "kind": "before_next_item",
+    "closing_parenthesis_position": 129,
+    "markers": [],
+    "clean_rail": false
+  },
+  "age_normal": {
+    "start": 37,
+    "end": 127,
+    "kind": "before_next_item",
+    "closing_parenthesis_position": 38,
+    "markers": [],
+    "clean_rail": false
+  },
+  "age_trap": {
+    "start": 37,
+    "end": 157,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": 38,
+    "markers": [],
+    "clean_rail": false
+  },
+  "lincoln_normal": {
+    "start": 38,
+    "end": 158,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": 42,
+    "markers": [],
+    "clean_rail": false
+  },
+  "lincoln_trap": {
+    "start": 38,
+    "end": 158,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": 42,
+    "markers": [],
+    "clean_rail": false
+  },
+  "literature_normal": {
+    "start": 30,
+    "end": 150,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": 31,
+    "markers": [],
+    "clean_rail": false
+  },
+  "literature_trap": {
+    "start": 29,
+    "end": 149,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": 30,
+    "markers": [],
+    "clean_rail": false
+  },
+  "table_normal": {
+    "start": 40,
+    "end": 160,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": 41,
+    "markers": [],
+    "clean_rail": false
+  },
+  "table_trap": {
+    "start": 40,
+    "end": 160,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": 41,
+    "markers": [],
+    "clean_rail": false
+  },
+  "shirt_normal": {
+    "start": 39,
+    "end": 159,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": 40,
+    "markers": [],
+    "clean_rail": false
+  },
+  "shirt_trap": {
+    "start": 42,
+    "end": 162,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": 43,
+    "markers": [],
+    "clean_rail": false
+  },
+  "triangle_normal": {
+    "start": 37,
+    "end": 107,
+    "kind": "before_next_item",
+    "closing_parenthesis_position": 38,
+    "markers": [],
+    "clean_rail": false
+  },
+  "triangle_trap": {
+    "start": 37,
+    "end": 157,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": 38,
+    "markers": [],
+    "clean_rail": false
+  },
+  "correction_mul49": {
+    "start": 38,
+    "end": 190,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": null,
+    "markers": [
+      {
+        "text": "等等",
+        "token_position": 145,
+        "character_position": 140,
+        "within_first_item": true
+      },
+      {
+        "text": "重新算",
+        "token_position": 149,
+        "character_position": 145,
+        "within_first_item": true
+      }
+    ],
+    "clean_rail": false
+  },
+  "correction_mul17": {
+    "start": 37,
+    "end": 189,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": false
+  },
+  "correction_speed": {
+    "start": 51,
+    "end": 203,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": false
+  },
+  "correction_batball": {
+    "start": 57,
+    "end": 71,
+    "kind": "before_next_item",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": false
+  },
+  "port_sum_natural": {
+    "start": 31,
+    "end": 42,
+    "kind": "before_next_item",
+    "closing_parenthesis_position": 39,
+    "markers": [],
+    "clean_rail": false
+  },
+  "port_sum_forced": {
+    "start": 31,
+    "end": 42,
+    "kind": "before_next_item",
+    "closing_parenthesis_position": 39,
+    "markers": [],
+    "clean_rail": false
+  },
+  "port_mul_natural": {
+    "start": 29,
+    "end": 38,
+    "kind": "before_next_item",
+    "closing_parenthesis_position": 35,
+    "markers": [],
+    "clean_rail": false
+  },
+  "port_mul_forced": {
+    "start": 29,
+    "end": 38,
+    "kind": "before_next_item",
+    "closing_parenthesis_position": 35,
+    "markers": [],
+    "clean_rail": false
+  },
+  "rail_09": {
+    "start": 11,
+    "end": 32,
+    "kind": "first_poem",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": true
+  },
+  "rail_10": {
+    "start": 8,
+    "end": 28,
+    "kind": "first_poem",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": true
+  },
+  "rail_11": {
+    "start": 14,
+    "end": 29,
+    "kind": "first_poem",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": true
+  },
+  "rail_12": {
+    "start": 9,
+    "end": 29,
+    "kind": "first_poem",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": true
+  },
+  "cycle_positive_control": {
+    "start": 30,
+    "end": 83,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": false
+  },
+  "arithmetic_direct_control": {
+    "start": 30,
+    "end": 33,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": false
+  },
+  "port_eos_probe_0": {
+    "start": 21,
+    "end": 24,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": false
+  },
+  "port_eos_direct_forced": {
+    "start": 21,
+    "end": 120,
+    "kind": "budget_tail",
+    "closing_parenthesis_position": null,
+    "markers": [],
+    "clean_rail": false
+  }
+}

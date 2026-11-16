@@ -1,0 +1,5 @@
+{
+  "natural_id": "port_eos_probe_0",
+  "forced_id": "port_eos_direct_forced",
+  "expected": "42"
+}

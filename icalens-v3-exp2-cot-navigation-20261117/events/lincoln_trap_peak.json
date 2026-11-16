@@ -1,0 +1,2162 @@
+[
+  {
+    "t": 125,
+    "token_id": 104418,
+    "token": "总统",
+    "raw_token": "æĢ»ç»Ł",
+    "layer": 32,
+    "s": 0.5745859742164612,
+    "theta": 1.8080381155014038,
+    "kappa_g": 3.3895866870880127,
+    "rank5": 3.7470476627349854,
+    "H_next_bits": 0.9777420163154602,
+    "deltaC10": -0.04491633176803589,
+    "deltaC30": -0.052576661109924316,
+    "deltaC50": -0.05045294016599655,
+    "zmax": 11.973944664001465,
+    "top20": 0.10150974243879318,
+    "kurt_d": 6.32554817199707,
+    "islands": [
+      {
+        "axis": 1564,
+        "z": 11.973944664001465,
+        "kurtosis": 26.828603744506836,
+        "words": [
+          "。",
+          "；",
+          "以及其他",
+          ".",
+          "即位"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.484375,
+            "text": "。",
+            "token": "ãĢĤ",
+            "token_id": 1710
+          },
+          {
+            "logit": 1.3828125,
+            "text": "；",
+            "token": "ï¼Ľ",
+            "token_id": 24178
+          },
+          {
+            "logit": 1.1953125,
+            "text": "以及其他",
+            "token": "ä»¥åıĬåħ¶ä»ĸ",
+            "token_id": 114473
+          },
+          {
+            "logit": 1.1875,
+            "text": ".",
+            "token": ".",
+            "token_id": 13
+          },
+          {
+            "logit": 1.171875,
+            "text": "即位",
+            "token": "åį³ä½į",
+            "token_id": 145824
+          }
+        ]
+      },
+      {
+        "axis": 2249,
+        "z": 9.20795726776123,
+        "kurtosis": 12.173250198364258,
+        "words": [
+          "总统",
+          " presidential",
+          "白宫",
+          "總統",
+          "美国总统"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.734375,
+            "text": "总统",
+            "token": "æĢ»ç»Ł",
+            "token_id": 104418
+          },
+          {
+            "logit": 1.578125,
+            "text": " presidential",
+            "token": "Ġpresidential",
+            "token_id": 12933
+          },
+          {
+            "logit": 1.5234375,
+            "text": "白宫",
+            "token": "çĻ½å®«",
+            "token_id": 130085
+          },
+          {
+            "logit": 1.4453125,
+            "text": "總統",
+            "token": "ç¸½çµ±",
+            "token_id": 110288
+          },
+          {
+            "logit": 1.421875,
+            "text": "美国总统",
+            "token": "ç¾İåĽ½æĢ»ç»Ł",
+            "token_id": 125647
+          }
+        ]
+      },
+      {
+        "axis": 2841,
+        "z": 5.689519882202148,
+        "kurtosis": 9.414222717285156,
+        "words": [
+          "-era",
+          "之后",
+          "后的",
+          "成功后",
+          "期间"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.5078125,
+            "text": "-era",
+            "token": "-era",
+            "token_id": 49616
+          },
+          {
+            "logit": 1.4453125,
+            "text": "之后",
+            "token": "ä¹ĭåĲİ",
+            "token_id": 99437
+          },
+          {
+            "logit": 1.4375,
+            "text": "后的",
+            "token": "åĲİçļĦ",
+            "token_id": 98159
+          },
+          {
+            "logit": 1.40625,
+            "text": "成功后",
+            "token": "æĪĲåĬŁåĲİ",
+            "token_id": 99696
+          },
+          {
+            "logit": 1.390625,
+            "text": "期间",
+            "token": "æľŁéĹ´",
+            "token_id": 97711
+          }
+        ]
+      },
+      {
+        "axis": 2576,
+        "z": 4.808860778808594,
+        "kurtosis": 31.350034713745117,
+        "words": [
+          "首相",
+          "政治",
+          "政治家",
+          "总理",
+          "内阁"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.7578125,
+            "text": "首相",
+            "token": "é¦ĸçĽ¸",
+            "token_id": 119980
+          },
+          {
+            "logit": 1.6171875,
+            "text": "政治",
+            "token": "æĶ¿æ²»",
+            "token_id": 97905
+          },
+          {
+            "logit": 1.5234375,
+            "text": "政治家",
+            "token": "æĶ¿æ²»å®¶",
+            "token_id": 142384
+          },
+          {
+            "logit": 1.4765625,
+            "text": "总理",
+            "token": "æĢ»çĲĨ",
+            "token_id": 111090
+          },
+          {
+            "logit": 1.421875,
+            "text": "内阁",
+            "token": "åĨħéĺģ",
+            "token_id": 133333
+          }
+        ]
+      },
+      {
+        "axis": 3713,
+        "z": 4.239367961883545,
+        "kurtosis": 17.554014205932617,
+        "words": [
+          "\n\n",
+          " thereafter",
+          " already",
+          ".",
+          "already"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.484375,
+            "text": "\n\n",
+            "token": "ĊĊ",
+            "token_id": 271
+          },
+          {
+            "logit": 0.4765625,
+            "text": " thereafter",
+            "token": "Ġthereafter",
+            "token_id": 43492
+          },
+          {
+            "logit": 0.46484375,
+            "text": " already",
+            "token": "Ġalready",
+            "token_id": 2582
+          },
+          {
+            "logit": 0.435546875,
+            "text": ".",
+            "token": ".",
+            "token_id": 13
+          },
+          {
+            "logit": 0.41796875,
+            "text": "already",
+            "token": "already",
+            "token_id": 43967
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 126,
+    "token_id": 3709,
+    "token": "，",
+    "raw_token": "ï¼Į",
+    "layer": 32,
+    "s": 0.5654186010360718,
+    "theta": 2.0268547534942627,
+    "kappa_g": 3.55587100982666,
+    "rank5": 3.7507214546203613,
+    "H_next_bits": 0.00949153583496809,
+    "deltaC10": -0.04875540733337402,
+    "deltaC30": -0.033562302589416504,
+    "deltaC50": -0.03867699205875397,
+    "zmax": 8.680368423461914,
+    "top20": 0.09719483554363251,
+    "kurt_d": 3.120234489440918,
+    "islands": [
+      {
+        "axis": 594,
+        "z": 8.680368423461914,
+        "kurtosis": 46.18370056152344,
+        "words": [
+          " famous",
+          "被誉为",
+          "是中国",
+          "曾获",
+          "俗称"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.2578125,
+            "text": " famous",
+            "token": "Ġfamous",
+            "token_id": 10919
+          },
+          {
+            "logit": 1.2421875,
+            "text": "被誉为",
+            "token": "è¢«èªīä¸º",
+            "token_id": 113234
+          },
+          {
+            "logit": 1.2265625,
+            "text": "是中国",
+            "token": "æĺ¯ä¸ŃåĽ½",
+            "token_id": 108820
+          },
+          {
+            "logit": 1.21875,
+            "text": "曾获",
+            "token": "æĽ¾èİ·",
+            "token_id": 145148
+          },
+          {
+            "logit": 1.21875,
+            "text": "俗称",
+            "token": "ä¿Ĺç§°",
+            "token_id": 116384
+          }
+        ]
+      },
+      {
+        "axis": 2187,
+        "z": 7.94052791595459,
+        "kurtosis": 11.206707000732422,
+        "words": [
+          " przecież",
+          "哪怕",
+          "根本无法",
+          "甚至是",
+          "\n\n"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.953125,
+            "text": " przecież",
+            "token": "ĠprzecieÅ¼",
+            "token_id": 242520
+          },
+          {
+            "logit": 0.875,
+            "text": "哪怕",
+            "token": "åĵªæĢķ",
+            "token_id": 104429
+          },
+          {
+            "logit": 0.8671875,
+            "text": "根本无法",
+            "token": "æł¹æľ¬æĹłæ³ķ",
+            "token_id": 127936
+          },
+          {
+            "logit": 0.859375,
+            "text": "甚至是",
+            "token": "çĶļèĩ³æĺ¯",
+            "token_id": 111232
+          },
+          {
+            "logit": 0.85546875,
+            "text": "\n\n",
+            "token": "ĊĊ",
+            "token_id": 271
+          }
+        ]
+      },
+      {
+        "axis": 2651,
+        "z": 6.1126790046691895,
+        "kurtosis": 34.12269592285156,
+        "words": [
+          "____",
+          " ____",
+          " ______",
+          "________",
+          "_____"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.546875,
+            "text": "____",
+            "token": "____",
+            "token_id": 2062
+          },
+          {
+            "logit": 1.40625,
+            "text": " ____",
+            "token": "Ġ____",
+            "token_id": 29739
+          },
+          {
+            "logit": 1.390625,
+            "text": " ______",
+            "token": "Ġ______",
+            "token_id": 31586
+          },
+          {
+            "logit": 1.28125,
+            "text": "________",
+            "token": "________",
+            "token_id": 3846
+          },
+          {
+            "logit": 1.25,
+            "text": "_____",
+            "token": "_____",
+            "token_id": 77740
+          }
+        ]
+      },
+      {
+        "axis": 2841,
+        "z": 5.534806251525879,
+        "kurtosis": 9.414222717285156,
+        "words": [
+          "-era",
+          "之后",
+          "后的",
+          "成功后",
+          "期间"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.5078125,
+            "text": "-era",
+            "token": "-era",
+            "token_id": 49616
+          },
+          {
+            "logit": 1.4453125,
+            "text": "之后",
+            "token": "ä¹ĭåĲİ",
+            "token_id": 99437
+          },
+          {
+            "logit": 1.4375,
+            "text": "后的",
+            "token": "åĲİçļĦ",
+            "token_id": 98159
+          },
+          {
+            "logit": 1.40625,
+            "text": "成功后",
+            "token": "æĪĲåĬŁåĲİ",
+            "token_id": 99696
+          },
+          {
+            "logit": 1.390625,
+            "text": "期间",
+            "token": "æľŁéĹ´",
+            "token_id": 97711
+          }
+        ]
+      },
+      {
+        "axis": 108,
+        "z": 5.505375385284424,
+        "kurtosis": 29.521268844604492,
+        "words": [
+          " also",
+          " mainly",
+          "同时也",
+          "亦可",
+          " likewise"
+        ],
+        "word_entries": [
+          {
+            "logit": 4.25,
+            "text": " also",
+            "token": "Ġalso",
+            "token_id": 1048
+          },
+          {
+            "logit": 3.859375,
+            "text": " mainly",
+            "token": "Ġmainly",
+            "token_id": 14156
+          },
+          {
+            "logit": 3.703125,
+            "text": "同时也",
+            "token": "åĲĮæĹ¶ä¹Ł",
+            "token_id": 108963
+          },
+          {
+            "logit": 3.65625,
+            "text": "亦可",
+            "token": "äº¦åı¯",
+            "token_id": 116326
+          },
+          {
+            "logit": 3.578125,
+            "text": " likewise",
+            "token": "Ġlikewise",
+            "token_id": 36670
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 127,
+    "token_id": 16,
+    "token": "1",
+    "raw_token": "1",
+    "layer": 32,
+    "s": 0.5102087259292603,
+    "theta": 1.8063188791275024,
+    "kappa_g": 3.358633279800415,
+    "rank5": 4.309712886810303,
+    "H_next_bits": 0.00011134392116218805,
+    "deltaC10": -0.04494684934616089,
+    "deltaC30": -0.029162317514419556,
+    "deltaC50": -0.02180880308151245,
+    "zmax": 6.577852725982666,
+    "top20": 0.08040320128202438,
+    "kurt_d": 1.9666919708251953,
+    "islands": [
+      {
+        "axis": 659,
+        "z": 6.577852725982666,
+        "kurtosis": 37.74059295654297,
+        "words": [
+          "第三次",
+          "第二次",
+          "1",
+          " década",
+          "新中国成立"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.7578125,
+            "text": "第三次",
+            "token": "ç¬¬ä¸īæ¬¡",
+            "token_id": 113478
+          },
+          {
+            "logit": 1.75,
+            "text": "第二次",
+            "token": "ç¬¬äºĮæ¬¡",
+            "token_id": 109387
+          },
+          {
+            "logit": 1.75,
+            "text": "1",
+            "token": "1",
+            "token_id": 16
+          },
+          {
+            "logit": 1.7109375,
+            "text": " década",
+            "token": "ĠdÃ©cada",
+            "token_id": 182626
+          },
+          {
+            "logit": 1.703125,
+            "text": "新中国成立",
+            "token": "æĸ°ä¸ŃåĽ½æĪĲç«ĭ",
+            "token_id": 126786
+          }
+        ]
+      },
+      {
+        "axis": 1759,
+        "z": 6.447665214538574,
+        "kurtosis": 50.49658203125,
+        "words": [
+          "time",
+          " эпо",
+          "经理招聘",
+          "凡本网注明",
+          "评价指标得分"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.87109375,
+            "text": "time",
+            "token": "time",
+            "token_id": 1619
+          },
+          {
+            "logit": 0.8125,
+            "text": " эпо",
+            "token": "ĠÑįÐ¿Ð¾",
+            "token_id": 193790
+          },
+          {
+            "logit": 0.80859375,
+            "text": "经理招聘",
+            "token": "ç»ıçĲĨæĭĽèģĺ",
+            "token_id": 147197
+          },
+          {
+            "logit": 0.80078125,
+            "text": "凡本网注明",
+            "token": "åĩ¡æľ¬ç½ĳæ³¨æĺİ",
+            "token_id": 115745
+          },
+          {
+            "logit": 0.796875,
+            "text": "评价指标得分",
+            "token": "è¯Ħä»·æĮĩæłĩå¾ĹåĪĨ",
+            "token_id": 141139
+          }
+        ]
+      },
+      {
+        "axis": 1901,
+        "z": 5.875654220581055,
+        "kurtosis": 12.967789649963379,
+        "words": [
+          "大量",
+          "一大批",
+          "大规模",
+          "日益",
+          " increasingly"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.328125,
+            "text": "大量",
+            "token": "å¤§éĩı",
+            "token_id": 101624
+          },
+          {
+            "logit": 1.28125,
+            "text": "一大批",
+            "token": "ä¸Ģå¤§æī¹",
+            "token_id": 129597
+          },
+          {
+            "logit": 1.265625,
+            "text": "大规模",
+            "token": "å¤§è§Ħæ¨¡",
+            "token_id": 105019
+          },
+          {
+            "logit": 1.25,
+            "text": "日益",
+            "token": "æĹ¥çĽĬ",
+            "token_id": 109290
+          },
+          {
+            "logit": 1.25,
+            "text": " increasingly",
+            "token": "Ġincreasingly",
+            "token_id": 14328
+          }
+        ]
+      },
+      {
+        "axis": 986,
+        "z": 4.173247337341309,
+        "kurtosis": 41.37263488769531,
+        "words": [
+          "其中有",
+          "仅有",
+          "半数",
+          "一个是",
+          "有四"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.76953125,
+            "text": "其中有",
+            "token": "åħ¶ä¸Ńæľī",
+            "token_id": 116562
+          },
+          {
+            "logit": 0.76171875,
+            "text": "仅有",
+            "token": "ä»ħæľī",
+            "token_id": 112074
+          },
+          {
+            "logit": 0.7578125,
+            "text": "半数",
+            "token": "åįĬæķ°",
+            "token_id": 141983
+          },
+          {
+            "logit": 0.75390625,
+            "text": "一个是",
+            "token": "ä¸Ģä¸ªæĺ¯",
+            "token_id": 111507
+          },
+          {
+            "logit": 0.75,
+            "text": "有四",
+            "token": "æľīåĽĽ",
+            "token_id": 130485
+          }
+        ]
+      },
+      {
+        "axis": 2444,
+        "z": 3.9964354038238525,
+        "kurtosis": 11.926316261291504,
+        "words": [
+          " توفي",
+          " infamous",
+          "<|endoftext|>",
+          "曾任",
+          " menjabat"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.1875,
+            "text": " توفي",
+            "token": "ĠØªÙĪÙģÙĬ",
+            "token_id": 218200
+          },
+          {
+            "logit": 1.1015625,
+            "text": " infamous",
+            "token": "Ġinfamous",
+            "token_id": 37253
+          },
+          {
+            "logit": 1.0859375,
+            "text": "<|endoftext|>",
+            "token": "<|endoftext|>",
+            "token_id": 248044
+          },
+          {
+            "logit": 1.0859375,
+            "text": "曾任",
+            "token": "æĽ¾ä»»",
+            "token_id": 120322
+          },
+          {
+            "logit": 1.0703125,
+            "text": " menjabat",
+            "token": "Ġmenjabat",
+            "token_id": 221749
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 128,
+    "token_id": 23,
+    "token": "8",
+    "raw_token": "8",
+    "layer": 32,
+    "s": 0.43291011452674866,
+    "theta": 1.7791715860366821,
+    "kappa_g": 3.7729532718658447,
+    "rank5": 4.43391227722168,
+    "H_next_bits": 0.000373233255231753,
+    "deltaC10": -0.011961162090301514,
+    "deltaC30": -0.01653921604156494,
+    "deltaC50": -0.010210692882537842,
+    "zmax": 9.257108688354492,
+    "top20": 0.10965575277805328,
+    "kurt_d": 5.048732757568359,
+    "islands": [
+      {
+        "axis": 163,
+        "z": 9.257108688354492,
+        "kurtosis": 62.17076873779297,
+        "words": [
+          "expiration",
+          "达产年",
+          "aissance",
+          "免费收到",
+          " milfs"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.328125,
+            "text": "expiration",
+            "token": "expiration",
+            "token_id": 61494
+          },
+          {
+            "logit": 2.25,
+            "text": "达产年",
+            "token": "è¾¾äº§å¹´",
+            "token_id": 142133
+          },
+          {
+            "logit": 2.21875,
+            "text": "aissance",
+            "token": "aissance",
+            "token_id": 180659
+          },
+          {
+            "logit": 2.21875,
+            "text": "免费收到",
+            "token": "åħįè´¹æĶ¶åĪ°",
+            "token_id": 107403
+          },
+          {
+            "logit": 2.21875,
+            "text": " milfs",
+            "token": "Ġmilfs",
+            "token_id": 88804
+          }
+        ]
+      },
+      {
+        "axis": 424,
+        "z": 6.74707555770874,
+        "kurtosis": 27.62256622314453,
+        "words": [
+          " railroad",
+          "蒸汽",
+          "铁路",
+          " nineteenth",
+          "明治"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.515625,
+            "text": " railroad",
+            "token": "Ġrailroad",
+            "token_id": 48776
+          },
+          {
+            "logit": 2.265625,
+            "text": "蒸汽",
+            "token": "èĴ¸æ±½",
+            "token_id": 111045
+          },
+          {
+            "logit": 2.21875,
+            "text": "铁路",
+            "token": "éĵģè·¯",
+            "token_id": 100743
+          },
+          {
+            "logit": 2.1875,
+            "text": " nineteenth",
+            "token": "Ġnineteenth",
+            "token_id": 62792
+          },
+          {
+            "logit": 2.140625,
+            "text": "明治",
+            "token": "æĺİæ²»",
+            "token_id": 247874
+          }
+        ]
+      },
+      {
+        "axis": 2249,
+        "z": 5.702597618103027,
+        "kurtosis": 12.173250198364258,
+        "words": [
+          "总统",
+          " presidential",
+          "白宫",
+          "總統",
+          "美国总统"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.734375,
+            "text": "总统",
+            "token": "æĢ»ç»Ł",
+            "token_id": 104418
+          },
+          {
+            "logit": 1.578125,
+            "text": " presidential",
+            "token": "Ġpresidential",
+            "token_id": 12933
+          },
+          {
+            "logit": 1.5234375,
+            "text": "白宫",
+            "token": "çĻ½å®«",
+            "token_id": 130085
+          },
+          {
+            "logit": 1.4453125,
+            "text": "總統",
+            "token": "ç¸½çµ±",
+            "token_id": 110288
+          },
+          {
+            "logit": 1.421875,
+            "text": "美国总统",
+            "token": "ç¾İåĽ½æĢ»ç»Ł",
+            "token_id": 125647
+          }
+        ]
+      },
+      {
+        "axis": 659,
+        "z": 4.845743656158447,
+        "kurtosis": 37.74059295654297,
+        "words": [
+          "第三次",
+          "第二次",
+          "1",
+          " década",
+          "新中国成立"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.7578125,
+            "text": "第三次",
+            "token": "ç¬¬ä¸īæ¬¡",
+            "token_id": 113478
+          },
+          {
+            "logit": 1.75,
+            "text": "第二次",
+            "token": "ç¬¬äºĮæ¬¡",
+            "token_id": 109387
+          },
+          {
+            "logit": 1.75,
+            "text": "1",
+            "token": "1",
+            "token_id": 16
+          },
+          {
+            "logit": 1.7109375,
+            "text": " década",
+            "token": "ĠdÃ©cada",
+            "token_id": 182626
+          },
+          {
+            "logit": 1.703125,
+            "text": "新中国成立",
+            "token": "æĸ°ä¸ŃåĽ½æĪĲç«ĭ",
+            "token_id": 126786
+          }
+        ]
+      },
+      {
+        "axis": 934,
+        "z": 4.365846157073975,
+        "kurtosis": 13.399201393127441,
+        "words": [
+          "eenth",
+          "»",
+          "......",
+          "……",
+          "»;"
+        ],
+        "word_entries": [
+          {
+            "logit": 3.796875,
+            "text": "eenth",
+            "token": "eenth",
+            "token_id": 59478
+          },
+          {
+            "logit": 3.46875,
+            "text": "»",
+            "token": "Â»",
+            "token_id": 12620
+          },
+          {
+            "logit": 3.109375,
+            "text": "......",
+            "token": "......",
+            "token_id": 27235
+          },
+          {
+            "logit": 3.078125,
+            "text": "……",
+            "token": "âĢ¦âĢ¦",
+            "token_id": 13650
+          },
+          {
+            "logit": 3.046875,
+            "text": "»;",
+            "token": "Â»;",
+            "token_id": 183622
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 129,
+    "token_id": 21,
+    "token": "6",
+    "raw_token": "6",
+    "layer": 32,
+    "s": 0.5565826296806335,
+    "theta": 2.048266887664795,
+    "kappa_g": 4.140034198760986,
+    "rank5": 4.313845157623291,
+    "H_next_bits": 0.00317728566005826,
+    "deltaC10": -0.06738746166229248,
+    "deltaC30": -0.04530400037765503,
+    "deltaC50": -0.019591912627220154,
+    "zmax": 7.531309127807617,
+    "top20": 0.07595501095056534,
+    "kurt_d": 1.619615077972412,
+    "islands": [
+      {
+        "axis": 117,
+        "z": 7.531309127807617,
+        "kurtosis": 50.16408920288086,
+        "words": [
+          "-era",
+          "期的",
+          "期",
+          " years",
+          " decades"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.15625,
+            "text": "-era",
+            "token": "-era",
+            "token_id": 49616
+          },
+          {
+            "logit": 2.0625,
+            "text": "期的",
+            "token": "æľŁçļĦ",
+            "token_id": 97928
+          },
+          {
+            "logit": 1.890625,
+            "text": "期",
+            "token": "æľŁ",
+            "token_id": 96001
+          },
+          {
+            "logit": 1.84375,
+            "text": " years",
+            "token": "Ġyears",
+            "token_id": 1578
+          },
+          {
+            "logit": 1.8046875,
+            "text": " decades",
+            "token": "Ġdecades",
+            "token_id": 10476
+          }
+        ]
+      },
+      {
+        "axis": 1901,
+        "z": 6.516115665435791,
+        "kurtosis": 12.967789649963379,
+        "words": [
+          "大量",
+          "一大批",
+          "大规模",
+          "日益",
+          " increasingly"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.328125,
+            "text": "大量",
+            "token": "å¤§éĩı",
+            "token_id": 101624
+          },
+          {
+            "logit": 1.28125,
+            "text": "一大批",
+            "token": "ä¸Ģå¤§æī¹",
+            "token_id": 129597
+          },
+          {
+            "logit": 1.265625,
+            "text": "大规模",
+            "token": "å¤§è§Ħæ¨¡",
+            "token_id": 105019
+          },
+          {
+            "logit": 1.25,
+            "text": "日益",
+            "token": "æĹ¥çĽĬ",
+            "token_id": 109290
+          },
+          {
+            "logit": 1.25,
+            "text": " increasingly",
+            "token": "Ġincreasingly",
+            "token_id": 14328
+          }
+        ]
+      },
+      {
+        "axis": 541,
+        "z": 5.804211616516113,
+        "kurtosis": 53.845760345458984,
+        "words": [
+          "与其他",
+          "与其它",
+          "单独",
+          "與其他",
+          "和其他"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.89453125,
+            "text": "与其他",
+            "token": "ä¸İåħ¶ä»ĸ",
+            "token_id": 109704
+          },
+          {
+            "logit": 0.8203125,
+            "text": "与其它",
+            "token": "ä¸İåħ¶å®ĥ",
+            "token_id": 133959
+          },
+          {
+            "logit": 0.796875,
+            "text": "单独",
+            "token": "åįķçĭ¬",
+            "token_id": 104286
+          },
+          {
+            "logit": 0.75390625,
+            "text": "與其他",
+            "token": "èĪĩåħ¶ä»ĸ",
+            "token_id": 139004
+          },
+          {
+            "logit": 0.7421875,
+            "text": "和其他",
+            "token": "åĴĮåħ¶ä»ĸ",
+            "token_id": 108799
+          }
+        ]
+      },
+      {
+        "axis": 424,
+        "z": 5.421811103820801,
+        "kurtosis": 27.62256622314453,
+        "words": [
+          " railroad",
+          "蒸汽",
+          "铁路",
+          " nineteenth",
+          "明治"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.515625,
+            "text": " railroad",
+            "token": "Ġrailroad",
+            "token_id": 48776
+          },
+          {
+            "logit": 2.265625,
+            "text": "蒸汽",
+            "token": "èĴ¸æ±½",
+            "token_id": 111045
+          },
+          {
+            "logit": 2.21875,
+            "text": "铁路",
+            "token": "éĵģè·¯",
+            "token_id": 100743
+          },
+          {
+            "logit": 2.1875,
+            "text": " nineteenth",
+            "token": "Ġnineteenth",
+            "token_id": 62792
+          },
+          {
+            "logit": 2.140625,
+            "text": "明治",
+            "token": "æĺİæ²»",
+            "token_id": 247874
+          }
+        ]
+      },
+      {
+        "axis": 1122,
+        "z": 5.019227981567383,
+        "kurtosis": 12.636190414428711,
+        "words": [
+          "``",
+          " ``",
+          ",'",
+          " enggak",
+          "„"
+        ],
+        "word_entries": [
+          {
+            "logit": 3.609375,
+            "text": "``",
+            "token": "``",
+            "token_id": 13475
+          },
+          {
+            "logit": 3.421875,
+            "text": " ``",
+            "token": "Ġ``",
+            "token_id": 9609
+          },
+          {
+            "logit": 2.875,
+            "text": ",'",
+            "token": ",'",
+            "token_id": 2800
+          },
+          {
+            "logit": 2.59375,
+            "text": " enggak",
+            "token": "Ġenggak",
+            "token_id": 208065
+          },
+          {
+            "logit": 2.375,
+            "text": "„",
+            "token": "âĢŀ",
+            "token_id": 53213
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 130,
+    "token_id": 15,
+    "token": "0",
+    "raw_token": "0",
+    "layer": 32,
+    "s": 0.6389217376708984,
+    "theta": 2.1536967754364014,
+    "kappa_g": 3.602992534637451,
+    "rank5": 4.174616813659668,
+    "H_next_bits": 0.02298247441649437,
+    "deltaC10": 0.006303012371063232,
+    "deltaC30": -0.005187571048736572,
+    "deltaC50": -0.005883857607841492,
+    "zmax": 10.866230964660645,
+    "top20": 0.10787594318389893,
+    "kurt_d": 4.542837619781494,
+    "islands": [
+      {
+        "axis": 1048,
+        "z": 10.866230964660645,
+        "kurtosis": 39.808982849121094,
+        "words": [
+          "投票",
+          " voters",
+          "选举",
+          " vote",
+          " election"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.765625,
+            "text": "投票",
+            "token": "æĬķç¥¨",
+            "token_id": 108971
+          },
+          {
+            "logit": 2.625,
+            "text": " voters",
+            "token": "Ġvoters",
+            "token_id": 11370
+          },
+          {
+            "logit": 2.609375,
+            "text": "选举",
+            "token": "éĢīä¸¾",
+            "token_id": 104664
+          },
+          {
+            "logit": 2.578125,
+            "text": " vote",
+            "token": "Ġvote",
+            "token_id": 6695
+          },
+          {
+            "logit": 2.53125,
+            "text": " election",
+            "token": "Ġelection",
+            "token_id": 6028
+          }
+        ]
+      },
+      {
+        "axis": 119,
+        "z": 9.540115356445312,
+        "kurtosis": 73.75523376464844,
+        "words": [
+          "<|endoftext|>",
+          "前夕",
+          "那一年",
+          "一年后",
+          "同年"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.7578125,
+            "text": "<|endoftext|>",
+            "token": "<|endoftext|>",
+            "token_id": 248044
+          },
+          {
+            "logit": 1.7578125,
+            "text": "前夕",
+            "token": "åīįå¤ķ",
+            "token_id": 119165
+          },
+          {
+            "logit": 1.6640625,
+            "text": "那一年",
+            "token": "éĤ£ä¸Ģå¹´",
+            "token_id": 140904
+          },
+          {
+            "logit": 1.625,
+            "text": "一年后",
+            "token": "ä¸Ģå¹´åĲİ",
+            "token_id": 138496
+          },
+          {
+            "logit": 1.625,
+            "text": "同年",
+            "token": "åĲĮå¹´",
+            "token_id": 113625
+          }
+        ]
+      },
+      {
+        "axis": 424,
+        "z": 8.201220512390137,
+        "kurtosis": 27.62256622314453,
+        "words": [
+          " railroad",
+          "蒸汽",
+          "铁路",
+          " nineteenth",
+          "明治"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.515625,
+            "text": " railroad",
+            "token": "Ġrailroad",
+            "token_id": 48776
+          },
+          {
+            "logit": 2.265625,
+            "text": "蒸汽",
+            "token": "èĴ¸æ±½",
+            "token_id": 111045
+          },
+          {
+            "logit": 2.21875,
+            "text": "铁路",
+            "token": "éĵģè·¯",
+            "token_id": 100743
+          },
+          {
+            "logit": 2.1875,
+            "text": " nineteenth",
+            "token": "Ġnineteenth",
+            "token_id": 62792
+          },
+          {
+            "logit": 2.140625,
+            "text": "明治",
+            "token": "æĺİæ²»",
+            "token_id": 247874
+          }
+        ]
+      },
+      {
+        "axis": 681,
+        "z": 7.806646347045898,
+        "kurtosis": 21.269588470458984,
+        "words": [
+          "ة",
+          "s",
+          "年代初",
+          " ๆ",
+          " учё"
+        ],
+        "word_entries": [
+          {
+            "logit": 3.0625,
+            "text": "ة",
+            "token": "Ø©",
+            "token_id": 25046
+          },
+          {
+            "logit": 2.75,
+            "text": "s",
+            "token": "s",
+            "token_id": 82
+          },
+          {
+            "logit": 2.625,
+            "text": "年代初",
+            "token": "å¹´ä»£åĪĿ",
+            "token_id": 139433
+          },
+          {
+            "logit": 2.546875,
+            "text": " ๆ",
+            "token": "Ġà¹Ĩ",
+            "token_id": 170468
+          },
+          {
+            "logit": 2.53125,
+            "text": " учё",
+            "token": "ĠÑĥÑĩÑĳ",
+            "token_id": 202808
+          }
+        ]
+      },
+      {
+        "axis": 1707,
+        "z": 5.836818695068359,
+        "kurtosis": 28.320056915283203,
+        "words": [
+          "政治",
+          "竞选",
+          "political",
+          "政客",
+          "反对"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.328125,
+            "text": "政治",
+            "token": "æĶ¿æ²»",
+            "token_id": 97905
+          },
+          {
+            "logit": 2.125,
+            "text": "竞选",
+            "token": "ç«ŀéĢī",
+            "token_id": 117445
+          },
+          {
+            "logit": 1.9765625,
+            "text": "political",
+            "token": "political",
+            "token_id": 72145
+          },
+          {
+            "logit": 1.96875,
+            "text": "政客",
+            "token": "æĶ¿å®¢",
+            "token_id": 147275
+          },
+          {
+            "logit": 1.9453125,
+            "text": "反对",
+            "token": "åıįå¯¹",
+            "token_id": 108999
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 131,
+    "token_id": 95859,
+    "token": "年",
+    "raw_token": "å¹´",
+    "layer": 32,
+    "s": 0.6350148916244507,
+    "theta": 2.4254746437072754,
+    "kappa_g": 3.8078420162200928,
+    "rank5": 3.6505112648010254,
+    "H_next_bits": 1.9559849500656128,
+    "deltaC10": -0.06482988595962524,
+    "deltaC30": -0.022923380136489868,
+    "deltaC50": -0.015406891703605652,
+    "zmax": 8.930572509765625,
+    "top20": 0.07401392608880997,
+    "kurt_d": 2.0382180213928223,
+    "islands": [
+      {
+        "axis": 250,
+        "z": 8.930572509765625,
+        "kurtosis": 50.288875579833984,
+        "words": [
+          "同年",
+          "<|endoftext|>",
+          "先后",
+          "这一年",
+          "就开始"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.421875,
+            "text": "同年",
+            "token": "åĲĮå¹´",
+            "token_id": 113625
+          },
+          {
+            "logit": 2.421875,
+            "text": "<|endoftext|>",
+            "token": "<|endoftext|>",
+            "token_id": 248044
+          },
+          {
+            "logit": 2.328125,
+            "text": "先后",
+            "token": "åħĪåĲİ",
+            "token_id": 103893
+          },
+          {
+            "logit": 2.28125,
+            "text": "这一年",
+            "token": "è¿Ļä¸Ģå¹´",
+            "token_id": 116597
+          },
+          {
+            "logit": 2.28125,
+            "text": "就开始",
+            "token": "å°±å¼Ģå§ĭ",
+            "token_id": 110461
+          }
+        ]
+      },
+      {
+        "axis": 541,
+        "z": 7.865164756774902,
+        "kurtosis": 53.845760345458984,
+        "words": [
+          "与其他",
+          "与其它",
+          "单独",
+          "與其他",
+          "和其他"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.89453125,
+            "text": "与其他",
+            "token": "ä¸İåħ¶ä»ĸ",
+            "token_id": 109704
+          },
+          {
+            "logit": 0.8203125,
+            "text": "与其它",
+            "token": "ä¸İåħ¶å®ĥ",
+            "token_id": 133959
+          },
+          {
+            "logit": 0.796875,
+            "text": "单独",
+            "token": "åįķçĭ¬",
+            "token_id": 104286
+          },
+          {
+            "logit": 0.75390625,
+            "text": "與其他",
+            "token": "èĪĩåħ¶ä»ĸ",
+            "token_id": 139004
+          },
+          {
+            "logit": 0.7421875,
+            "text": "和其他",
+            "token": "åĴĮåħ¶ä»ĸ",
+            "token_id": 108799
+          }
+        ]
+      },
+      {
+        "axis": 1901,
+        "z": 5.955242156982422,
+        "kurtosis": 12.967789649963379,
+        "words": [
+          "大量",
+          "一大批",
+          "大规模",
+          "日益",
+          " increasingly"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.328125,
+            "text": "大量",
+            "token": "å¤§éĩı",
+            "token_id": 101624
+          },
+          {
+            "logit": 1.28125,
+            "text": "一大批",
+            "token": "ä¸Ģå¤§æī¹",
+            "token_id": 129597
+          },
+          {
+            "logit": 1.265625,
+            "text": "大规模",
+            "token": "å¤§è§Ħæ¨¡",
+            "token_id": 105019
+          },
+          {
+            "logit": 1.25,
+            "text": "日益",
+            "token": "æĹ¥çĽĬ",
+            "token_id": 109290
+          },
+          {
+            "logit": 1.25,
+            "text": " increasingly",
+            "token": "Ġincreasingly",
+            "token_id": 14328
+          }
+        ]
+      },
+      {
+        "axis": 2651,
+        "z": 4.5276265144348145,
+        "kurtosis": 34.12269592285156,
+        "words": [
+          "____",
+          " ____",
+          " ______",
+          "________",
+          "_____"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.546875,
+            "text": "____",
+            "token": "____",
+            "token_id": 2062
+          },
+          {
+            "logit": 1.40625,
+            "text": " ____",
+            "token": "Ġ____",
+            "token_id": 29739
+          },
+          {
+            "logit": 1.390625,
+            "text": " ______",
+            "token": "Ġ______",
+            "token_id": 31586
+          },
+          {
+            "logit": 1.28125,
+            "text": "________",
+            "token": "________",
+            "token_id": 3846
+          },
+          {
+            "logit": 1.25,
+            "text": "_____",
+            "token": "_____",
+            "token_id": 77740
+          }
+        ]
+      },
+      {
+        "axis": 824,
+        "z": 4.426257133483887,
+        "kurtosis": 33.25934982299805,
+        "words": [
+          "\n\n",
+          ",",
+          "，",
+          "  \n\n",
+          "<|endoftext|>"
+        ],
+        "word_entries": [
+          {
+            "logit": 0.77734375,
+            "text": "\n\n",
+            "token": "ĊĊ",
+            "token_id": 271
+          },
+          {
+            "logit": 0.7265625,
+            "text": ",",
+            "token": ",",
+            "token_id": 11
+          },
+          {
+            "logit": 0.703125,
+            "text": "，",
+            "token": "ï¼Į",
+            "token_id": 3709
+          },
+          {
+            "logit": 0.65625,
+            "text": "  \n\n",
+            "token": "ĠĠĊĊ",
+            "token_id": 18050
+          },
+          {
+            "logit": 0.640625,
+            "text": "<|endoftext|>",
+            "token": "<|endoftext|>",
+            "token_id": 248044
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 132,
+    "token_id": 117445,
+    "token": "竞选",
+    "raw_token": "ç«ŀéĢī",
+    "layer": 32,
+    "s": 0.6774755716323853,
+    "theta": 2.0416245460510254,
+    "kappa_g": 3.111069440841675,
+    "rank5": 3.403198480606079,
+    "H_next_bits": 0.25220710039138794,
+    "deltaC10": -0.01818925142288208,
+    "deltaC30": -0.017523258924484253,
+    "deltaC50": -0.033498018980026245,
+    "zmax": 13.924604415893555,
+    "top20": 0.10898640006780624,
+    "kurt_d": 7.928972244262695,
+    "islands": [
+      {
+        "axis": 1048,
+        "z": 13.924604415893555,
+        "kurtosis": 39.808982849121094,
+        "words": [
+          "投票",
+          " voters",
+          "选举",
+          " vote",
+          " election"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.765625,
+            "text": "投票",
+            "token": "æĬķç¥¨",
+            "token_id": 108971
+          },
+          {
+            "logit": 2.625,
+            "text": " voters",
+            "token": "Ġvoters",
+            "token_id": 11370
+          },
+          {
+            "logit": 2.609375,
+            "text": "选举",
+            "token": "éĢīä¸¾",
+            "token_id": 104664
+          },
+          {
+            "logit": 2.578125,
+            "text": " vote",
+            "token": "Ġvote",
+            "token_id": 6695
+          },
+          {
+            "logit": 2.53125,
+            "text": " election",
+            "token": "Ġelection",
+            "token_id": 6028
+          }
+        ]
+      },
+      {
+        "axis": 1983,
+        "z": 7.699976444244385,
+        "kurtosis": 20.292478561401367,
+        "words": [
+          "政治",
+          "竞选",
+          "选举",
+          "和政治",
+          "的政治"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.296875,
+            "text": "政治",
+            "token": "æĶ¿æ²»",
+            "token_id": 97905
+          },
+          {
+            "logit": 2.234375,
+            "text": "竞选",
+            "token": "ç«ŀéĢī",
+            "token_id": 117445
+          },
+          {
+            "logit": 1.984375,
+            "text": "选举",
+            "token": "éĢīä¸¾",
+            "token_id": 104664
+          },
+          {
+            "logit": 1.96875,
+            "text": "和政治",
+            "token": "åĴĮæĶ¿æ²»",
+            "token_id": 126365
+          },
+          {
+            "logit": 1.9609375,
+            "text": "的政治",
+            "token": "çļĦæĶ¿æ²»",
+            "token_id": 112195
+          }
+        ]
+      },
+      {
+        "axis": 2249,
+        "z": 6.6713480949401855,
+        "kurtosis": 12.173250198364258,
+        "words": [
+          "总统",
+          " presidential",
+          "白宫",
+          "總統",
+          "美国总统"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.734375,
+            "text": "总统",
+            "token": "æĢ»ç»Ł",
+            "token_id": 104418
+          },
+          {
+            "logit": 1.578125,
+            "text": " presidential",
+            "token": "Ġpresidential",
+            "token_id": 12933
+          },
+          {
+            "logit": 1.5234375,
+            "text": "白宫",
+            "token": "çĻ½å®«",
+            "token_id": 130085
+          },
+          {
+            "logit": 1.4453125,
+            "text": "總統",
+            "token": "ç¸½çµ±",
+            "token_id": 110288
+          },
+          {
+            "logit": 1.421875,
+            "text": "美国总统",
+            "token": "ç¾İåĽ½æĢ»ç»Ł",
+            "token_id": 125647
+          }
+        ]
+      },
+      {
+        "axis": 2495,
+        "z": 5.7613911628723145,
+        "kurtosis": 14.929669380187988,
+        "words": [
+          " advertising",
+          " marketing",
+          "广告",
+          "宣传",
+          " Marketing"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.203125,
+            "text": " advertising",
+            "token": "Ġadvertising",
+            "token_id": 12507
+          },
+          {
+            "logit": 2.15625,
+            "text": " marketing",
+            "token": "Ġmarketing",
+            "token_id": 8233
+          },
+          {
+            "logit": 2.078125,
+            "text": "广告",
+            "token": "å¹¿åĳĬ",
+            "token_id": 98637
+          },
+          {
+            "logit": 1.8203125,
+            "text": "宣传",
+            "token": "å®£ä¼ł",
+            "token_id": 97288
+          },
+          {
+            "logit": 1.8046875,
+            "text": " Marketing",
+            "token": "ĠMarketing",
+            "token_id": 17686
+          }
+        ]
+      },
+      {
+        "axis": 2422,
+        "z": 5.347030162811279,
+        "kurtosis": 79.04584503173828,
+        "words": [
+          " candidates",
+          "候选",
+          " candidate",
+          " candidacy",
+          " Candidate"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.0390625,
+            "text": " candidates",
+            "token": "Ġcandidates",
+            "token_id": 10853
+          },
+          {
+            "logit": 1.0234375,
+            "text": "候选",
+            "token": "åĢĻéĢī",
+            "token_id": 102486
+          },
+          {
+            "logit": 1.0078125,
+            "text": " candidate",
+            "token": "Ġcandidate",
+            "token_id": 8871
+          },
+          {
+            "logit": 0.96875,
+            "text": " candidacy",
+            "token": "Ġcandidacy",
+            "token_id": 63926
+          },
+          {
+            "logit": 0.9609375,
+            "text": " Candidate",
+            "token": "ĠCandidate",
+            "token_id": 47914
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "t": 133,
+    "token_id": 104418,
+    "token": "总统",
+    "raw_token": "æĢ»ç»Ł",
+    "layer": 32,
+    "s": 0.5632769465446472,
+    "theta": 1.9741066694259644,
+    "kappa_g": 3.182111978530884,
+    "rank5": 3.4808473587036133,
+    "H_next_bits": 0.49016469717025757,
+    "deltaC10": -0.048858463764190674,
+    "deltaC30": -0.06409808993339539,
+    "deltaC50": -0.041263386607170105,
+    "zmax": 8.794713020324707,
+    "top20": 0.09129232913255692,
+    "kurt_d": 3.0608859062194824,
+    "islands": [
+      {
+        "axis": 2249,
+        "z": 8.794713020324707,
+        "kurtosis": 12.173250198364258,
+        "words": [
+          "总统",
+          " presidential",
+          "白宫",
+          "總統",
+          "美国总统"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.734375,
+            "text": "总统",
+            "token": "æĢ»ç»Ł",
+            "token_id": 104418
+          },
+          {
+            "logit": 1.578125,
+            "text": " presidential",
+            "token": "Ġpresidential",
+            "token_id": 12933
+          },
+          {
+            "logit": 1.5234375,
+            "text": "白宫",
+            "token": "çĻ½å®«",
+            "token_id": 130085
+          },
+          {
+            "logit": 1.4453125,
+            "text": "總統",
+            "token": "ç¸½çµ±",
+            "token_id": 110288
+          },
+          {
+            "logit": 1.421875,
+            "text": "美国总统",
+            "token": "ç¾İåĽ½æĢ»ç»Ł",
+            "token_id": 125647
+          }
+        ]
+      },
+      {
+        "axis": 1048,
+        "z": 6.717099666595459,
+        "kurtosis": 39.808982849121094,
+        "words": [
+          "投票",
+          " voters",
+          "选举",
+          " vote",
+          " election"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.765625,
+            "text": "投票",
+            "token": "æĬķç¥¨",
+            "token_id": 108971
+          },
+          {
+            "logit": 2.625,
+            "text": " voters",
+            "token": "Ġvoters",
+            "token_id": 11370
+          },
+          {
+            "logit": 2.609375,
+            "text": "选举",
+            "token": "éĢīä¸¾",
+            "token_id": 104664
+          },
+          {
+            "logit": 2.578125,
+            "text": " vote",
+            "token": "Ġvote",
+            "token_id": 6695
+          },
+          {
+            "logit": 2.53125,
+            "text": " election",
+            "token": "Ġelection",
+            "token_id": 6028
+          }
+        ]
+      },
+      {
+        "axis": 998,
+        "z": 5.558998107910156,
+        "kurtosis": 23.169958114624023,
+        "words": [
+          ",",
+          "，",
+          "的",
+          "的同时",
+          "的方式"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.203125,
+            "text": ",",
+            "token": ",",
+            "token_id": 11
+          },
+          {
+            "logit": 1.9453125,
+            "text": "，",
+            "token": "ï¼Į",
+            "token_id": 3709
+          },
+          {
+            "logit": 1.796875,
+            "text": "的",
+            "token": "çļĦ",
+            "token_id": 95726
+          },
+          {
+            "logit": 1.7734375,
+            "text": "的同时",
+            "token": "çļĦåĲĮæĹ¶",
+            "token_id": 108558
+          },
+          {
+            "logit": 1.7265625,
+            "text": "的方式",
+            "token": "çļĦæĸ¹å¼ı",
+            "token_id": 99485
+          }
+        ]
+      },
+      {
+        "axis": 1983,
+        "z": 5.241327285766602,
+        "kurtosis": 20.292478561401367,
+        "words": [
+          "政治",
+          "竞选",
+          "选举",
+          "和政治",
+          "的政治"
+        ],
+        "word_entries": [
+          {
+            "logit": 2.296875,
+            "text": "政治",
+            "token": "æĶ¿æ²»",
+            "token_id": 97905
+          },
+          {
+            "logit": 2.234375,
+            "text": "竞选",
+            "token": "ç«ŀéĢī",
+            "token_id": 117445
+          },
+          {
+            "logit": 1.984375,
+            "text": "选举",
+            "token": "éĢīä¸¾",
+            "token_id": 104664
+          },
+          {
+            "logit": 1.96875,
+            "text": "和政治",
+            "token": "åĴĮæĶ¿æ²»",
+            "token_id": 126365
+          },
+          {
+            "logit": 1.9609375,
+            "text": "的政治",
+            "token": "çļĦæĶ¿æ²»",
+            "token_id": 112195
+          }
+        ]
+      },
+      {
+        "axis": 1564,
+        "z": 4.698388576507568,
+        "kurtosis": 26.828603744506836,
+        "words": [
+          "。",
+          "；",
+          "以及其他",
+          ".",
+          "即位"
+        ],
+        "word_entries": [
+          {
+            "logit": 1.484375,
+            "text": "。",
+            "token": "ãĢĤ",
+            "token_id": 1710
+          },
+          {
+            "logit": 1.3828125,
+            "text": "；",
+            "token": "ï¼Ľ",
+            "token_id": 24178
+          },
+          {
+            "logit": 1.1953125,
+            "text": "以及其他",
+            "token": "ä»¥åıĬåħ¶ä»ĸ",
+            "token_id": 114473
+          },
+          {
+            "logit": 1.1875,
+            "text": ".",
+            "token": ".",
+            "token_id": 13
+          },
+          {
+            "logit": 1.171875,
+            "text": "即位",
+            "token": "åį³ä½į",
+            "token_id": 145824
+          }
+        ]
+      }
+    ]
+  }
+]

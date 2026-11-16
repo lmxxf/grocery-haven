@@ -1,0 +1,999 @@
+[
+  {
+    "id": "port_sum_natural",
+    "arm": 42,
+    "arm_reason": null,
+    "first_eos": null,
+    "extra": null,
+    "before": {
+      "n": 11,
+      "rank5": 4.105955600738525,
+      "s": 0.6496080756187439,
+      "kappa": 2.92561936378479,
+      "H": 0.5642029047012329,
+      "zmax": 10.380847930908203,
+      "top20": 0.07894387096166611,
+      "unique_main_islands": 5,
+      "top3_main_coverage": 0.8181818181818182,
+      "top4_main_coverage": 0.9090909090909091,
+      "islands": [
+        {
+          "axis": 3085,
+          "count": 5,
+          "words": [
+            "＋",
+            " +",
+            "(...)",
+            " …",
+            " [("
+          ]
+        },
+        {
+          "axis": 2214,
+          "count": 3,
+          "words": [
+            "数学",
+            " \n",
+            "算术",
+            "数是",
+            "这个数字"
+          ]
+        },
+        {
+          "axis": 1438,
+          "count": 1,
+          "words": [
+            "\n",
+            " \n",
+            "...",
+            "\r\n",
+            " ..."
+          ]
+        },
+        {
+          "axis": 1986,
+          "count": 1,
+          "words": [
+            "\n\n",
+            "____",
+            " ____",
+            " ______",
+            "\n"
+          ]
+        },
+        {
+          "axis": 1416,
+          "count": 1,
+          "words": [
+            "<|endoftext|>",
+            " \n\n",
+            "再一次",
+            "告诉了",
+            "这话"
+          ]
+        }
+      ]
+    },
+    "after": {
+      "n": 174,
+      "rank5": 4.018369674682617,
+      "s": 0.6576291918754578,
+      "kappa": 2.9957258701324463,
+      "H": 0.7509500980377197,
+      "zmax": 9.903900146484375,
+      "top20": 0.07382169365882874,
+      "unique_main_islands": 60,
+      "top3_main_coverage": 0.27586206896551724,
+      "top4_main_coverage": 0.3275862068965517,
+      "islands": [
+        {
+          "axis": 3085,
+          "count": 24,
+          "words": [
+            "＋",
+            " +",
+            "(...)",
+            " …",
+            " [("
+          ]
+        },
+        {
+          "axis": 207,
+          "count": 14,
+          "words": [
+            "<|im_end|>",
+            " \n\n",
+            "\n\n",
+            "\n",
+            " \n"
+          ]
+        },
+        {
+          "axis": 1891,
+          "count": 10,
+          "words": [
+            "\n\n",
+            " ",
+            "<|endoftext|>",
+            "\n",
+            " ..."
+          ]
+        },
+        {
+          "axis": 1425,
+          "count": 9,
+          "words": [
+            " or",
+            " notation",
+            "字母",
+            "或是",
+            "符号"
+          ]
+        },
+        {
+          "axis": 703,
+          "count": 9,
+          "words": [
+            "<|endoftext|>",
+            "部份",
+            " specific",
+            "於",
+            "但不限于"
+          ]
+        },
+        {
+          "axis": 72,
+          "count": 6,
+          "words": [
+            "\n\n",
+            "<|endoftext|>",
+            "<|im_end|>",
+            " \n\n",
+            "\n\n\n"
+          ]
+        }
+      ]
+    },
+    "eos_mass_max": 0.2551807761192322,
+    "recurrence_best_lag": 2,
+    "recurrence_mean_cosine": 0.7553802132606506
+  },
+  {
+    "id": "port_sum_forced",
+    "arm": 42,
+    "arm_reason": "explicit_answer",
+    "first_eos": null,
+    "extra": 96,
+    "before": {
+      "n": 11,
+      "rank5": 4.105955600738525,
+      "s": 0.6496080756187439,
+      "kappa": 2.92561936378479,
+      "H": 0.5642029047012329,
+      "zmax": 10.380847930908203,
+      "top20": 0.07894387096166611,
+      "unique_main_islands": 5,
+      "top3_main_coverage": 0.8181818181818182,
+      "top4_main_coverage": 0.9090909090909091,
+      "islands": [
+        {
+          "axis": 3085,
+          "count": 5,
+          "words": [
+            "＋",
+            " +",
+            "(...)",
+            " …",
+            " [("
+          ]
+        },
+        {
+          "axis": 2214,
+          "count": 3,
+          "words": [
+            "数学",
+            " \n",
+            "算术",
+            "数是",
+            "这个数字"
+          ]
+        },
+        {
+          "axis": 1438,
+          "count": 1,
+          "words": [
+            "\n",
+            " \n",
+            "...",
+            "\r\n",
+            " ..."
+          ]
+        },
+        {
+          "axis": 1986,
+          "count": 1,
+          "words": [
+            "\n\n",
+            "____",
+            " ____",
+            " ______",
+            "\n"
+          ]
+        },
+        {
+          "axis": 1416,
+          "count": 1,
+          "words": [
+            "<|endoftext|>",
+            " \n\n",
+            "再一次",
+            "告诉了",
+            "这话"
+          ]
+        }
+      ]
+    },
+    "after": {
+      "n": 91,
+      "rank5": 4.002596378326416,
+      "s": 0.6725670695304871,
+      "kappa": 2.9171671867370605,
+      "H": 0.4242528975009918,
+      "zmax": 10.183547019958496,
+      "top20": 0.07568992674350739,
+      "unique_main_islands": 34,
+      "top3_main_coverage": 0.38461538461538464,
+      "top4_main_coverage": 0.42857142857142855,
+      "islands": [
+        {
+          "axis": 3085,
+          "count": 16,
+          "words": [
+            "＋",
+            " +",
+            "(...)",
+            " …",
+            " [("
+          ]
+        },
+        {
+          "axis": 207,
+          "count": 11,
+          "words": [
+            "<|im_end|>",
+            " \n\n",
+            "\n\n",
+            "\n",
+            " \n"
+          ]
+        },
+        {
+          "axis": 1891,
+          "count": 8,
+          "words": [
+            "\n\n",
+            " ",
+            "<|endoftext|>",
+            "\n",
+            " ..."
+          ]
+        },
+        {
+          "axis": 1425,
+          "count": 4,
+          "words": [
+            " or",
+            " notation",
+            "字母",
+            "或是",
+            "符号"
+          ]
+        },
+        {
+          "axis": 779,
+          "count": 4,
+          "words": [
+            "这个名字",
+            "指的是",
+            " (",
+            "意指",
+            "性是"
+          ]
+        },
+        {
+          "axis": 703,
+          "count": 4,
+          "words": [
+            "<|endoftext|>",
+            "部份",
+            " specific",
+            "於",
+            "但不限于"
+          ]
+        }
+      ]
+    },
+    "eos_mass_max": 0.20214296877384186,
+    "recurrence_best_lag": 2,
+    "recurrence_mean_cosine": 0.7455165982246399
+  },
+  {
+    "id": "port_mul_natural",
+    "arm": 38,
+    "arm_reason": null,
+    "first_eos": 122,
+    "extra": null,
+    "before": {
+      "n": 9,
+      "rank5": 4.094148635864258,
+      "s": 0.6672995686531067,
+      "kappa": 2.877903699874878,
+      "H": 0.6548818349838257,
+      "zmax": 10.266439437866211,
+      "top20": 0.07853824645280838,
+      "unique_main_islands": 5,
+      "top3_main_coverage": 0.7777777777777778,
+      "top4_main_coverage": 0.8888888888888888,
+      "islands": [
+        {
+          "axis": 3085,
+          "count": 4,
+          "words": [
+            "＋",
+            " +",
+            "(...)",
+            " …",
+            " [("
+          ]
+        },
+        {
+          "axis": 2214,
+          "count": 2,
+          "words": [
+            "数学",
+            " \n",
+            "算术",
+            "数是",
+            "这个数字"
+          ]
+        },
+        {
+          "axis": 468,
+          "count": 1,
+          "words": [
+            "例子",
+            "\n\n",
+            "的例子",
+            "...",
+            " example"
+          ]
+        },
+        {
+          "axis": 1986,
+          "count": 1,
+          "words": [
+            "\n\n",
+            "____",
+            " ____",
+            " ______",
+            "\n"
+          ]
+        },
+        {
+          "axis": 1416,
+          "count": 1,
+          "words": [
+            "<|endoftext|>",
+            " \n\n",
+            "再一次",
+            "告诉了",
+            "这话"
+          ]
+        }
+      ]
+    },
+    "after": {
+      "n": 108,
+      "rank5": 4.022127151489258,
+      "s": 0.672454297542572,
+      "kappa": 2.911628246307373,
+      "H": 0.4337843060493469,
+      "zmax": 10.627564430236816,
+      "top20": 0.07974647730588913,
+      "unique_main_islands": 45,
+      "top3_main_coverage": 0.3055555555555556,
+      "top4_main_coverage": 0.37037037037037035,
+      "islands": [
+        {
+          "axis": 3085,
+          "count": 18,
+          "words": [
+            "＋",
+            " +",
+            "(...)",
+            " …",
+            " [("
+          ]
+        },
+        {
+          "axis": 1717,
+          "count": 8,
+          "words": [
+            "符号",
+            " arithmetic",
+            "运算符",
+            " symbols",
+            "表达式"
+          ]
+        },
+        {
+          "axis": 1891,
+          "count": 7,
+          "words": [
+            "\n\n",
+            " ",
+            "<|endoftext|>",
+            "\n",
+            " ..."
+          ]
+        },
+        {
+          "axis": 207,
+          "count": 7,
+          "words": [
+            "<|im_end|>",
+            " \n\n",
+            "\n\n",
+            "\n",
+            " \n"
+          ]
+        },
+        {
+          "axis": 1929,
+          "count": 7,
+          "words": [
+            "…",
+            "...",
+            " etc",
+            "...).",
+            "...."
+          ]
+        },
+        {
+          "axis": 1425,
+          "count": 6,
+          "words": [
+            " or",
+            " notation",
+            "字母",
+            "或是",
+            "符号"
+          ]
+        }
+      ]
+    },
+    "eos_mass_max": 0.108498215675354,
+    "recurrence_best_lag": 2,
+    "recurrence_mean_cosine": 0.7515247464179993
+  },
+  {
+    "id": "port_mul_forced",
+    "arm": 38,
+    "arm_reason": "explicit_answer",
+    "first_eos": null,
+    "extra": 96,
+    "before": {
+      "n": 9,
+      "rank5": 4.094148635864258,
+      "s": 0.6672995686531067,
+      "kappa": 2.877903699874878,
+      "H": 0.6548818349838257,
+      "zmax": 10.266439437866211,
+      "top20": 0.07853824645280838,
+      "unique_main_islands": 5,
+      "top3_main_coverage": 0.7777777777777778,
+      "top4_main_coverage": 0.8888888888888888,
+      "islands": [
+        {
+          "axis": 3085,
+          "count": 4,
+          "words": [
+            "＋",
+            " +",
+            "(...)",
+            " …",
+            " [("
+          ]
+        },
+        {
+          "axis": 2214,
+          "count": 2,
+          "words": [
+            "数学",
+            " \n",
+            "算术",
+            "数是",
+            "这个数字"
+          ]
+        },
+        {
+          "axis": 468,
+          "count": 1,
+          "words": [
+            "例子",
+            "\n\n",
+            "的例子",
+            "...",
+            " example"
+          ]
+        },
+        {
+          "axis": 1986,
+          "count": 1,
+          "words": [
+            "\n\n",
+            "____",
+            " ____",
+            " ______",
+            "\n"
+          ]
+        },
+        {
+          "axis": 1416,
+          "count": 1,
+          "words": [
+            "<|endoftext|>",
+            " \n\n",
+            "再一次",
+            "告诉了",
+            "这话"
+          ]
+        }
+      ]
+    },
+    "after": {
+      "n": 91,
+      "rank5": 4.01680326461792,
+      "s": 0.6744822859764099,
+      "kappa": 2.9030845165252686,
+      "H": 0.39660054445266724,
+      "zmax": 10.71529769897461,
+      "top20": 0.07947586476802826,
+      "unique_main_islands": 42,
+      "top3_main_coverage": 0.3076923076923077,
+      "top4_main_coverage": 0.3626373626373626,
+      "islands": [
+        {
+          "axis": 3085,
+          "count": 15,
+          "words": [
+            "＋",
+            " +",
+            "(...)",
+            " …",
+            " [("
+          ]
+        },
+        {
+          "axis": 207,
+          "count": 7,
+          "words": [
+            "<|im_end|>",
+            " \n\n",
+            "\n\n",
+            "\n",
+            " \n"
+          ]
+        },
+        {
+          "axis": 1717,
+          "count": 6,
+          "words": [
+            "符号",
+            " arithmetic",
+            "运算符",
+            " symbols",
+            "表达式"
+          ]
+        },
+        {
+          "axis": 1425,
+          "count": 5,
+          "words": [
+            " or",
+            " notation",
+            "字母",
+            "或是",
+            "符号"
+          ]
+        },
+        {
+          "axis": 1891,
+          "count": 5,
+          "words": [
+            "\n\n",
+            " ",
+            "<|endoftext|>",
+            "\n",
+            " ..."
+          ]
+        },
+        {
+          "axis": 1929,
+          "count": 5,
+          "words": [
+            "…",
+            "...",
+            " etc",
+            "...).",
+            "...."
+          ]
+        }
+      ]
+    },
+    "eos_mass_max": 0.108498215675354,
+    "recurrence_best_lag": 2,
+    "recurrence_mean_cosine": 0.7501879930496216
+  },
+  {
+    "id": "port_eos_probe_0",
+    "arm": 24,
+    "arm_reason": null,
+    "first_eos": 3,
+    "extra": null,
+    "before": {
+      "n": 3,
+      "rank5": 4.045152187347412,
+      "s": 0.7436941266059875,
+      "kappa": 2.5617072582244873,
+      "H": 0.14059995114803314,
+      "zmax": 10.505512237548828,
+      "top20": 0.07434898614883423,
+      "unique_main_islands": 3,
+      "top3_main_coverage": 1.0,
+      "top4_main_coverage": 1.0,
+      "islands": [
+        {
+          "axis": 1986,
+          "count": 1,
+          "words": [
+            "\n\n",
+            "____",
+            " ____",
+            " ______",
+            "\n"
+          ]
+        },
+        {
+          "axis": 3547,
+          "count": 1,
+          "words": [
+            "\n",
+            " ...",
+            " ",
+            " [",
+            " ."
+          ]
+        },
+        {
+          "axis": 2612,
+          "count": 1,
+          "words": [
+            "甚至",
+            " or",
+            " even",
+            "<|endoftext|>",
+            "或者"
+          ]
+        }
+      ]
+    },
+    "after": null,
+    "eos_mass_max": 0.00184845260810107
+  },
+  {
+    "id": "port_eos_direct_forced",
+    "arm": 24,
+    "arm_reason": "eos_proposal",
+    "first_eos": 3,
+    "extra": 96,
+    "before": {
+      "n": 3,
+      "rank5": 4.045152187347412,
+      "s": 0.7436941266059875,
+      "kappa": 2.5617072582244873,
+      "H": 0.14059995114803314,
+      "zmax": 10.505512237548828,
+      "top20": 0.07434898614883423,
+      "unique_main_islands": 3,
+      "top3_main_coverage": 1.0,
+      "top4_main_coverage": 1.0,
+      "islands": [
+        {
+          "axis": 1986,
+          "count": 1,
+          "words": [
+            "\n\n",
+            "____",
+            " ____",
+            " ______",
+            "\n"
+          ]
+        },
+        {
+          "axis": 3547,
+          "count": 1,
+          "words": [
+            "\n",
+            " ...",
+            " ",
+            " [",
+            " ."
+          ]
+        },
+        {
+          "axis": 2612,
+          "count": 1,
+          "words": [
+            "甚至",
+            " or",
+            " even",
+            "<|endoftext|>",
+            "或者"
+          ]
+        }
+      ]
+    },
+    "after": {
+      "n": 91,
+      "rank5": 4.216202735900879,
+      "s": 0.566603422164917,
+      "kappa": 3.370509624481201,
+      "H": 1.4653067588806152,
+      "zmax": 10.285859107971191,
+      "top20": 0.07689458876848221,
+      "unique_main_islands": 53,
+      "top3_main_coverage": 0.2087912087912088,
+      "top4_main_coverage": 0.25274725274725274,
+      "islands": [
+        {
+          "axis": 2018,
+          "count": 8,
+          "words": [
+            "<|im_end|>",
+            "...",
+            "…",
+            " […]",
+            "...\\"
+          ]
+        },
+        {
+          "axis": 214,
+          "count": 6,
+          "words": [
+            "或者其他",
+            "…",
+            "...",
+            "某一个",
+            "有任何"
+          ]
+        },
+        {
+          "axis": 1717,
+          "count": 5,
+          "words": [
+            "符号",
+            " arithmetic",
+            "运算符",
+            " symbols",
+            "表达式"
+          ]
+        },
+        {
+          "axis": 772,
+          "count": 4,
+          "words": [
+            " would",
+            "可以把",
+            "就可以",
+            "可以有",
+            "或是"
+          ]
+        },
+        {
+          "axis": 152,
+          "count": 3,
+          "words": [
+            "“",
+            "\"",
+            " «",
+            " “",
+            " \""
+          ]
+        },
+        {
+          "axis": 1755,
+          "count": 3,
+          "words": [
+            " vs",
+            " versus",
+            "vs",
+            "-vs",
+            "_vs"
+          ]
+        }
+      ]
+    },
+    "eos_mass_max": 0.9971534013748169,
+    "recurrence_best_lag": 2,
+    "recurrence_mean_cosine": 0.8011603951454163
+  },
+  {
+    "id": "cycle_positive_control",
+    "arm": 47,
+    "arm_reason": null,
+    "first_eos": 53,
+    "extra": null,
+    "before": {
+      "n": 17,
+      "rank5": 3.5402324199676514,
+      "s": 0.7424802184104919,
+      "kappa": 2.699357509613037,
+      "H": 0.6435585021972656,
+      "zmax": 13.609382629394531,
+      "top20": 0.09697377681732178,
+      "unique_main_islands": 9,
+      "top3_main_coverage": 0.6470588235294118,
+      "top4_main_coverage": 0.7058823529411765,
+      "islands": [
+        {
+          "axis": 1929,
+          "count": 6,
+          "words": [
+            "…",
+            "...",
+            " etc",
+            "...).",
+            "...."
+          ]
+        },
+        {
+          "axis": 1356,
+          "count": 3,
+          "words": [
+            "<|endoftext|>",
+            "others",
+            " others",
+            "etc",
+            "Others"
+          ]
+        },
+        {
+          "axis": 1438,
+          "count": 2,
+          "words": [
+            "\n",
+            " \n",
+            "...",
+            "\r\n",
+            " ..."
+          ]
+        },
+        {
+          "axis": 2402,
+          "count": 1,
+          "words": [
+            " robot",
+            " V",
+            " film",
+            " animal",
+            "robot"
+          ]
+        },
+        {
+          "axis": 211,
+          "count": 1,
+          "words": [
+            "\n",
+            "<|im_end|>",
+            "\n\n",
+            "<|endoftext|>",
+            "\n\n\n"
+          ]
+        },
+        {
+          "axis": 560,
+          "count": 1,
+          "words": [
+            "\n\n",
+            " \n\n",
+            " even",
+            "这种做法",
+            "也纳"
+          ]
+        }
+      ]
+    },
+    "after": {
+      "n": 31,
+      "rank5": 3.4298651218414307,
+      "s": 0.7204886078834534,
+      "kappa": 2.7695844173431396,
+      "H": 0.12269297242164612,
+      "zmax": 13.33951187133789,
+      "top20": 0.10181289911270142,
+      "unique_main_islands": 11,
+      "top3_main_coverage": 0.5806451612903226,
+      "top4_main_coverage": 0.7096774193548387,
+      "islands": [
+        {
+          "axis": 2721,
+          "count": 8,
+          "words": [
+            "<|endoftext|>",
+            " ",
+            " 。",
+            "\n",
+            "."
+          ]
+        },
+        {
+          "axis": 72,
+          "count": 5,
+          "words": [
+            "\n\n",
+            "<|endoftext|>",
+            "<|im_end|>",
+            " \n\n",
+            "\n\n\n"
+          ]
+        },
+        {
+          "axis": 1356,
+          "count": 5,
+          "words": [
+            "<|endoftext|>",
+            "others",
+            " others",
+            "etc",
+            "Others"
+          ]
+        },
+        {
+          "axis": 1929,
+          "count": 4,
+          "words": [
+            "…",
+            "...",
+            " etc",
+            "...).",
+            "...."
+          ]
+        },
+        {
+          "axis": 1891,
+          "count": 2,
+          "words": [
+            "\n\n",
+            " ",
+            "<|endoftext|>",
+            "\n",
+            " ..."
+          ]
+        },
+        {
+          "axis": 211,
+          "count": 2,
+          "words": [
+            "\n",
+            "<|im_end|>",
+            "\n\n",
+            "<|endoftext|>",
+            "\n\n\n"
+          ]
+        }
+      ]
+    },
+    "eos_mass_max": 0.4062078893184662
+  }
+]

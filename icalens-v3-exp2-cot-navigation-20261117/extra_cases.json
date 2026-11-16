@@ -1,0 +1,40 @@
+[
+  {
+    "id": "rail_09",
+    "group": "rail_clean_extra",
+    "prompt": "望庐山瀑布\n日照香炉生紫烟，",
+    "max_new_tokens": 48
+  },
+  {
+    "id": "rail_10",
+    "group": "rail_clean_extra",
+    "prompt": "江雪\n千山鸟飞绝，",
+    "max_new_tokens": 48
+  },
+  {
+    "id": "rail_11",
+    "group": "rail_clean_extra",
+    "prompt": "赋得古原草送别\n离离原上草，",
+    "max_new_tokens": 48
+  },
+  {
+    "id": "rail_12",
+    "group": "rail_clean_extra",
+    "prompt": "咏鹅\n鹅，鹅，鹅，",
+    "max_new_tokens": 48
+  },
+  {
+    "id": "cycle_positive_control",
+    "group": "cycle_positive_control",
+    "prompt": "校验记录，只按相同模式继续，不作解释：42，42，42，42，42，42，",
+    "max_new_tokens": 120,
+    "expected": "42"
+  },
+  {
+    "id": "arithmetic_direct_control",
+    "group": "matched_direct",
+    "prompt": "题目：计算(37×24−156)÷12。只写最后的数值，不写过程。\n答案：",
+    "max_new_tokens": 48,
+    "expected": "61"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "layer": 0,
+    "relative_l2": 0.0036371101159602404,
+    "mean_angle_radians": 0.0018468148773536086
+  },
+  {
+    "layer": 16,
+    "relative_l2": 0.008694404736161232,
+    "mean_angle_radians": 0.007516862824559212
+  },
+  {
+    "layer": 32,
+    "relative_l2": 0.010778841562569141,
+    "mean_angle_radians": 0.010449131019413471
+  },
+  {
+    "layer": 48,
+    "relative_l2": 0.012304219417273998,
+    "mean_angle_radians": 0.012028447352349758
+  },
+  {
+    "layer": 63,
+    "relative_l2": 0.013677533715963364,
+    "mean_angle_radians": 0.014259178191423416
+  }
+]

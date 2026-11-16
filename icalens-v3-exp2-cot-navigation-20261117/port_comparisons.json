@@ -1,0 +1,40 @@
+[
+  {
+    "pair": "sum",
+    "natural_generated": 190,
+    "forced_generated": 107,
+    "common_prefix": 107,
+    "all_common_tokens_identical": true,
+    "natural_first_eos": null,
+    "forced_first_eos": null,
+    "forced_arm": 11,
+    "forced_reason": "explicit_answer",
+    "forced_extra": 96
+  },
+  {
+    "pair": "mul",
+    "natural_generated": 122,
+    "forced_generated": 105,
+    "common_prefix": 105,
+    "all_common_tokens_identical": true,
+    "natural_first_eos": 122,
+    "forced_first_eos": null,
+    "forced_arm": 9,
+    "forced_reason": "explicit_answer",
+    "forced_extra": 96
+  },
+  {
+    "pair": "eos_direct_actual",
+    "natural_id": "port_eos_probe_0",
+    "forced_id": "port_eos_direct_forced",
+    "natural_generated": 3,
+    "forced_generated": 99,
+    "common_prefix": 3,
+    "all_common_tokens_identical": true,
+    "natural_first_eos": 3,
+    "forced_first_eos": 3,
+    "forced_arm": 3,
+    "forced_reason": "eos_proposal",
+    "forced_extra": 96
+  }
+]
