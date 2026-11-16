@@ -1,0 +1,47 @@
+[
+  {
+    "name": "honglou",
+    "url": "https://www.gutenberg.org/cache/epub/24264/pg24264.txt",
+    "status": 503,
+    "bytes": 683,
+    "chars": 683,
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/honglou.raw",
+    "sha256": "88f089afbba937d11e75734f7bc5f1a59418d2e01e81b54c5758cbc7de764c96"
+  },
+  {
+    "name": "caojia_pdf",
+    "url": "https://pdf.fengshui86.com/wzpdf/9203881.pdf",
+    "status": 200,
+    "bytes": 808627,
+    "chars": 0,
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/caojia_pdf.pdf",
+    "sha256": "82148b657616c84a4577da12977325a45e32b11dcc4545fa150de7d7d50e0b52"
+  },
+  {
+    "name": "yang",
+    "url": "https://www.shidianguji.com/zh/book/SK0845/chapter/1kfb0jjuhbg96",
+    "status": 200,
+    "bytes": 1234819,
+    "chars": 24145,
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/yang.raw",
+    "sha256": "08a9c3425a3330662f08978706e636e9ff9945af07da7240071efb253b03f811"
+  },
+  {
+    "name": "luxun_deng2",
+    "url": "https://zh.wikisource.org/wiki/燈下漫筆",
+    "status": 200,
+    "bytes": 77259,
+    "chars": 0,
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/luxun_deng2.raw",
+    "sha256": "a55f87c7e82fc8bbce9bb0cba726138f41052205172849290fe53a1794634687"
+  },
+  {
+    "name": "luxun_yecao",
+    "url": "https://zh.wikisource.org/zh-hans/野草/聰明人和傻子和奴才",
+    "status": 404,
+    "bytes": 44867,
+    "chars": 246,
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/luxun_yecao.raw",
+    "sha256": "de6c3cf3dad6694109e91440a0871263e068f6b213be1b67fd195656433a8dc7"
+  }
+]

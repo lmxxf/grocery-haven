@@ -1,0 +1,578 @@
+[
+  {
+    "layer": 0,
+    "court_axis": 1003,
+    "insult_axis": 1003,
+    "same_axis": true,
+    "reading_cosine": 1.0,
+    "writing_cosine": 1.0000004768371582,
+    "observed_score_correlation": 1.0
+  },
+  {
+    "layer": 1,
+    "court_axis": 705,
+    "insult_axis": 3127,
+    "same_axis": false,
+    "reading_cosine": -0.009091462008655071,
+    "writing_cosine": -0.024202901870012283,
+    "observed_score_correlation": 0.0961685539244778
+  },
+  {
+    "layer": 2,
+    "court_axis": 5111,
+    "insult_axis": 2778,
+    "same_axis": false,
+    "reading_cosine": 0.0043306187726557255,
+    "writing_cosine": -0.036728233098983765,
+    "observed_score_correlation": -0.23204059377440905
+  },
+  {
+    "layer": 3,
+    "court_axis": 4110,
+    "insult_axis": 4876,
+    "same_axis": false,
+    "reading_cosine": -0.0014879688387736678,
+    "writing_cosine": 0.0442965030670166,
+    "observed_score_correlation": 0.6051351399537598
+  },
+  {
+    "layer": 4,
+    "court_axis": 608,
+    "insult_axis": 2387,
+    "same_axis": false,
+    "reading_cosine": -0.008336194790899754,
+    "writing_cosine": 0.014246455393731594,
+    "observed_score_correlation": 0.6046377782027567
+  },
+  {
+    "layer": 5,
+    "court_axis": 1895,
+    "insult_axis": 2908,
+    "same_axis": false,
+    "reading_cosine": 0.0036801269743591547,
+    "writing_cosine": -0.015206999145448208,
+    "observed_score_correlation": 0.23063000702573083
+  },
+  {
+    "layer": 6,
+    "court_axis": 2023,
+    "insult_axis": 2642,
+    "same_axis": false,
+    "reading_cosine": -0.014896898530423641,
+    "writing_cosine": 0.029803000390529633,
+    "observed_score_correlation": 0.4030352356540145
+  },
+  {
+    "layer": 7,
+    "court_axis": 2216,
+    "insult_axis": 214,
+    "same_axis": false,
+    "reading_cosine": -0.0035857611801475286,
+    "writing_cosine": 0.008755502291023731,
+    "observed_score_correlation": -0.4235619311504592
+  },
+  {
+    "layer": 8,
+    "court_axis": 827,
+    "insult_axis": 184,
+    "same_axis": false,
+    "reading_cosine": 0.0067701078951358795,
+    "writing_cosine": -0.04266917705535889,
+    "observed_score_correlation": 0.6578606206615016
+  },
+  {
+    "layer": 9,
+    "court_axis": 949,
+    "insult_axis": 140,
+    "same_axis": false,
+    "reading_cosine": 0.0006766034639440477,
+    "writing_cosine": -0.04155949130654335,
+    "observed_score_correlation": 0.539342422267162
+  },
+  {
+    "layer": 10,
+    "court_axis": 803,
+    "insult_axis": 110,
+    "same_axis": false,
+    "reading_cosine": 0.0015710738953202963,
+    "writing_cosine": -0.03046463429927826,
+    "observed_score_correlation": 0.6438520690923155
+  },
+  {
+    "layer": 11,
+    "court_axis": 871,
+    "insult_axis": 117,
+    "same_axis": false,
+    "reading_cosine": 0.00016213161870837212,
+    "writing_cosine": -0.02494931034743786,
+    "observed_score_correlation": 0.6716231128227489
+  },
+  {
+    "layer": 12,
+    "court_axis": 131,
+    "insult_axis": 131,
+    "same_axis": true,
+    "reading_cosine": 0.9999999403953552,
+    "writing_cosine": 1.0000011920928955,
+    "observed_score_correlation": 1.0
+  },
+  {
+    "layer": 13,
+    "court_axis": 1458,
+    "insult_axis": 3284,
+    "same_axis": false,
+    "reading_cosine": 0.0032887596171349287,
+    "writing_cosine": -0.019526895135641098,
+    "observed_score_correlation": -0.5384557682966608
+  },
+  {
+    "layer": 14,
+    "court_axis": 131,
+    "insult_axis": 2343,
+    "same_axis": false,
+    "reading_cosine": -0.011131849139928818,
+    "writing_cosine": 0.01196305826306343,
+    "observed_score_correlation": 0.7657809886700251
+  },
+  {
+    "layer": 15,
+    "court_axis": 1893,
+    "insult_axis": 566,
+    "same_axis": false,
+    "reading_cosine": -0.005193348508328199,
+    "writing_cosine": -0.04097450524568558,
+    "observed_score_correlation": 0.6381963173370242
+  },
+  {
+    "layer": 16,
+    "court_axis": 1757,
+    "insult_axis": 673,
+    "same_axis": false,
+    "reading_cosine": 0.005718241445720196,
+    "writing_cosine": -0.04256376624107361,
+    "observed_score_correlation": 0.5380799989028058
+  },
+  {
+    "layer": 17,
+    "court_axis": 142,
+    "insult_axis": 944,
+    "same_axis": false,
+    "reading_cosine": -0.14831674098968506,
+    "writing_cosine": 0.274575799703598,
+    "observed_score_correlation": 0.787139320294064
+  },
+  {
+    "layer": 18,
+    "court_axis": 1690,
+    "insult_axis": 1816,
+    "same_axis": false,
+    "reading_cosine": 0.00987633503973484,
+    "writing_cosine": -0.0011527775786817074,
+    "observed_score_correlation": -0.3605358391874411
+  },
+  {
+    "layer": 19,
+    "court_axis": 2804,
+    "insult_axis": 2804,
+    "same_axis": true,
+    "reading_cosine": 1.0,
+    "writing_cosine": 1.0000001192092896,
+    "observed_score_correlation": 1.0
+  },
+  {
+    "layer": 20,
+    "court_axis": 2751,
+    "insult_axis": 2818,
+    "same_axis": false,
+    "reading_cosine": 0.0038880552165210247,
+    "writing_cosine": 0.010567824356257915,
+    "observed_score_correlation": -0.536127595743626
+  },
+  {
+    "layer": 21,
+    "court_axis": 2926,
+    "insult_axis": 436,
+    "same_axis": false,
+    "reading_cosine": -0.0011063676793128252,
+    "writing_cosine": 0.016999853774905205,
+    "observed_score_correlation": 0.836842460677592
+  },
+  {
+    "layer": 22,
+    "court_axis": 708,
+    "insult_axis": 708,
+    "same_axis": true,
+    "reading_cosine": 1.0,
+    "writing_cosine": 1.0000004768371582,
+    "observed_score_correlation": 1.0
+  },
+  {
+    "layer": 23,
+    "court_axis": 757,
+    "insult_axis": 757,
+    "same_axis": true,
+    "reading_cosine": 0.9999999403953552,
+    "writing_cosine": 0.9999991059303284,
+    "observed_score_correlation": 1.0
+  },
+  {
+    "layer": 24,
+    "court_axis": 628,
+    "insult_axis": 628,
+    "same_axis": true,
+    "reading_cosine": 0.9999999403953552,
+    "writing_cosine": 1.0000001192092896,
+    "observed_score_correlation": 1.0
+  },
+  {
+    "layer": 25,
+    "court_axis": 2108,
+    "insult_axis": 671,
+    "same_axis": false,
+    "reading_cosine": -0.0049234237521886826,
+    "writing_cosine": 0.05042063817381859,
+    "observed_score_correlation": 0.6007594035662838
+  },
+  {
+    "layer": 26,
+    "court_axis": 461,
+    "insult_axis": 461,
+    "same_axis": true,
+    "reading_cosine": 0.9999998807907104,
+    "writing_cosine": 0.9999983310699463,
+    "observed_score_correlation": 1.0
+  },
+  {
+    "layer": 27,
+    "court_axis": 490,
+    "insult_axis": 490,
+    "same_axis": true,
+    "reading_cosine": 1.0,
+    "writing_cosine": 1.0000001192092896,
+    "observed_score_correlation": 1.0
+  },
+  {
+    "layer": 28,
+    "court_axis": 497,
+    "insult_axis": 497,
+    "same_axis": true,
+    "reading_cosine": 1.0,
+    "writing_cosine": 0.9999998211860657,
+    "observed_score_correlation": 1.0
+  },
+  {
+    "layer": 29,
+    "court_axis": 502,
+    "insult_axis": 502,
+    "same_axis": true,
+    "reading_cosine": 1.0000001192092896,
+    "writing_cosine": 0.9999995827674866,
+    "observed_score_correlation": 1.0
+  },
+  {
+    "layer": 30,
+    "court_axis": 1378,
+    "insult_axis": 1806,
+    "same_axis": false,
+    "reading_cosine": -0.0391564704477787,
+    "writing_cosine": 0.11769092828035355,
+    "observed_score_correlation": 0.5467400349220821
+  },
+  {
+    "layer": 31,
+    "court_axis": 2665,
+    "insult_axis": 549,
+    "same_axis": false,
+    "reading_cosine": 0.0038016040343791246,
+    "writing_cosine": 0.13510796427726746,
+    "observed_score_correlation": -0.6849492015971297
+  },
+  {
+    "layer": 32,
+    "court_axis": 1336,
+    "insult_axis": 626,
+    "same_axis": false,
+    "reading_cosine": -0.031913433223962784,
+    "writing_cosine": 0.23065043985843658,
+    "observed_score_correlation": -0.7874959978847909
+  },
+  {
+    "layer": 33,
+    "court_axis": 2073,
+    "insult_axis": 2476,
+    "same_axis": false,
+    "reading_cosine": -0.02003682404756546,
+    "writing_cosine": 0.10229378193616867,
+    "observed_score_correlation": 0.5066521820239885
+  },
+  {
+    "layer": 34,
+    "court_axis": 1168,
+    "insult_axis": 1218,
+    "same_axis": false,
+    "reading_cosine": -0.040037527680397034,
+    "writing_cosine": 0.23243765532970428,
+    "observed_score_correlation": -0.16920595580641962
+  },
+  {
+    "layer": 35,
+    "court_axis": 3313,
+    "insult_axis": 416,
+    "same_axis": false,
+    "reading_cosine": -0.06613314896821976,
+    "writing_cosine": 0.22688758373260498,
+    "observed_score_correlation": 0.5570290747523785
+  },
+  {
+    "layer": 36,
+    "court_axis": 2574,
+    "insult_axis": 1955,
+    "same_axis": false,
+    "reading_cosine": -0.01994609460234642,
+    "writing_cosine": 0.06283539533615112,
+    "observed_score_correlation": 0.30132838950301466
+  },
+  {
+    "layer": 37,
+    "court_axis": 1085,
+    "insult_axis": 465,
+    "same_axis": false,
+    "reading_cosine": 0.009826542809605598,
+    "writing_cosine": 0.04041147977113724,
+    "observed_score_correlation": 0.6961390654276349
+  },
+  {
+    "layer": 38,
+    "court_axis": 891,
+    "insult_axis": 547,
+    "same_axis": false,
+    "reading_cosine": 0.0011563670122995973,
+    "writing_cosine": 0.019903304055333138,
+    "observed_score_correlation": 0.6910283074237935
+  },
+  {
+    "layer": 39,
+    "court_axis": 1143,
+    "insult_axis": 623,
+    "same_axis": false,
+    "reading_cosine": -0.004147930536419153,
+    "writing_cosine": 0.025751974433660507,
+    "observed_score_correlation": 0.6626796072464527
+  },
+  {
+    "layer": 40,
+    "court_axis": 704,
+    "insult_axis": 738,
+    "same_axis": false,
+    "reading_cosine": 0.008177698589861393,
+    "writing_cosine": -0.04327436536550522,
+    "observed_score_correlation": 0.30988393944221715
+  },
+  {
+    "layer": 41,
+    "court_axis": 931,
+    "insult_axis": 493,
+    "same_axis": false,
+    "reading_cosine": 0.013519284315407276,
+    "writing_cosine": -0.046806320548057556,
+    "observed_score_correlation": 0.2933696510503775
+  },
+  {
+    "layer": 42,
+    "court_axis": 1869,
+    "insult_axis": 368,
+    "same_axis": false,
+    "reading_cosine": -0.01091243140399456,
+    "writing_cosine": 0.05121934786438942,
+    "observed_score_correlation": 0.7454063097563796
+  },
+  {
+    "layer": 43,
+    "court_axis": 408,
+    "insult_axis": 408,
+    "same_axis": true,
+    "reading_cosine": 0.9999999403953552,
+    "writing_cosine": 0.9999998211860657,
+    "observed_score_correlation": 1.0
+  },
+  {
+    "layer": 44,
+    "court_axis": 3263,
+    "insult_axis": 479,
+    "same_axis": false,
+    "reading_cosine": -0.014038294553756714,
+    "writing_cosine": 0.04564022272825241,
+    "observed_score_correlation": 0.719610202102302
+  },
+  {
+    "layer": 45,
+    "court_axis": 1194,
+    "insult_axis": 523,
+    "same_axis": false,
+    "reading_cosine": -0.01633080095052719,
+    "writing_cosine": 0.05766923725605011,
+    "observed_score_correlation": 0.6738456145101043
+  },
+  {
+    "layer": 46,
+    "court_axis": 1547,
+    "insult_axis": 372,
+    "same_axis": false,
+    "reading_cosine": 0.011987590231001377,
+    "writing_cosine": 0.007321489043533802,
+    "observed_score_correlation": -0.6487881657660504
+  },
+  {
+    "layer": 47,
+    "court_axis": 1688,
+    "insult_axis": 1994,
+    "same_axis": false,
+    "reading_cosine": -0.004517893306910992,
+    "writing_cosine": -0.026157991960644722,
+    "observed_score_correlation": -0.44400609967119054
+  },
+  {
+    "layer": 48,
+    "court_axis": 2587,
+    "insult_axis": 335,
+    "same_axis": false,
+    "reading_cosine": -0.005625964608043432,
+    "writing_cosine": 0.04303609952330589,
+    "observed_score_correlation": 0.6052355839699131
+  },
+  {
+    "layer": 49,
+    "court_axis": 1258,
+    "insult_axis": 186,
+    "same_axis": false,
+    "reading_cosine": 0.005239291116595268,
+    "writing_cosine": 0.15133126080036163,
+    "observed_score_correlation": -0.6197746255175011
+  },
+  {
+    "layer": 50,
+    "court_axis": 3351,
+    "insult_axis": 3925,
+    "same_axis": false,
+    "reading_cosine": 0.01557660661637783,
+    "writing_cosine": 0.008238007314503193,
+    "observed_score_correlation": -0.40541173519056534
+  },
+  {
+    "layer": 51,
+    "court_axis": 3149,
+    "insult_axis": 2419,
+    "same_axis": false,
+    "reading_cosine": -0.00035634555388242006,
+    "writing_cosine": -0.017251186072826385,
+    "observed_score_correlation": -0.06580024894851394
+  },
+  {
+    "layer": 52,
+    "court_axis": 3125,
+    "insult_axis": 415,
+    "same_axis": false,
+    "reading_cosine": 0.0029485004488378763,
+    "writing_cosine": 0.022462066262960434,
+    "observed_score_correlation": 0.7711400934872429
+  },
+  {
+    "layer": 53,
+    "court_axis": 1681,
+    "insult_axis": 403,
+    "same_axis": false,
+    "reading_cosine": -0.002352085430175066,
+    "writing_cosine": -0.0034949539694935083,
+    "observed_score_correlation": 0.7538388695944648
+  },
+  {
+    "layer": 54,
+    "court_axis": 1540,
+    "insult_axis": 2158,
+    "same_axis": false,
+    "reading_cosine": -0.015686068683862686,
+    "writing_cosine": 0.06844079494476318,
+    "observed_score_correlation": -0.2208240158874943
+  },
+  {
+    "layer": 55,
+    "court_axis": 184,
+    "insult_axis": 894,
+    "same_axis": false,
+    "reading_cosine": 0.018248826265335083,
+    "writing_cosine": -0.06402495503425598,
+    "observed_score_correlation": -0.5858519637482358
+  },
+  {
+    "layer": 56,
+    "court_axis": 238,
+    "insult_axis": 1497,
+    "same_axis": false,
+    "reading_cosine": 0.01354160439223051,
+    "writing_cosine": -0.0682830736041069,
+    "observed_score_correlation": -0.5965089706159472
+  },
+  {
+    "layer": 57,
+    "court_axis": 1189,
+    "insult_axis": 4010,
+    "same_axis": false,
+    "reading_cosine": -0.012878604233264923,
+    "writing_cosine": 0.01984374038875103,
+    "observed_score_correlation": -0.41249969571832834
+  },
+  {
+    "layer": 58,
+    "court_axis": 1141,
+    "insult_axis": 2349,
+    "same_axis": false,
+    "reading_cosine": -0.0024435948580503464,
+    "writing_cosine": 0.016826165840029716,
+    "observed_score_correlation": -0.13089667321407525
+  },
+  {
+    "layer": 59,
+    "court_axis": 150,
+    "insult_axis": 1872,
+    "same_axis": false,
+    "reading_cosine": 0.008582409471273422,
+    "writing_cosine": -0.012187543325126171,
+    "observed_score_correlation": 0.1096213404563099
+  },
+  {
+    "layer": 60,
+    "court_axis": 159,
+    "insult_axis": 1904,
+    "same_axis": false,
+    "reading_cosine": -0.0013404894853010774,
+    "writing_cosine": -0.01575501263141632,
+    "observed_score_correlation": 0.19661952964533133
+  },
+  {
+    "layer": 61,
+    "court_axis": 78,
+    "insult_axis": 1839,
+    "same_axis": false,
+    "reading_cosine": 0.007146648596972227,
+    "writing_cosine": -0.14214901626110077,
+    "observed_score_correlation": 0.12941495047339782
+  },
+  {
+    "layer": 62,
+    "court_axis": 2295,
+    "insult_axis": 1774,
+    "same_axis": false,
+    "reading_cosine": -0.00556565448641777,
+    "writing_cosine": -0.08546803891658783,
+    "observed_score_correlation": -0.24553108031989218
+  },
+  {
+    "layer": 63,
+    "court_axis": 2238,
+    "insult_axis": 1872,
+    "same_axis": false,
+    "reading_cosine": -0.012804440222680569,
+    "writing_cosine": -0.0943303033709526,
+    "observed_score_correlation": -0.26523366974278495
+  }
+]

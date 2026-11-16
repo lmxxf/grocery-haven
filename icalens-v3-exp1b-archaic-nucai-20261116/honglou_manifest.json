@@ -1,0 +1,722 @@
+[
+  {
+    "chapter": 1,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第001回",
+    "chars": 8235,
+    "sha256": "fb26c17a42bb8ba4b3a03f6a9291f9ba312bf717df2f8abcf9318fe024236b5c"
+  },
+  {
+    "chapter": 2,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第002回",
+    "chars": 6327,
+    "sha256": "eb6ee6031d4e14c036b1b86c7b7d3f88dbebff56d63dd586764735b0005056c9"
+  },
+  {
+    "chapter": 3,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第003回",
+    "chars": 9088,
+    "sha256": "cf6b2ace24dba12114ef0b4ee61d1b6a43421f68837602ddb3e61193a0f597c5"
+  },
+  {
+    "chapter": 4,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第004回",
+    "chars": 5979,
+    "sha256": "63337684ac50f400c91348a0befca5f4152aa33d31c3db1e5816fd9ddffb1455"
+  },
+  {
+    "chapter": 5,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第005回",
+    "chars": 7818,
+    "sha256": "ff2ceb47a8ca021f01b5874dce192e4d9c00ee4c54f252d25c65fff08cb88cbf"
+  },
+  {
+    "chapter": 6,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第006回",
+    "chars": 7499,
+    "sha256": "91347188945f0e5c52186e61d80c3ea8096fc6f8db0c7bf53c18235eadc36c53"
+  },
+  {
+    "chapter": 7,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第007回",
+    "chars": 7654,
+    "sha256": "3532c5b8d965d10f22f3408e9a4965d9abd985affd2880942664adeb36a48e5c"
+  },
+  {
+    "chapter": 8,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第008回",
+    "chars": 6872,
+    "sha256": "b8c93c1f5fc96f367fa56c75d93a0e007245fdd50ed378b22818ac33250fa1f1"
+  },
+  {
+    "chapter": 9,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第009回",
+    "chars": 5839,
+    "sha256": "1eb249fb5b2af459ffe5af12eb4554ea84a58efb9e7bf5bb3329e251f7ee5bd4"
+  },
+  {
+    "chapter": 10,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第010回",
+    "chars": 5171,
+    "sha256": "8c3e1c7f2c99498558ff1e8ed7a4cfd9c71c7be9097c59b2c7f70178d33647f8"
+  },
+  {
+    "chapter": 11,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第011回",
+    "chars": 5946,
+    "sha256": "6b42fa0bc7f09bf4888b4040322196ff7283281219fccb3b0a9cade82d2ef6d2"
+  },
+  {
+    "chapter": 12,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第012回",
+    "chars": 4346,
+    "sha256": "1348ed287e9eefa451fa437f3301fa7e56d9496f0c9999185d2d0708736fbafb"
+  },
+  {
+    "chapter": 13,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第013回",
+    "chars": 5234,
+    "sha256": "aaca3284547477853eb016ef22dace020d5dc9faf1c78359d38dfdfcf55bb00d"
+  },
+  {
+    "chapter": 14,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第014回",
+    "chars": 5707,
+    "sha256": "d5fa28f57649af20f95cab006066004f6fbbc24f1a6be456e0553b40c8001da8"
+  },
+  {
+    "chapter": 15,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第015回",
+    "chars": 5128,
+    "sha256": "a673d7e5beb13faeb88088379e3192d21db341ec2a4954c5f439fa001557c191"
+  },
+  {
+    "chapter": 16,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第016回",
+    "chars": 7633,
+    "sha256": "00bf01aaa809d138973ba3a72853bbf201276862132e2bdb86da85dd494dcb94"
+  },
+  {
+    "chapter": 17,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第017回",
+    "chars": 7972,
+    "sha256": "5799e81c563916b993e267927addd738504f16d5205329e7c6d65d4306762b97"
+  },
+  {
+    "chapter": 18,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第018回",
+    "chars": 8734,
+    "sha256": "22bc22da15c75df11d9e743cc7bb10ee179a6fd2a86d71a79787a6f4335a6197"
+  },
+  {
+    "chapter": 19,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第019回",
+    "chars": 9275,
+    "sha256": "0358733fe64fa15fd7ab90fed55b318bb2c1bdbb4204109616dd46dc972ef25d"
+  },
+  {
+    "chapter": 20,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第020回",
+    "chars": 5395,
+    "sha256": "b0eb20f7cbae6ac165ab60c1234bf23c93a6638a14c5f7a0672d5697a5253aac"
+  },
+  {
+    "chapter": 21,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第021回",
+    "chars": 6118,
+    "sha256": "1fdb8541c63c6a56b01b2025ad02b17c28e9b4def7b1916d9c255f87f836bc12"
+  },
+  {
+    "chapter": 22,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第022回",
+    "chars": 7064,
+    "sha256": "b3813aa3e14108b3114037a253094b2af1ff04460fef1f94cdadc0235d448561"
+  },
+  {
+    "chapter": 23,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第023回",
+    "chars": 5537,
+    "sha256": "1832ff4fa429b27c511e099a6dec08a580ccd7f4d2731e39d9ad38dbbfeace3c"
+  },
+  {
+    "chapter": 24,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第024回",
+    "chars": 8566,
+    "sha256": "769070b55fa37e222c7b48d5ec03f36419e02e0ea19340ab72d44baec99d2ad5"
+  },
+  {
+    "chapter": 25,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第025回",
+    "chars": 8266,
+    "sha256": "f1a99d77889c6a637353d97f1cb8a8d009e6ba82d8528788a2ac2b93a05f78e0"
+  },
+  {
+    "chapter": 26,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第026回",
+    "chars": 7387,
+    "sha256": "2034aa9c659e74baa81d83e920b48ba271463350d2db5fb3fc81554e6e77722a"
+  },
+  {
+    "chapter": 27,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第027回",
+    "chars": 6490,
+    "sha256": "1163bd68d3e8ebac5f62b380be6eacf7b6015b40fa97aa70f68592a61a42fd2f"
+  },
+  {
+    "chapter": 28,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第028回",
+    "chars": 9624,
+    "sha256": "b016bd80b481779a36313cdd723e18df152f84a35f8c154cf76b63d303b86b4d"
+  },
+  {
+    "chapter": 29,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第029回",
+    "chars": 8683,
+    "sha256": "285367bbbf3fb6c223c2c358304c12db5d9778fd383a7eb3ea5fe4bda80c3c90"
+  },
+  {
+    "chapter": 30,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第030回",
+    "chars": 6039,
+    "sha256": "97c2ecd58e49b387d1584dfb4c6c116229a88dc13b895024e6353c444bf7c8da"
+  },
+  {
+    "chapter": 31,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第031回",
+    "chars": 7398,
+    "sha256": "e4229d3010214de190c949517c25ba1c65eb190a480efda48ff505b7378f1d3a"
+  },
+  {
+    "chapter": 32,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第032回",
+    "chars": 5927,
+    "sha256": "3440bf538e172444129ac0443e76549cb13ae771438f6717b8b3f9aa598e0a04"
+  },
+  {
+    "chapter": 33,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第033回",
+    "chars": 4904,
+    "sha256": "250eba8d0aac01313659f04ce7f2e84467fe0557bbaa0937c84331eeaf0df5b2"
+  },
+  {
+    "chapter": 34,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第034回",
+    "chars": 7393,
+    "sha256": "35f18df6754beefbf358a0b311615795a2aa5772b3921483c788fdf1f7f147b4"
+  },
+  {
+    "chapter": 35,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第035回",
+    "chars": 8015,
+    "sha256": "f2367ff87efbfecfe2156bdbe16e0ac0ebf39226073dfe68045d06bcf6d5eab6"
+  },
+  {
+    "chapter": 36,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第036回",
+    "chars": 6840,
+    "sha256": "a1a627dbc4b18631a9b5b10cd67d504b66c40210aec31aecf54193d4020b4e39"
+  },
+  {
+    "chapter": 37,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第037回",
+    "chars": 9195,
+    "sha256": "8367832856211b193f98191ff71bb380c7451a0ccafd6b228cf586b5a53e08a7"
+  },
+  {
+    "chapter": 38,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第038回",
+    "chars": 5717,
+    "sha256": "9b6045b34f85fe5f7f640bc41b12a9af2841a6f051353df8c30c0b8a729dba9b"
+  },
+  {
+    "chapter": 39,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第039回",
+    "chars": 6487,
+    "sha256": "2485b03dc931387e3c9cdac4203a85add591274c2f2c5c11eb4cfd1632d79047"
+  },
+  {
+    "chapter": 40,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第040回",
+    "chars": 9509,
+    "sha256": "001e86eb7b787c8ca7e5535ac8f45e097bd4578c4a5f1242991f4b7be3c9647b"
+  },
+  {
+    "chapter": 41,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第041回",
+    "chars": 6704,
+    "sha256": "4ddea81d132202a83a0d8ffcbd1c76fce74593a701711115a46dd979b28db147"
+  },
+  {
+    "chapter": 42,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第042回",
+    "chars": 7643,
+    "sha256": "ae74418de1db3716086c70ae400089ed029807bbef87fa133b628a8d2996a369"
+  },
+  {
+    "chapter": 43,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第043回",
+    "chars": 6786,
+    "sha256": "54628463510787faf7505c93bb7a33bb2ce05c5f46ed049f74b87687075abdf2"
+  },
+  {
+    "chapter": 44,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第044回",
+    "chars": 6788,
+    "sha256": "51a53f28feeb125a9564f6031d6543e9280313f32afbbd290d106bac55c7fcad"
+  },
+  {
+    "chapter": 45,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第045回",
+    "chars": 7825,
+    "sha256": "c956538c9aacc15506606f98302f9b731c2e4462a5d0f7deadd25475fbe02912"
+  },
+  {
+    "chapter": 46,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第046回",
+    "chars": 8332,
+    "sha256": "508f3630dcdff74ad52cd4dead7dcb1a31c043151a8293cb4e161e0ce254c4fc"
+  },
+  {
+    "chapter": 47,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第047回",
+    "chars": 7375,
+    "sha256": "b4e88da62cc01ee1bc8394fbeda61c9bd4991baa8c699d6e5afc4a70ffba449d"
+  },
+  {
+    "chapter": 48,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第048回",
+    "chars": 6728,
+    "sha256": "602dff834eef26a08f4133bde63434592e66fe569653a59cedfbbad0b38eb633"
+  },
+  {
+    "chapter": 49,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第049回",
+    "chars": 7551,
+    "sha256": "1e88e6bd64ed2369539ce7a0e7ec47dda18afa79c327c841835c2d8679513c31"
+  },
+  {
+    "chapter": 50,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第050回",
+    "chars": 7288,
+    "sha256": "f62055fd698e45ad34f0cf09f327916c97294a8d1fc1a1e75de904f17ff725eb"
+  },
+  {
+    "chapter": 51,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第051回",
+    "chars": 6989,
+    "sha256": "c8c428c00cb9706c0b028be3607c02f8e8ee55efa56e80d01ca9860b316d00ab"
+  },
+  {
+    "chapter": 52,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第052回",
+    "chars": 8392,
+    "sha256": "351eaa641dbdfa321f38277adc2d71045656bc2b2f914e8faa6863f18eac25ed"
+  },
+  {
+    "chapter": 53,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第053回",
+    "chars": 8226,
+    "sha256": "0381600638c5ec2b5322436c8a29c52e6832d78a6a7f415713a27d8f69f62210"
+  },
+  {
+    "chapter": 54,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第054回",
+    "chars": 8846,
+    "sha256": "ec6da0113aef8db976a1fae539aa49e5143c6bf967da7634e42f64a895e1a321"
+  },
+  {
+    "chapter": 55,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第055回",
+    "chars": 8234,
+    "sha256": "88339abf787d92a43fd275d6139a07f30f13d89144d6f2fee6b83ab3eb62ca41"
+  },
+  {
+    "chapter": 56,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第056回",
+    "chars": 8904,
+    "sha256": "df259da9e2c4b9e750b56ebfc95c555a41b0ce7387a8157d7571d8f34b60139f"
+  },
+  {
+    "chapter": 57,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第057回",
+    "chars": 11263,
+    "sha256": "83e0ca0450e700d4518890697c52f96690e2da87990d88bb18f20ff8e0f61ba7"
+  },
+  {
+    "chapter": 58,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第058回",
+    "chars": 7089,
+    "sha256": "0a8d48f94b54c61a77d342d3c83540c0dacfdb605b369fcfda18c462c008cffe"
+  },
+  {
+    "chapter": 59,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第059回",
+    "chars": 5103,
+    "sha256": "7285a21fe4964e6f5822c48f07740960cae99a6c7d3915f8bb880925deb429cd"
+  },
+  {
+    "chapter": 60,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第060回",
+    "chars": 7581,
+    "sha256": "5d08fb9c60275c15f9fd38310d1d8b040450d17f64eb567957720c186d6dc415"
+  },
+  {
+    "chapter": 61,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第061回",
+    "chars": 6684,
+    "sha256": "ce0980d229e3a0be692f33b601a09d7ac7b3e573538a5178579b8c3b996ed61e"
+  },
+  {
+    "chapter": 62,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第062回",
+    "chars": 11905,
+    "sha256": "29fa88633047ea8a1402303f1bc7db76719688f2cf1bd149868ee4d265c4a644"
+  },
+  {
+    "chapter": 63,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第063回",
+    "chars": 11213,
+    "sha256": "5a893b0248a8d2f873bf4b8768d918555207270dd89a227b76e543df1e53fd2d"
+  },
+  {
+    "chapter": 64,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第064回",
+    "chars": 10042,
+    "sha256": "b374fae998ac1a8a5caa87edd82bcff80cf24602307556970ce4cb9598a10195"
+  },
+  {
+    "chapter": 65,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第065回",
+    "chars": 7064,
+    "sha256": "74dc44e12644665bf74b97536ad923eaa199634125d0e67ca972d473c98828a4"
+  },
+  {
+    "chapter": 66,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第066回",
+    "chars": 5192,
+    "sha256": "a059c428a673330a61e4beb6b9c99c4dc873068131736182063d0104366a26ee"
+  },
+  {
+    "chapter": 67,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第067回",
+    "chars": 9562,
+    "sha256": "6ff8ae93a8e00a55b07bff79fc38bb9ec640a8ab0cc31e7aefbd34b233ac9acf"
+  },
+  {
+    "chapter": 68,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第068回",
+    "chars": 7515,
+    "sha256": "e3113d96d0642326ec0850c68259344dadc3a56ea60727bd6629c355991889c5"
+  },
+  {
+    "chapter": 69,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第069回",
+    "chars": 7341,
+    "sha256": "dbeca9c928b46106a3302bddf0154895e77e103b48b66047b9f2000dd71f45f3"
+  },
+  {
+    "chapter": 70,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第070回",
+    "chars": 6481,
+    "sha256": "d40a460feeaf79d6afa78b4522e8fc67cc8c404f8656be3113a7b12e5aeb7811"
+  },
+  {
+    "chapter": 71,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第071回",
+    "chars": 9052,
+    "sha256": "6a3c0748092c7b29973d7abe90e186e0814be30c123c0d28d20d7f57d3818b7b"
+  },
+  {
+    "chapter": 72,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第072回",
+    "chars": 7610,
+    "sha256": "487ab95b7ecb4a9794df033e9821f3de748f65658664b341c1a17134e56de5d0"
+  },
+  {
+    "chapter": 73,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第073回",
+    "chars": 7555,
+    "sha256": "831da29acbd1f67cb8d0688d2f2d09ac8359553da339df8df6d476336b635c6c"
+  },
+  {
+    "chapter": 74,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第074回",
+    "chars": 11210,
+    "sha256": "d208f205b75697c64e2ff1d0e6975036a93f44bc9f7bb4dfbf070858eb215161"
+  },
+  {
+    "chapter": 75,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第075回",
+    "chars": 9642,
+    "sha256": "cc4dcdef6a949dc75ebb9fcfa9f13bb4e8055606f1b43a26620fc4062224c258"
+  },
+  {
+    "chapter": 76,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第076回",
+    "chars": 7588,
+    "sha256": "b151fbd02d0ada192d1e5ed72ba29baab823f73b040ba42e764e58856c3e24ea"
+  },
+  {
+    "chapter": 77,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第077回",
+    "chars": 10620,
+    "sha256": "65f2c166b3dad4e625b5ab47840689aff074fa552bcc64311072dd469bcd5cba"
+  },
+  {
+    "chapter": 78,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第078回",
+    "chars": 10851,
+    "sha256": "2119c8fb78d96077f3fe4fd3ae7af42504645c2a46cf81ef0ad134ac81ecd108"
+  },
+  {
+    "chapter": 79,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第079回",
+    "chars": 4874,
+    "sha256": "69c83883a20bf52b7b8b4df92e5825be19b60af667c488990e959f6dfc59969d"
+  },
+  {
+    "chapter": 80,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第080回",
+    "chars": 7107,
+    "sha256": "13a7f9da7e2823a383a96aa97fcf5c7e8e8a0acb8403789c44027e04db3e33ea"
+  },
+  {
+    "chapter": 81,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第081回",
+    "chars": 6972,
+    "sha256": "e7650211a1f4120a0ff58d4bda0d8510dc779f67423cf84c6b62705c4733a0e4"
+  },
+  {
+    "chapter": 82,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第082回",
+    "chars": 8555,
+    "sha256": "cf63ea5f898aa6c882f3dab2d6c55fe727ebdf63bcc19d2d96989ab3222c3ba2"
+  },
+  {
+    "chapter": 83,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第083回",
+    "chars": 8177,
+    "sha256": "bc4ee62612283b4bbd7edac90d7a16d8fa01556c51ea596f4719070d284f0cd3"
+  },
+  {
+    "chapter": 84,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第084回",
+    "chars": 7793,
+    "sha256": "f34d760706285763d2f87ffe37ccb91ffeb3c32f76bad0362bb0be327d261067"
+  },
+  {
+    "chapter": 85,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第085回",
+    "chars": 8109,
+    "sha256": "56ffe5b94ce1800af9bcf1cce0532cdc66843a44c136a4c5eb204567a0faaade"
+  },
+  {
+    "chapter": 86,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第086回",
+    "chars": 6805,
+    "sha256": "99705951f0b717f4e5d43c9b2aa225f286a43079b7d76fed5a5c1f09ccc4b234"
+  },
+  {
+    "chapter": 87,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第087回",
+    "chars": 6729,
+    "sha256": "23330ae4aca196ef8661b762c3fc2540b55fe50393fc221f2ddddbe6cb2dffe4"
+  },
+  {
+    "chapter": 88,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第088回",
+    "chars": 6799,
+    "sha256": "72f53e3cafded81f9abdcf29e5a1bf8191c0ed230408c40d4c15c345684c9833"
+  },
+  {
+    "chapter": 89,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第089回",
+    "chars": 6153,
+    "sha256": "c9fc0ad2fc9e08b56cfc23f12253ce1460d5acdd604ce35dadf0961293b84ef7"
+  },
+  {
+    "chapter": 90,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第090回",
+    "chars": 6291,
+    "sha256": "eb81ce9189a98743c570c94bc062abde72667b2d7649ce0fb9259153b3b13f77"
+  },
+  {
+    "chapter": 91,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第091回",
+    "chars": 5501,
+    "sha256": "f357ec247414ad78e6104fac5d23536c98722db0e23aaab2cf03fc36fc7cb95a"
+  },
+  {
+    "chapter": 92,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第092回",
+    "chars": 7145,
+    "sha256": "3f1abbc238fa8ef822a994a56a52cf843ea148a55799709fabcbf7a7eebb41c2"
+  },
+  {
+    "chapter": 93,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第093回",
+    "chars": 6594,
+    "sha256": "3abcc338213aaf288d788e4cfe501a6c5053c485f61bcbcddbdbf4cd9eb99e4b"
+  },
+  {
+    "chapter": 94,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第094回",
+    "chars": 8346,
+    "sha256": "35cc39f6339c00d431fafd1ace3c08c39ce3ea78646fc93d70f3b1d4f4033297"
+  },
+  {
+    "chapter": 95,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第095回",
+    "chars": 6688,
+    "sha256": "0e8361aa80f7211572c63e4c87ddcc15de4acbd9f80e25844b36175ba5ce40b0"
+  },
+  {
+    "chapter": 96,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第096回",
+    "chars": 6819,
+    "sha256": "5e4d34ea16acee4934d02efbff47dcb23f2258b6207154ef45f9b61836fdf298"
+  },
+  {
+    "chapter": 97,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第097回",
+    "chars": 9957,
+    "sha256": "59564d295ca6261e98649e24368b1eabc0afce879b74232b1ca09a092dffdfee"
+  },
+  {
+    "chapter": 98,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第098回",
+    "chars": 5987,
+    "sha256": "9aea45b1680a41e1c66712486cd215fa93065d7d9c02cebf36275550c63418bd"
+  },
+  {
+    "chapter": 99,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第099回",
+    "chars": 6079,
+    "sha256": "df31de5569fcf4eec6b3fd92bde7875aa8502a9cb61108c2fc249ac26cddcb55"
+  },
+  {
+    "chapter": 100,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第100回",
+    "chars": 5716,
+    "sha256": "29da5f0f4422c2d0b35d591d9a2cb15164fc19b5626012ed9c66c85441119aca"
+  },
+  {
+    "chapter": 101,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第101回",
+    "chars": 8043,
+    "sha256": "b5e50d4d0e841f084e060c9226a0e42d97691350b939dfb06c3e7e288a759410"
+  },
+  {
+    "chapter": 102,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第102回",
+    "chars": 5023,
+    "sha256": "52dbe6c7b8f4d25131cc9a379d50d980b0575592a9b260504f13b448e0688822"
+  },
+  {
+    "chapter": 103,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第103回",
+    "chars": 6990,
+    "sha256": "6b937b978653782f1a8724fc8f82a359d432cbcaec96ee2a4e9d1e138c7e8d5c"
+  },
+  {
+    "chapter": 104,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第104回",
+    "chars": 6332,
+    "sha256": "240408bac722977ed1ad5fdcf1fbb6ce901138ec613618f4f170a24243297665"
+  },
+  {
+    "chapter": 105,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第105回",
+    "chars": 5517,
+    "sha256": "1e55b512ce4b0ca1c8f4e280c6d2f81fb920efacb9d47d3d11de37eb050f81bb"
+  },
+  {
+    "chapter": 106,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第106回",
+    "chars": 5818,
+    "sha256": "4aa4705e9d54887efc0df19830ed55e790fb591c4626a49a288c59c3a2f7b760"
+  },
+  {
+    "chapter": 107,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第107回",
+    "chars": 6352,
+    "sha256": "b4fae451666f51694bc12c5f8dfb1045379b5b8054f44d5f7de2696795595129"
+  },
+  {
+    "chapter": 108,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第108回",
+    "chars": 7129,
+    "sha256": "94c9a2c3f672986f283f50f4d56bd7eb370024da3796e36d14e4fe493cc4d517"
+  },
+  {
+    "chapter": 109,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第109回",
+    "chars": 9175,
+    "sha256": "e4d574c21931e0df49f1640bf60725bb6a88d5b4199acfff6d6a94e8fdae3ac4"
+  },
+  {
+    "chapter": 110,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第110回",
+    "chars": 6795,
+    "sha256": "694a49d147a3e9558977cc0063656e19ef0a805cf4ea05311bed39c0e8cb3811"
+  },
+  {
+    "chapter": 111,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第111回",
+    "chars": 7373,
+    "sha256": "184bcd2c741147c9afbb90f5eb5ca8233b6e36035d5a9a883a5303ddbe941499"
+  },
+  {
+    "chapter": 112,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第112回",
+    "chars": 7100,
+    "sha256": "47055c9531fe1b8f20e85259e7f95c9d360d0052255c8771609f7f88932673e3"
+  },
+  {
+    "chapter": 113,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第113回",
+    "chars": 7051,
+    "sha256": "7e029f217e488a1df4ee8b259b3af711a8e4a49f0da96edcfe22ac5a5ebb258b"
+  },
+  {
+    "chapter": 114,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第114回",
+    "chars": 5066,
+    "sha256": "8a40b5c9670b9017950df9cf7dcf60618b8e338ea9ac3bd28f4d92f3f0083ef9"
+  },
+  {
+    "chapter": 115,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第115回",
+    "chars": 7033,
+    "sha256": "db718ced7fc37647586cf7897876cd0da7748bca0150ba18eea602380975a8ba"
+  },
+  {
+    "chapter": 116,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第116回",
+    "chars": 6949,
+    "sha256": "a0b38006e1e9bcf95b6b57a29cdf321df6f3770a78ffb64fcd9f27797e7c8e75"
+  },
+  {
+    "chapter": 117,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第117回",
+    "chars": 7746,
+    "sha256": "6dae7ea601c2faec2c433edae569509c2aa85cdecc87b3c6f3199b581e5c3f07"
+  },
+  {
+    "chapter": 118,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第118回",
+    "chars": 7625,
+    "sha256": "d7b3a9d5fa47ff3dfefb1de5e6e8c667c394fc767e4008b79c8701e8878790ce"
+  },
+  {
+    "chapter": 119,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第119回",
+    "chars": 9599,
+    "sha256": "8d9c9817aa3f8106ba4185576504949c7dd54a7aefc8834df05c45b95b5e9c6a"
+  },
+  {
+    "chapter": 120,
+    "url": "https://zh.wikisource.org/zh-hans/紅樓夢/第120回",
+    "chars": 7876,
+    "sha256": "e2145fe95c31ec3113881bbd2c0afbe9181bf7d1bbb0aceb7874102ef30c3a15"
+  }
+]

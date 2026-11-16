@@ -1,0 +1,127 @@
+{
+  "wrappers": {
+    "W0": {
+      "chars": 5,
+      "tokens": 4
+    },
+    "W1": {
+      "chars": 444,
+      "tokens": 395
+    },
+    "W2": {
+      "chars": 2664,
+      "tokens": 2369
+    },
+    "W3a": {
+      "chars": 2273,
+      "tokens": 419
+    },
+    "W3b": {
+      "chars": 2712,
+      "tokens": 810
+    }
+  },
+  "english_intro_words": 345,
+  "calibration": [
+    {
+      "wrapper": "W0",
+      "target": "卑鄙",
+      "id": 95
+    },
+    {
+      "wrapper": "W0",
+      "target": "微贱",
+      "id": 96
+    },
+    {
+      "wrapper": "W0",
+      "target": "浅陋",
+      "id": 97
+    },
+    {
+      "wrapper": "W0",
+      "target": "愚钝",
+      "id": 98
+    },
+    {
+      "wrapper": "W1",
+      "target": "卑鄙",
+      "id": 99
+    },
+    {
+      "wrapper": "W1",
+      "target": "微贱",
+      "id": 100
+    },
+    {
+      "wrapper": "W1",
+      "target": "浅陋",
+      "id": 101
+    },
+    {
+      "wrapper": "W1",
+      "target": "愚钝",
+      "id": 102
+    },
+    {
+      "wrapper": "W2",
+      "target": "卑鄙",
+      "id": 103
+    },
+    {
+      "wrapper": "W2",
+      "target": "微贱",
+      "id": 104
+    },
+    {
+      "wrapper": "W2",
+      "target": "浅陋",
+      "id": 105
+    },
+    {
+      "wrapper": "W2",
+      "target": "愚钝",
+      "id": 106
+    },
+    {
+      "wrapper": "W3a",
+      "target": "卑鄙",
+      "id": 107
+    },
+    {
+      "wrapper": "W3a",
+      "target": "微贱",
+      "id": 108
+    },
+    {
+      "wrapper": "W3a",
+      "target": "浅陋",
+      "id": 109
+    },
+    {
+      "wrapper": "W3a",
+      "target": "愚钝",
+      "id": 110
+    },
+    {
+      "wrapper": "W3b",
+      "target": "卑鄙",
+      "id": 111
+    },
+    {
+      "wrapper": "W3b",
+      "target": "微贱",
+      "id": 112
+    },
+    {
+      "wrapper": "W3b",
+      "target": "浅陋",
+      "id": 113
+    },
+    {
+      "wrapper": "W3b",
+      "target": "愚钝",
+      "id": 114
+    }
+  ]
+}

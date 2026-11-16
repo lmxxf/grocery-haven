@@ -1,0 +1,222 @@
+[
+  {
+    "path": "sources/honglou_pg.raw",
+    "bytes": 683,
+    "sha256": "88f089afbba937d11e75734f7bc5f1a59418d2e01e81b54c5758cbc7de764c96"
+  },
+  {
+    "path": "sources/nian_museum.txt",
+    "bytes": 68848,
+    "sha256": "2e14d04633cfae68b86b7421cfbd7d09e568355a2f0a77593b9f16f366828aea"
+  },
+  {
+    "path": "sources/luxun_yanyu.txt",
+    "bytes": 3664,
+    "sha256": "fdb1e0958ad4fe0b3fa719d8d0ec562f2b6bc648afe5d6b8c5f49082322ec4b5"
+  },
+  {
+    "path": "sources/luxun_manyu.raw",
+    "bytes": 63622,
+    "sha256": "6673a5874ac93c92dd42a7fd1612a5ea8a40dd772416c381682c2d4d7b5955cd"
+  },
+  {
+    "path": "sources/sanguozhi.raw",
+    "bytes": 131626,
+    "sha256": "90a15f39c22660783e6dd86bad07382415bb2ce0345a6af19bfe75b79a216ff3"
+  },
+  {
+    "path": "sources/luxun_smart.raw",
+    "bytes": 72187,
+    "sha256": "1f46c2634ef5eada813ecfca3c83d3e3ef626811784da1c5bac9eb2464bea0b6"
+  },
+  {
+    "path": "sources/luxun_yanyu.raw",
+    "bytes": 63335,
+    "sha256": "31f0e72ffdd36d75d2f9b20562ae943152da4a55cceb6eab1ab0fa773aa315ec"
+  },
+  {
+    "path": "sources/luxun_shanghai.txt",
+    "bytes": 34043,
+    "sha256": "8c412165261f43a66f699777ed940c0dc0bd765490cd997942e8b8b9e2356999"
+  },
+  {
+    "path": "sources/caojia.raw",
+    "bytes": 2781,
+    "sha256": "4f323319db2cfd81d5d8106ab0f3cdbf21aaf8a17f2d187347961c569bbc1d73"
+  },
+  {
+    "path": "sources/luxun_shanghai.raw",
+    "bytes": 102771,
+    "sha256": "535b8f971e1d873c082485d3b51bd5a2311e7bda5492b33d5318725aae96731e"
+  },
+  {
+    "path": "sources/ertai.raw",
+    "bytes": 2176260,
+    "sha256": "a3549a3f301e43b0ddb8b39e140724ebc7abf75f8db63b295e1afa5326c35775"
+  },
+  {
+    "path": "sources/caojia_clean.txt",
+    "bytes": 343026,
+    "sha256": "9f33577726204da21f994976e47d29df14c0294583688e1181262d07ccdd3b2d"
+  },
+  {
+    "path": "sources/luxun_duomin.txt",
+    "bytes": 2954,
+    "sha256": "483801a0629f6ce21bd130fe7e3ac4f99312c70f855965d0df8f57f5c6c19669"
+  },
+  {
+    "path": "sources/luxun_nucai.raw",
+    "bytes": 63629,
+    "sha256": "9ee61bd539023a7d03a1f7fb4558353ff10eef3bb49e24848b2687f08c9dece9"
+  },
+  {
+    "path": "sources/luxun_deng.raw",
+    "bytes": 78358,
+    "sha256": "6ae857cb7ca430806bfa9e01d506ac8aec1f3ee8c1822c01183719e43e937ced"
+  },
+  {
+    "path": "sources/imperial063.raw",
+    "bytes": 97328,
+    "sha256": "840d4500ba3c6b2239628877eebbed8694b2172b8e4ce60dba7a43c1e14bd043"
+  },
+  {
+    "path": "sources/luxun_yecao.txt",
+    "bytes": 588,
+    "sha256": "9756409767e6ad5efa15e4f6c8aabb681b553fcdf621e016d793ce498851bf26"
+  },
+  {
+    "path": "sources/luxun_deng2.raw",
+    "bytes": 77259,
+    "sha256": "a55f87c7e82fc8bbce9bb0cba726138f41052205172849290fe53a1794634687"
+  },
+  {
+    "path": "sources/sanguozhi_main.txt",
+    "bytes": 18839,
+    "sha256": "0c066f6434e4c7d9f7153920461116b929b7381d72a546956fb78f9c06797f9d"
+  },
+  {
+    "path": "sources/honglou.txt",
+    "bytes": 683,
+    "sha256": "88f089afbba937d11e75734f7bc5f1a59418d2e01e81b54c5758cbc7de764c96"
+  },
+  {
+    "path": "sources/sanguozhi.txt",
+    "bytes": 51543,
+    "sha256": "b739eb55f6747fdc11700a1d13a76b386bba2703913ba9ff15b1e414308fee04"
+  },
+  {
+    "path": "sources/luxun_deng.txt",
+    "bytes": 12541,
+    "sha256": "baaec058bfe05d86919ae7077150d0fbadd7b5998c09c2439ceb5d8357c3791f"
+  },
+  {
+    "path": "sources/honglou_pg.txt",
+    "bytes": 683,
+    "sha256": "88f089afbba937d11e75734f7bc5f1a59418d2e01e81b54c5758cbc7de764c96"
+  },
+  {
+    "path": "sources/yang_museum.txt",
+    "bytes": 70955,
+    "sha256": "fc42a3a46564432a3e2bb108e05eedd81582b03cdcaa38570e4831e9bb269e10"
+  },
+  {
+    "path": "sources/ertai.txt",
+    "bytes": 230678,
+    "sha256": "ae18c874b1d2243f69e844bc68ff335d678bfe9e85c7a009b629d7fca4759708"
+  },
+  {
+    "path": "sources/luxun_deng2.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "sources/luxun_smart.txt",
+    "bytes": 3231,
+    "sha256": "990a6f0ef15d55a15b89d33e261d5f1497fce4523f0ad5608125abdbb809d082"
+  },
+  {
+    "path": "sources/honglou.raw",
+    "bytes": 683,
+    "sha256": "88f089afbba937d11e75734f7bc5f1a59418d2e01e81b54c5758cbc7de764c96"
+  },
+  {
+    "path": "sources/caojia_pdf.pdf",
+    "bytes": 808627,
+    "sha256": "82148b657616c84a4577da12977325a45e32b11dcc4545fa150de7d7d50e0b52"
+  },
+  {
+    "path": "sources/yang.txt",
+    "bytes": 71833,
+    "sha256": "8358b25deeaae6013ecb05f2d012513efc4a73a209be57fad9ff1683324126bb"
+  },
+  {
+    "path": "sources/luxun_manyu.txt",
+    "bytes": 4561,
+    "sha256": "5cc013a300bc138a2943191a9a1ef9f2e0aec572bffe47bc4c4afca48483690f"
+  },
+  {
+    "path": "sources/caojia.txt",
+    "bytes": 1470,
+    "sha256": "dd2086c73aa91993cff7140085cfed577051a22fd59ab323010d915c527b3b21"
+  },
+  {
+    "path": "sources/caojia_late.txt",
+    "bytes": 1470,
+    "sha256": "dd2086c73aa91993cff7140085cfed577051a22fd59ab323010d915c527b3b21"
+  },
+  {
+    "path": "sources/luxun_duomin.raw",
+    "bytes": 63620,
+    "sha256": "767fc4023b89082bebdb3ee47857a486347da53c54596a36c27ed2fb3a039d97"
+  },
+  {
+    "path": "sources/imperial063.txt",
+    "bytes": 31249,
+    "sha256": "aa3559d84188fe138f4bd346c855835f2d65329515fcb1a2eeb4049f9d1f4ba0"
+  },
+  {
+    "path": "sources/luxun_nucai.txt",
+    "bytes": 5317,
+    "sha256": "2e768a1da2ce214084245d8f07fe8232b7533f553f882d4b5afc87c109144fde"
+  },
+  {
+    "path": "sources/caojia_late.raw",
+    "bytes": 2781,
+    "sha256": "4f323319db2cfd81d5d8106ab0f3cdbf21aaf8a17f2d187347961c569bbc1d73"
+  },
+  {
+    "path": "sources/yang_museum.pdf",
+    "bytes": 3524773,
+    "sha256": "1795073ebd4c891a9a2016828dfebd0d9e06862812ee33dc11fe538d8cc683f7"
+  },
+  {
+    "path": "sources/luxun_erchou.txt",
+    "bytes": 2662,
+    "sha256": "508f28185b4e517f30430f73f9af4ec3ae1d4bc4d0665104f8529426b9ac33ed"
+  },
+  {
+    "path": "sources/nian_museum.pdf",
+    "bytes": 3872624,
+    "sha256": "4bcf26c15b34a1ac9e63821bb691f66b402f021c17cad5754e5ac3a2d5fb6835"
+  },
+  {
+    "path": "sources/yang.raw",
+    "bytes": 1234819,
+    "sha256": "08a9c3425a3330662f08978706e636e9ff9945af07da7240071efb253b03f811"
+  },
+  {
+    "path": "sources/luxun_erchou.raw",
+    "bytes": 62721,
+    "sha256": "27cb958f56064dd422e67fb7fb0a4343cc0940d31c4c15a60447c684683339ed"
+  },
+  {
+    "path": "sources/luxun_yecao.raw",
+    "bytes": 44867,
+    "sha256": "de6c3cf3dad6694109e91440a0871263e068f6b213be1b67fd195656433a8dc7"
+  },
+  {
+    "path": "sources/caojia_pdf.txt",
+    "bytes": 352809,
+    "sha256": "0addbb3ba6956e9094f5befb591174b6641248ad377261921a70e13e0e649a03"
+  }
+]

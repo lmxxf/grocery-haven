@@ -1,0 +1,14 @@
+[
+  {
+    "layer": 0,
+    "max_abs_error": 0.0
+  },
+  {
+    "layer": 32,
+    "max_abs_error": 0.0
+  },
+  {
+    "layer": 63,
+    "max_abs_error": 0.0
+  }
+]

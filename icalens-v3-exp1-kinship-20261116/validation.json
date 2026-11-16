@@ -1,0 +1,7 @@
+{
+  "all_scores_finite": true,
+  "all_64_layers": true,
+  "EN_C_same_token_bag": true,
+  "EN_A_C_same_target_ids": true,
+  "scipy_paired_t_abs_error": 7.105427357601002e-15
+}

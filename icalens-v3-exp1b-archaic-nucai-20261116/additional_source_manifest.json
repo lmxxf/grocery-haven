@@ -1,0 +1,23 @@
+[
+  {
+    "name": "yang_museum",
+    "url": "https://theme.npm.edu.tw/Academic/ChineseArtDownload.ashx?bid=5296&eid=0",
+    "sha256": "1795073ebd4c891a9a2016828dfebd0d9e06862812ee33dc11fe538d8cc683f7",
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/yang_museum.pdf",
+    "bytes": 3524773
+  },
+  {
+    "name": "ertai",
+    "url": "https://www.shidianguji.com/zh/book/CADAL02083189/chapter/1lhgyue10hvzi",
+    "sha256": "a3549a3f301e43b0ddb8b39e140724ebc7abf75f8db63b295e1afa5326c35775",
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/ertai.raw",
+    "bytes": 2176260
+  },
+  {
+    "name": "nian_museum",
+    "url": "https://www.npm.gov.tw/NewChineseArtDownload.ashx?bid=4770",
+    "sha256": "4bcf26c15b34a1ac9e63821bb691f66b402f021c17cad5754e5ac3a2d5fb6835",
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/nian_museum.pdf",
+    "bytes": 3872624
+  }
+]

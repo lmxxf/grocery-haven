@@ -1,0 +1,74 @@
+{
+  "valid_layers": [
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+  ],
+  "calibration": {
+    "W0": {
+      "n_valid_layers": 38,
+      "median_abs_residual": 0.20972902292717416,
+      "median_signed_residual": 0.20972902292717416
+    },
+    "W1": {
+      "n_valid_layers": 38,
+      "median_abs_residual": 0.1959987244646551,
+      "median_signed_residual": 0.1959987244646551
+    },
+    "W2": {
+      "n_valid_layers": 38,
+      "median_abs_residual": 0.1700654657410735,
+      "median_signed_residual": 0.1700654657410735
+    },
+    "W3a": {
+      "n_valid_layers": 38,
+      "median_abs_residual": 0.25590346621714755,
+      "median_signed_residual": 0.25590346621714755
+    },
+    "W3b": {
+      "n_valid_layers": 38,
+      "median_abs_residual": 0.20074196626711188,
+      "median_signed_residual": 0.20074196626711188
+    }
+  },
+  "best_calibration_available_for_nucai": "W2",
+  "applied_wrapper": "W2_shared",
+  "best_across_all_five": "W2",
+  "criterion": "L10–L48 synonym-heldout >=3/4, independent modern 卑鄙 >=6/8 and oriented modern gap >0.1; choose minimum median absolute residual; nucai not used",
+  "equivalence_tolerance": 0.1
+}

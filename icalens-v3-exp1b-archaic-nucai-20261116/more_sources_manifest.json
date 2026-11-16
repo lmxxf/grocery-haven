@@ -1,0 +1,50 @@
+[
+  {
+    "name": "luxun_yanyu",
+    "title": "諺語",
+    "url": "https://zh.wikisource.org/zh-hans/諺語",
+    "chars": 1282,
+    "nucai": 3,
+    "sha256": "31f0e72ffdd36d75d2f9b20562ae943152da4a55cceb6eab1ab0fa773aa315ec"
+  },
+  {
+    "name": "luxun_manyu",
+    "title": "漫與",
+    "url": "https://zh.wikisource.org/zh-hans/漫與",
+    "chars": 1581,
+    "nucai": 1,
+    "sha256": "6673a5874ac93c92dd42a7fd1612a5ea8a40dd772416c381682c2d4d7b5955cd"
+  },
+  {
+    "name": "luxun_duomin",
+    "title": "我談「墮民」",
+    "url": "https://zh.wikisource.org/zh-hans/我談「墮民」",
+    "chars": 1043,
+    "nucai": 5,
+    "sha256": "767fc4023b89082bebdb3ee47857a486347da53c54596a36c27ed2fb3a039d97"
+  },
+  {
+    "name": "luxun_shanghai",
+    "title": "上海文藝之一瞥",
+    "url": "https://zh.wikisource.org/zh-hans/上海文藝之一瞥",
+    "chars": 11548,
+    "nucai": 1,
+    "sha256": "535b8f971e1d873c082485d3b51bd5a2311e7bda5492b33d5318725aae96731e"
+  },
+  {
+    "name": "luxun_erchou",
+    "title": "二丑藝術",
+    "url": "https://zh.wikisource.org/zh-hans/二丑藝術",
+    "chars": 947,
+    "nucai": 0,
+    "sha256": "27cb958f56064dd422e67fb7fb0a4343cc0940d31c4c15a60447c684683339ed"
+  },
+  {
+    "name": "imperial063",
+    "title": "上諭内閣 (四庫全書本)/卷063",
+    "url": "https://zh.wikisource.org/zh-hans/上諭内閣 (四庫全書本)/卷063",
+    "chars": 10523,
+    "nucai": 1,
+    "sha256": "840d4500ba3c6b2239628877eebbed8694b2172b8e4ce60dba7a43c1e14bd043"
+  }
+]

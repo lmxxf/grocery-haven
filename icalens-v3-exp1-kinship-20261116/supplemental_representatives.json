@@ -1,0 +1,16 @@
+[
+  {
+    "layer": 37,
+    "selector": "S2",
+    "method": "delta",
+    "axis": 2923,
+    "sign": -1.0
+  },
+  {
+    "layer": 42,
+    "selector": "S2",
+    "method": "delta",
+    "axis": 1992,
+    "sign": -1.0
+  }
+]

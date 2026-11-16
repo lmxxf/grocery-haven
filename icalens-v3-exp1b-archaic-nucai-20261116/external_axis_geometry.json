@@ -1,0 +1,16 @@
+[
+  {
+    "layer": 18,
+    "R1_axis": 1376,
+    "R2_axis": 1816,
+    "reading_cosine": -0.0063517531380057335,
+    "writing_cosine": 0.015759604051709175
+  },
+  {
+    "layer": 45,
+    "R1_axis": 1564,
+    "R2_axis": 1194,
+    "reading_cosine": -0.0017799254273995757,
+    "writing_cosine": 0.0195697620511055
+  }
+]

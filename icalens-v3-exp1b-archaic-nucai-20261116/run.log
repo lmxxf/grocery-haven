@@ -1,0 +1,324 @@
+TOKENIZATION_PRE_FORWARD (recorded by prepare_exp1b.py before model load)
+TOKEN {"target": "卑鄙", "ids": [101296, 103404], "tokens": ["åįĳ", "éĦĻ"], "decoded": ["卑", "鄙"]}
+TOKEN {"target": "坦荡", "ids": [97616, 98382], "tokens": ["åĿ¦", "èį¡"], "decoded": ["坦", "荡"]}
+TOKEN {"target": "正直", "ids": [118063], "tokens": ["æŃ£çĽ´"], "decoded": ["正直"]}
+TOKEN {"target": "磊落", "ids": [107692, 96380], "tokens": ["ç£Ĭ", "èĲ½"], "decoded": ["磊", "落"]}
+TOKEN {"target": "高尚", "ids": [114137], "tokens": ["é«ĺå°ļ"], "decoded": ["高尚"]}
+TOKEN {"target": "无耻", "ids": [146078], "tokens": ["æĹłèĢ»"], "decoded": ["无耻"]}
+TOKEN {"target": "下流", "ids": [95849, 96114], "tokens": ["ä¸ĭ", "æµģ"], "decoded": ["下", "流"]}
+TOKEN {"target": "阴险", "ids": [97266, 96371], "tokens": ["éĺ´", "éĻ©"], "decoded": ["阴", "险"]}
+TOKEN {"target": "龌龊", "ids": [96339, 234, 96339, 232], "tokens": ["é¾", "Į", "é¾", "Ĭ"], "decoded": ["�", "�", "�", "�"]}
+TOKEN {"target": "恶毒", "ids": [97598, 96924], "tokens": ["æģ¶", "æ¯Ĵ"], "decoded": ["恶", "毒"]}
+TOKEN {"target": "善良", "ids": [104626], "tokens": ["åĸĦèī¯"], "decoded": ["善良"]}
+TOKEN {"target": "卑劣", "ids": [101296, 99097], "tokens": ["åįĳ", "åĬ£"], "decoded": ["卑", "劣"]}
+TOKEN {"target": "高洁", "ids": [95883, 97402], "tokens": ["é«ĺ", "æ´ģ"], "decoded": ["高", "洁"]}
+TOKEN {"target": "奸诈", "ids": [103201, 98806], "tokens": ["å¥¸", "è¯Ī"], "decoded": ["奸", "诈"]}
+TOKEN {"target": "诚实", "ids": [105480], "tokens": ["è¯ļå®ŀ"], "decoded": ["诚实"]}
+TOKEN {"target": "虚伪", "ids": [129817], "tokens": ["èĻļä¼ª"], "decoded": ["虚伪"]}
+TOKEN {"target": "真诚", "ids": [104410], "tokens": ["çľŁè¯ļ"], "decoded": ["真诚"]}
+TOKEN {"target": "恶劣", "ids": [112008], "tokens": ["æģ¶åĬ£"], "decoded": ["恶劣"]}
+TOKEN {"target": "优良", "ids": [102215], "tokens": ["ä¼ĺèī¯"], "decoded": ["优良"]}
+TOKEN {"target": "歹毒", "ids": [101546, 96924], "tokens": ["æŃ¹", "æ¯Ĵ"], "decoded": ["歹", "毒"]}
+TOKEN {"target": "仁厚", "ids": [98507, 97185], "tokens": ["ä»ģ", "åİļ"], "decoded": ["仁", "厚"]}
+TOKEN {"target": "厚颜无耻", "ids": [97185, 97653, 146078], "tokens": ["åİļ", "é¢ľ", "æĹłèĢ»"], "decoded": ["厚", "颜", "无耻"]}
+TOKEN {"target": "光明磊落", "ids": [109204, 107692, 96380], "tokens": ["åħīæĺİ", "ç£Ĭ", "èĲ½"], "decoded": ["光明", "磊", "落"]}
+TOKEN {"target": "损人利己", "ids": [97251, 95765, 96048, 96103], "tokens": ["æįŁ", "äºº", "åĪ©", "å·±"], "decoded": ["损", "人", "利", "己"]}
+TOKEN {"target": "公正无私", "ids": [104546, 102541], "tokens": ["åħ¬æŃ£", "æĹłç§ģ"], "decoded": ["公正", "无私"]}
+TOKEN {"target": "出身微贱", "ids": [113643, 96420, 107901], "tokens": ["åĩºèº«", "å¾®", "è´±"], "decoded": ["出身", "微", "贱"]}
+TOKEN {"target": "出身显贵", "ids": [113643, 96547, 97170], "tokens": ["åĩºèº«", "æĺ¾", "è´µ"], "decoded": ["出身", "显", "贵"]}
+TOKEN {"target": "布衣寒门", "ids": [96439, 96774, 97742, 96141], "tokens": ["å¸ĥ", "è¡£", "å¯Ĵ", "éĹ¨"], "decoded": ["布", "衣", "寒", "门"]}
+TOKEN {"target": "豪门望族", "ids": [117253, 96480, 96694], "tokens": ["è±ªéĹ¨", "æľĽ", "æĹı"], "decoded": ["豪门", "望", "族"]}
+TOKEN {"target": "地位卑微", "ids": [99205, 131794], "tokens": ["åľ°ä½į", "åįĳå¾®"], "decoded": ["地位", "卑微"]}
+TOKEN {"target": "位高权重", "ids": [96022, 95883, 113726], "tokens": ["ä½į", "é«ĺ", "æĿĥéĩį"], "decoded": ["位", "高", "权重"]}
+TOKEN {"target": "寒门小户", "ids": [97742, 96141, 95872, 96244], "tokens": ["å¯Ĵ", "éĹ¨", "å°ı", "æĪ·"], "decoded": ["寒", "门", "小", "户"]}
+TOKEN {"target": "高门大族", "ids": [95883, 96141, 95779, 96694], "tokens": ["é«ĺ", "éĹ¨", "å¤§", "æĹı"], "decoded": ["高", "门", "大", "族"]}
+TOKEN {"target": "平民百姓", "ids": [115605, 101794], "tokens": ["å¹³æ°ĳ", "çĻ¾å§ĵ"], "decoded": ["平民", "百姓"]}
+TOKEN {"target": "王公贵族", "ids": [96498, 95842, 113630], "tokens": ["çİĭ", "åħ¬", "è´µæĹı"], "decoded": ["王", "公", "贵族"]}
+TOKEN {"target": "身份低微", "ids": [98024, 96369, 96420], "tokens": ["èº«ä»½", "ä½İ", "å¾®"], "decoded": ["身份", "低", "微"]}
+TOKEN {"target": "身份尊贵", "ids": [98024, 121206], "tokens": ["èº«ä»½", "å°Ĭè´µ"], "decoded": ["身份", "尊贵"]}
+TOKEN {"target": "贫寒人家", "ids": [97534, 97742, 108785], "tokens": ["è´«", "å¯Ĵ", "äººå®¶"], "decoded": ["贫", "寒", "人家"]}
+TOKEN {"target": "富贵之家", "ids": [112746, 104353], "tokens": ["å¯Įè´µ", "ä¹ĭå®¶"], "decoded": ["富贵", "之家"]}
+TOKEN {"target": "草民布衣", "ids": [96896, 96023, 96439, 96774], "tokens": ["èįī", "æ°ĳ", "å¸ĥ", "è¡£"], "decoded": ["草", "民", "布", "衣"]}
+TOKEN {"target": "达官显宦", "ids": [96310, 96782, 96547, 108351], "tokens": ["è¾¾", "å®ĺ", "æĺ¾", "å®¦"], "decoded": ["达", "官", "显", "宦"]}
+TOKEN {"target": "谄媚", "ids": [95920, 226, 100438], "tokens": ["è°", "Ħ", "åªļ"], "decoded": ["�", "�", "媚"]}
+TOKEN {"target": "不卑不亢", "ids": [95753, 101296, 95753, 103303], "tokens": ["ä¸į", "åįĳ", "ä¸į", "äº¢"], "decoded": ["不", "卑", "不", "亢"]}
+TOKEN {"target": "摇尾乞怜", "ids": [97613, 97541, 103299, 100406], "tokens": ["æĳĩ", "å°¾", "ä¹ŀ", "æĢľ"], "decoded": ["摇", "尾", "乞", "怜"]}
+TOKEN {"target": "铮铮铁骨", "ids": [108005, 108005, 97159, 97029], "tokens": ["éĵ®", "éĵ®", "éĵģ", "éª¨"], "decoded": ["铮", "铮", "铁", "骨"]}
+TOKEN {"target": "卑躬屈膝", "ids": [101296, 103322, 99344, 101248], "tokens": ["åįĳ", "èº¬", "å±Ī", "èĨĿ"], "decoded": ["卑", "躬", "屈", "膝"]}
+TOKEN {"target": "堂堂正正", "ids": [124888, 96110, 96110], "tokens": ["åłĤåłĤ", "æŃ£", "æŃ£"], "decoded": ["堂堂", "正", "正"]}
+TOKEN {"target": "走狗", "ids": [96355, 98713], "tokens": ["èµ°", "çĭĹ"], "decoded": ["走", "狗"]}
+TOKEN {"target": "志士", "ids": [96638, 96412], "tokens": ["å¿Ĺ", "å£«"], "decoded": ["志", "士"]}
+TOKEN {"target": "舔狗", "ids": [108020, 98713], "tokens": ["èĪĶ", "çĭĹ"], "decoded": ["舔", "狗"]}
+TOKEN {"target": "君子", "ids": [111666], "tokens": ["åĲĽåŃĲ"], "decoded": ["君子"]}
+TOKEN {"target": "下贱", "ids": [95849, 107901], "tokens": ["ä¸ĭ", "è´±"], "decoded": ["下", "贱"]}
+TOKEN {"target": "尊严", "ids": [114800], "tokens": ["å°Ĭä¸¥"], "decoded": ["尊严"]}
+TOKEN {"target": "阿谀奉承", "ids": [96970, 95920, 222, 98536, 96484], "tokens": ["éĺ¿", "è°", "Ģ", "å¥ī", "æī¿"], "decoded": ["阿", "�", "�", "奉", "承"]}
+TOKEN {"target": "刚正不阿", "ids": [97294, 96110, 95753, 96970], "tokens": ["åĪļ", "æŃ£", "ä¸į", "éĺ¿"], "decoded": ["刚", "正", "不", "阿"]}
+TOKEN {"target": "奴颜婢膝", "ids": [100362, 97653, 103601, 101248], "tokens": ["å¥´", "é¢ľ", "å©¢", "èĨĿ"], "decoded": ["奴", "颜", "婢", "膝"]}
+TOKEN {"target": "昂首挺胸", "ids": [138175, 143186], "tokens": ["æĺĤé¦ĸ", "æĮºèĥ¸"], "decoded": ["昂首", "挺胸"]}
+TOKEN {"target": "低声下气", "ids": [122441, 95849, 96062], "tokens": ["ä½İå£°", "ä¸ĭ", "æ°Ķ"], "decoded": ["低声", "下", "气"]}
+TOKEN {"target": "理直气壮", "ids": [95856, 96192, 96062, 97695], "tokens": ["çĲĨ", "çĽ´", "æ°Ķ", "å£®"], "decoded": ["理", "直", "气", "壮"]}
+TOKEN {"target": "趋炎附势", "ids": [98499, 96788, 97025, 96559], "tokens": ["è¶ĭ", "çĤİ", "éĻĦ", "åĬ¿"], "decoded": ["趋", "炎", "附", "势"]}
+TOKEN {"target": "坚持原则", "ids": [98413, 99468], "tokens": ["åĿļæĮģ", "åİŁåĪĻ"], "decoded": ["坚持", "原则"]}
+TOKEN {"target": "屈膝求荣", "ids": [99344, 101248, 96181, 97178], "tokens": ["å±Ī", "èĨĿ", "æ±Ĥ", "èį£"], "decoded": ["屈", "膝", "求", "荣"]}
+TOKEN {"target": "自尊自立", "ids": [106350, 118930], "tokens": ["èĩªå°Ĭ", "èĩªç«ĭ"], "decoded": ["自尊", "自立"]}
+TOKEN {"target": "奴性十足", "ids": [100362, 95911, 102285], "tokens": ["å¥´", "æĢ§", "åįģè¶³"], "decoded": ["奴", "性", "十足"]}
+TOKEN {"target": "有骨气", "ids": [95762, 97029, 96062], "tokens": ["æľī", "éª¨", "æ°Ķ"], "decoded": ["有", "骨", "气"]}
+TOKEN {"target": "微臣", "ids": [96420, 101131], "tokens": ["å¾®", "èĩ£"], "decoded": ["微", "臣"]}
+TOKEN {"target": "邻居", "ids": [111952], "tokens": ["éĤ»å±ħ"], "decoded": ["邻居"]}
+TOKEN {"target": "臣等", "ids": [101131, 96024], "tokens": ["èĩ£", "çŃī"], "decoded": ["臣", "等"]}
+TOKEN {"target": "我们", "ids": [96091], "tokens": ["æĪĳä»¬"], "decoded": ["我们"]}
+TOKEN {"target": "叩首", "ids": [108193, 96435], "tokens": ["åı©", "é¦ĸ"], "decoded": ["叩", "首"]}
+TOKEN {"target": "问候", "ids": [105196], "tokens": ["éĹ®åĢĻ"], "decoded": ["问候"]}
+TOKEN {"target": "圣安", "ids": [97661, 96007], "tokens": ["åľ£", "å®ī"], "decoded": ["圣", "安"]}
+TOKEN {"target": "平安", "ids": [101708], "tokens": ["å¹³å®ī"], "decoded": ["平安"]}
+TOKEN {"target": "陛下", "ids": [113707], "tokens": ["éĻĽä¸ĭ"], "decoded": ["陛下"]}
+TOKEN {"target": "先生", "ids": [98654], "tokens": ["åħĪçĶŁ"], "decoded": ["先生"]}
+TOKEN {"target": "奉旨", "ids": [98536, 99304], "tokens": ["å¥ī", "æĹ¨"], "decoded": ["奉", "旨"]}
+TOKEN {"target": "约定", "ids": [103963], "tokens": ["çº¦å®ļ"], "decoded": ["约定"]}
+TOKEN {"target": "奏折", "ids": [98744, 97108], "tokens": ["å¥ı", "æĬĺ"], "decoded": ["奏", "折"]}
+TOKEN {"target": "家书", "ids": [95855, 96106], "tokens": ["å®¶", "ä¹¦"], "decoded": ["家", "书"]}
+TOKEN {"target": "谢恩", "ids": [97084, 97838], "tokens": ["è°¢", "æģ©"], "decoded": ["谢", "恩"]}
+TOKEN {"target": "道谢", "ids": [95972, 97084], "tokens": ["éģĵ", "è°¢"], "decoded": ["道", "谢"]}
+TOKEN {"target": "微贱", "ids": [96420, 107901], "tokens": ["å¾®", "è´±"], "decoded": ["微", "贱"]}
+TOKEN {"target": "浅陋", "ids": [98234, 101498], "tokens": ["æµħ", "éĻĭ"], "decoded": ["浅", "陋"]}
+TOKEN {"target": "愚钝", "ids": [101361, 103479], "tokens": ["æĦļ", "éĴĿ"], "decoded": ["愚", "钝"]}
+TOKEN {"target": "奴才", "ids": [100362, 96344], "tokens": ["å¥´", "æīį"], "decoded": ["奴", "才"]}
+TOKEN {"target": "小的", "ids": [98321], "tokens": ["å°ıçļĦ"], "decoded": ["小的"]}
+TOKEN {"target": "下官", "ids": [95849, 96782], "tokens": ["ä¸ĭ", "å®ĺ"], "decoded": ["下", "官"]}
+TOKEN {"target": "我", "ids": [95815], "tokens": ["æĪĳ"], "decoded": ["我"]}
+TOKEN {"target": "臣", "ids": [101131], "tokens": ["èĩ£"], "decoded": ["臣"]}
+PREPARED 439 unique probes 330980 forward tokens
+
+LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '119766076 kB', 'SwapFree': '12443988 kB'}
+LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '110342784 kB', 'SwapFree': '12443988 kB'}
+LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '109296216 kB', 'SwapFree': '12443988 kB'}
+LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '108542728 kB', 'SwapFree': '12443988 kB'}
+LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '107790888 kB', 'SwapFree': '12443988 kB'}
+LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106976440 kB', 'SwapFree': '12443988 kB'}
+LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106222072 kB', 'SwapFree': '12443988 kB'}
+LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105465876 kB', 'SwapFree': '12443988 kB'}
+LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104683768 kB', 'SwapFree': '12443988 kB'}
+LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103941448 kB', 'SwapFree': '12443988 kB'}
+LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103191400 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102438552 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101664548 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100926556 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100164232 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99389052 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98650084 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97908072 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97149952 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96375600 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95636124 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94894700 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94135708 kB', 'SwapFree': '12443996 kB'}
+LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93369292 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92607108 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91882096 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91122536 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90355468 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89595364 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88854864 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88094940 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87329564 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86575396 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85834220 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85082264 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84321932 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83560900 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82818924 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82055704 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81293572 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80539596 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79795584 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79017280 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78264504 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77513620 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76775124 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76006292 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75246616 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74490300 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73746444 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72972584 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72223716 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71461740 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70719768 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69944292 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69198564 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68445220 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67704156 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66932984 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66182616 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65425956 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64678404 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63922288 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63161612 kB', 'SwapFree': '12444000 kB'}
+LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62400056 kB', 'SwapFree': '12444000 kB'}
+MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '61649296 kB', 'SwapFree': '12444000 kB'}
+[transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
+FORWARD {'stage': 'forward', 'done': 1, 'total': 439, 'forward_tokens': 19, 'seconds': 41.97029972076416}
+FORWARD {'stage': 'forward', 'done': 6, 'total': 439, 'forward_tokens': 109, 'seconds': 43.280232429504395}
+FORWARD {'stage': 'forward', 'done': 11, 'total': 439, 'forward_tokens': 189, 'seconds': 44.51643133163452}
+FORWARD {'stage': 'forward', 'done': 16, 'total': 439, 'forward_tokens': 270, 'seconds': 45.734290599823}
+FORWARD {'stage': 'forward', 'done': 21, 'total': 439, 'forward_tokens': 358, 'seconds': 46.97840881347656}
+FORWARD {'stage': 'forward', 'done': 26, 'total': 439, 'forward_tokens': 440, 'seconds': 48.2074248790741}
+FORWARD {'stage': 'forward', 'done': 31, 'total': 439, 'forward_tokens': 520, 'seconds': 49.42919659614563}
+FORWARD {'stage': 'forward', 'done': 36, 'total': 439, 'forward_tokens': 613, 'seconds': 50.691082239151}
+FORWARD {'stage': 'forward', 'done': 41, 'total': 439, 'forward_tokens': 716, 'seconds': 51.949894189834595}
+FORWARD {'stage': 'forward', 'done': 46, 'total': 439, 'forward_tokens': 847, 'seconds': 53.218353509902954}
+FORWARD {'stage': 'forward', 'done': 51, 'total': 439, 'forward_tokens': 976, 'seconds': 54.481019735336304}
+FORWARD {'stage': 'forward', 'done': 56, 'total': 439, 'forward_tokens': 1101, 'seconds': 55.74848413467407}
+FORWARD {'stage': 'forward', 'done': 61, 'total': 439, 'forward_tokens': 1201, 'seconds': 57.01193070411682}
+FORWARD {'stage': 'forward', 'done': 66, 'total': 439, 'forward_tokens': 1281, 'seconds': 58.227596282958984}
+FORWARD {'stage': 'forward', 'done': 71, 'total': 439, 'forward_tokens': 1370, 'seconds': 59.49144721031189}
+FORWARD {'stage': 'forward', 'done': 76, 'total': 439, 'forward_tokens': 1471, 'seconds': 60.748409032821655}
+FORWARD {'stage': 'forward', 'done': 81, 'total': 439, 'forward_tokens': 1556, 'seconds': 61.99871349334717}
+FORWARD {'stage': 'forward', 'done': 86, 'total': 439, 'forward_tokens': 1644, 'seconds': 63.25976061820984}
+FORWARD {'stage': 'forward', 'done': 91, 'total': 439, 'forward_tokens': 1730, 'seconds': 64.51474976539612}
+FORWARD {'stage': 'forward', 'done': 96, 'total': 439, 'forward_tokens': 1808, 'seconds': 65.76617097854614}
+FORWARD {'stage': 'forward', 'done': 101, 'total': 439, 'forward_tokens': 2620, 'seconds': 67.37994647026062}
+FORWARD {'stage': 'forward', 'done': 106, 'total': 439, 'forward_tokens': 10527, 'seconds': 76.17961382865906}
+FORWARD {'stage': 'forward', 'done': 111, 'total': 439, 'forward_tokens': 14582, 'seconds': 80.39518976211548}
+FORWARD {'stage': 'forward', 'done': 116, 'total': 439, 'forward_tokens': 17962, 'seconds': 83.7685284614563}
+FORWARD {'stage': 'forward', 'done': 121, 'total': 439, 'forward_tokens': 20217, 'seconds': 86.4570484161377}
+FORWARD {'stage': 'forward', 'done': 126, 'total': 439, 'forward_tokens': 29583, 'seconds': 96.56886172294617}
+FORWARD {'stage': 'forward', 'done': 131, 'total': 439, 'forward_tokens': 34222, 'seconds': 101.53695130348206}
+FORWARD {'stage': 'forward', 'done': 136, 'total': 439, 'forward_tokens': 34959, 'seconds': 103.29008436203003}
+FORWARD {'stage': 'forward', 'done': 141, 'total': 439, 'forward_tokens': 40543, 'seconds': 109.83683347702026}
+FORWARD {'stage': 'forward', 'done': 146, 'total': 439, 'forward_tokens': 47175, 'seconds': 117.06410717964172}
+FORWARD {'stage': 'forward', 'done': 151, 'total': 439, 'forward_tokens': 48224, 'seconds': 118.8255774974823}
+FORWARD {'stage': 'forward', 'done': 156, 'total': 439, 'forward_tokens': 54448, 'seconds': 125.18721771240234}
+FORWARD {'stage': 'forward', 'done': 161, 'total': 439, 'forward_tokens': 63001, 'seconds': 134.77367520332336}
+FORWARD {'stage': 'forward', 'done': 166, 'total': 439, 'forward_tokens': 64493, 'seconds': 136.79214072227478}
+FORWARD {'stage': 'forward', 'done': 171, 'total': 439, 'forward_tokens': 68606, 'seconds': 141.19796895980835}
+FORWARD {'stage': 'forward', 'done': 176, 'total': 439, 'forward_tokens': 79207, 'seconds': 152.91932106018066}
+FORWARD {'stage': 'forward', 'done': 181, 'total': 439, 'forward_tokens': 81099, 'seconds': 155.18883156776428}
+FORWARD {'stage': 'forward', 'done': 186, 'total': 439, 'forward_tokens': 84126, 'seconds': 158.452721118927}
+FORWARD {'stage': 'forward', 'done': 191, 'total': 439, 'forward_tokens': 95036, 'seconds': 170.00823831558228}
+FORWARD {'stage': 'forward', 'done': 196, 'total': 439, 'forward_tokens': 97291, 'seconds': 172.51146006584167}
+FORWARD {'stage': 'forward', 'done': 201, 'total': 439, 'forward_tokens': 98239, 'seconds': 174.19231390953064}
+FORWARD {'stage': 'forward', 'done': 206, 'total': 439, 'forward_tokens': 106298, 'seconds': 183.32204341888428}
+FORWARD {'stage': 'forward', 'done': 211, 'total': 439, 'forward_tokens': 110962, 'seconds': 188.3254144191742}
+FORWARD {'stage': 'forward', 'done': 216, 'total': 439, 'forward_tokens': 112437, 'seconds': 190.51735758781433}
+FORWARD {'stage': 'forward', 'done': 221, 'total': 439, 'forward_tokens': 120335, 'seconds': 198.93948984146118}
+FORWARD {'stage': 'forward', 'done': 226, 'total': 439, 'forward_tokens': 126917, 'seconds': 205.81364154815674}
+FORWARD {'stage': 'forward', 'done': 231, 'total': 439, 'forward_tokens': 127968, 'seconds': 207.58033442497253}
+FORWARD {'stage': 'forward', 'done': 236, 'total': 439, 'forward_tokens': 134147, 'seconds': 213.92046666145325}
+FORWARD {'stage': 'forward', 'done': 241, 'total': 439, 'forward_tokens': 142715, 'seconds': 223.36489486694336}
+FORWARD {'stage': 'forward', 'done': 246, 'total': 439, 'forward_tokens': 144153, 'seconds': 225.35817742347717}
+FORWARD {'stage': 'forward', 'done': 251, 'total': 439, 'forward_tokens': 148018, 'seconds': 229.433856010437}
+FORWARD {'stage': 'forward', 'done': 256, 'total': 439, 'forward_tokens': 158519, 'seconds': 239.73913860321045}
+FORWARD {'stage': 'forward', 'done': 261, 'total': 439, 'forward_tokens': 160383, 'seconds': 241.97138714790344}
+FORWARD {'stage': 'forward', 'done': 266, 'total': 439, 'forward_tokens': 163580, 'seconds': 245.57912802696228}
+FORWARD {'stage': 'forward', 'done': 271, 'total': 439, 'forward_tokens': 174600, 'seconds': 257.7529489994049}
+FORWARD {'stage': 'forward', 'done': 276, 'total': 439, 'forward_tokens': 176930, 'seconds': 260.4393150806427}
+FORWARD {'stage': 'forward', 'done': 281, 'total': 439, 'forward_tokens': 181948, 'seconds': 265.92698097229004}
+FORWARD {'stage': 'forward', 'done': 286, 'total': 439, 'forward_tokens': 188555, 'seconds': 273.2544605731964}
+FORWARD {'stage': 'forward', 'done': 291, 'total': 439, 'forward_tokens': 193244, 'seconds': 278.4679334163666}
+FORWARD {'stage': 'forward', 'done': 296, 'total': 439, 'forward_tokens': 197512, 'seconds': 283.4208023548126}
+FORWARD {'stage': 'forward', 'done': 301, 'total': 439, 'forward_tokens': 202559, 'seconds': 288.86889481544495}
+FORWARD {'stage': 'forward', 'done': 306, 'total': 439, 'forward_tokens': 209230, 'seconds': 296.4503858089447}
+FORWARD {'stage': 'forward', 'done': 311, 'total': 439, 'forward_tokens': 213852, 'seconds': 301.51709723472595}
+FORWARD {'stage': 'forward', 'done': 316, 'total': 439, 'forward_tokens': 217979, 'seconds': 306.30880427360535}
+FORWARD {'stage': 'forward', 'done': 321, 'total': 439, 'forward_tokens': 221430, 'seconds': 310.2626721858978}
+FORWARD {'stage': 'forward', 'done': 326, 'total': 439, 'forward_tokens': 227830, 'seconds': 317.34701561927795}
+FORWARD {'stage': 'forward', 'done': 331, 'total': 439, 'forward_tokens': 231381, 'seconds': 321.8075249195099}
+FORWARD {'stage': 'forward', 'done': 336, 'total': 439, 'forward_tokens': 235071, 'seconds': 326.2601273059845}
+FORWARD {'stage': 'forward', 'done': 341, 'total': 439, 'forward_tokens': 240803, 'seconds': 332.3133089542389}
+FORWARD {'stage': 'forward', 'done': 346, 'total': 439, 'forward_tokens': 246560, 'seconds': 338.9989995956421}
+FORWARD {'stage': 'forward', 'done': 351, 'total': 439, 'forward_tokens': 248231, 'seconds': 341.1157286167145}
+FORWARD {'stage': 'forward', 'done': 356, 'total': 439, 'forward_tokens': 254629, 'seconds': 348.1958267688751}
+FORWARD {'stage': 'forward', 'done': 361, 'total': 439, 'forward_tokens': 258091, 'seconds': 352.4361398220062}
+FORWARD {'stage': 'forward', 'done': 366, 'total': 439, 'forward_tokens': 262070, 'seconds': 357.1831257343292}
+FORWARD {'stage': 'forward', 'done': 371, 'total': 439, 'forward_tokens': 268320, 'seconds': 364.1683371067047}
+FORWARD {'stage': 'forward', 'done': 376, 'total': 439, 'forward_tokens': 274235, 'seconds': 370.95477318763733}
+FORWARD {'stage': 'forward', 'done': 381, 'total': 439, 'forward_tokens': 276079, 'seconds': 373.1713602542877}
+FORWARD {'stage': 'forward', 'done': 386, 'total': 439, 'forward_tokens': 282680, 'seconds': 380.37986636161804}
+FORWARD {'stage': 'forward', 'done': 391, 'total': 439, 'forward_tokens': 287846, 'seconds': 386.330685377121}
+FORWARD {'stage': 'forward', 'done': 396, 'total': 439, 'forward_tokens': 292566, 'seconds': 391.5247757434845}
+FORWARD {'stage': 'forward', 'done': 401, 'total': 439, 'forward_tokens': 296357, 'seconds': 395.66003799438477}
+FORWARD {'stage': 'forward', 'done': 406, 'total': 439, 'forward_tokens': 300627, 'seconds': 400.08612418174744}
+FORWARD {'stage': 'forward', 'done': 411, 'total': 439, 'forward_tokens': 307149, 'seconds': 407.00344038009644}
+FORWARD {'stage': 'forward', 'done': 416, 'total': 439, 'forward_tokens': 311616, 'seconds': 411.5867624282837}
+FORWARD {'stage': 'forward', 'done': 421, 'total': 439, 'forward_tokens': 315063, 'seconds': 415.68148922920227}
+FORWARD {'stage': 'forward', 'done': 426, 'total': 439, 'forward_tokens': 318707, 'seconds': 420.0277523994446}
+FORWARD {'stage': 'forward', 'done': 431, 'total': 439, 'forward_tokens': 325274, 'seconds': 427.3126382827759}
+FORWARD {'stage': 'forward', 'done': 436, 'total': 439, 'forward_tokens': 329915, 'seconds': 432.41737174987793}
+FORWARD {'stage': 'forward', 'done': 439, 'total': 439, 'forward_tokens': 330980, 'seconds': 433.9548006057739}
+NAVIGATION_CLEANED 9
+ANALYZED 0
+ANALYZED 1
+ANALYZED 2
+ANALYZED 3
+ANALYZED 4
+ANALYZED 5
+ANALYZED 6
+ANALYZED 7
+ANALYZED 8
+ANALYZED 9
+ANALYZED 10
+ANALYZED 11
+ANALYZED 12
+ANALYZED 13
+ANALYZED 14
+ANALYZED 15
+ANALYZED 16
+ANALYZED 17
+ANALYZED 18
+ANALYZED 19
+ANALYZED 20
+ANALYZED 21
+ANALYZED 22
+ANALYZED 23
+ANALYZED 24
+ANALYZED 25
+ANALYZED 26
+ANALYZED 27
+ANALYZED 28
+ANALYZED 29
+ANALYZED 30
+ANALYZED 31
+ANALYZED 32
+ANALYZED 33
+ANALYZED 34
+ANALYZED 35
+ANALYZED 36
+ANALYZED 37
+ANALYZED 38
+ANALYZED 39
+ANALYZED 40
+ANALYZED 41
+ANALYZED 42
+ANALYZED 43
+ANALYZED 44
+ANALYZED 45
+ANALYZED 46
+ANALYZED 47
+ANALYZED 48
+ANALYZED 49
+ANALYZED 50
+ANALYZED 51
+ANALYZED 52
+ANALYZED 53
+ANALYZED 54
+ANALYZED 55
+ANALYZED 56
+ANALYZED 57
+ANALYZED 58
+ANALYZED 59
+ANALYZED 60
+ANALYZED 61
+ANALYZED 62
+ANALYZED 63
+READOUT Moral_Nonliteral 16 1821
+READOUT Moral_Nonliteral 30 846
+READOUT R1_Humiliation 18 1376
+READOUT R1_Humiliation 31 1053
+READOUT R2_Court 18 1816
+READOUT R2_Court 41 3492
+READOUT Status_Humble 34 2084
+READOUT court_vs_modern 45 1194
+READOUT insult_vs_routine_HLM 48 335
+REPORT_WRITTEN 1635 W2_shared
+COMPLETE 493.41665506362915

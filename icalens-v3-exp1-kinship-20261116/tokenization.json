@@ -1,0 +1,1375 @@
+[
+  {
+    "lang": "zh",
+    "target": "伯父",
+    "ids": [
+      98213,
+      97391
+    ],
+    "tokens": [
+      "ä¼¯",
+      "çĪ¶"
+    ],
+    "decoded": [
+      "伯",
+      "父"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "舅舅",
+    "ids": [
+      121028
+    ],
+    "tokens": [
+      "èĪħèĪħ"
+    ],
+    "decoded": [
+      "舅舅"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "叔父",
+    "ids": [
+      100229,
+      97391
+    ],
+    "tokens": [
+      "åıĶ",
+      "çĪ¶"
+    ],
+    "decoded": [
+      "叔",
+      "父"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "姨夫",
+    "ids": [
+      100339,
+      97003
+    ],
+    "tokens": [
+      "å§¨",
+      "å¤«"
+    ],
+    "decoded": [
+      "姨",
+      "夫"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "姑姑",
+    "ids": [
+      123932
+    ],
+    "tokens": [
+      "å§ĳå§ĳ"
+    ],
+    "decoded": [
+      "姑姑"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "姨妈",
+    "ids": [
+      132976
+    ],
+    "tokens": [
+      "å§¨å¦Ī"
+    ],
+    "decoded": [
+      "姨妈"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "堂哥",
+    "ids": [
+      97131,
+      97459
+    ],
+    "tokens": [
+      "åłĤ",
+      "åĵ¥"
+    ],
+    "decoded": [
+      "堂",
+      "哥"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "表哥",
+    "ids": [
+      130514
+    ],
+    "tokens": [
+      "è¡¨åĵ¥"
+    ],
+    "decoded": [
+      "表哥"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "堂姐",
+    "ids": [
+      97131,
+      97730
+    ],
+    "tokens": [
+      "åłĤ",
+      "å§Ĳ"
+    ],
+    "decoded": [
+      "堂",
+      "姐"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "表姐",
+    "ids": [
+      137748
+    ],
+    "tokens": [
+      "è¡¨å§Ĳ"
+    ],
+    "decoded": [
+      "表姐"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "堂弟",
+    "ids": [
+      97131,
+      97737
+    ],
+    "tokens": [
+      "åłĤ",
+      "å¼Ł"
+    ],
+    "decoded": [
+      "堂",
+      "弟"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "表弟",
+    "ids": [
+      146285
+    ],
+    "tokens": [
+      "è¡¨å¼Ł"
+    ],
+    "decoded": [
+      "表弟"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "叔叔",
+    "ids": [
+      110811
+    ],
+    "tokens": [
+      "åıĶåıĶ"
+    ],
+    "decoded": [
+      "叔叔"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "爷爷",
+    "ids": [
+      102016
+    ],
+    "tokens": [
+      "çĪ·çĪ·"
+    ],
+    "decoded": [
+      "爷爷"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "姥爷",
+    "ids": [
+      138309
+    ],
+    "tokens": [
+      "å§¥çĪ·"
+    ],
+    "decoded": [
+      "姥爷"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "外公",
+    "ids": [
+      121325
+    ],
+    "tokens": [
+      "å¤ĸåħ¬"
+    ],
+    "decoded": [
+      "外公"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "奶奶",
+    "ids": [
+      101890
+    ],
+    "tokens": [
+      "å¥¶å¥¶"
+    ],
+    "decoded": [
+      "奶奶"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "姥姥",
+    "ids": [
+      116775
+    ],
+    "tokens": [
+      "å§¥å§¥"
+    ],
+    "decoded": [
+      "姥姥"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "外婆",
+    "ids": [
+      112928
+    ],
+    "tokens": [
+      "å¤ĸå©Ĩ"
+    ],
+    "decoded": [
+      "外婆"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "侄子",
+    "ids": [
+      147220
+    ],
+    "tokens": [
+      "ä¾ĦåŃĲ"
+    ],
+    "decoded": [
+      "侄子"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "外甥",
+    "ids": [
+      96063,
+      108405
+    ],
+    "tokens": [
+      "å¤ĸ",
+      "çĶ¥"
+    ],
+    "decoded": [
+      "外",
+      "甥"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "侄女",
+    "ids": [
+      103484,
+      96350
+    ],
+    "tokens": [
+      "ä¾Ħ",
+      "å¥³"
+    ],
+    "decoded": [
+      "侄",
+      "女"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "外甥女",
+    "ids": [
+      96063,
+      108405,
+      96350
+    ],
+    "tokens": [
+      "å¤ĸ",
+      "çĶ¥",
+      "å¥³"
+    ],
+    "decoded": [
+      "外",
+      "甥",
+      "女"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "孙子",
+    "ids": [
+      115831
+    ],
+    "tokens": [
+      "åŃĻåŃĲ"
+    ],
+    "decoded": [
+      "孙子"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "外孙",
+    "ids": [
+      96063,
+      98714
+    ],
+    "tokens": [
+      "å¤ĸ",
+      "åŃĻ"
+    ],
+    "decoded": [
+      "外",
+      "孙"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "孙女",
+    "ids": [
+      128715
+    ],
+    "tokens": [
+      "åŃĻå¥³"
+    ],
+    "decoded": [
+      "孙女"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "外孙女",
+    "ids": [
+      96063,
+      128715
+    ],
+    "tokens": [
+      "å¤ĸ",
+      "åŃĻå¥³"
+    ],
+    "decoded": [
+      "外",
+      "孙女"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "堂妹",
+    "ids": [
+      97131,
+      98068
+    ],
+    "tokens": [
+      "åłĤ",
+      "å¦¹"
+    ],
+    "decoded": [
+      "堂",
+      "妹"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "表妹",
+    "ids": [
+      141049
+    ],
+    "tokens": [
+      "è¡¨å¦¹"
+    ],
+    "decoded": [
+      "表妹"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "uncle",
+    "ids": [
+      36252
+    ],
+    "tokens": [
+      "Ġuncle"
+    ],
+    "decoded": [
+      " uncle"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "aunt",
+    "ids": [
+      48381
+    ],
+    "tokens": [
+      "Ġaunt"
+    ],
+    "decoded": [
+      " aunt"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "cousin",
+    "ids": [
+      34007
+    ],
+    "tokens": [
+      "Ġcousin"
+    ],
+    "decoded": [
+      " cousin"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "grandfather",
+    "ids": [
+      36600
+    ],
+    "tokens": [
+      "Ġgrandfather"
+    ],
+    "decoded": [
+      " grandfather"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "grandmother",
+    "ids": [
+      36919
+    ],
+    "tokens": [
+      "Ġgrandmother"
+    ],
+    "decoded": [
+      " grandmother"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "father",
+    "ids": [
+      6764
+    ],
+    "tokens": [
+      "Ġfather"
+    ],
+    "decoded": [
+      " father"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "mother",
+    "ids": [
+      6351
+    ],
+    "tokens": [
+      "Ġmother"
+    ],
+    "decoded": [
+      " mother"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "man",
+    "ids": [
+      855
+    ],
+    "tokens": [
+      "Ġman"
+    ],
+    "decoded": [
+      " man"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "woman",
+    "ids": [
+      5054
+    ],
+    "tokens": [
+      "Ġwoman"
+    ],
+    "decoded": [
+      " woman"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "brother",
+    "ids": [
+      10326
+    ],
+    "tokens": [
+      "Ġbrother"
+    ],
+    "decoded": [
+      " brother"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "sister",
+    "ids": [
+      12553
+    ],
+    "tokens": [
+      "Ġsister"
+    ],
+    "decoded": [
+      " sister"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "boy",
+    "ids": [
+      7914
+    ],
+    "tokens": [
+      "Ġboy"
+    ],
+    "decoded": [
+      " boy"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "girl",
+    "ids": [
+      3616
+    ],
+    "tokens": [
+      "Ġgirl"
+    ],
+    "decoded": [
+      " girl"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "male",
+    "ids": [
+      8330
+    ],
+    "tokens": [
+      "Ġmale"
+    ],
+    "decoded": [
+      " male"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "female",
+    "ids": [
+      8513
+    ],
+    "tokens": [
+      "Ġfemale"
+    ],
+    "decoded": [
+      " female"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "husband",
+    "ids": [
+      9677
+    ],
+    "tokens": [
+      "Ġhusband"
+    ],
+    "decoded": [
+      " husband"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "wife",
+    "ids": [
+      7168
+    ],
+    "tokens": [
+      "Ġwife"
+    ],
+    "decoded": [
+      " wife"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "king",
+    "ids": [
+      11148
+    ],
+    "tokens": [
+      "Ġking"
+    ],
+    "decoded": [
+      " king"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "queen",
+    "ids": [
+      27000
+    ],
+    "tokens": [
+      "Ġqueen"
+    ],
+    "decoded": [
+      " queen"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "prince",
+    "ids": [
+      40348
+    ],
+    "tokens": [
+      "Ġprince"
+    ],
+    "decoded": [
+      " prince"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "princess",
+    "ids": [
+      38276
+    ],
+    "tokens": [
+      "Ġprincess"
+    ],
+    "decoded": [
+      " princess"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "actor",
+    "ids": [
+      11745
+    ],
+    "tokens": [
+      "Ġactor"
+    ],
+    "decoded": [
+      " actor"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "actress",
+    "ids": [
+      22914
+    ],
+    "tokens": [
+      "Ġactress"
+    ],
+    "decoded": [
+      " actress"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "son",
+    "ids": [
+      4292
+    ],
+    "tokens": [
+      "Ġson"
+    ],
+    "decoded": [
+      " son"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "daughter",
+    "ids": [
+      9511
+    ],
+    "tokens": [
+      "Ġdaughter"
+    ],
+    "decoded": [
+      " daughter"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "里面",
+    "ids": [
+      101606
+    ],
+    "tokens": [
+      "éĩĮéĿ¢"
+    ],
+    "decoded": [
+      "里面"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "外面",
+    "ids": [
+      104179
+    ],
+    "tokens": [
+      "å¤ĸéĿ¢"
+    ],
+    "decoded": [
+      "外面"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "内部",
+    "ids": [
+      98866
+    ],
+    "tokens": [
+      "åĨħéĥ¨"
+    ],
+    "decoded": [
+      "内部"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "外部",
+    "ids": [
+      104204
+    ],
+    "tokens": [
+      "å¤ĸéĥ¨"
+    ],
+    "decoded": [
+      "外部"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "等待",
+    "ids": [
+      100650
+    ],
+    "tokens": [
+      "çŃīå¾ħ"
+    ],
+    "decoded": [
+      "等待"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "room",
+    "ids": [
+      2956
+    ],
+    "tokens": [
+      "Ġroom"
+    ],
+    "decoded": [
+      " room"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "yard",
+    "ids": [
+      18921
+    ],
+    "tokens": [
+      "Ġyard"
+    ],
+    "decoded": [
+      " yard"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "inside",
+    "ids": [
+      4613
+    ],
+    "tokens": [
+      "Ġinside"
+    ],
+    "decoded": [
+      " inside"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "outside",
+    "ids": [
+      4732
+    ],
+    "tokens": [
+      "Ġoutside"
+    ],
+    "decoded": [
+      " outside"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "自家人",
+    "ids": [
+      95845,
+      99993
+    ],
+    "tokens": [
+      "èĩª",
+      "å®¶äºº"
+    ],
+    "decoded": [
+      "自",
+      "家人"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "外人",
+    "ids": [
+      116644
+    ],
+    "tokens": [
+      "å¤ĸäºº"
+    ],
+    "decoded": [
+      "外人"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "圈内人",
+    "ids": [
+      135254,
+      95765
+    ],
+    "tokens": [
+      "åľĪåĨħ",
+      "äºº"
+    ],
+    "decoded": [
+      "圈内",
+      "人"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "圈外人",
+    "ids": [
+      97303,
+      116644
+    ],
+    "tokens": [
+      "åľĪ",
+      "å¤ĸäºº"
+    ],
+    "decoded": [
+      "圈",
+      "外人"
+    ]
+  },
+  {
+    "lang": "zh",
+    "target": "自己人",
+    "ids": [
+      96115,
+      95765
+    ],
+    "tokens": [
+      "èĩªå·±",
+      "äºº"
+    ],
+    "decoded": [
+      "自己",
+      "人"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "circle",
+    "ids": [
+      12307
+    ],
+    "tokens": [
+      "Ġcircle"
+    ],
+    "decoded": [
+      " circle"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "world",
+    "ids": [
+      1814
+    ],
+    "tokens": [
+      "Ġworld"
+    ],
+    "decoded": [
+      " world"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "insider",
+    "ids": [
+      52541
+    ],
+    "tokens": [
+      "Ġinsider"
+    ],
+    "decoded": [
+      " insider"
+    ]
+  },
+  {
+    "lang": "en",
+    "target": "outsider",
+    "ids": [
+      72044
+    ],
+    "tokens": [
+      "Ġoutsider"
+    ],
+    "decoded": [
+      " outsider"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "内",
+    "ids": [
+      95988
+    ],
+    "tokens": [
+      "åĨħ"
+    ],
+    "decoded": [
+      "内"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "外",
+    "ids": [
+      96063
+    ],
+    "tokens": [
+      "å¤ĸ"
+    ],
+    "decoded": [
+      "外"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "里",
+    "ids": [
+      96067
+    ],
+    "tokens": [
+      "éĩĮ"
+    ],
+    "decoded": [
+      "里"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "表",
+    "ids": [
+      96038
+    ],
+    "tokens": [
+      "è¡¨"
+    ],
+    "decoded": [
+      "表"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "内部",
+    "ids": [
+      98866
+    ],
+    "tokens": [
+      "åĨħéĥ¨"
+    ],
+    "decoded": [
+      "内部"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "外部",
+    "ids": [
+      104204
+    ],
+    "tokens": [
+      "å¤ĸéĥ¨"
+    ],
+    "decoded": [
+      "外部"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "宗",
+    "ids": [
+      97524
+    ],
+    "tokens": [
+      "å®Ĺ"
+    ],
+    "decoded": [
+      "宗"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "族",
+    "ids": [
+      96694
+    ],
+    "tokens": [
+      "æĹı"
+    ],
+    "decoded": [
+      "族"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "祠",
+    "ids": [
+      103269
+    ],
+    "tokens": [
+      "ç¥ł"
+    ],
+    "decoded": [
+      "祠"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "姓",
+    "ids": [
+      99268
+    ],
+    "tokens": [
+      "å§ĵ"
+    ],
+    "decoded": [
+      "姓"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "本家",
+    "ids": [
+      95879,
+      95855
+    ],
+    "tokens": [
+      "æľ¬",
+      "å®¶"
+    ],
+    "decoded": [
+      "本",
+      "家"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "娘家",
+    "ids": [
+      129109
+    ],
+    "tokens": [
+      "å¨ĺå®¶"
+    ],
+    "decoded": [
+      "娘家"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "外戚",
+    "ids": [
+      96063,
+      102993
+    ],
+    "tokens": [
+      "å¤ĸ",
+      "æĪļ"
+    ],
+    "decoded": [
+      "外",
+      "戚"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "inner",
+    "ids": [
+      4240
+    ],
+    "tokens": [
+      "inner"
+    ],
+    "decoded": [
+      "inner"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": " inner",
+    "ids": [
+      8906
+    ],
+    "tokens": [
+      "Ġinner"
+    ],
+    "decoded": [
+      " inner"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "outer",
+    "ids": [
+      2589
+    ],
+    "tokens": [
+      "outer"
+    ],
+    "decoded": [
+      "outer"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": " outer",
+    "ids": [
+      15484
+    ],
+    "tokens": [
+      "Ġouter"
+    ],
+    "decoded": [
+      " outer"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "inside",
+    "ids": [
+      39983
+    ],
+    "tokens": [
+      "inside"
+    ],
+    "decoded": [
+      "inside"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": " inside",
+    "ids": [
+      4613
+    ],
+    "tokens": [
+      "Ġinside"
+    ],
+    "decoded": [
+      " inside"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "outside",
+    "ids": [
+      64726
+    ],
+    "tokens": [
+      "outside"
+    ],
+    "decoded": [
+      "outside"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": " outside",
+    "ids": [
+      4732
+    ],
+    "tokens": [
+      "Ġoutside"
+    ],
+    "decoded": [
+      " outside"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "internal",
+    "ids": [
+      10168
+    ],
+    "tokens": [
+      "internal"
+    ],
+    "decoded": [
+      "internal"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": " internal",
+    "ids": [
+      5138
+    ],
+    "tokens": [
+      "Ġinternal"
+    ],
+    "decoded": [
+      " internal"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "external",
+    "ids": [
+      20282
+    ],
+    "tokens": [
+      "external"
+    ],
+    "decoded": [
+      "external"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": " external",
+    "ids": [
+      8976
+    ],
+    "tokens": [
+      "Ġexternal"
+    ],
+    "decoded": [
+      " external"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "domestic",
+    "ids": [
+      5425,
+      9534
+    ],
+    "tokens": [
+      "dom",
+      "estic"
+    ],
+    "decoded": [
+      "dom",
+      "estic"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": " domestic",
+    "ids": [
+      12363
+    ],
+    "tokens": [
+      "Ġdomestic"
+    ],
+    "decoded": [
+      " domestic"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": "foreign",
+    "ids": [
+      27514
+    ],
+    "tokens": [
+      "foreign"
+    ],
+    "decoded": [
+      "foreign"
+    ]
+  },
+  {
+    "lang": "query",
+    "target": " foreign",
+    "ids": [
+      6988
+    ],
+    "tokens": [
+      "Ġforeign"
+    ],
+    "decoded": [
+      " foreign"
+    ]
+  }
+]

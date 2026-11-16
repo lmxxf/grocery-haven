@@ -1,0 +1,252 @@
+HONGLOU 1 8235
+HONGLOU 2 6327
+HONGLOU 4 5979
+HONGLOU 3 9088
+HONGLOU 5 7818
+HONGLOU 6 7499
+HONGLOU 7 7654
+HONGLOU 8 6872
+HONGLOU 11 5946
+HONGLOU 13 5234
+HONGLOU 9 5839
+HONGLOU 10 5171
+HONGLOU 12 4346
+HONGLOU 14 5707
+HONGLOU 15 5128
+HONGLOU 16 7633
+HONGLOU 17 7972
+HONGLOU 19 9275
+HONGLOU 18 8734
+HONGLOU 21 6118
+HONGLOU 20 5395
+HONGLOU 22 7064
+HONGLOU 23 5537
+HONGLOU 26 7387
+HONGLOU 24 8566
+HONGLOU 25 8266
+HONGLOU 29 8683
+HONGLOU 28 9624
+HONGLOU 30 6039
+HONGLOU 27 6490
+HONGLOU 32 5927
+HONGLOU 31 7398
+HONGLOU 33 4904
+HONGLOU 34 7393
+HONGLOU 35 8015
+HONGLOU 36 6840
+HONGLOU 37 9195
+HONGLOU 38 5717
+HONGLOU 39 6487
+HONGLOU 40 9509
+HONGLOU 41 6704
+HONGLOU 42 7643
+HONGLOU 44 6788
+HONGLOU 45 7825
+HONGLOU 43 6786
+HONGLOU 46 8332
+HONGLOU 48 6728
+HONGLOU 49 7551
+HONGLOU 47 7375
+HONGLOU 50 7288
+HONGLOU 53 8226
+HONGLOU 52 8392
+HONGLOU 51 6989
+HONGLOU 54 8846
+HONGLOU 56 8904
+HONGLOU 57 11263
+HONGLOU 58 7089
+HONGLOU 55 8234
+HONGLOU 60 7581
+HONGLOU 59 5103
+HONGLOU 62 11905
+HONGLOU 61 6684
+HONGLOU 63 11213
+HONGLOU 64 10042
+HONGLOU 65 7064
+HONGLOU 68 7515
+HONGLOU 66 5192
+HONGLOU 67 9562
+HONGLOU 69 7341
+HONGLOU 70 6481
+HONGLOU 71 9052
+HONGLOU 72 7610
+HONGLOU 73 7555
+HONGLOU 75 9642
+HONGLOU 74 11210
+HONGLOU 76 7588
+HONGLOU 77 10620
+HONGLOU 80 7107
+HONGLOU 81 6972
+HONGLOU 79 4874
+HONGLOU 78 10851
+HONGLOU 82 8555
+HONGLOU 83 8177
+HONGLOU 85 8109
+HONGLOU 84 7793
+HONGLOU 86 6805
+HONGLOU 87 6729
+HONGLOU 88 6799
+HONGLOU 89 6153
+HONGLOU 90 6291
+HONGLOU 91 5501
+HONGLOU 92 7145
+HONGLOU 93 6594
+HONGLOU 94 8346
+HONGLOU 95 6688
+HONGLOU 96 6819
+HONGLOU 97 9957
+HONGLOU 98 5987
+HONGLOU 100 5716
+HONGLOU 99 6079
+HONGLOU 102 5023
+HONGLOU 101 8043
+HONGLOU 103 6990
+HONGLOU 104 6332
+HONGLOU 105 5517
+HONGLOU 106 5818
+HONGLOU 107 6352
+HONGLOU 108 7129
+HONGLOU 109 9175
+HONGLOU 110 6795
+HONGLOU 111 7373
+HONGLOU 112 7100
+HONGLOU 113 7051
+HONGLOU 114 5066
+HONGLOU 115 7033
+HONGLOU 117 7746
+HONGLOU 116 6949
+HONGLOU 118 7625
+HONGLOU 119 9599
+HONGLOU 120 7876
+DONE 120 errors 0
+
+VERIFY 三国志：删除裴松之small注，目标前不含卑鄙；W2 2369 tokens。
+VERIFY 故宫321期PDF第2页：故宫022688，雍正元年四月初五日，黑字湖广总督奴才杨宗仁，朱改臣，旁书称臣得体，已放大目视核验。原目标左侧只有湖广总督。
+VERIFY 鲁迅灯下漫笔下载正文奴才计数为0，因此不用；漫与、谚语、我谈堕民、上海文艺之一瞥、隔膜有目标原文。
+
+source_fetch2.json
+[
+  {
+    "name": "honglou",
+    "url": "https://www.gutenberg.org/cache/epub/24264/pg24264.txt",
+    "status": 503,
+    "bytes": 683,
+    "chars": 683,
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/honglou.raw",
+    "sha256": "88f089afbba937d11e75734f7bc5f1a59418d2e01e81b54c5758cbc7de764c96"
+  },
+  {
+    "name": "caojia_pdf",
+    "url": "https://pdf.fengshui86.com/wzpdf/9203881.pdf",
+    "status": 200,
+    "bytes": 808627,
+    "chars": 0,
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/caojia_pdf.pdf",
+    "sha256": "82148b657616c84a4577da12977325a45e32b11dcc4545fa150de7d7d50e0b52"
+  },
+  {
+    "name": "yang",
+    "url": "https://www.shidianguji.com/zh/book/SK0845/chapter/1kfb0jjuhbg96",
+    "status": 200,
+    "bytes": 1234819,
+    "chars": 24145,
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/yang.raw",
+    "sha256": "08a9c3425a3330662f08978706e636e9ff9945af07da7240071efb253b03f811"
+  },
+  {
+    "name": "luxun_deng2",
+    "url": "https://zh.wikisource.org/wiki/燈下漫筆",
+    "status": 200,
+    "bytes": 77259,
+    "chars": 0,
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/luxun_deng2.raw",
+    "sha256": "a55f87c7e82fc8bbce9bb0cba726138f41052205172849290fe53a1794634687"
+  },
+  {
+    "name": "luxun_yecao",
+    "url": "https://zh.wikisource.org/zh-hans/野草/聰明人和傻子和奴才",
+    "status": 404,
+    "bytes": 44867,
+    "chars": 246,
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/luxun_yecao.raw",
+    "sha256": "de6c3cf3dad6694109e91440a0871263e068f6b213be1b67fd195656433a8dc7"
+  }
+]
+
+additional_source_manifest.json
+[
+  {
+    "name": "yang_museum",
+    "url": "https://theme.npm.edu.tw/Academic/ChineseArtDownload.ashx?bid=5296&eid=0",
+    "sha256": "1795073ebd4c891a9a2016828dfebd0d9e06862812ee33dc11fe538d8cc683f7",
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/yang_museum.pdf",
+    "bytes": 3524773
+  },
+  {
+    "name": "ertai",
+    "url": "https://www.shidianguji.com/zh/book/CADAL02083189/chapter/1lhgyue10hvzi",
+    "sha256": "a3549a3f301e43b0ddb8b39e140724ebc7abf75f8db63b295e1afa5326c35775",
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/ertai.raw",
+    "bytes": 2176260
+  },
+  {
+    "name": "nian_museum",
+    "url": "https://www.npm.gov.tw/NewChineseArtDownload.ashx?bid=4770",
+    "sha256": "4bcf26c15b34a1ac9e63821bb691f66b402f021c17cad5754e5ac3a2d5fb6835",
+    "path": "/home/lmxxf/work/memory-of-my-gemini/doc/grocery-haven/icalens-v3-exp1b-archaic-nucai-20261116/sources/nian_museum.pdf",
+    "bytes": 3872624
+  }
+]
+
+more_sources_manifest.json
+[
+  {
+    "name": "luxun_yanyu",
+    "title": "諺語",
+    "url": "https://zh.wikisource.org/zh-hans/諺語",
+    "chars": 1282,
+    "nucai": 3,
+    "sha256": "31f0e72ffdd36d75d2f9b20562ae943152da4a55cceb6eab1ab0fa773aa315ec"
+  },
+  {
+    "name": "luxun_manyu",
+    "title": "漫與",
+    "url": "https://zh.wikisource.org/zh-hans/漫與",
+    "chars": 1581,
+    "nucai": 1,
+    "sha256": "6673a5874ac93c92dd42a7fd1612a5ea8a40dd772416c381682c2d4d7b5955cd"
+  },
+  {
+    "name": "luxun_duomin",
+    "title": "我談「墮民」",
+    "url": "https://zh.wikisource.org/zh-hans/我談「墮民」",
+    "chars": 1043,
+    "nucai": 5,
+    "sha256": "767fc4023b89082bebdb3ee47857a486347da53c54596a36c27ed2fb3a039d97"
+  },
+  {
+    "name": "luxun_shanghai",
+    "title": "上海文藝之一瞥",
+    "url": "https://zh.wikisource.org/zh-hans/上海文藝之一瞥",
+    "chars": 11548,
+    "nucai": 1,
+    "sha256": "535b8f971e1d873c082485d3b51bd5a2311e7bda5492b33d5318725aae96731e"
+  },
+  {
+    "name": "luxun_erchou",
+    "title": "二丑藝術",
+    "url": "https://zh.wikisource.org/zh-hans/二丑藝術",
+    "chars": 947,
+    "nucai": 0,
+    "sha256": "27cb958f56064dd422e67fb7fb0a4343cc0940d31c4c15a60447c684683339ed"
+  },
+  {
+    "name": "imperial063",
+    "title": "上諭内閣 (四庫全書本)/卷063",
+    "url": "https://zh.wikisource.org/zh-hans/上諭内閣 (四庫全書本)/卷063",
+    "chars": 10523,
+    "nucai": 1,
+    "sha256": "840d4500ba3c6b2239628877eebbed8694b2172b8e4ce60dba7a43c1e14bd043"
+  }
+]
+VERIFY Ctext两次抓取返回相同的非正文页面，未用于实验；Gutenberg 503，改用已完整下载的维基文库120回。

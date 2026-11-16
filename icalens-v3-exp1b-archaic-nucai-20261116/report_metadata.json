@@ -1,0 +1,101 @@
+{
+  "report_lines": 1772,
+  "wrapper": "W2_shared",
+  "representatives": [
+    {
+      "layer": 16,
+      "axis": 1821,
+      "sign": 1.0,
+      "name": "Moral_Nonliteral",
+      "method": "delta",
+      "band": [
+        10,
+        20
+      ]
+    },
+    {
+      "layer": 30,
+      "axis": 846,
+      "sign": 1.0,
+      "name": "Moral_Nonliteral",
+      "method": "delta",
+      "band": [
+        24,
+        48
+      ]
+    },
+    {
+      "layer": 18,
+      "axis": 1376,
+      "sign": 1.0,
+      "name": "R1_Humiliation",
+      "method": "delta",
+      "band": [
+        10,
+        20
+      ]
+    },
+    {
+      "layer": 31,
+      "axis": 1053,
+      "sign": 1.0,
+      "name": "R1_Humiliation",
+      "method": "delta",
+      "band": [
+        24,
+        48
+      ]
+    },
+    {
+      "layer": 18,
+      "axis": 1816,
+      "sign": 1.0,
+      "name": "R2_Court",
+      "method": "delta",
+      "band": [
+        10,
+        20
+      ]
+    },
+    {
+      "layer": 41,
+      "axis": 3492,
+      "sign": 1.0,
+      "name": "R2_Court",
+      "method": "delta",
+      "band": [
+        24,
+        48
+      ]
+    },
+    {
+      "layer": 34,
+      "axis": 2084,
+      "sign": 1.0,
+      "name": "Status_Humble",
+      "method": "delta"
+    },
+    {
+      "layer": 45,
+      "axis": 1194,
+      "sign": 1.0,
+      "name": "court_vs_modern",
+      "method": "internal"
+    },
+    {
+      "layer": 48,
+      "axis": 335,
+      "sign": -1.0,
+      "name": "insult_vs_routine_HLM",
+      "method": "internal"
+    },
+    {
+      "layer": 45,
+      "axis": 1564,
+      "sign": 1.0,
+      "name": "R1_Humiliation",
+      "method": "delta",
+      "selection_note": "Additional same-layer check with L45 court axis; descriptive after inspecting full curves"
+    }
+  ]
+}

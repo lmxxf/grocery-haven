@@ -1,0 +1,386 @@
+[
+  {
+    "group": "Mod_Moral_Beibi",
+    "a": 0,
+    "b": 1,
+    "frame": 0,
+    "cluster": "卑鄙/坦荡",
+    "split": "fit"
+  },
+  {
+    "group": "Mod_Moral_Beibi",
+    "a": 2,
+    "b": 3,
+    "frame": 1,
+    "cluster": "卑鄙/正直",
+    "split": "fit"
+  },
+  {
+    "group": "Mod_Moral_Beibi",
+    "a": 4,
+    "b": 5,
+    "frame": 2,
+    "cluster": "卑鄙/磊落",
+    "split": "fit"
+  },
+  {
+    "group": "Mod_Moral_Beibi",
+    "a": 6,
+    "b": 7,
+    "frame": 3,
+    "cluster": "卑鄙/高尚",
+    "split": "fit"
+  },
+  {
+    "group": "Mod_Moral_Beibi",
+    "a": 8,
+    "b": 9,
+    "frame": 4,
+    "cluster": "卑鄙/坦荡",
+    "split": "fit"
+  },
+  {
+    "group": "Mod_Moral_Beibi",
+    "a": 10,
+    "b": 11,
+    "frame": 5,
+    "cluster": "卑鄙/正直",
+    "split": "fit"
+  },
+  {
+    "group": "Mod_Moral_Beibi",
+    "a": 12,
+    "b": 13,
+    "frame": 6,
+    "cluster": "卑鄙/磊落",
+    "split": "fit"
+  },
+  {
+    "group": "Mod_Moral_Beibi",
+    "a": 14,
+    "b": 15,
+    "frame": 7,
+    "cluster": "卑鄙/高尚",
+    "split": "fit"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 16,
+    "b": 17,
+    "frame": 0,
+    "cluster": "无耻/高尚",
+    "split": "fit"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 18,
+    "b": 3,
+    "frame": 1,
+    "cluster": "下流/正直",
+    "split": "fit"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 19,
+    "b": 20,
+    "frame": 2,
+    "cluster": "阴险/坦荡",
+    "split": "fit"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 21,
+    "b": 22,
+    "frame": 3,
+    "cluster": "龌龊/磊落",
+    "split": "fit"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 23,
+    "b": 24,
+    "frame": 4,
+    "cluster": "恶毒/善良",
+    "split": "fit"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 25,
+    "b": 26,
+    "frame": 5,
+    "cluster": "卑劣/高洁",
+    "split": "fit"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 27,
+    "b": 28,
+    "frame": 6,
+    "cluster": "奸诈/诚实",
+    "split": "fit"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 29,
+    "b": 30,
+    "frame": 7,
+    "cluster": "虚伪/真诚",
+    "split": "fit"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 31,
+    "b": 32,
+    "frame": 8,
+    "cluster": "恶劣/优良",
+    "split": "heldout"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 33,
+    "b": 34,
+    "frame": 9,
+    "cluster": "歹毒/仁厚",
+    "split": "heldout"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 35,
+    "b": 36,
+    "frame": 10,
+    "cluster": "厚颜无耻/光明磊落",
+    "split": "heldout"
+  },
+  {
+    "group": "Moral_Nonliteral",
+    "a": 37,
+    "b": 38,
+    "frame": 11,
+    "cluster": "损人利己/公正无私",
+    "split": "heldout"
+  },
+  {
+    "group": "Status_Humble",
+    "a": 39,
+    "b": 40,
+    "frame": 0,
+    "cluster": "出身微贱/出身显贵",
+    "split": "fit"
+  },
+  {
+    "group": "Status_Humble",
+    "a": 41,
+    "b": 42,
+    "frame": 1,
+    "cluster": "布衣寒门/豪门望族",
+    "split": "fit"
+  },
+  {
+    "group": "Status_Humble",
+    "a": 43,
+    "b": 44,
+    "frame": 2,
+    "cluster": "地位卑微/位高权重",
+    "split": "fit"
+  },
+  {
+    "group": "Status_Humble",
+    "a": 45,
+    "b": 46,
+    "frame": 3,
+    "cluster": "寒门小户/高门大族",
+    "split": "fit"
+  },
+  {
+    "group": "Status_Humble",
+    "a": 47,
+    "b": 48,
+    "frame": 4,
+    "cluster": "平民百姓/王公贵族",
+    "split": "fit"
+  },
+  {
+    "group": "Status_Humble",
+    "a": 49,
+    "b": 50,
+    "frame": 5,
+    "cluster": "身份低微/身份尊贵",
+    "split": "fit"
+  },
+  {
+    "group": "Status_Humble",
+    "a": 51,
+    "b": 52,
+    "frame": 6,
+    "cluster": "贫寒人家/富贵之家",
+    "split": "fit"
+  },
+  {
+    "group": "Status_Humble",
+    "a": 53,
+    "b": 54,
+    "frame": 7,
+    "cluster": "草民布衣/达官显宦",
+    "split": "fit"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 55,
+    "b": 56,
+    "frame": 0,
+    "cluster": "谄媚/不卑不亢",
+    "split": "fit"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 57,
+    "b": 58,
+    "frame": 1,
+    "cluster": "摇尾乞怜/铮铮铁骨",
+    "split": "fit"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 59,
+    "b": 60,
+    "frame": 2,
+    "cluster": "卑躬屈膝/堂堂正正",
+    "split": "fit"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 61,
+    "b": 62,
+    "frame": 3,
+    "cluster": "走狗/志士",
+    "split": "fit"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 63,
+    "b": 64,
+    "frame": 4,
+    "cluster": "舔狗/君子",
+    "split": "fit"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 65,
+    "b": 66,
+    "frame": 5,
+    "cluster": "下贱/尊严",
+    "split": "fit"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 67,
+    "b": 68,
+    "frame": 6,
+    "cluster": "阿谀奉承/刚正不阿",
+    "split": "fit"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 69,
+    "b": 70,
+    "frame": 7,
+    "cluster": "奴颜婢膝/昂首挺胸",
+    "split": "fit"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 71,
+    "b": 72,
+    "frame": 8,
+    "cluster": "低声下气/理直气壮",
+    "split": "heldout"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 73,
+    "b": 74,
+    "frame": 9,
+    "cluster": "趋炎附势/坚持原则",
+    "split": "heldout"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 75,
+    "b": 76,
+    "frame": 10,
+    "cluster": "屈膝求荣/自尊自立",
+    "split": "heldout"
+  },
+  {
+    "group": "R1_Humiliation",
+    "a": 77,
+    "b": 78,
+    "frame": 11,
+    "cluster": "奴性十足/有骨气",
+    "split": "heldout"
+  },
+  {
+    "group": "R2_Court",
+    "a": 79,
+    "b": 80,
+    "frame": 0,
+    "cluster": "微臣/邻居",
+    "split": "fit"
+  },
+  {
+    "group": "R2_Court",
+    "a": 81,
+    "b": 82,
+    "frame": 1,
+    "cluster": "臣等/我们",
+    "split": "fit"
+  },
+  {
+    "group": "R2_Court",
+    "a": 83,
+    "b": 84,
+    "frame": 2,
+    "cluster": "叩首/问候",
+    "split": "fit"
+  },
+  {
+    "group": "R2_Court",
+    "a": 85,
+    "b": 86,
+    "frame": 3,
+    "cluster": "圣安/平安",
+    "split": "fit"
+  },
+  {
+    "group": "R2_Court",
+    "a": 87,
+    "b": 88,
+    "frame": 4,
+    "cluster": "陛下/先生",
+    "split": "fit"
+  },
+  {
+    "group": "R2_Court",
+    "a": 89,
+    "b": 90,
+    "frame": 5,
+    "cluster": "奉旨/约定",
+    "split": "fit"
+  },
+  {
+    "group": "R2_Court",
+    "a": 91,
+    "b": 92,
+    "frame": 6,
+    "cluster": "奏折/家书",
+    "split": "fit"
+  },
+  {
+    "group": "R2_Court",
+    "a": 93,
+    "b": 94,
+    "frame": 7,
+    "cluster": "谢恩/道谢",
+    "split": "fit"
+  }
+]

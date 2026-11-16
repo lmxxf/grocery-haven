@@ -1,0 +1,31 @@
+{
+  "all_scores_finite": true,
+  "projection_checks": [
+    {
+      "layer": 0,
+      "cpu_gpu_projection_max_abs_error": 1.9073486328125e-05
+    },
+    {
+      "layer": 16,
+      "cpu_gpu_projection_max_abs_error": 1.0251998901367188e-05
+    },
+    {
+      "layer": 32,
+      "cpu_gpu_projection_max_abs_error": 7.033348083496094e-06
+    },
+    {
+      "layer": 48,
+      "cpu_gpu_projection_max_abs_error": 7.62939453125e-06
+    },
+    {
+      "layer": 63,
+      "cpu_gpu_projection_max_abs_error": 1.3232231140136719e-05
+    }
+  ],
+  "probe_count": 439,
+  "probe_sha256": "f7a9d354acef04a428b0a40b155945986d51fa5768e2321b5485d33b5f1fbe92",
+  "causal_target_last": true,
+  "analysis_seconds": 59.30479550361633,
+  "full_data": "/home/lmxxf/work/ica-lens-qwen38-27b-v3/experiments/exp1b_archaic_nucai/all_layers_full.json",
+  "summary": "/home/lmxxf/work/ica-lens-qwen38-27b-v3/experiments/exp1b_archaic_nucai/layers_summary.json"
+}

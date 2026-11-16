@@ -56,3 +56,12 @@ wechat-369-icalens/polysemy_summary.json
 wechat-369-icalens/dual_dream/analysis_summary.json
 wechat-369-icalens/dual_dream/analysis_layers/
 wechat-369-icalens/dual_dream/analysis_layers_high_initial/
+
+# icalens-v3 experiments (keep lightweight scripts/logs/reports; ignore heavy .npy & >10MB raw dumps)
+icalens-v3-exp*/**/*.npy
+icalens-v3-exp*/**/*.npz
+icalens-v3-exp*/**/results_all_layers.json
+icalens-v3-exp*/**/top3_joint_statistics.json
+icalens-v3-exp1b-archaic-nucai-20261116/sources/*.pdf
+icalens-v3-exp1b-archaic-nucai-20261116/sources/*.raw
+icalens-v3-exp1b-archaic-nucai-20261116/sources/honglou/

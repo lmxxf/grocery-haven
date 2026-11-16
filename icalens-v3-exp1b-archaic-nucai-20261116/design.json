@@ -1,0 +1,26 @@
+{
+  "n_probes": 439,
+  "n_pairs": 48,
+  "n_samples": 328,
+  "heavy_directory": "/home/lmxxf/work/ica-lens-qwen38-27b-v3/experiments/exp1b_archaic_nucai",
+  "english_intro_words": 345,
+  "target_counts": {
+    "A1": 10,
+    "A1_translation_audit": 1,
+    "A2": 10,
+    "B": 10,
+    "B_imperial": 1,
+    "C": 10
+  },
+  "wrapper_tokens": {
+    "W0": 4,
+    "W1": 395,
+    "W2": 2369,
+    "W3a": 419,
+    "W3b": 810
+  },
+  "causal_policy": "Every probe ends at target; all wrapped text precedes target; right context saved for audit only, never forwarded; no BOS/templates",
+  "sha256": "f7a9d354acef04a428b0a40b155945986d51fa5768e2321b5485d33b5f1fbe92",
+  "sha256_before_navigation_cleanup": "db1b7342a9e5557229ca069e79de8a072873ef0a97ce9b523c27938f45061b9b",
+  "source_navigation_removed": true
+}
