@@ -1,7 +1,131 @@
 {
-  "all_scores_finite": true,
   "all_64_layers": true,
-  "EN_C_same_token_bag": true,
-  "EN_A_C_same_target_ids": true,
-  "scipy_paired_t_abs_error": 7.105427357601002e-15
+  "all_scores_finite": true,
+  "blood_symmetric_S1": [
+    [
+      "伯父",
+      "大舅"
+    ],
+    [
+      "叔叔",
+      "舅舅"
+    ],
+    [
+      "姑姑",
+      "姨妈"
+    ],
+    [
+      "堂哥",
+      "表哥"
+    ],
+    [
+      "堂姐",
+      "表姐"
+    ],
+    [
+      "堂弟",
+      "表弟"
+    ]
+  ],
+  "blood_symmetric_S2": [
+    [
+      "伯父",
+      "大舅"
+    ],
+    [
+      "叔叔",
+      "舅舅"
+    ],
+    [
+      "姑姑",
+      "姨妈"
+    ]
+  ],
+  "all_holdout_groups_identical": true,
+  "EN_C_same_token_bags": true,
+  "matching_old_probe_count": 255,
+  "unchanged_probe_z_max_abs_by_layer": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "public_transform_checks": [
+    {
+      "layer": 0,
+      "max_abs_error": 1.9073486328125e-05
+    },
+    {
+      "layer": 13,
+      "max_abs_error": 4.291534423828125e-06
+    },
+    {
+      "layer": 32,
+      "max_abs_error": 4.76837158203125e-06
+    },
+    {
+      "layer": 63,
+      "max_abs_error": 5.245208740234375e-06
+    }
+  ]
 }

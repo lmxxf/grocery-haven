@@ -1,5 +1,12 @@
 [
   {
+    "layer": 13,
+    "selector": "S2",
+    "method": "delta",
+    "axis": 1540,
+    "sign": -1.0
+  },
+  {
     "layer": 25,
     "selector": "S2",
     "method": "delta",
@@ -14,10 +21,17 @@
     "sign": -1.0
   },
   {
-    "layer": 31,
+    "layer": 37,
     "selector": "S2",
-    "method": "t",
-    "axis": 1551,
-    "sign": 1.0
+    "method": "delta",
+    "axis": 1374,
+    "sign": -1.0
+  },
+  {
+    "layer": 42,
+    "selector": "S2",
+    "method": "delta",
+    "axis": 3872,
+    "sign": -1.0
   }
 ]

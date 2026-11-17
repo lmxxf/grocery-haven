@@ -1,15 +1,53 @@
 {
-  "finished": "2026-11-16 22:11:14 +0800",
-  "seconds": 140.28144359588623,
-  "probes": 265,
+  "finished": "2026-11-17 18:23:49 +0800",
+  "seconds": 143.08495140075684,
+  "probes": 260,
   "pair_records": 205,
   "model_loads": 1,
   "projection": "FP32 highest; rowL2 -> subtract center -> reading.T",
   "torch": "2.14.1+cu130",
   "seed": "deterministic inference; no sampling",
-  "probe_sha256": "acb73e35d41ef45f41779157ecbf2447cfe0c65f3392f44bfca8755e9824ce8f",
-  "failed_startups": 1,
-  "full_model_loads_including_failed_startup": 2,
-  "successful_forward_model_loads": 1,
-  "supplemental_readout": "norm and unembedding weights only; zero probe forwards"
+  "probe_sha256": "311d9b6a18348189fc5ac2c2be3c2d4809f58a285edce32a5dde60243e7ba70f",
+  "selection_version": "blood_symmetric_20261117",
+  "S1": [
+    [
+      "伯父",
+      "大舅"
+    ],
+    [
+      "叔叔",
+      "舅舅"
+    ],
+    [
+      "姑姑",
+      "姨妈"
+    ],
+    [
+      "堂哥",
+      "表哥"
+    ],
+    [
+      "堂姐",
+      "表姐"
+    ],
+    [
+      "堂弟",
+      "表弟"
+    ]
+  ],
+  "S2": [
+    [
+      "伯父",
+      "大舅"
+    ],
+    [
+      "叔叔",
+      "舅舅"
+    ],
+    [
+      "姑姑",
+      "姨妈"
+    ]
+  ],
+  "heavy_directory": "/home/lmxxf/work/ica-lens-qwen38-27b-v3/experiments/exp1a_kinship"
 }

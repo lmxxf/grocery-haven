@@ -1,0 +1,56 @@
+{
+  "H1": {
+    "before": "8124be12085ae66a9062b44503c90f0b9a8ef158775f68de24bc2850d91390b7",
+    "after": "8124be12085ae66a9062b44503c90f0b9a8ef158775f68de24bc2850d91390b7",
+    "identical": true,
+    "n_pairs": 40
+  },
+  "no_outer": {
+    "before": "b6b53f61c31fcb6d35b59ab45783c91e12991d67a520be81e549a28a9fde24b0",
+    "after": "b6b53f61c31fcb6d35b59ab45783c91e12991d67a520be81e549a28a9fde24b0",
+    "identical": true,
+    "n_pairs": 10
+  },
+  "cousins": {
+    "before": "f083c9cc4839a9f0f1183cb5e7ef156bfe46bc6f09509db18a9c2e67eddd3615",
+    "after": "f083c9cc4839a9f0f1183cb5e7ef156bfe46bc6f09509db18a9c2e67eddd3615",
+    "identical": true,
+    "n_pairs": 20
+  },
+  "outer": {
+    "before": "ee21618ae06c77d479f36f5fe48a1386bcd7414d5cfca80c1aa79ccafc74d8a3",
+    "after": "ee21618ae06c77d479f36f5fe48a1386bcd7414d5cfca80c1aa79ccafc74d8a3",
+    "identical": true,
+    "n_pairs": 30
+  },
+  "EN_A": {
+    "before": "d248a604d254139fc48185d65d5279b2f12ed03a9537ebc6740c6decf39d4b24",
+    "after": "d248a604d254139fc48185d65d5279b2f12ed03a9537ebc6740c6decf39d4b24",
+    "identical": true,
+    "n_pairs": 25
+  },
+  "EN_B": {
+    "before": "ba8c98286984bd8035fa652ed77acdcb301d951c63c92772163ba82a0a96200b",
+    "after": "ba8c98286984bd8035fa652ed77acdcb301d951c63c92772163ba82a0a96200b",
+    "identical": true,
+    "n_pairs": 10
+  },
+  "EN_C": {
+    "before": "da63ee59488b78459ac4d33a6cb8b0ff17f2808ad77a59e95a845c4494869b4f",
+    "after": "da63ee59488b78459ac4d33a6cb8b0ff17f2808ad77a59e95a845c4494869b4f",
+    "identical": true,
+    "n_pairs": 15
+  },
+  "physical": {
+    "before": "4f5c1392e32e27b1516cb58f44d01712b6fb21df0e9061a5156895dce85feaf2",
+    "after": "4f5c1392e32e27b1516cb58f44d01712b6fb21df0e9061a5156895dce85feaf2",
+    "identical": true,
+    "n_pairs": 5
+  },
+  "social": {
+    "before": "2fd021aff6e2420523f4e251f9b8c912431ddbf86ecd7b1e765882ed20f79451",
+    "after": "2fd021aff6e2420523f4e251f9b8c912431ddbf86ecd7b1e765882ed20f79451",
+    "identical": true,
+    "n_pairs": 5
+  }
+}

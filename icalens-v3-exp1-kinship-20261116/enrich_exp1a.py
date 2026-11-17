@@ -4,10 +4,11 @@ import json,sys,itertools
 import numpy as np
 ROOT=Path(__file__).resolve().parent
 sys.path.insert(0,str(ROOT));import run_exp1a as e
+HEAVY=e.HEAVY
 
 def run():
- results=e.load(ROOT/'results_all_layers.json');pairs=e.load(ROOT/'pairs.json');groups=e.load(ROOT/'groups.json');probes=e.load(ROOT/'probes.json')
- z=np.load(ROOT/'z_last.npy',mmap_mode='r');zm=np.load(ROOT/'z_mean.npy',mmap_mode='r')
+ results=e.load(HEAVY/'results_all_layers.json');pairs=e.load(ROOT/'pairs.json');groups=e.load(ROOT/'groups.json');probes=e.load(ROOT/'probes.json')
+ z=np.load(HEAVY/'z_last.npy',mmap_mode='r');zm=np.load(HEAVY/'z_mean.npy',mmap_mode='r')
  from collections import Counter
  checks={'all_scores_finite':bool(np.isfinite(z).all() and np.isfinite(zm).all()),'all_64_layers':len(results)==64,'EN_C_same_token_bag':all(Counter(probes[p['a']]['input_ids'])==Counter(probes[p['b']]['input_ids']) for p in pairs if p['group']=='EN_C'),'EN_A_C_same_target_ids':all(probes[p['a']]['target_ids']==probes[p['b']]['target_ids'] for p in pairs if p['group'] in ['EN_A','EN_C'])}
  # Independently compare paired-t calculations against scipy on one stored axis.
@@ -36,7 +37,7 @@ def run():
   held=['H1'] if row['selector']=='S1' else ['no_outer','cousins','outer']
   seq=lambda g:'→'.join(e.acc(row['joint'][str(k)][g]) for k in [1,2,3])
   lines.append('|'+str(row['layer'])+'|'+row['selector']+'/'+row['method']+'|'+','.join(map(str,row['axes']))+'|'+ '; '.join(g+':'+seq(g) for g in held)+'|'+seq('EN_A')+'|'+seq('EN_C')+'|'+','.join(e.fmt(v['fit_q_BH_5120']) for v in row['top_axes_evidence'][1:])+'|'+','.join(str(v['fit_cluster_p']) for v in row['top_axes_evidence'][1:])+'|')
- lines+=['','## 输出核验','',json.dumps(checks,ensure_ascii=False),'','启动记录：第一次加载后首条前向因默认 Triton 缓存权限退出，未完成任何探针；改用原 v3 `triton_cache` 后重新启动。全部265条探针与代表轴 J-Lens 在第二个进程的一次模型加载中完成；统计补充没有加载模型。失败日志保留在 `startup_cache_error.log`。']
+ lines+=['','## 输出核验','',json.dumps(checks,ensure_ascii=False),'','本次为2026-11-17血缘对称重跑。全部探针及固定五层读出在一次完整模型加载中完成；旧污染选轴数据已保留于重数据history目录。']
  p=ROOT/'report_exp1a.md';text=p.read_text().split('<!-- joint-analysis -->')[0];p.write_text(text+'\n'+'\n'.join(lines)+'\n')
  print(json.dumps(checks,ensure_ascii=False))
 if __name__=='__main__':run()

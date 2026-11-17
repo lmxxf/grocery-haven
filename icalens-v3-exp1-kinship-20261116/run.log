@@ -1,7 +1,7 @@
 TOKEN {"lang": "zh", "target": "伯父", "ids": [98213, 97391], "tokens": ["ä¼¯", "çĪ¶"], "decoded": ["伯", "父"]}
+TOKEN {"lang": "zh", "target": "大舅", "ids": [95779, 101397], "tokens": ["å¤§", "èĪħ"], "decoded": ["大", "舅"]}
+TOKEN {"lang": "zh", "target": "叔叔", "ids": [110811], "tokens": ["åıĶåıĶ"], "decoded": ["叔叔"]}
 TOKEN {"lang": "zh", "target": "舅舅", "ids": [121028], "tokens": ["èĪħèĪħ"], "decoded": ["舅舅"]}
-TOKEN {"lang": "zh", "target": "叔父", "ids": [100229, 97391], "tokens": ["åıĶ", "çĪ¶"], "decoded": ["叔", "父"]}
-TOKEN {"lang": "zh", "target": "姨夫", "ids": [100339, 97003], "tokens": ["å§¨", "å¤«"], "decoded": ["姨", "夫"]}
 TOKEN {"lang": "zh", "target": "姑姑", "ids": [123932], "tokens": ["å§ĳå§ĳ"], "decoded": ["姑姑"]}
 TOKEN {"lang": "zh", "target": "姨妈", "ids": [132976], "tokens": ["å§¨å¦Ī"], "decoded": ["姨妈"]}
 TOKEN {"lang": "zh", "target": "堂哥", "ids": [97131, 97459], "tokens": ["åłĤ", "åĵ¥"], "decoded": ["堂", "哥"]}
@@ -10,7 +10,6 @@ TOKEN {"lang": "zh", "target": "堂姐", "ids": [97131, 97730], "tokens": ["åł
 TOKEN {"lang": "zh", "target": "表姐", "ids": [137748], "tokens": ["è¡¨å§Ĳ"], "decoded": ["表姐"]}
 TOKEN {"lang": "zh", "target": "堂弟", "ids": [97131, 97737], "tokens": ["åłĤ", "å¼Ł"], "decoded": ["堂", "弟"]}
 TOKEN {"lang": "zh", "target": "表弟", "ids": [146285], "tokens": ["è¡¨å¼Ł"], "decoded": ["表弟"]}
-TOKEN {"lang": "zh", "target": "叔叔", "ids": [110811], "tokens": ["åıĶåıĶ"], "decoded": ["叔叔"]}
 TOKEN {"lang": "zh", "target": "爷爷", "ids": [102016], "tokens": ["çĪ·çĪ·"], "decoded": ["爷爷"]}
 TOKEN {"lang": "zh", "target": "姥爷", "ids": [138309], "tokens": ["å§¥çĪ·"], "decoded": ["姥爷"]}
 TOKEN {"lang": "zh", "target": "外公", "ids": [121325], "tokens": ["å¤ĸåħ¬"], "decoded": ["外公"]}
@@ -99,101 +98,100 @@ TOKEN {"lang": "query", "target": "domestic", "ids": [5425, 9534], "tokens": ["d
 TOKEN {"lang": "query", "target": " domestic", "ids": [12363], "tokens": ["Ġdomestic"], "decoded": [" domestic"]}
 TOKEN {"lang": "query", "target": "foreign", "ids": [27514], "tokens": ["foreign"], "decoded": ["foreign"]}
 TOKEN {"lang": "query", "target": " foreign", "ids": [6988], "tokens": ["Ġforeign"], "decoded": [" foreign"]}
-LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '119839636 kB', 'SwapFree': '12438160 kB'}
-LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '110230864 kB', 'SwapFree': '12438160 kB'}
-LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '109192816 kB', 'SwapFree': '12438160 kB'}
-LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '108436160 kB', 'SwapFree': '12438160 kB'}
-LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '107695268 kB', 'SwapFree': '12438160 kB'}
-LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106882604 kB', 'SwapFree': '12438160 kB'}
-LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106121304 kB', 'SwapFree': '12438160 kB'}
-LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105377668 kB', 'SwapFree': '12438160 kB'}
-LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104619176 kB', 'SwapFree': '12438160 kB'}
-LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103874436 kB', 'SwapFree': '12438160 kB'}
-LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103116680 kB', 'SwapFree': '12438168 kB'}
-LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102357140 kB', 'SwapFree': '12438172 kB'}
-LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101586376 kB', 'SwapFree': '12438176 kB'}
-LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100856948 kB', 'SwapFree': '12438180 kB'}
-LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100104740 kB', 'SwapFree': '12438180 kB'}
-LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99357644 kB', 'SwapFree': '12438180 kB'}
-LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98595448 kB', 'SwapFree': '12438180 kB'}
-LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97853732 kB', 'SwapFree': '12438180 kB'}
-LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97104612 kB', 'SwapFree': '12438180 kB'}
-LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96338624 kB', 'SwapFree': '12438180 kB'}
-LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95581176 kB', 'SwapFree': '12438180 kB'}
-LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94834556 kB', 'SwapFree': '12438180 kB'}
-LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94072748 kB', 'SwapFree': '12438180 kB'}
-LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93316576 kB', 'SwapFree': '12438180 kB'}
-LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92562560 kB', 'SwapFree': '12438200 kB'}
-LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91816680 kB', 'SwapFree': '12438200 kB'}
-LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91052760 kB', 'SwapFree': '12438200 kB'}
-LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90291320 kB', 'SwapFree': '12438200 kB'}
-LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89535436 kB', 'SwapFree': '12438200 kB'}
-LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88792700 kB', 'SwapFree': '12438200 kB'}
-LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88024600 kB', 'SwapFree': '12438200 kB'}
-LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87265436 kB', 'SwapFree': '12438200 kB'}
-LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86505948 kB', 'SwapFree': '12438204 kB'}
-LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85754996 kB', 'SwapFree': '12438204 kB'}
-LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84990124 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84229800 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83470668 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82718832 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81959948 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81199084 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80442812 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79697408 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78935164 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78176696 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77417148 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76668304 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75907636 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75148548 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74389548 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73638072 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72880068 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72131448 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71369232 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70599276 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69840116 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69080604 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68303124 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67581628 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66817912 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66063524 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65307752 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64548272 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63790496 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63030020 kB', 'SwapFree': '12438216 kB'}
-LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62270240 kB', 'SwapFree': '12438216 kB'}
-MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '61507580 kB', 'SwapFree': '12438216 kB'}
+LOAD outside.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '117928424 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-0.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '108455540 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-1.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '107404196 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-2.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '106662584 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-3.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105914168 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-4.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '105091652 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-5.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '104330924 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-6.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '103574088 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-7.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102819400 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-8.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '102084048 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-9.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '101321880 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-10.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '100563204 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-11.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99801776 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-12.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '99060900 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-13.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '98301340 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-14.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '97542504 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-15.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96780008 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-16.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '96037836 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-17.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '95278892 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-18.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '94515768 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-19.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93756260 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-20.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '93009740 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-21.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '92248404 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-22.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '91489872 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-23.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '90730056 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-24.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89985428 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-25.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '89225788 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-26.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '88464664 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-27.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '87705056 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-28.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86962592 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-29.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '86202540 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-30.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '85443148 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-31.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '84684308 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-32.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83942856 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-33.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '83182008 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-34.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '82422848 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-35.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '81661188 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-36.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80917652 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-37.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '80157412 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-38.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '79396416 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-39.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '78640216 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-40.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77895100 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-41.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '77130916 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-42.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '76370108 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-43.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '75607836 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-44.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74861136 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-45.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '74106524 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-46.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '73343624 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-47.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '72585560 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-48.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71837844 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-49.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '71080732 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-50.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '70323476 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-51.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '69563548 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-52.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68819692 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-53.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '68058828 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-54.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '67298492 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-55.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '66538988 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-56.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65795472 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-57.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '65032928 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-58.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '64272812 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-59.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '63515124 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-60.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62768820 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-61.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '62007248 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-62.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '61249440 kB', 'SwapFree': '15901552 kB'}
+LOAD layers-63.safetensors {'MemTotal': '127601164 kB', 'MemAvailable': '60488916 kB', 'SwapFree': '15901552 kB'}
+MODEL_READY Qwen3.8-27B-FP8 53794147328 {'MemTotal': '127601164 kB', 'MemAvailable': '59745100 kB', 'SwapFree': '15901552 kB'}
 [transformers] `causal_conv1d_fn` is falling back to its reference PyTorch implementation because `causal_conv1d` is not installed. This is correct but much slower; install `causal_conv1d` for the optimized kernel.
-FORWARD {'stage': 'forward', 'done': 1, 'total': 265, 'seconds': 45.53935098648071}
-FORWARD {'stage': 'forward', 'done': 11, 'total': 265, 'seconds': 48.049166202545166}
-FORWARD {'stage': 'forward', 'done': 21, 'total': 265, 'seconds': 50.53121829032898}
-FORWARD {'stage': 'forward', 'done': 31, 'total': 265, 'seconds': 52.99621105194092}
-FORWARD {'stage': 'forward', 'done': 41, 'total': 265, 'seconds': 55.46639037132263}
-FORWARD {'stage': 'forward', 'done': 51, 'total': 265, 'seconds': 57.95051431655884}
-FORWARD {'stage': 'forward', 'done': 61, 'total': 265, 'seconds': 60.42364430427551}
-FORWARD {'stage': 'forward', 'done': 71, 'total': 265, 'seconds': 62.90912199020386}
-FORWARD {'stage': 'forward', 'done': 81, 'total': 265, 'seconds': 65.36888146400452}
-FORWARD {'stage': 'forward', 'done': 91, 'total': 265, 'seconds': 67.83619999885559}
-FORWARD {'stage': 'forward', 'done': 101, 'total': 265, 'seconds': 70.31829118728638}
-FORWARD {'stage': 'forward', 'done': 111, 'total': 265, 'seconds': 72.793692111969}
-FORWARD {'stage': 'forward', 'done': 121, 'total': 265, 'seconds': 75.27194619178772}
-FORWARD {'stage': 'forward', 'done': 131, 'total': 265, 'seconds': 78.4795310497284}
-FORWARD {'stage': 'forward', 'done': 141, 'total': 265, 'seconds': 80.95561838150024}
-FORWARD {'stage': 'forward', 'done': 151, 'total': 265, 'seconds': 83.45846390724182}
-FORWARD {'stage': 'forward', 'done': 161, 'total': 265, 'seconds': 85.97426509857178}
-FORWARD {'stage': 'forward', 'done': 171, 'total': 265, 'seconds': 88.50153279304504}
-FORWARD {'stage': 'forward', 'done': 181, 'total': 265, 'seconds': 91.0191957950592}
-FORWARD {'stage': 'forward', 'done': 191, 'total': 265, 'seconds': 93.54837560653687}
-FORWARD {'stage': 'forward', 'done': 201, 'total': 265, 'seconds': 95.9922387599945}
-FORWARD {'stage': 'forward', 'done': 211, 'total': 265, 'seconds': 98.40185785293579}
-FORWARD {'stage': 'forward', 'done': 221, 'total': 265, 'seconds': 100.97366619110107}
-FORWARD {'stage': 'forward', 'done': 231, 'total': 265, 'seconds': 103.6460268497467}
-FORWARD {'stage': 'forward', 'done': 241, 'total': 265, 'seconds': 106.3423912525177}
-FORWARD {'stage': 'forward', 'done': 251, 'total': 265, 'seconds': 108.88268756866455}
-FORWARD {'stage': 'forward', 'done': 261, 'total': 265, 'seconds': 112.03652429580688}
-FORWARD {'stage': 'forward', 'done': 265, 'total': 265, 'seconds': 112.99426031112671}
+FORWARD {'stage': 'forward', 'done': 1, 'total': 260, 'seconds': 45.2005729675293}
+FORWARD {'stage': 'forward', 'done': 11, 'total': 260, 'seconds': 47.69101285934448}
+FORWARD {'stage': 'forward', 'done': 21, 'total': 260, 'seconds': 50.2533483505249}
+FORWARD {'stage': 'forward', 'done': 31, 'total': 260, 'seconds': 52.719099044799805}
+FORWARD {'stage': 'forward', 'done': 41, 'total': 260, 'seconds': 55.192837715148926}
+FORWARD {'stage': 'forward', 'done': 51, 'total': 260, 'seconds': 57.655428647994995}
+FORWARD {'stage': 'forward', 'done': 61, 'total': 260, 'seconds': 60.126399755477905}
+FORWARD {'stage': 'forward', 'done': 71, 'total': 260, 'seconds': 62.5887393951416}
+FORWARD {'stage': 'forward', 'done': 81, 'total': 260, 'seconds': 65.06782174110413}
+FORWARD {'stage': 'forward', 'done': 91, 'total': 260, 'seconds': 67.5204164981842}
+FORWARD {'stage': 'forward', 'done': 101, 'total': 260, 'seconds': 69.99346113204956}
+FORWARD {'stage': 'forward', 'done': 111, 'total': 260, 'seconds': 72.46287417411804}
+FORWARD {'stage': 'forward', 'done': 121, 'total': 260, 'seconds': 74.93549704551697}
+FORWARD {'stage': 'forward', 'done': 131, 'total': 260, 'seconds': 77.40358567237854}
+FORWARD {'stage': 'forward', 'done': 141, 'total': 260, 'seconds': 80.59921026229858}
+FORWARD {'stage': 'forward', 'done': 151, 'total': 260, 'seconds': 83.11809372901917}
+FORWARD {'stage': 'forward', 'done': 161, 'total': 260, 'seconds': 85.62788391113281}
+FORWARD {'stage': 'forward', 'done': 171, 'total': 260, 'seconds': 88.15520119667053}
+FORWARD {'stage': 'forward', 'done': 181, 'total': 260, 'seconds': 90.66626977920532}
+FORWARD {'stage': 'forward', 'done': 191, 'total': 260, 'seconds': 93.17255020141602}
+FORWARD {'stage': 'forward', 'done': 201, 'total': 260, 'seconds': 95.57084679603577}
+FORWARD {'stage': 'forward', 'done': 211, 'total': 260, 'seconds': 98.02168416976929}
+FORWARD {'stage': 'forward', 'done': 221, 'total': 260, 'seconds': 100.67631316184998}
+FORWARD {'stage': 'forward', 'done': 231, 'total': 260, 'seconds': 103.33807873725891}
+FORWARD {'stage': 'forward', 'done': 241, 'total': 260, 'seconds': 105.9725410938263}
+FORWARD {'stage': 'forward', 'done': 251, 'total': 260, 'seconds': 108.38299632072449}
+FORWARD {'stage': 'forward', 'done': 260, 'total': 260, 'seconds': 111.24672269821167}
 ANALYZED 0
 ANALYZED 1
 ANALYZED 2
@@ -258,7 +256,18 @@ ANALYZED 60
 ANALYZED 61
 ANALYZED 62
 ANALYZED 63
+READOUT 13 1540 stored_error 0.00390625
 READOUT 25 3140 stored_error 0.0
 READOUT 26 3526 stored_error 0.001953125
-READOUT 31 1551 stored_error 0.0
-COMPLETE {'finished': '2026-11-16 22:11:14 +0800', 'seconds': 140.28144359588623, 'probes': 265, 'pair_records': 205, 'model_loads': 1, 'projection': 'FP32 highest; rowL2 -> subtract center -> reading.T', 'torch': '2.14.1+cu130', 'seed': 'deterministic inference; no sampling', 'probe_sha256': 'acb73e35d41ef45f41779157ecbf2447cfe0c65f3392f44bfca8755e9824ce8f'}
+READOUT 37 1374 stored_error 0.0
+READOUT 42 3872 stored_error 0.0
+{"all_scores_finite": true, "all_64_layers": true, "EN_C_same_token_bag": true, "EN_A_C_same_target_ids": true, "scipy_paired_t_abs_error": 3.552713678800501e-15}
+|层|S2均值差Top1|κ|选轴Δz|无外字|堂表|含外字|H1|EN-A|EN-C|
+|---|---|---|---|---|---|---|---|---|
+|L13|C1540|66.270|-3.9767|10/10|20/20|30/30|40/40|12/25|4/15|
+|L25|C3140|74.965|-13.7237|10/10|20/20|30/30|40/40|11/25|8/15|
+|L26|C3526|46.478|-11.9902|10/10|20/20|30/30|40/40|9/25|1/15|
+|L37|C1374|17.089|-4.7185|10/10|13/20|16/30|26/40|15/25|11/15|
+|L42|C3872|2.322|-4.7022|10/10|7/20|30/30|40/40|15/25|15/15|
+CLEAN_RERUN_COMPLETE {'finished': '2026-11-17 18:23:49 +0800', 'seconds': 143.08495140075684, 'probes': 260, 'pair_records': 205, 'model_loads': 1, 'projection': 'FP32 highest; rowL2 -> subtract center -> reading.T', 'torch': '2.14.1+cu130', 'seed': 'deterministic inference; no sampling', 'probe_sha256': '311d9b6a18348189fc5ac2c2be3c2d4809f58a285edce32a5dde60243e7ba70f', 'selection_version': 'blood_symmetric_20261117', 'S1': [('伯父', '大舅'), ('叔叔', '舅舅'), ('姑姑', '姨妈'), ('堂哥', '表哥'), ('堂姐', '表姐'), ('堂弟', '表弟')], 'S2': [('伯父', '大舅'), ('叔叔', '舅舅'), ('姑姑', '姨妈')], 'heavy_directory': '/home/lmxxf/work/ica-lens-qwen38-27b-v3/experiments/exp1a_kinship'}
+COMPLETE {'finished': '2026-11-17 18:23:49 +0800', 'seconds': 143.08495140075684, 'probes': 260, 'pair_records': 205, 'model_loads': 1, 'projection': 'FP32 highest; rowL2 -> subtract center -> reading.T', 'torch': '2.14.1+cu130', 'seed': 'deterministic inference; no sampling', 'probe_sha256': '311d9b6a18348189fc5ac2c2be3c2d4809f58a285edce32a5dde60243e7ba70f', 'selection_version': 'blood_symmetric_20261117', 'S1': [('伯父', '大舅'), ('叔叔', '舅舅'), ('姑姑', '姨妈'), ('堂哥', '表哥'), ('堂姐', '表姐'), ('堂弟', '表弟')], 'S2': [('伯父', '大舅'), ('叔叔', '舅舅'), ('姑姑', '姨妈')], 'heavy_directory': '/home/lmxxf/work/ica-lens-qwen38-27b-v3/experiments/exp1a_kinship'}

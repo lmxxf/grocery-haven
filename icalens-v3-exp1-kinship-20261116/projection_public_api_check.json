@@ -1,14 +1,18 @@
 [
   {
     "layer": 0,
-    "max_abs_error": 0.0
+    "max_abs_error": 1.9073486328125e-05
+  },
+  {
+    "layer": 13,
+    "max_abs_error": 4.291534423828125e-06
   },
   {
     "layer": 32,
-    "max_abs_error": 0.0
+    "max_abs_error": 4.76837158203125e-06
   },
   {
     "layer": 63,
-    "max_abs_error": 0.0
+    "max_abs_error": 5.245208740234375e-06
   }
 ]

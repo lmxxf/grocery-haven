@@ -5,11 +5,11 @@ from pathlib import Path
 from collections import Counter
 import numpy as np
 ROOT=Path('/home/lmxxf/work/ica-lens-qwen38-27b-v3'); OUT=Path(__file__).resolve().parent
-ASSET=ROOT/'hf_clean_upload';sys.path.insert(0,str(ROOT))
+ASSET=ROOT/'hf_clean_upload'; HEAVY=ROOT/'experiments/exp1a_kinship'; sys.path.insert(0,str(ROOT))
 os.environ['TRITON_CACHE_DIR']=str(ROOT/'triton_cache')
 os.environ['HF_HUB_OFFLINE']='1';os.environ['TRANSFORMERS_OFFLINE']='1'
 def save(name,obj):
- p=OUT/name;p.write_text(json.dumps(obj,ensure_ascii=False,indent=2,allow_nan=False))
+ text=json.dumps(obj,ensure_ascii=False,indent=2,allow_nan=False); p=(HEAVY if name in ['results_all_layers.json','top3_joint_statistics.json'] or len(text.encode())>10_000_000 else OUT)/name; p.write_text(text)
 def load(p):return json.loads(Path(p).read_text())
 FRAMES=[
 '今年春节回老家团聚的时候，我在大门口遇到了许久未见的{W}',
@@ -17,8 +17,8 @@ FRAMES=[
 '周末家里办酒席请客吃饭，正在大厅里热情招呼客人的那位亲人是我的{W}',
 '昨天傍晚家里接到一通长途电话，原来是远在外地生活的{W}',
 '小时候每逢寒暑假去亲戚家小住，平时跟我关系最亲近的亲人是{W}']
-S1=[('伯父','舅舅'),('叔父','姨夫'),('姑姑','姨妈'),('堂哥','表哥'),('堂姐','表姐'),('堂弟','表弟')]
-S2=[('伯父','舅舅'),('叔叔','姨夫'),('姑姑','姨妈')]
+S1=[('伯父','大舅'),('叔叔','舅舅'),('姑姑','姨妈'),('堂哥','表哥'),('堂姐','表姐'),('堂弟','表弟')]
+S2=[('伯父','大舅'),('叔叔','舅舅'),('姑姑','姨妈')]
 H1=[('爷爷','姥爷'),('爷爷','外公'),('奶奶','姥姥'),('奶奶','外婆'),('侄子','外甥'),('侄女','外甥女'),('孙子','外孙'),('孙女','外孙女')]
 HG={'no_outer':[('爷爷','姥爷'),('奶奶','姥姥')], 'cousins':[('堂哥','表哥'),('堂姐','表姐'),('堂弟','表弟'),('堂妹','表妹')], 'outer':[('爷爷','外公'),('奶奶','外婆'),('侄子','外甥'),('侄女','外甥女'),('孙子','外孙'),('孙女','外孙女')]}
 QUERY='内 外 里 表 内部 外部 宗 族 祠 姓 本家 娘家 外戚 inner outer inside outside internal external domestic foreign'.split()
@@ -131,20 +131,11 @@ def analyze_layer(z,zm,pairs,groups,kurt,layer):
  return rec
 
 def choose_representatives(results):
- # English and controls are never used in this selection. Chinese holdout screening is explicit.
- candidates=[]
- for r in results:
-  if 24<=r['layer']<=46:
-   for sel in ['S1','S2']:
-    for method in ['delta','t']:
-     v=r['selectors'][sel][method][0];gs=['H1'] if sel=='S1' else ['no_outer','cousins','outer']
-     score=(min(v['groups'][g]['accuracy'] for g in gs),np.mean([v['groups'][g]['d'] for g in gs]))
-     candidates.append((score,r['layer'],sel,method,v))
- candidates.sort(key=lambda x:x[0],reverse=True);out=[];layers=set()
- for _,l,s,m,v in candidates:
-  if l in layers:continue
-  layers.add(l);out.append(dict(layer=l,selector=s,method=m,axis=v['axis'],sign=v['sign']))
-  if len(out)==3:break
+ # Fixed requested layers, selected from the clean Chinese S2 only.
+ out=[]
+ for l in [13,25,26,37,42]:
+  v=results[l]['selectors']['S2']['delta'][0]
+  out.append(dict(layer=l,selector='S2',method='delta',axis=v['axis'],sign=v['sign']))
  return out
 
 def readout(model,tok,reps):
@@ -179,7 +170,7 @@ def report(results,reps,readouts,probes,pairs,groups,meta):
 '模型为本地 Qwen3.8-27B-FP8，按 v3 原加载器逐块解量化至 BF16；64 层编号为 block 输出 L00–L63。不加 BOS/EOS，不加对话模板，无 padding。前缀与目标词后缀分别分词后拼接，与 v3 polysemy 一致；英文后缀包含前导空格。主读数取目标词末 token，稳健性读数先将目标词各 token 的原始残差取均值，再执行同一投影。',
 '公式：`u=h/max(||h||₂,1e-12)`，`z=(u-center) @ reading_matrix.T`。保留 v3 原轴编号和正负号；每个选择器仅由训练词对决定方向 `sign=sign(Δz_fit)`，所有留出和英文读数按该方向判符号。表内 Δfit 是原轴有符号值，留出 Δ 和效应量均按训练方向定向。κ 为原 v3 136.6 万词独立测试集的超额峰度。',
 '选轴 delta 最大化 |平均配对差|；t 最大化 |配对t|。`d_z=mean(P-M)/sd(P-M)`，`t=d_z*sqrt(n)`，二者选轴相同。表中 d 是两组样本标准差合并后的 Cohen’s d，另保留 d_z。Top2/3 为各训练准则的独立排序，未用留出重选轴；原始 JSON 包含三根轴全部留出结果、名义 p 和训练 5120 轴 BH q。',
-'五句框为重复测量；报告逐句符号准确率，并按词对聚合做精确双侧 sign-flip 检验。S2 仅三个训练词对，聚合检验最小 p=0.25。跨层和代表层搜索未作为预注册显著性检验；代表层仅按 L24–L46 中文留出最低组准确率、再按平均 d 排序选出三个不同层，英文与空间对照从未参与选层。',
+'五句框为重复测量；报告逐句符号准确率，并按词对聚合做精确双侧 sign-flip 检验。S2仅三对血缘对称词（伯父/大舅、叔叔/舅舅、姑姑/姨妈），聚合检验最小p=0.25。跨层和代表层搜索未作为预注册显著性检验；代表层固定为本次要求的L13/L25/L26/L37/L42，均以干净S2的均值差准则取Top1，英文与留出不参与选轴。',
 'EN-C 同时给出父母姓名及两位同名候选亲戚，交换 friend/uncle(aunt/cousin) 关系位置；每对完整文本词袋相同，末词相同。测量的是姓氏与关系绑定带来的响应。EN-B 方向是男性减女性。',
 'ICA 不同坐标轴并不自动等于原残差欧氏正交；报告 reading 行夹角与 writing 列夹角，以及是否同轴。空间和社会对照按各自全部五对选轴，只作描述性反查。','', '## 核心数字','']
  for rep in reps:
@@ -243,7 +234,7 @@ def main():
  probes,pairs,groups=prepare(tok);n=len(probes);start=time.time();model=None
  if '--analyze' not in sys.argv:
   from model_loader import load_model
-  tok,model=load_model();last=np.lib.format.open_memmap(OUT/'activations_last.npy',mode='w+',dtype='float32',shape=(64,n,5120));mean=np.lib.format.open_memmap(OUT/'activations_mean.npy',mode='w+',dtype='float32',shape=(64,n,5120));current=[0,0]
+  tok,model=load_model();last=np.lib.format.open_memmap(HEAVY/'activations_last.npy',mode='w+',dtype='float32',shape=(64,n,5120));mean=np.lib.format.open_memmap(HEAVY/'activations_mean.npy',mode='w+',dtype='float32',shape=(64,n,5120));current=[0,0]
   handles=[]
   for l,block in enumerate(model.model.layers):
    def hook(m,i,o,l=l):
@@ -258,8 +249,8 @@ def main():
   for h in handles:h.remove()
   last.flush();mean.flush();save('forward_complete.json',dict(n=n,seconds=time.time()-start,model_loads=1))
  else:
-  last=np.load(OUT/'activations_last.npy',mmap_mode='r');mean=np.load(OUT/'activations_mean.npy',mmap_mode='r')
- zall=np.lib.format.open_memmap(OUT/'z_last.npy',mode='w+',dtype='float32',shape=(64,n,5120));zmean=np.lib.format.open_memmap(OUT/'z_mean.npy',mode='w+',dtype='float32',shape=(64,n,5120));results=[];manifest=load(ASSET/'icalens.json')
+  last=np.load(HEAVY/'activations_last.npy',mmap_mode='r');mean=np.load(HEAVY/'activations_mean.npy',mmap_mode='r')
+ zall=np.lib.format.open_memmap(HEAVY/'z_last.npy',mode='w+',dtype='float32',shape=(64,n,5120));zmean=np.lib.format.open_memmap(HEAVY/'z_mean.npy',mode='w+',dtype='float32',shape=(64,n,5120));results=[];manifest=load(ASSET/'icalens.json')
  for l in range(64):
   asset=load_file(str(ASSET/manifest['layers'][str(l)]['file']),device='cuda');C=asset['reading_matrix'];center=asset['center']
   for a,out in [(last,zall),(mean,zmean)]:
@@ -282,5 +273,7 @@ def main():
   raw.append(dict(id=p['id'],text=p['text'],values=[dict(layer=rd['layer'],axis=rd['axis'],z_last=float(zall[rd['layer'],p['id'],rd['axis']]),z_mean=float(zmean[rd['layer'],p['id'],rd['axis']])) for rd in readouts]))
  save('representative_raw_scores.json',raw)
  meta=dict(finished=time.strftime('%Y-%m-%d %H:%M:%S %z'),seconds=time.time()-start,probes=n,pair_records=len(pairs),model_loads=0 if model is None else 1,projection='FP32 highest; rowL2 -> subtract center -> reading.T',torch=torch.__version__,seed='deterministic inference; no sampling',probe_sha256=hashlib.sha256((OUT/'probes.json').read_bytes()).hexdigest())
- save('run_metadata.json',meta);report(results,reps,readouts,probes,pairs,groups,meta);save('progress.json',dict(stage='complete',report=str(OUT/'report_exp1a.md')));print('COMPLETE',meta,flush=True)
+ meta.update(selection_version='blood_symmetric_20261117',S1=S1,S2=S2,heavy_directory=str(HEAVY));save('run_metadata.json',meta);report(results,reps,readouts,probes,pairs,groups,meta);import finish_clean
+ finish_clean.run(results,readouts,probes,pairs,groups,meta)
+ save('progress.json',dict(stage='complete',report=str(OUT/'report_exp1a.md')));print('COMPLETE',meta,flush=True)
 if __name__=='__main__':main()
